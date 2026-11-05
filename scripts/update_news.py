@@ -57,13 +57,13 @@ def get_image(item, article_url):
         tag = el.tag.lower()
         if tag.endswith("thumbnail") or tag.endswith("content") or tag.endswith("enclosure"):
             image_url = el.attrib.get("url", "")
-            if image_url.startswith(("https://", "http://")):
+            if image_url.startswith(("https://", "http://")) and "googleusercontent.com" not in image_url:
                 return image_url
 
     # 2) Alguns feeds incluem a imagem dentro do HTML da descrição.
     description = item.findtext("description", "") or ""
     match = re.search(r"""<img[^>]+src=["']([^"']+)["']""", description, re.I)
-    if match and match.group(1).startswith(("https://", "http://")):
+    if match and match.group(1).startswith(("https://", "http://")) and "googleusercontent.com" not in match.group(1):
         return html.unescape(match.group(1))
 
     # 3) Como alternativa, consulta a página da matéria e procura og:image.
