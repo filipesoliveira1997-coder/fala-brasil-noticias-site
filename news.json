@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T21:19:08.574486+00:00",
+  "updated_at": "2026-11-05T22:58:36.962718+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,76 @@
   ],
   "articles": [
     {
+      "id": "lula-diz-que-elei-o-fez-do-brasil-um-exemplo-democr-tic-42f23b11702ba0",
+      "category": "Brasil",
+      "title": "Lula diz que eleição fez do Brasil um exemplo democrático - Vero Notícias",
+      "snippet": "Lula diz que eleição fez do Brasil um exemplo democrático Vero Notícias",
+      "source": "Vero Notícias",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1ZlVmk0aXlYY1V3WU5QeHZOVlBpeUpVSm0xVTVxOWNySlF3YmJoeHBPdTQySWNDQVFiSVgwY3lUZnM2c2RRTXo5TVVfLTROeU5SOXBoX1Y0T0laT05yQXJhcTlnS3NKbDhKMHI2bGlrczJXSGFjdFdzNUUtbW8zUl9udnFvR1VvekJaX2xnVko5ZmtQdEVV?oc=5",
+      "published": "2026-11-05T22:40:05+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lula diz que eleição fez do Brasil um exemplo democrático Vero Notícias",
+      "summary": "Lula diz que eleição fez do Brasil um exemplo democrático Vero Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-pede-oea-a-o-conjunta-contra-interfer-ncia-estra-d4c09983dbc9a4",
+      "category": "Brasil",
+      "title": "Brasil pede à OEA ação conjunta contra interferência estrangeira - Vero Notícias",
+      "snippet": "Brasil pede à OEA ação conjunta contra interferência estrangeira Vero Notícias",
+      "source": "Vero Notícias",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjVCQVpoV3VUVzdFaEM5MGdrRkJvRmhVRms4Ymt2Ui0tLWwzZnNDQlRSeDM4MS1uT2pMYUs0MDVPUnhuMWRWOFNJQ3g3aWpRUFhZVU5kb2tmSHliUkpleXBEbDZrMlJqT21xam5UOEVRaWVJdXkzTWJ5eTJhWHhOQmZpQVZyS0RjUXJNSVdHMm4wZ0xIS2tRNkFPaEF4bjlO?oc=5",
+      "published": "2026-11-05T22:20:25+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil pede à OEA ação conjunta contra interferência estrangeira Vero Notícias",
+      "summary": "Brasil pede à OEA ação conjunta contra interferência estrangeira Vero Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "lula-quer-economia-arrumada-para-atrair-investimentos-a-b212b1aae71c3a",
+      "category": "Brasil",
+      "title": "Lula quer economia arrumada para atrair investimentos - Agência Brasil",
+      "snippet": "Lula quer economia arrumada para atrair investimentos Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWNIWXhsdlVZR3lYTFduUEJEYlh2WlFFc1RveHFFVUZCVV82Y3A5MVo5TkxTdi0tUzhLS3JwYkNNeTFNTEdSNmRyODNBbUxmbzJCQ1loZ1dYUi1qYVRhUW4tUXRqUVc4NGU2TTZCXzdpUFhyalNaRGJ0SUtTc0pQeDBncm04T0tYQkJ0bmFpRXFOWVFVVzBiRGt0SUFUdjN6ZWtVV2oxdE55STFIVkJuUQ?oc=5",
+      "published": "2026-11-05T22:07:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lula quer economia arrumada para atrair investimentos Agência Brasil",
+      "summary": "Lula quer economia arrumada para atrair investimentos Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "prf-come-a-reestrutura-o-ap-s-aprova-o-da-pec-da-segura-b5df9ff76da315",
+      "category": "Polícia",
+      "title": "PRF começa reestruturação após aprovação da PEC da Segurança Pública - CNN Brasil",
+      "snippet": "PRF começa reestruturação após aprovação da PEC da Segurança Pública CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbGZpU3VWSl9HTkxCYWlEY0hXLVV5RnRfcGlUcXhSSFhLRGVnSWZsbVd3MmlQbjFGanRqN3QzdDFqQTRRRW9HS2lzRzBnM0VIbnFmQXpIN2FQTTZ3eGFtcFhDMjJzc1hQRG5teG80VUg2WnU2V0NXOHpnVS1wRmlPUW5jTnBzLUMtVzBZWXpXZ1ByMnFnNEwyOHZpZDR0bzMzSlpIOXZQYklIVE0?oc=5",
+      "published": "2026-11-05T20:34:49+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "PRF começa reestruturação após aprovação da PEC da Segurança Pública CNN Brasil",
+      "summary": "PRF começa reestruturação após aprovação da PEC da Segurança Pública CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "stjd-absolve-alan-patrick-e-meia-segue-disposi-o-do-int-ddd0e9dd38925c",
+      "category": "Esportes",
+      "title": "STJD absolve Alan Patrick, e meia segue à disposição do Internacional - CNN Brasil",
+      "snippet": "STJD absolve Alan Patrick, e meia segue à disposição do Internacional CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS03SzFPNkF5YzZDRkxfWkozcXg5SDlLTm5iVE5vSVU5QjBBYVJ4bXF4YUJ2YUQwdUJvd2s1Z0JJT24tOTU2UGVqbmxwZ2xpNXgxbkpiVk81TjM0Qi1PYTl1LVNOMG5rUE9sb3REUTZZUmpWSmN2TkpYMWpPWEJfenJqU0hKNU9Tekhma2VYdG9JZmk4aFF4VFFzYWhNWjFhSl9iZWh0cmNVSmREeWFLTDBBUHg2dDlVY29Udi00empmSEt4aEY1SDRFWnA0QVNFQmV3?oc=5",
+      "published": "2026-11-05T20:34:44+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "STJD absolve Alan Patrick, e meia segue à disposição do Internacional CNN Brasil",
+      "summary": "STJD absolve Alan Patrick, e meia segue à disposição do Internacional CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "ap-s-acordo-com-mercosul-vendas-do-brasil-para-a-uni-o--5d3d2f453075f1",
       "category": "Brasil",
       "title": "Após acordo com Mercosul, vendas do Brasil para a União Europeia subiram US$ 6,4 bi, diz Apex - ICL Notícias",
@@ -24,6 +94,20 @@
       "tone": "",
       "dek": "Após acordo com Mercosul, vendas do Brasil para a União Europeia subiram US$ 6,4 bi, diz Apex ICL Notícias",
       "summary": "Após acordo com Mercosul, vendas do Brasil para a União Europeia subiram US$ 6,4 bi, diz Apex ICL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "caso-master-do-paraguai-entenda-a-crise-de-banco-ueno-q-aad071876cda71",
+      "category": "Brasil",
+      "title": "'Caso Master do Paraguai': entenda a crise de banco Ueno que derrubou o presidente Santiago Peña - BBC",
+      "snippet": "'Caso Master do Paraguai': entenda a crise de banco Ueno que derrubou o presidente Santiago Peña BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1FdHk0OTRpS1pPU1pVaE81V3hrV1I5Vm8yOHcxU2dPSVczY01HVjRMM251SV9adGwxci1pbnl1M2EtWkdmcm5mWWpfWkFHUmN0TFlTRl9uT3hvdVkwdTdiaERWc9IBaEFVX3lxTE9BOThlOW9LR241ODBOSjFlellzT0FnSUxHXzdHTGs0aV9jMlJtcVd0aXMyVGVXOHF1WVhYWmxPVlBkMjRPcmVjUEJoOVVMNnJDbDhSS201TjJuS3pFdHJ3aTRhQzZSb2Mw?oc=5",
+      "published": "2026-11-05T20:08:51+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "'Caso Master do Paraguai': entenda a crise de banco Ueno que derrubou o presidente Santiago Peña BBC",
+      "summary": "'Caso Master do Paraguai': entenda a crise de banco Ueno que derrubou o presidente Santiago Peña BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -52,6 +136,20 @@
       "tone": "teal",
       "dek": "Bayer Leverkusen x Marseille: escalações e onde assistir à Europa League CNN Brasil",
       "summary": "Bayer Leverkusen x Marseille: escalações e onde assistir à Europa League CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "corinthians-atualiza-situa-o-de-garro-ap-s-les-o-contra-a78c4e5767e8ac",
+      "category": "Esportes",
+      "title": "Corinthians atualiza situação de Garro após lesão contra o São Paulo - CNN Brasil",
+      "snippet": "Corinthians atualiza situação de Garro após lesão contra o São Paulo CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVFFSYVBmd1h4MDNEekZPaGJERjVodmRsYVpzeXFlcjdlRmttYTF1aXh0emlJaWtlenc0ZHl5X2FjNjBQQTFUTTdkODZtVFFNcUtiRWVHSUp0X041Tm9fU0xrNUhRcGZJbGdmNDVKQTlnR19IWWZ1YlhfSlEyRGxiRmpmTU9mR2ZhS1dMajVFaURhc3VrUGZ0TnRndzVVelloQmJUMkR1OUZaVEZzNS1kaFpkRVUzVXVlUUtsUVBOSjVBU0lpUmc?oc=5",
+      "published": "2026-11-05T18:36:49+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Corinthians atualiza situação de Garro após lesão contra o São Paulo CNN Brasil",
+      "summary": "Corinthians atualiza situação de Garro após lesão contra o São Paulo CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -248,6 +346,20 @@
       "tone": "",
       "dek": "Derrota de Trump no Congresso: o que muda na política externa dos EUA? G1",
       "summary": "Derrota de Trump no Congresso: o que muda na política externa dos EUA? G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "faltam-20-dias-para-23-semana-nacional-de-ci-ncia-e-tec-f7755446ddcb2a",
+      "category": "Tecnologia",
+      "title": "Faltam 20 dias para 23ª Semana Nacional de Ciência e Tecnologia - GOV.BR",
+      "snippet": "Faltam 20 dias para 23ª Semana Nacional de Ciência e Tecnologia GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkloV2g3eHduTXZJSTlrRDZkd2xBX3FXQVJlLU5wdzYyQTJpN0NtZEJQU2xFaElPRzJJT3RsUEtiZjBiQ05YTXpXelRENkVJWWk0M2M3V3duV3F4cVB4ZTlKRm1hTUU1eTVidndvNDExOHcyRmxPRWc4S1ZOTS1pazlJYndtWjhGOVZWYUgzel9JZ2FPdnFkclcxN0c2VFlZdGltNV9ub2NDenVCdFRaM0hGSWZ6VnhaTTUzczI0UkFnM19Xenc?oc=5",
+      "published": "2026-11-04T22:24:10+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Faltam 20 dias para 23ª Semana Nacional de Ciência e Tecnologia GOV.BR",
+      "summary": "Faltam 20 dias para 23ª Semana Nacional de Ciência e Tecnologia GOV.BR",
       "summary_by": "descrição da fonte"
     },
     {
