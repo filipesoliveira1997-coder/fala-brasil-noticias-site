@@ -51,13 +51,45 @@ def google_news_url(query):
     return "https://news.google.com/rss/search?" + urlencode(params)
 
 
-def get_image(item):
+def get_image(item, article_url):
+    # 1) Tenta primeiro imagens que já vêm no próprio feed RSS.
     for el in item.iter():
         tag = el.tag.lower()
         if tag.endswith("thumbnail") or tag.endswith("content") or tag.endswith("enclosure"):
-            url = el.attrib.get("url", "")
-            if url.startswith("https://") or url.startswith("http://"):
-                return url
+            image_url = el.attrib.get("url", "")
+            if image_url.startswith(("https://", "http://")):
+                return image_url
+
+    # 2) Alguns feeds incluem a imagem dentro do HTML da descrição.
+    description = item.findtext("description", "") or ""
+    match = re.search(r'<img[^>]+src=["\\']([^"\\']+)["\\']', description, re.I)
+    if match and match.group(1).startswith(("https://", "http://")):
+        return html.unescape(match.group(1))
+
+    # 3) Como alternativa, consulta a página da matéria e procura og:image.
+    # O timeout curto evita atrasar demais a atualização automática.
+    try:
+        page = requests.get(
+            article_url,
+            headers={"User-Agent": UA},
+            timeout=5,
+            allow_redirects=True,
+        )
+        if page.ok:
+            for pattern in (
+                r'<meta[^>]+property=["\\']og:image["\\'][^>]+content=["\\']([^"\\']+)["\\']',
+                r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+property=["\\']og:image["\\']',
+                r'<meta[^>]+name=["\\']twitter:image["\\'][^>]+content=["\\']([^"\\']+)["\\']',
+                r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+name=["\\']twitter:image["\\']',
+            ):
+                match = re.search(pattern, page.text, re.I)
+                if match:
+                    image_url = html.unescape(match.group(1).strip())
+                    if image_url.startswith(("https://", "http://")):
+                        return image_url
+    except requests.RequestException:
+        pass
+
     return ""
 
 
@@ -87,7 +119,7 @@ def fetch_category(category, query, tone):
         found.append({
             "id": f"{slug}-{key}", "category": category, "title": title,
             "snippet": desc[:900], "source": source, "url": link,
-            "published": published.isoformat(), "image": get_image(item), "tone": tone
+            "published": published.isoformat(), "image": get_image(item, link), "tone": tone
         })
     return found[:MAX_PER_CATEGORY]
 
