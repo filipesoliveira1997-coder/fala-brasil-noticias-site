@@ -85,7 +85,7 @@ def get_image(item, article_url):
                 match = re.search(pattern, page.text, re.I)
                 if match:
                     image_url = html.unescape(match.group(1).strip())
-                    if image_url.startswith(("https://", "http://")):
+                    if image_url.startswith(("https://", "http://")) and "googleusercontent.com" not in image_url and "news.google.com" not in image_url:
                         return image_url
     except requests.RequestException:
         pass
@@ -188,6 +188,9 @@ def main():
         if old:
             # Atualiza metadados, preserva resumo já produzido pela IA.
             old.update({k: v for k, v in item.items() if v})
+            # Remove imagens genéricas armazenadas em execuções anteriores.
+            if "googleusercontent.com" in (old.get("image") or "") or "news.google.com" in (old.get("image") or ""):
+                old["image"] = item.get("image", "")
             merged.append(old)
         else:
             item["dek"] = item["snippet"][:175] or "Acesse a fonte original para consultar os detalhes desta notícia."
