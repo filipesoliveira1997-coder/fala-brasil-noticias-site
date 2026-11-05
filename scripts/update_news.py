@@ -62,7 +62,7 @@ def get_image(item, article_url):
 
     # 2) Alguns feeds incluem a imagem dentro do HTML da descrição.
     description = item.findtext("description", "") or ""
-    match = re.search(r'<img[^>]+src=["\\']([^"\\']+)["\\']', description, re.I)
+    match = re.search(r"""<img[^>]+src=["']([^"']+)["']""", description, re.I)
     if match and match.group(1).startswith(("https://", "http://")):
         return html.unescape(match.group(1))
 
@@ -77,10 +77,10 @@ def get_image(item, article_url):
         )
         if page.ok:
             for pattern in (
-                r'<meta[^>]+property=["\\']og:image["\\'][^>]+content=["\\']([^"\\']+)["\\']',
-                r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+property=["\\']og:image["\\']',
-                r'<meta[^>]+name=["\\']twitter:image["\\'][^>]+content=["\\']([^"\\']+)["\\']',
-                r'<meta[^>]+content=["\\']([^"\\']+)["\\'][^>]+name=["\\']twitter:image["\\']',
+                r"""<meta[^>]+property=["']og:image["'][^>]+content=["']([^"']+)["']""",
+                r"""<meta[^>]+content=["']([^"']+)["'][^>]+property=["']og:image["']""",
+                r"""<meta[^>]+name=["']twitter:image["'][^>]+content=["']([^"']+)["']""",
+                r"""<meta[^>]+content=["']([^"']+)["'][^>]+name=["']twitter:image["']""",
             ):
                 match = re.search(pattern, page.text, re.I)
                 if match:
