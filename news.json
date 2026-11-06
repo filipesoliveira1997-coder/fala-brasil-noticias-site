@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T11:15:04.383051+00:00",
+  "updated_at": "2026-11-06T13:21:56.753826+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "gia-lai-desembolsou-apenas-23-do-seu-financiamento-para-ac212da8ce65ce",
+      "category": "Tecnologia",
+      "title": "Gia Lai desembolsou apenas 23% do seu financiamento para ciência e tecnologia. - Vietnam.vn",
+      "snippet": "Gia Lai desembolsou apenas 23% do seu financiamento para ciência e tecnologia. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHpTSDV5SE5OaTlRTlhMWHdyZXlFbVV3S3k4YV9ER1N0UHdlN3JaQzhYbm1Ka0dUTUE3Qkp0dERHdFVKUkJJemh6d01LbmhIUnhXTThHclhfR1hZcUhvRFB2SVRmcjFaUGRfb2RwcG5sOFIyRTNHcGZJWi1FYmJUX1pVaDk1MUVxMUE?oc=5",
+      "published": "2026-11-06T12:46:28+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Gia Lai desembolsou apenas 23% do seu financiamento para ciência e tecnologia. Vietnam.vn",
+      "summary": "Gia Lai desembolsou apenas 23% do seu financiamento para ciência e tecnologia. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "avan-a-mp-do-plano-brasil-soberano-contra-tarifa-o-sena-7310d81d5e026c",
+      "category": "Brasil",
+      "title": "Avança MP do Plano Brasil Soberano, contra tarifaço - Senado",
+      "snippet": "Avança MP do Plano Brasil Soberano, contra tarifaço Senado",
+      "source": "Senado",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDdtOWhJYXJ5dmlKeVAta1BnbnZrbmdQd2VDMGppQ1hyaEhBODVDR1BqRGJlbWlzZVlmTF90UVZ1aFlmN2ZEQkdtMF9JdWpPS2lYZlRCOU5LeTYwOW1vOG5FaUM2TEpJd1o5SnNROWx3Sk1PVjYxNGVIS2ZZT0FDRG9QWmpPbERlQTFHUUhxRHFRYVY2ZXZlZzRka1dmU0lOMFdDXw?oc=5",
+      "published": "2026-11-06T11:50:09+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Avança MP do Plano Brasil Soberano, contra tarifaço Senado",
+      "summary": "Avança MP do Plano Brasil Soberano, contra tarifaço Senado",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "acelerar-a-implementa-o-de-tarefas-nas-reas-de-ci-ncia--416aadc611b8bd",
       "category": "Tecnologia",
@@ -197,8 +225,8 @@
     {
       "id": "lula-quer-economia-arrumada-para-atrair-investimentos-a-b212b1aae71c3a",
       "category": "Brasil",
-      "title": "Lula quer economia arrumada para atrair investimentos - Agência Brasil",
-      "snippet": "Lula quer economia arrumada para atrair investimentos Agência Brasil",
+      "title": "Lula quer “economia arrumada” para atrair investimentos - Agência Brasil",
+      "snippet": "Lula quer “economia arrumada” para atrair investimentos Agência Brasil",
       "source": "Agência Brasil",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZWNIWXhsdlVZR3lYTFduUEJEYlh2WlFFc1RveHFFVUZCVV82Y3A5MVo5TkxTdi0tUzhLS3JwYkNNeTFNTEdSNmRyODNBbUxmbzJCQ1loZ1dYUi1qYVRhUW4tUXRqUVc4NGU2TTZCXzdpUFhyalNaRGJ0SUtTc0pQeDBncm04T0tYQkJ0bmFpRXFOWVFVVzBiRGt0SUFUdjN6ZWtVV2oxdE55STFIVkJuUQ?oc=5",
       "published": "2026-11-05T22:07:00+00:00",
@@ -430,6 +458,20 @@
       "tone": "",
       "dek": "'Vou levar para o túmulo', diz Flávio Bolsonaro ao NYT sobre ajuda para fuga do Brasil para os EUA Valor Econômico",
       "summary": "'Vou levar para o túmulo', diz Flávio Bolsonaro ao NYT sobre ajuda para fuga do Brasil para os EUA Valor Econômico",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "dia-do-designer-gr-fico-como-o-visual-ajuda-a-construir-d4728af4623c14",
+      "category": "Entretenimento",
+      "title": "Dia do Designer Gráfico: como o visual ajuda a construir a identidade da cultura e do entretenimento capixaba - A Gazeta",
+      "snippet": "Dia do Designer Gráfico: como o visual ajuda a construir a identidade da cultura e do entretenimento capixaba A Gazeta",
+      "source": "A Gazeta",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQME1BTHM4eWFpTVJVNXhNM0VDTDE0YTZ6d2RiYmNEZ1FEWXVxSWJJeXRMYmN5eFJXYXh5OThRS1JYX3k0Z09PRDZCSDNHS29EZi1VdWgtNkYxWGgyYmdQT1R3WGtvWGxPekNIOWRwUnNVVnlWY2E1Y282OWlHbmlhWWRSc3dDWHJyMk1SUk9qRzM5TjE3ZzByLVdiSW54OUl0Z2VJTmY4dmdzVXlwX3hpNU5CSWRQUUhQQ0Z5T2hGUGRaLXVOTXgyMDNRb2Y0YnRqUUc4RWJ4MnI1ZjVVaTctRGphUmxUQQ?oc=5",
+      "published": "2026-11-05T17:56:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Dia do Designer Gráfico: como o visual ajuda a construir a identidade da cultura e do entretenimento capixaba A Gazeta",
+      "summary": "Dia do Designer Gráfico: como o visual ajuda a construir a identidade da cultura e do entretenimento capixaba A Gazeta",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,20 +850,6 @@
       "tone": "purple",
       "dek": "RuPaul anuncia show único em SP após 20 anos longe do Brasil; saiba mais CNN Brasil",
       "summary": "RuPaul anuncia show único em SP após 20 anos longe do Brasil; saiba mais CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "recomenda-es-do-reino-unido-sobre-estoque-de-comida-s-o-41500bd2b9ad78",
-      "category": "Mundo",
-      "title": "Recomendações do Reino Unido sobre estoque de comida são alvo de desinformação nas redes sociais - G1",
-      "snippet": "Recomendações do Reino Unido sobre estoque de comida são alvo de desinformação nas redes sociais G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNcU5rTVJXUW44RW42aEw1bTlnbm1mRXh3STczRmxfaGJUNkxQdGViTk1EaE9tNHlQRkt1Smg5bWRNa192Sk5WaEQ4VU1hUXZhR2dVMzEwLXI4WTZNaXlUM0pTRjBfTC11cnFYRWZUMEE5WGtUaDNGdW5fcjQ4QTZUX0l2dngzdUJPMmRra3U4QzhycTRoQ242Mzc4TDRqUTZJN0NEd0w2SlFERVZHR3J3eHhXS084dEZiMU9MOG5xdTVVMVBUSTlrNGVidlFHdS04cXlWM1h3aElhbmNFZ3VTTXpB0gHwAUFVX3lxTE9oWlhRM0hUZUwtY01QbzhVcFlwUGYwM2VSbml0TW5iLXlMRG1iR0tFemtvSlNiT1pVLUN5bjhwVTFpY2FMbkVqWUtVUEgwcXdwdTR1NGRmTzFqUzVxQnB3RXRfLTdueFhUczQyMFhNWG1BT0ZFNzgxa0JnemxNU054MFQtNnIwVHFDVUEyWDY4eEZhZjJYQ1ozckNKWUVzVjAxRDgyeGE0bmo2QVYzVWRPQU9FUlhkLVBpOWhsWDcxbEs1U19VaFA0cTc4VngtYzlIcE0zeDNPMEwwSXlmRnRRUm9ja1pPZ0c5a3FQSWJfNA?oc=5",
-      "published": "2026-11-03T13:28:53+00:00",
-      "image": "",
-      "tone": "blue",
-      "dek": "Recomendações do Reino Unido sobre estoque de comida são alvo de desinformação nas redes sociais G1",
-      "summary": "Recomendações do Reino Unido sobre estoque de comida são alvo de desinformação nas redes sociais G1",
       "summary_by": "descrição da fonte"
     }
   ],
