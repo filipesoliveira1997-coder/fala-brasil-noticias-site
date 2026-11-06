@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T20:57:32.527946+00:00",
+  "updated_at": "2026-11-06T22:54:06.767314+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -52,6 +52,20 @@
       "tone": "",
       "dek": "Brasil tem maior juro real do mundo, seguido por Turquia e Argentina Agência Brasil",
       "summary": "Brasil tem maior juro real do mundo, seguido por Turquia e Argentina Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ci-ncia-na-pr-tica-descobertas-e-experi-ncias-interativ-0434d336e0672e",
+      "category": "Tecnologia",
+      "title": "Ciência na prática, descobertas e experiências interativas integram programação da SNCT 2026 - Governo Federal",
+      "snippet": "Ciência na prática, descobertas e experiências interativas integram programação da SNCT 2026 Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPaF9ia3JPM2ZNbmlUd3RUandJSkFoWURmaGlNREd4T29ha08zSjRETGp6cTdkSjdCWjV0ckduX1FlTkZ6RThMMk85MmhEc212cDFEc1IxZDVSX2J6WWY3ZFBGQl82YWdyV1hyVXUzR1M5d05Bd0V5Z1NLTkVYYjZNU0JUYXpzRFh0MFNJQk0ybXZyVHJsenA5TkVxV0lTV1RlZnBDYlRubFJVaG5wTE1oM0M0NmlLNS0xMDcxczF0cHBxV3EzcnRhUnBpMXZGZHZtTGdsSGpicnhkbDVCc1JXYXF2VzJYa1hjbWdZ?oc=5",
+      "published": "2026-11-06T19:44:20+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Ciência na prática, descobertas e experiências interativas integram programação da SNCT 2026 Governo Federal",
+      "summary": "Ciência na prática, descobertas e experiências interativas integram programação da SNCT 2026 Governo Federal",
       "summary_by": "descrição da fonte"
     },
     {
@@ -836,20 +850,6 @@
       "tone": "teal",
       "dek": "Cruzeiro x Bahia: horário e onde assistir ao Campeonato Brasileiro Série A CNN Brasil",
       "summary": "Cruzeiro x Bahia: horário e onde assistir ao Campeonato Brasileiro Série A CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "enquanto-o-brasil-avan-a-com-a-pec-da-pol-cia-municipal-4984b735941ff0",
-      "category": "Polícia",
-      "title": "ENQUANTO O BRASIL AVANÇA COM A PEC DA POLÍCIA MUNICIPAL, DUQUE DE CAXIAS JÁ TEM FORÇA MUNICIPAL ARMADA NAS RUAS - Prefeitura Municipal de Duque de Caxias",
-      "snippet": "ENQUANTO O BRASIL AVANÇA COM A PEC DA POLÍCIA MUNICIPAL, DUQUE DE CAXIAS JÁ TEM FORÇA MUNICIPAL ARMADA NAS RUAS Prefeitura Municipal de Duque de Caxias",
-      "source": "Prefeitura Municipal de Duque de Caxias",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOa3ZaTWdFRFQ4VDZrWVloaWI4WmljVk9xWTJVMExmWWJxTUlFT1d6b1VBaFAyQkNkMnFMejZNQ1VLck5TemhXYXpRRUMwel9PdUVNTjhiN2xyVDR2Q3pra0pZWVhRc1JEZTBBeEstdnc1OTI0Y1ZVYmhZYlJEWkhZdUp4S1BXUXlIdXhrQ3JmeUtkUnh2cV8xRUIwQzJNZS16YzRBZ3dvbDhOMXUyeS1xMkdWMnVYcnh5R1pJTGVfRHFheWR0LVhxdUNrUkdCa2hOdnJvcnJSY1dKODAwUDdkb1dCdTBHeUNwZTNYcmpjaVFnOGR3?oc=5",
-      "published": "2026-11-05T03:55:14+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "ENQUANTO O BRASIL AVANÇA COM A PEC DA POLÍCIA MUNICIPAL, DUQUE DE CAXIAS JÁ TEM FORÇA MUNICIPAL ARMADA NAS RUAS Prefeitura Municipal de Duque de Caxias",
-      "summary": "ENQUANTO O BRASIL AVANÇA COM A PEC DA POLÍCIA MUNICIPAL, DUQUE DE CAXIAS JÁ TEM FORÇA MUNICIPAL ARMADA NAS RUAS Prefeitura Municipal de Duque de Caxias",
       "summary_by": "descrição da fonte"
     }
   ],
