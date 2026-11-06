@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T17:04:58.490046+00:00",
+  "updated_at": "2026-11-06T19:07:08.363666+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,20 @@
   ],
   "articles": [
     {
+      "id": "pol-cia-federal-espera-mudan-a-para-novo-minist-rio-da--31bb747acc2871",
+      "category": "Polícia",
+      "title": "Polícia Federal espera mudança para novo Ministério da Segurança Pública - Sociedade ON",
+      "snippet": "Polícia Federal espera mudança para novo Ministério da Segurança Pública Sociedade ON",
+      "source": "Sociedade ON",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU0RwNlhrVXpZZV8zeFJtT0pQUFl6SloxVTZUQ0tKVHdDYnNnOUFGUXJnR1FjQkFicE5hckVaN0VpbHlOdGotMjlESVB1WGVYMmhVZWFlYjE2QjhPZ2R4UDNTWUljcVhMMHMtbUJwWDVLa2EtVFVQMlA5SnQ0WWpuZnNfY0cyS3ZFQnZ6eHhPU05qOHVxOE0xa0xkYjlTcnpZN0E?oc=5",
+      "published": "2026-11-06T17:42:46+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Polícia Federal espera mudança para novo Ministério da Segurança Pública Sociedade ON",
+      "summary": "Polícia Federal espera mudança para novo Ministério da Segurança Pública Sociedade ON",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "justi-a-autoriza-volta-do-funcionamento-de-tr-s-bets-no-206ea279c4732f",
       "category": "Brasil",
       "title": "Justiça autoriza volta do funcionamento de três bets no Brasil - Agência Brasil",
@@ -24,6 +38,34 @@
       "tone": "",
       "dek": "Justiça autoriza volta do funcionamento de três bets no Brasil Agência Brasil",
       "summary": "Justiça autoriza volta do funcionamento de três bets no Brasil Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "governo-altera-regras-da-per-cia-para-concess-o-do-aux--3dfeb7c9cef58f",
+      "category": "Brasil",
+      "title": "Governo altera regras da perícia para concessão do auxílio-doença - Agência Brasil",
+      "snippet": "Governo altera regras da perícia para concessão do auxílio-doença Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQaXJlMVNFT29QWi1EYWtUcVFVemtPckF2YTcyUW95QUVGUEI4SHU5Q2RabnhYQmI3X05nMWItVHJSQVNMM2czRTQwMW1FY21yd1dDU1BoU19Lb055cXFwaWFyRjZIX0ZpZGNGbS1sRWkyVUJqSEhqUUM3TlIwN3h5RDQ5dVA4Y1RpMGdVWDBUQkkxWW9PWkh6UHUyQnUtQ05kZVlGVkVzcnFQZzJaY2pfTzhRVkhqbU1hRE40RQ?oc=5",
+      "published": "2026-11-06T15:37:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Governo altera regras da perícia para concessão do auxílio-doença Agência Brasil",
+      "summary": "Governo altera regras da perícia para concessão do auxílio-doença Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "governo-diz-que-vai-recorrer-de-decis-o-da-justi-a-que--be61223732affb",
+      "category": "Brasil",
+      "title": "Governo diz que vai recorrer de decisão da Justiça que liberou funcionamento de três bets no Brasil - G1",
+      "snippet": "Governo diz que vai recorrer de decisão da Justiça que liberou funcionamento de três bets no Brasil G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPenBQLVNoMUZzWkpPYWpYX295NGN0aWExc2E0Vzg3ZDE2V19nQjJGNWdZSk52b0pzYnY2SjllTjR3bHFKcEJCWnd0dW9yQThXYjRIYVNHajdLSHk3eHZCd2tETTdpd1pfLUNLRzBGSFlNN0QzY2tFZzg2ZnIzdnFWN25pWDlZT1Y4ZFY3Y2hDUWFrNGxmSVdkLXpKanZ2TndrWXJ5Y0RCV0FjNzc4elB6WEduMldNQ1Q4Sl9mY1QxajhfZGRmSU9jZU9xXzd0Z1lJQWl4amR5bVdvazF5cTRiZWVmcDZacGtyRTRTTkN2TdIB_gFBVV95cUxPbURCaTRseF9Ka3B4dG9BMEtKMVZfYUMyb3NBRTAyUFZCYkFocll5MTdpb0FMQWtUQ3NhVzJfaW1TbEI5U014LUFod0NFYjd4T01uRnRqRUxtX2M4dEVIRVQzT29jU1JldmlQOUtMX1M4cTNDMlBoRzBoUTlfMUI3Q3JkeVBnUjN6ZXcxelBiUlh2SndkOTVoeEdzTnFhNzVkRndHMnFhMmFoZVdnU3F0Y25mZU4xdWEwQ2plTlJfbE5wZU05V1pJUGRZRXJXbkk0clB6Z25Yb1pNUGNfV2kzYTh4eXp6Y2MtODVPdGhmRnZHNHBUanctemVfV2YwZw?oc=5",
+      "published": "2026-11-06T12:51:58+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Governo diz que vai recorrer de decisão da Justiça que liberou funcionamento de três bets no Brasil G1",
+      "summary": "Governo diz que vai recorrer de decisão da Justiça que liberou funcionamento de três bets no Brasil G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -769,13 +811,13 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "faltam-20-dias-para-23-semana-nacional-de-ci-ncia-e-tec-f7755446ddcb2a",
+      "id": "faltam-20-dias-para-a-23-semana-nacional-de-ci-ncia-e-t-f7755446ddcb2a",
       "category": "Tecnologia",
-      "title": "Faltam 20 dias para 23ª Semana Nacional de Ciência e Tecnologia - Governo Federal",
-      "snippet": "Faltam 20 dias para 23ª Semana Nacional de Ciência e Tecnologia Governo Federal",
+      "title": "Faltam 20 dias para a 23ª Semana Nacional de Ciência e Tecnologia - Governo Federal",
+      "snippet": "Faltam 20 dias para a 23ª Semana Nacional de Ciência e Tecnologia Governo Federal",
       "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTkloV2g3eHduTXZJSTlrRDZkd2xBX3FXQVJlLU5wdzYyQTJpN0NtZEJQU2xFaElPRzJJT3RsUEtiZjBiQ05YTXpXelRENkVJWWk0M2M3V3duV3F4cVB4ZTlKRm1hTUU1eTVidndvNDExOHcyRmxPRWc4S1ZOTS1pazlJYndtWjhGOVZWYUgzel9JZ2FPdnFkclcxN0c2VFlZdGltNV9ub2NDenVCdFRaM0hGSWZ6VnhaTTUzczI0UkFnM19Xenc?oc=5",
-      "published": "2026-11-04T22:24:10+00:00",
+      "published": "2026-11-04T22:24:00+00:00",
       "image": "",
       "tone": "purple",
       "dek": "Faltam 20 dias para 23ª Semana Nacional de Ciência e Tecnologia GOV.BR",
@@ -808,48 +850,6 @@
       "tone": "",
       "dek": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking G1",
       "summary": "Brasil amplia distância e segue com o maior juro real do mundo após Copom manter Selic; veja ranking G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-perde-para-a-nig-ria-na-semifinal-da-copa-do-mun-a63c2219600e6c",
-      "category": "Esportes",
-      "title": "Brasil perde para a Nigéria na semifinal da Copa do Mundo Feminina Sub-17; equipe disputa 3º lugar no sábado - O GLOBO",
-      "snippet": "Brasil perde para a Nigéria na semifinal da Copa do Mundo Feminina Sub-17; equipe disputa 3º lugar no sábado O GLOBO",
-      "source": "O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbzJmSUdZZExxTUZMNFFhUlp3S2YyYnFqbkNXbUwwNGg2ZnAtczZZd2pXekEtUGdrdUVfLU91bmM3WHE1dVpLRFRnMkJlUExJUDNTNnZpa0JVNGFuUktoNVNMSTZGOHJ0STJsN1VBUXBtV3o4WjVTTW40VEZJc2xBOXowYjF2UHcxSXJuWDBLcXQzbFFqem1GREVFS0JHY0ZGQVBFTjVNSlZUY3NuWGhZT3JickN2WFdiSjFpY1dEQnZsb3EzVzRqbHV3bk1oWERpai1IaHBuR2RHb09uZjVFRnFXeFROZGt5X2N0ZUpPcXViLXdMR0NWcW9VbG1Idm9sR09sUtIBkwJBVV95cUxNd3NPemF3ZlJ5a3llbGVHbGZmSVJWWlZabDRlUW00U0htR3F6ZWE2ektoZWdwdFdpQ29lenp2SWdFOXJjREtVSTBkUzRqWXdRTHpDWjRCR3dYSzNGTmdNV1NLVHdYdGpfeDJGTEM1alZOMTBuZjJjVVB6Z1JMOXo1TTkxclJQVE9XcXMtQlJlaXVZX1lHOVMxMER4aWtEbS1jT3VVa0Q0eUc1ZjBOQkJnV0s0Z20tXzZGM2ZmdW1HM2VvX3dGSVJ3VHJhRFNMM3RvRUIxbjJtaTlYN1loRDVoM2g5M1NUUTQtdFgtX2d5YjZaNmhGdXBGSGFHVDQzRlhKaUlFNFFlcmQ1Z0NORldyc0ZYcw?oc=5",
-      "published": "2026-11-04T19:56:46+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Brasil perde para a Nigéria na semifinal da Copa do Mundo Feminina Sub-17; equipe disputa 3º lugar no sábado O GLOBO",
-      "summary": "Brasil perde para a Nigéria na semifinal da Copa do Mundo Feminina Sub-17; equipe disputa 3º lugar no sábado O GLOBO",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pec-da-seguran-a-p-blica-o-que-muda-no-combate-a-fac-es-75801dc37c33b9",
-      "category": "Polícia",
-      "title": "PEC da Segurança Pública: o que muda no combate a facções como PCC e CV - CNN Brasil",
-      "snippet": "PEC da Segurança Pública: o que muda no combate a facções como PCC e CV CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOc3h0SkwzRkV3YVdyblBXYWJrbFpEWVFWZExrWmZjYzl0dUk4MmFfUFNhSVRJV0VTUnBETzZHeVRaLUd5TFlGb2FYM196djFEVXp0bVg3aUZsMEdyU2hoNmFoYjUzQ0RrUW1pUmhXalYxZmxMNmhKZ0lSNUJSNjRPQmJEWk44bTJYOE84V0dVVVRfU2VKeHhYMlg5NDJaOGxvdmdCZkt4QU1xaTFuMkZLYW1Gc1pyY1U?oc=5",
-      "published": "2026-11-04T14:42:25+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "PEC da Segurança Pública: o que muda no combate a facções como PCC e CV CNN Brasil",
-      "summary": "PEC da Segurança Pública: o que muda no combate a facções como PCC e CV CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "d-cio-lima-defende-mais-cr-dito-formaliza-o-e-novos-mer-8333b1115842b2",
-      "category": "Economia",
-      "title": "Décio Lima defende mais crédito, formalização e novos mercados para pequenos negócios - Brasil 247",
-      "snippet": "Décio Lima defende mais crédito, formalização e novos mercados para pequenos negócios Brasil 247",
-      "source": "Brasil 247",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNnNDRjhPV2hrU3o3NGFyQTNzelBEeFNVSnBvWXhvZWlwb2QtWTN1eE9wOUZmVi1ITmE3TUtSMF85dUh2UGlINkI1SVFma3Vra05KdWFKVk8yMk9hVHg2QkRuMG1RaXRIekZxRnhXUkVGdks3czRWS0EzSUZRUVB5MEhWMnhyRnh2LW5BMVA3MS0xaFBVNTI2dUMtRzZxalM3RDVDQkNZYW9HNjQ4MzlxTV8zUjREaE1qckViRUd0RQ?oc=5",
-      "published": "2026-11-04T14:09:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Décio Lima defende mais crédito, formalização e novos mercados para pequenos negócios Brasil 247",
-      "summary": "Décio Lima defende mais crédito, formalização e novos mercados para pequenos negócios Brasil 247",
       "summary_by": "descrição da fonte"
     }
   ],
