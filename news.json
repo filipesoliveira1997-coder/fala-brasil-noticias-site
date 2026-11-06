@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-05T22:58:36.962718+00:00",
+  "updated_at": "2026-11-06T01:25:56.288331+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "equipe-da-ag-ncia-brasil-vence-sele-o-petrobras-de-jorn-1f2ebff55182f2",
+      "category": "Brasil",
+      "title": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo - Agência Brasil",
+      "snippet": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlpIeG9TTGhOUGpxRUJydzIyS2h1LXRtOFpGSGJkdWNFNDFJOHdxWFlQUG8za01OYWEwT2ZvT0EzSVB0WUdzTkVwN3JpbmdPbnZmdjVhTlhJVGtyTW14RmtRT096TUIzRWlURDRWZEVEZDF1Z3FzVkJna3dKTG5vbHNDbElDcEVHUDVVcGs1a3hCM1pOSXNEOFpwNDRBdVdKM1V3TzQ4bC1fU0puRVFYZEdFeXk1WkU5?oc=5",
+      "published": "2026-11-06T00:30:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo Agência Brasil",
+      "summary": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "cruzeiro-x-bahia-escala-es-e-onde-assistir-ao-jogo-do-b-558d51da725308",
+      "category": "Esportes",
+      "title": "Cruzeiro x Bahia: escalações e onde assistir ao jogo do Brasileirão - CNN Brasil",
+      "snippet": "Cruzeiro x Bahia: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZUFfcmhneWhRYXExLXFPVzNacFQ4RjVaQWFvbkoyVEJoYjVFYmFrMEFKSWY5SWYzSjFadnFkRW42blF1T3M1MjJaVnNBOU1fUzhjYlJkMXNtaE5YcW1FeW9qbEtUQ3VjYndLZDFCZVBKTDUxQ296ODkxQ1ZubDlLTWtSR3NBR3BRSEttNXRQSExPZXRGcVNJUDZCOVlwTFNMem1xMGdnYzVSM05jUU5zUUYxX2lyLVRY?oc=5",
+      "published": "2026-11-05T23:31:23+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Cruzeiro x Bahia: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
+      "summary": "Cruzeiro x Bahia: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "lula-diz-que-elei-o-fez-do-brasil-um-exemplo-democr-tic-42f23b11702ba0",
       "category": "Brasil",
@@ -27,6 +55,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "pr-mio-tv-brasil-petrobras-para-elas-anuncia-finalistas-26d06ba814df23",
+      "category": "Esportes",
+      "title": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas do futebol feminino - - Portal Cambé",
+      "snippet": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas do futebol feminino - Portal Cambé",
+      "source": "Portal Cambé",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUVXVmJMaXpMQWZUbnNjNEFmUlROeVlVaXZNa2lQenRqUm5PdmZUVHQwMkdDdk9kUXdFakJrVEJFeFpxRVVtUWVtNmt0SkFrOFlGdU1qeWlzWWtfeDRkTXE5MnMxOEVqRk5iTmo3dFNvUWhIbDBZR3p2RlpVanF0Uw?oc=5",
+      "published": "2026-11-05T22:31:26+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas do futebol feminino - Portal Cambé",
+      "summary": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas do futebol feminino - Portal Cambé",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "brasil-pede-oea-a-o-conjunta-contra-interfer-ncia-estra-d4c09983dbc9a4",
       "category": "Brasil",
       "title": "Brasil pede à OEA ação conjunta contra interferência estrangeira - Vero Notícias",
@@ -38,6 +80,34 @@
       "tone": "",
       "dek": "Brasil pede à OEA ação conjunta contra interferência estrangeira Vero Notícias",
       "summary": "Brasil pede à OEA ação conjunta contra interferência estrangeira Vero Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ao-vivo-e-com-imagens-itatiaia-esporte-e-cnn-esportes-t-6b1803d46dfdf5",
+      "category": "Esportes",
+      "title": "Ao vivo e com imagens: Itatiaia Esporte e CNN Esportes transmitirão Rennes x Lille - Rádio Itatiaia",
+      "snippet": "Ao vivo e com imagens: Itatiaia Esporte e CNN Esportes transmitirão Rennes x Lille Rádio Itatiaia",
+      "source": "Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXhoU0dJWmlCNmlST21XOExFeExCeTIwNnk5N1gtdzl6VGd4RDloNV9HMHVOQ1hWMTQ5V1hGa0g3ZktpUHN4OHRHUFpHUFJWLUNic2pKak1haURianR2YnA1Tk11aHg5MDlDWDdGbGJqYzhMUzI1eXFVV1ZzU3RmbW5LZnNnWmdJWWdiOFRXV2kxMkV1M0toQTM2dEJqNDRxckZydExCMXoyc1FJLVY2VnVpbVFsRURBQjVvd2hSd3BPcnhDcFlUVkxuV0JyTFNBN0ZqZUtFSUhSaVoxa0xxVXc4SlI3aE5jelJzTUN0SjlqT1J2SkE?oc=5",
+      "published": "2026-11-05T22:20:24+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Ao vivo e com imagens: Itatiaia Esporte e CNN Esportes transmitirão Rennes x Lille Rádio Itatiaia",
+      "summary": "Ao vivo e com imagens: Itatiaia Esporte e CNN Esportes transmitirão Rennes x Lille Rádio Itatiaia",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pt-convida-milit-ncia-para-a-ltima-posse-do-maior-presi-2ad6ae8cb22867",
+      "category": "Brasil",
+      "title": "PT convida militância para a última posse do maior presidente do Brasil - Partido dos Trabalhadores",
+      "snippet": "PT convida militância para a última posse do maior presidente do Brasil Partido dos Trabalhadores",
+      "source": "Partido dos Trabalhadores",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQY1pqQ3Z6VFpUUGIwUThHbXh4OXVSZEFtT3U4OW1CTTZiOHlXSWRJTDZLTm1Sc2kwWUlrQ2c1bGpTaEI2WDhBamw1UEJLWTVaN0JkTlRRVzU2dEhXUERmeDFSRXpfSmk2SHNld1M3bTYyYkcyWkl5Ty1SR2Z5WmlrN1dpS3B0cm8yWENJbVlpWVRaVllf0gGcAUFVX3lxTE1udXBzYnFDWXk0LThpYnRVdkpna014MnZKeDBnT0REY1lKbTlnYVRTdFVCTFlwVjRiT1FFQXlVYTBPeEJXRnhZZlYwMFRoUy1LMm9CQ3dSN1Q2YXJrRld5TE1jNmR3WTFGTmZlVDRyUmIwN0FQRGw0Z25mc1YycFd3c2dBT01RNGRFQjJ1SnBYLVRmWEdlZ0hubF9mZQ?oc=5",
+      "published": "2026-11-05T22:20:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "PT convida militância para a última posse do maior presidente do Brasil Partido dos Trabalhadores",
+      "summary": "PT convida militância para a última posse do maior presidente do Brasil Partido dos Trabalhadores",
       "summary_by": "descrição da fonte"
     },
     {
@@ -97,6 +167,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "cgee-completa-25-anos-e-projeta-o-brasil-de-2051-minist-bb54881a67e8fe",
+      "category": "Tecnologia",
+      "title": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação - GOV.BR",
+      "snippet": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSG8xTmttUXNkZGowdnhJeG13NUVXR1ZzclNQcTZnWVZhcjdwc3VoWU1TNkNkVktkeERYd0RZNHZkcGFXQldGSDlDNHRoZ01IUVh2U2liOHlvOEFlNmRTRXBpZlByNE9sUGg5QXR0bDM2M2xaZk1nYnB2TlF6R3cycXlYaGVCeUVFZjk1UnRkblZKdDlTeDJkemFmazFmXy0zSi1EaWU3V0JOa2dHVnZ1RjdR?oc=5",
+      "published": "2026-11-05T20:11:19+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
+      "summary": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "caso-master-do-paraguai-entenda-a-crise-de-banco-ueno-q-aad071876cda71",
       "category": "Brasil",
       "title": "'Caso Master do Paraguai': entenda a crise de banco Ueno que derrubou o presidente Santiago Peña - BBC",
@@ -153,13 +237,41 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "os-brasileiros-com-dinheiro-preso-no-paraguai-ap-s-queb-4b95328755fe7b",
+      "category": "Brasil",
+      "title": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' - BBC",
+      "snippet": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVSW1UX0ZEdlNna09sc3U4V1YtUTBNVXoyWVVFUkZWS19Mai1PRXhTRldVWlRUdDl3ZDRyYVVLd3NaQVh2bWwzMjdUWnVSdElwTmh2ZW04NnpYODJtTXpkQnFxWdIBaEFVX3lxTE15YVRnM29Jdkw5Z3BFWC0xQlhTOHNwRjBjNzZJSWhfMUY0aS1xUjNIZUhWSEUwbE1YbHhKRHZCNXg4NTZpeDY5OUpQUkI3Tzc1cDh6Q3RYeU5UN05Wd3JFdDl4N2doTlRI?oc=5",
+      "published": "2026-11-05T18:29:36+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' BBC",
+      "summary": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "alcolumbre-diz-que-vai-avaliar-pedido-para-anular-voto--a598805231b9c5",
+      "category": "Brasil",
+      "title": "Alcolumbre diz que vai avaliar pedido para anular voto remoto de Flávio - CNN Brasil",
+      "snippet": "Alcolumbre diz que vai avaliar pedido para anular voto remoto de Flávio CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1NlemVHNEZZSFBJTGM4Zl80S3EycDVURnZORi00eVBWejIwSEEwUkxaQnZoRVYtY1QtX2xJMmxWMUJwWVVYbTE2cW94MVNyckRMek5jbmNER01uSnRHdEZQelNaZXlWbkNJU01aY3o3MHBERFNxZ2VkQ2NuWjNqcnJNakpIWXZ2cXNrSzR2VUpYWWE5UUtuX3B0eVctbEFVT0tMbEM0T1FCU01QWUY4?oc=5",
+      "published": "2026-11-05T18:21:19+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Alcolumbre diz que vai avaliar pedido para anular voto remoto de Flávio CNN Brasil",
+      "summary": "Alcolumbre diz que vai avaliar pedido para anular voto remoto de Flávio CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "principais-not-cias-do-mundo-na-tarde-de-hoje-5-tribuna-d905a366d9dc0f",
       "category": "Mundo",
       "title": "Principais notícias do mundo na tarde de hoje (5) - Tribuna do Sertão",
       "snippet": "Principais notícias do mundo na tarde de hoje (5) Tribuna do Sertão",
       "source": "Tribuna do Sertão",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRTVLZFNFVTZSYUt0anBCTkF4NmtzdEZIRkNRdHdGRS01MVRRanVoUDhSSUJmdzdTNmdyOFFmU0R0c3V0V0lDYThicXJvY0JLLXpyMUVMdlRhQzFsZU4wWUhpa0JfLXlFNTkxSkx3ZnlqUkFTR0VDZDZjZEk0VkxEQXUyVk9XRS12d3BkMUw3Sl9HdlpZM0p6NVdvMlNMTFpzVk1nOXNMWjVWOVE?oc=5",
-      "published": "2026-11-05T18:03:02+00:00",
+      "published": "2026-11-05T18:03:00+00:00",
       "image": "",
       "tone": "blue",
       "dek": "Principais notícias do mundo na tarde de hoje (5) Tribuna do Sertão",
@@ -192,6 +304,20 @@
       "tone": "",
       "dek": "Presidente do Paraguai renuncia em meio à crise bancária; vice assume Agência Brasil",
       "summary": "Presidente do Paraguai renuncia em meio à crise bancária; vice assume Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "google-derruba-esquema-que-controlava-1-milh-o-de-tv-bo-0b11b684f61386",
+      "category": "Brasil",
+      "title": "Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado - G1",
+      "snippet": "Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNamNDUmhPQ0RvTkR6eE5ISXVYR2dkVFdBeHFyMl8yOXZYLWZhaUJEZmlLSGtkdE00Ykl1a1lqcWZRamhHUG15WFpPVS00N2RycE5kYUZDMC1mZ3BOTWdYY3lWTGVqQUdUWDA5bEo0M0ZXSXlVNGFjWDN0RnBoMnE5Zm1VSm8tSEN5VFhKSno1MExRQmJVZW4yQmFMTVBTQ0JHeWt0R0R5N0F3UllaSW5OeWRoQlAySFhJbGlmRGx0VTFlQUQ5UlJ3dUJGUzRUbTFmY3BVQmZfelRLVE5wZFdRckxKSzM4UkZsZ3F3ZmZrUmbSAf8BQVVfeXFMTi1LWFY0TWhrN3kzbk0xWTdEUTRoSFdQeUtvQ1BiU1hfbFFRZWtHVDBLaWd5THphdHVnQlhaZjR6UEtHeEY2Rk1jYWZEVDROb2Y4cWdfWUVLZ0xWbUp5b3NjZk42Q3RlWHdwZmZsLVFKY3NFZVJMalBoTEhQbVJ1RUxsWFNrS0V0NHNyUEZhUEdTUWYzWU56ZjAtbHlPbTctX0d0QWlnWm1UeWVvdU9nbkRLRVdpMlR3TC1DZ3JGOHZ5RTlBaUVkUTAzNEdkc3VsNG1UcmFyQnVvdFJteVN1b2VDbmxYVTZHUkVCVEE3Zld1MF9SMzZKLWVRbzZBNXRN?oc=5",
+      "published": "2026-11-05T16:01:11+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado G1",
+      "summary": "Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado G1",
       "summary_by": "descrição da fonte"
     },
     {
