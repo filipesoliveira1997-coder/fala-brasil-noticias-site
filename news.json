@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T03:01:18.814787+00:00",
+  "updated_at": "2026-11-06T05:12:04.361208+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -657,5 +657,14 @@
       "summary_by": "descrição da fonte"
     }
   ],
-  "feed_warnings": []
+  "feed_warnings": [
+    "Brasil: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=Brasil+not%C3%ADcias&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Mundo: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=not%C3%ADcias+internacionais+mundo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Polícia: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=seguran%C3%A7a+p%C3%BAblica+pol%C3%ADcia+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Economia: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=economia+Brasil+neg%C3%B3cios+mercado&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Tecnologia: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=tecnologia+inova%C3%A7%C3%A3o+ci%C3%AAncia+digital&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Esportes: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=esportes+futebol+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Entretenimento: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=entretenimento+cultura+m%C3%BAsica+cinema+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Saúde e bem-estar: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=sa%C3%BAde+ci%C3%AAncia+bem+estar+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+  ]
 }
