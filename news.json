@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T10:54:44.048784+00:00",
+  "updated_at": "2026-11-07T13:06:18.241067+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "papa-no-uruguai-pa-s-tem-um-beato-que-foi-batizado-no-b-4302af31164614",
+      "category": "Brasil",
+      "title": "Papa no Uruguai: país tem um beato que foi batizado no Brasil - Notícias - Canção Nova",
+      "snippet": "Papa no Uruguai: país tem um beato que foi batizado no Brasil Notícias - Canção Nova",
+      "source": "Notícias - Canção Nova",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaDNRdHI1aUhFRm52OUxQRldRQWNOZTB1dUViR2phOTV4c2Ewalc3eEZJTXZCVzJCR2pDUXhEZW4zcDJQcmFFYVg1MTZSU1lnSjJTSDdSc2FWb004d3Z5Z0lzdjljQXNiVF9uZjZ4RldNNGRxTnN6dkFfT0xPWDVxNUF4QmxHNWRiNmJjQV80eEtFc19SRGhQRGg0VFdyREs1dUgtbUJhUFpja0Zlc25sa1BCZkZScmVaX2l2NUp0WTRMdw?oc=5",
+      "published": "2026-11-07T12:14:34+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Papa no Uruguai: país tem um beato que foi batizado no Brasil Notícias - Canção Nova",
+      "summary": "Papa no Uruguai: país tem um beato que foi batizado no Brasil Notícias - Canção Nova",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "flamengo-x-bahia-hor-rio-e-onde-assistir-o-jogo-da-copa-f8cbb59599eec4",
       "category": "Esportes",
@@ -38,6 +52,20 @@
       "tone": "teal",
       "dek": "Paris Saint-Germain x Troyes: horário e onde assistir ao jogo da Ligue 1 CNN Brasil",
       "summary": "Paris Saint-Germain x Troyes: horário e onde assistir ao jogo da Ligue 1 CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "covid-19-casos-aumentam-h-seis-semanas-no-brasil-e-fioc-13a8bd1a082ac6",
+      "category": "Brasil",
+      "title": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações - G1",
+      "snippet": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMmtMdnJiZXNxdU9SaU1wbktlVWZXZ0diYVZjX0l1LVR2WWJFcjZ4Z2JUVzd6UlB3X3hpc0ZTTExJMzNsbnhGTjBTM1pCb0h4VFc2cTA5bTBtYnNremtjXzh6ZFc0a1FlSlZ2NE1ZamhaZi1BLXoyNTRYNjNQZmdLc29Ebjk4LUF5TWdVaENrUVNReHZ4b0FFQ1Q4cTlwTTh6WWZPZ203Qy1Wc2x0VXRKREhMUWJBNXQ3eGJoRk1QYnVCa09jZDBtSlVPZmowSVBYU1MtWkdR0gHkAUFVX3lxTE5DLVFPY25TR1lSMDJCVVVPTzU5dVdQbDlmNXZUWVhsdUF1c2dVTGl2Q1RlbU1wN2FldXNrNFZvcWpIdTNoWDZzOERyQUp4X2Via0R2ekFQY09sZTFhTU1lRTZCS3dSX0NNSEp4dEY0RnJxbEpLSWRWcUpGcjVDd2VmNUhfSDdoOTdMLTZueGVBb1VMYVpYRHU4MVliaTVuZXJSSGh0SGJ1QlpfWTBSQzVvbXpMaUlqUURCYTA5cExQZDJHN3gwNnJoQnB0QVF5eGtXcnVIUThlUFkzdkQwRWJGR1p5Qg?oc=5",
+      "published": "2026-11-07T07:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações G1",
+      "summary": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "",
       "dek": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' BBC",
       "summary": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "alcolumbre-diz-que-vai-avaliar-pedido-para-anular-voto--a598805231b9c5",
-      "category": "Brasil",
-      "title": "Alcolumbre diz que vai avaliar pedido para anular voto remoto de Flávio - CNN Brasil",
-      "snippet": "Alcolumbre diz que vai avaliar pedido para anular voto remoto de Flávio CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPc1NlemVHNEZZSFBJTGM4Zl80S3EycDVURnZORi00eVBWejIwSEEwUkxaQnZoRVYtY1QtX2xJMmxWMUJwWVVYbTE2cW94MVNyckRMek5jbmNER01uSnRHdEZQelNaZXlWbkNJU01aY3o3MHBERFNxZ2VkQ2NuWjNqcnJNakpIWXZ2cXNrSzR2VUpYWWE5UUtuX3B0eVctbEFVT0tMbEM0T1FCU01QWUY4?oc=5",
-      "published": "2026-11-05T18:21:19+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Alcolumbre diz que vai avaliar pedido para anular voto remoto de Flávio CNN Brasil",
-      "summary": "Alcolumbre diz que vai avaliar pedido para anular voto remoto de Flávio CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "principais-not-cias-do-mundo-na-tarde-de-hoje-5-tribuna-d905a366d9dc0f",
-      "category": "Mundo",
-      "title": "Principais notícias do mundo na tarde de hoje (5) - Tribuna do Sertão",
-      "snippet": "Principais notícias do mundo na tarde de hoje (5) Tribuna do Sertão",
-      "source": "Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNRTVLZFNFVTZSYUt0anBCTkF4NmtzdEZIRkNRdHdGRS01MVRRanVoUDhSSUJmdzdTNmdyOFFmU0R0c3V0V0lDYThicXJvY0JLLXpyMUVMdlRhQzFsZU4wWUhpa0JfLXlFNTkxSkx3ZnlqUkFTR0VDZDZjZEk0VkxEQXUyVk9XRS12d3BkMUw3Sl9HdlpZM0p6NVdvMlNMTFpzVk1nOXNMWjVWOVE?oc=5",
-      "published": "2026-11-05T18:03:00+00:00",
-      "image": "",
-      "tone": "blue",
-      "dek": "Principais notícias do mundo na tarde de hoje (5) Tribuna do Sertão",
-      "summary": "Principais notícias do mundo na tarde de hoje (5) Tribuna do Sertão",
       "summary_by": "descrição da fonte"
     }
   ],
