@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T18:58:13.284750+00:00",
+  "updated_at": "2026-11-07T20:51:00.875474+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "atl-tico-mg-e-gr-mio-est-o-escalados-para-semi-da-copa--cc2ffb42d61012",
+      "category": "Esportes",
+      "title": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja - Band",
+      "snippet": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkJEcGVWRzNmaHczUXcyanhreTZuUjFxVjc4M18zU2FJT3F1dTlhTmlrLXc0OFNZMFg0MHJVVWRYQWtoV21YQlBMYXd4NV9KTk80UGg5UFNjTG11RzAzZHVSamJKTzNMWHJTc2RfTGc4bUxnVjh6VlRsWTQzcmNUMjJKUlI0OVVQTEhJX2pveGM1OHlLLTB5TkRxTzFIck5JdU42ekNlelhTdVN6dVY0?oc=5",
+      "published": "2026-11-07T20:08:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja Band",
+      "summary": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja Band",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-sofre-goleada-e-termina-em-4-lugar-no-mundial-fe-b4a8b8495e5473",
+      "category": "Brasil",
+      "title": "Brasil sofre goleada e termina em 4º lugar no Mundial Feminino Sub-17 - Agência Brasil",
+      "snippet": "Brasil sofre goleada e termina em 4º lugar no Mundial Feminino Sub-17 Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZGJWTUEwa0p1cHJ6bEFFSjFTU3BRd1ZWQWc3TWwySDU2bDlyWTUtb2x3aHRoYjB6czBodC14aWRyWjYzTXNOTjhkMWFkc2ZZNDVDaTRlSzA1a2x0d1otR2d2NWVUUjg1dTAzQm5UOFJfN3RwZjJ3QzRsUVJadDBLLXVHVHoyT2Z5Y3FlT0h1enpIUjQzQmNvVVVoc2hqY1dWRE5ZY1lhemY4Mm9remFhUExXZ2xJZnVCZDB3STVmZXFzWHBzNEE?oc=5",
+      "published": "2026-11-07T19:48:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil sofre goleada e termina em 4º lugar no Mundial Feminino Sub-17 Agência Brasil",
+      "summary": "Brasil sofre goleada e termina em 4º lugar no Mundial Feminino Sub-17 Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "desde-crian-a-ensinaram-a-reconhecer-policiais-paisana--e4050cce025b6b",
+      "category": "Brasil",
+      "title": "'Desde criança ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI - BBC",
+      "snippet": "'Desde criança ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9faWNLU21uS3d3S0dDcDBETkdaR0ZMckVCdXl0blRiYlhFSXY2SXprMlhta2NoQnhQRFNFWTVXdkpNbVo4aDl5SVgxRkpqVDlDNFN2emlJQjNGenBFUEl0YUNNY9IBaEFVX3lxTE9sN3JSeF9PUTd2R3lFLUpsakZmanpLQzR6d29QOWhUdHpmcEJGdUhjMUJDSnYtczFtNWo4Nlh5UC01Q2tBNkdyNFBKYXJ2eXE4SEVvT1UyY3hVdXc1eEkybHY3TDlaUXZz?oc=5",
+      "published": "2026-11-07T19:46:11+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "'Desde criança ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI BBC",
+      "summary": "'Desde criança ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "atirador-deixa-5-mortos-e-mais-de-10-feridos-em-pra-a-n-6b93792eb498e3",
       "category": "Brasil",
@@ -125,6 +167,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "gonet-pede-ao-stf-que-suspenda-todas-as-a-es-sobre-bets-08489c4593aa7f",
+      "category": "Brasil",
+      "title": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil - UOL Notícias",
+      "snippet": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3oxRHNuTVNyYV9jeTBLTTh0Q2V5QTF6SXlrYzM0a0pxdUIyUXlTVjcwMGNsamZuNTRtS2Q0SUNBVlYxNUhrVmdBTFhfWkZCSnpIRmVlYVMxdFFGUHMwVkwwUHJkUlJsSE1wOVpfa3hGclNwYmo4cl8xRnItZlExR2xLM3ZabUsxNUJRbjJ4YTlHWExnemNfLUhEaEsxdDdXdTI1YUkydTVRQTVWdUxvS09xdy1WX24tNXRNMDFYeDM5Y2hQakxv?oc=5",
+      "published": "2026-11-07T06:14:32+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
+      "summary": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "jogos-hoje-07-11-26-ao-vivo-de-futebol-onde-assistir-e--087c8649acbca5",
       "category": "Esportes",
       "title": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário - O POVO",
@@ -136,20 +192,6 @@
       "tone": "teal",
       "dek": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário O POVO",
       "summary": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário O POVO",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "gonet-pede-ao-stf-que-suspenda-todas-as-a-es-sobre-bets-08489c4593aa7f",
-      "category": "Brasil",
-      "title": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil - UOL Notícias",
-      "snippet": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3oxRHNuTVNyYV9jeTBLTTh0Q2V5QTF6SXlrYzM0a0pxdUIyUXlTVjcwMGNsamZuNTRtS2Q0SUNBVlYxNUhrVmdBTFhfWkZCSnpIRmVlYVMxdFFGUHMwVkwwUHJkUlJsSE1wOVpfa3hGclNwYmo4cl8xRnItZlExR2xLM3ZabUsxNUJRbjJ4YTlHWExnemNfLUhEaEsxdDdXdTI1YUkydTVRQTVWdUxvS09xdy1WX24tNXRNMDFYeDM5Y2hQakxv?oc=5",
-      "published": "2026-11-07T01:14:32+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
-      "summary": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -220,6 +262,20 @@
       "tone": "teal",
       "dek": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
       "summary": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "mar-lia-vasconcelos-segue-pela-2-vez-na-lista-das-melho-b401ec388ee1ac",
+      "category": "Polícia",
+      "title": "Marília Vasconcelos segue, pela 2ª vez, na Lista das Melhores Delegadas e Delegados de Polícia do Brasil! Censo 2026 - Portal Nacional dos Delegados",
+      "snippet": "Marília Vasconcelos segue, pela 2ª vez, na Lista das Melhores Delegadas e Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
+      "source": "Portal Nacional dos Delegados",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZzNQTkNaTThCWUZORWhQcGhYSGVvRTg2cS0yUVkzWnFsMmdVZ29JcE5iU2ZlcTF5VWM3OTNVQWt6dE1WNW5PWS1DT0d4NF9hTUQtNDhNeHRLZ1ljX1FiNlA5a2hXdkJqT1AweS1oTEV4eUZvZzAtZk9hWkVOZlhDZHc4UnBnbkR5YVVKZTBDazM0ajJESWZ2YUgzX0hOdHNlREVwSXRJbFk1VDVDYVQtWmtfMzVGbGYwRUlYR1MwdVg0LV81aC1ZU0RTQ0l0Rkc0ZENobjBqUDBPMy00dGNxUklB?oc=5",
+      "published": "2026-11-06T22:00:54+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Marília Vasconcelos segue, pela 2ª vez, na Lista das Melhores Delegadas e Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
+      "summary": "Marília Vasconcelos segue, pela 2ª vez, na Lista das Melhores Delegadas e Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "red",
       "dek": "PRF começa reestruturação após aprovação da PEC da Segurança Pública CNN Brasil",
       "summary": "PRF começa reestruturação após aprovação da PEC da Segurança Pública CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "stjd-absolve-alan-patrick-e-meia-segue-disposi-o-do-int-ddd0e9dd38925c",
-      "category": "Esportes",
-      "title": "STJD absolve Alan Patrick, e meia segue à disposição do Internacional - CNN Brasil",
-      "snippet": "STJD absolve Alan Patrick, e meia segue à disposição do Internacional CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPdS03SzFPNkF5YzZDRkxfWkozcXg5SDlLTm5iVE5vSVU5QjBBYVJ4bXF4YUJ2YUQwdUJvd2s1Z0JJT24tOTU2UGVqbmxwZ2xpNXgxbkpiVk81TjM0Qi1PYTl1LVNOMG5rUE9sb3REUTZZUmpWSmN2TkpYMWpPWEJfenJqU0hKNU9Tekhma2VYdG9JZmk4aFF4VFFzYWhNWjFhSl9iZWh0cmNVSmREeWFLTDBBUHg2dDlVY29Udi00empmSEt4aEY1SDRFWnA0QVNFQmV3?oc=5",
-      "published": "2026-11-05T20:34:44+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "STJD absolve Alan Patrick, e meia segue à disposição do Internacional CNN Brasil",
-      "summary": "STJD absolve Alan Patrick, e meia segue à disposição do Internacional CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ap-s-acordo-com-mercosul-vendas-do-brasil-para-a-uni-o--5d3d2f453075f1",
-      "category": "Brasil",
-      "title": "Após acordo com Mercosul, vendas do Brasil para a União Europeia subiram US$ 6,4 bi, diz Apex - ICL Notícias",
-      "snippet": "Após acordo com Mercosul, vendas do Brasil para a União Europeia subiram US$ 6,4 bi, diz Apex ICL Notícias",
-      "source": "ICL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwUFd3OE5iYjlYWTE2NzJJT0VuMzRDajVrWHU0TlctNWFBTGlQbUFEN3Z5V1JkcHdBQ1pWYS1MZ1U3Mm92QjhZTXJyZmJCeDZLM0FPSmx1ZW5IU21POE9jdmNxSGpZc3FVdnJoY3dvTXl4QVZKY0FCQk1HYw?oc=5",
-      "published": "2026-11-05T20:18:45+00:00",
-      "image": "https://lh3.googleusercontent.com/J6_coFbogxhRI9iM864NL_liGXvsQp2AupsKei7z0cNNfDvGUmWUy20nuUhkREQyrpY4bEeIBuc=s0-w300",
-      "tone": "",
-      "dek": "Após acordo com Mercosul, vendas do Brasil para a União Europeia subiram US$ 6,4 bi, diz Apex ICL Notícias",
-      "summary": "Após acordo com Mercosul, vendas do Brasil para a União Europeia subiram US$ 6,4 bi, diz Apex ICL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "yuri-alberto-denunciado-por-expuls-o-e-pode-pegar-at-12-b466580927ea98",
-      "category": "Esportes",
-      "title": "Yuri Alberto é denunciado por expulsão e pode pegar até 12 jogos de gancho - CNN Brasil",
-      "snippet": "Yuri Alberto é denunciado por expulsão e pode pegar até 12 jogos de gancho CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVFIwSnkwVWRSRnFoMW84UDdtRk8xWkJfY250amExOUpXTFRMRERkSDNKald2MFROY2dBUGowcmg1eWE4NGFJdzg4ekREVk44NkQxM2EtM0NPQ0ZpT3hpd244NVQzeXZmUC11Z1I4LUIzeTlZNHRrekJ4ZlhLRzhCSFpnc1gwSF9YVFM0Q2xxYWZpV1RaS0p5YkFYbUd2eDhZcnFuNUhEZFFRU1hJakExSHVTcjhiYzhDSXdkQmJfcnhEam1SQmxkN19tSTFvZw?oc=5",
-      "published": "2026-11-05T20:18:40+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Yuri Alberto é denunciado por expulsão e pode pegar até 12 jogos de gancho CNN Brasil",
-      "summary": "Yuri Alberto é denunciado por expulsão e pode pegar até 12 jogos de gancho CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cgee-completa-25-anos-e-projeta-o-brasil-de-2051-minist-bb54881a67e8fe",
-      "category": "Tecnologia",
-      "title": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação - Governo Federal",
-      "snippet": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSG8xTmttUXNkZGowdnhJeG13NUVXR1ZzclNQcTZnWVZhcjdwc3VoWU1TNkNkVktkeERYd0RZNHZkcGFXQldGSDlDNHRoZ01IUVh2U2liOHlvOEFlNmRTRXBpZlByNE9sUGg5QXR0bDM2M2xaZk1nYnB2TlF6R3cycXlYaGVCeUVFZjk1UnRkblZKdDlTeDJkemFmazFmXy0zSi1EaWU3V0JOa2dHVnZ1RjdR?oc=5",
-      "published": "2026-11-05T20:11:19+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
-      "summary": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
       "summary_by": "descrição da fonte"
     }
   ],
