@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T22:54:06.767314+00:00",
+  "updated_at": "2026-11-07T01:16:20.703747+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "lula-vai-s-filipinas-buscando-estreitar-v-nculo-com-blo-7f3baf4e876121",
+      "category": "Brasil",
+      "title": "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático - Agência Brasil",
+      "snippet": "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcG5KZnZrVzB4OUdLLXZkTGVJMDVqcS1WSUFaUGNZajhiTHdiMFN4WXUzdkNpSjdFYjNETEZNc1BYSEx3c3cyVGdnS2ctWkd0UjctTkhzV3ZIMlRDdGVDaWI0d1YxRWVuTXJFN1hjWEpOc0xmcmRnd3NGcFF1amYxNVVsSUJ5dDVzRTJFc1dIdkhLbDA0emMyS2VVU2VNT25KV0dENGQtTFlmbkFNdHNrdjNyRnM0Q3J2aXhPYWRDcWlGcjhLTWc?oc=5",
+      "published": "2026-11-07T00:16:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático Agência Brasil",
+      "summary": "Lula vai às Filipinas buscando estreitar vínculo com bloco asiático Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "bets-voltaram-o-que-a-justi-a-decidiu-sobre-casas-de-ap-8c0ff44ac677d2",
+      "category": "Brasil",
+      "title": "Bets voltaram? O que a Justiça decidiu sobre casas de apostas - BBC",
+      "snippet": "Bets voltaram? O que a Justiça decidiu sobre casas de apostas BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE52M1NxcjdOaTlzeGNvWU1USU1pdmVOMFlNTVFRYnhIc2hyOWVPZTdTQW5kX3ZBTlFTSFJtcVI5RlprTXY0T2NHV2pvM1NMSVVDZGtEd2xKekxWUEx1bkpEaUdrTdIBaEFVX3lxTFBzNE5ZZzJtNkRSbWk0aExaUFNxSWVFQVQwV1VicUk1cWgxbkswemNvWlRreVFiN0FfMjZPaEUyTmNVVTZpaDBqMzByVUhZbEVEc0dxdnZqbU9jMWhNWDdCZWNHbXMtTGxM?oc=5",
+      "published": "2026-11-07T00:06:55+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Bets voltaram? O que a Justiça decidiu sobre casas de apostas BBC",
+      "summary": "Bets voltaram? O que a Justiça decidiu sobre casas de apostas BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "vit-ria-x-fluminense-escala-es-e-onde-assistir-ao-jogo--40e159c9303364",
+      "category": "Esportes",
+      "title": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão - CNN Brasil",
+      "snippet": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLWh2VjRWNFBOSnd2aUZuVmlhYXJHbzNTbk9tQ3lLYUQzV25ldEVVMjNmNmJ1SE1TbHFLZlRXcUFialpYZVdHS1Fia0oxUllLS2VtMVJONm0wcU1PLWlGeEQ4eDZobmk5R1ZWdDd2RDVVaTZ4U09Mbm9sQ09JRWVOX2djTnZxNFR0cC1HT3Q4SkZLclZZZFMxcHdIU1F0M2ZnV3pWT1VXQzhqaFVGdnItNEFyaFVOWFlISnpJT1NR?oc=5",
+      "published": "2026-11-06T22:03:37+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
+      "summary": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "agu-vai-recorrer-contra-a-retomada-de-tr-s-casas-de-apo-8ddfce114eb923",
+      "category": "Brasil",
+      "title": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil - uol.com.br",
+      "snippet": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
+      "source": "uol.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXNQYTFTc0FmOXNucUJvZWRidE0yNnktLWtmQXRoY3VvSk4wcVBxMEdyT0x2ejE5cVFzRlh4dFBtaVFkemlzQm1mUE9zV1dDZ0tvaDdVM3JOall2YWx4a1FmelZDbDNra05ORm1MNEMzcUcxejZmQjh4TDNidjU4TEEwSkZ5LXBHeGxkQWZqZmdZMU5rUUk0M3JlbjMwT3JESlgwc0YzYw?oc=5",
+      "published": "2026-11-06T21:38:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
+      "summary": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "lula-sanciona-lei-que-torna-obrigat-rio-exame-para-m-di-0df021acb60eed",
       "category": "Brasil",
@@ -164,6 +220,20 @@
       "tone": "",
       "dek": "Justiça autoriza três bets a voltar a funcionar em SP, e desembargadora chama proibição do governo federal de 'verdadeiro confisco' G1",
       "summary": "Justiça autoriza três bets a voltar a funcionar em SP, e desembargadora chama proibição do governo federal de 'verdadeiro confisco' G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "festival-com-alcione-seu-jorge-e-nando-reis-show-de-san-fb8297bb74efa7",
+      "category": "Entretenimento",
+      "title": "Festival com Alcione, Seu Jorge e Nando Reis, show de Santanna e Flávio José, Bienal Black Brazil e mais: confira agenda cultural - G1",
+      "snippet": "Festival com Alcione, Seu Jorge e Nando Reis, show de Santanna e Flávio José, Bienal Black Brazil e mais: confira agenda cultural G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPYlNYWktWS0ZKMVZGMFF5SmJVQXdnYzZxVW1RYnhwSzNLdFFaZ1dJak5aNDRqTjZXU2taaTVnZmk2TGdLRk9LNXFMVDdQNVlFeGl4MFAxeUVsVlBHOWxQQmwxVWpaN2F2UzV5OUFoWnBDTl9fZzlMV2ZZcHZlYlFuNmQxVzhxYnN1Y01TWDg2eldaODFxYTVOU0MzZkhLVlFUdWZQRXMyQWxwMTc4WkJiTFJTUUk4SUk1cXM3OU1wczFqeGNub3hSc21xempxUjQ0RFh5M1J2X2tJTlh2dGliSnd1RjN2S2Q4aDRWNFVab0ZIV2lwYkJicHIwSXpXNi1ZdTlvbTkzUTZ4blhYTU5PNFZIYXJ3bVZKQlZZYi1TY196WnhtZkFLTjNsa1dRM25W0gG_AkFVX3lxTE1lb0ZmRHptSG5pbWJOejNlQUdyTVR6aHRtek9rYUVtLVdkNWZ0S1lvdkhNZzdNRUwzbmR5MHJDdW1BTExEWjZOdVBjZHJwQnRheHhqdjU2NFgtNVV5dkVvTUVsUmpuVHBhbG4waTRFa2RmRjdQTS1EVTQ0OHFPaVVwMzY2c242OGRwdm1vejRmeDV0Rm9zdGtpejJJSWxaSzctTHNWRngtSlc5NTc3M3RSS0U5dTdmWXNIQ3BpVnJIMllZd0NJaUg3VmJHdUpNY0UwWDlMYi1tcmVabDV6VUFwY0ZwdFFjeGVramljazFfR0tZYjBIaktxaldvQklRSmNqdUE4MmdaZi1qcEdLVDVYOC0xY2tneHhnVjJqVVk0RE9WUEV1TTFqclZTSkE5NnhVVDRkSmF5TzZ0LTB0TkE?oc=5",
+      "published": "2026-11-06T08:00:01+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Festival com Alcione, Seu Jorge e Nando Reis, show de Santanna e Flávio José, Bienal Black Brazil e mais: confira agenda cultural G1",
+      "summary": "Festival com Alcione, Seu Jorge e Nando Reis, show de Santanna e Flávio José, Bienal Black Brazil e mais: confira agenda cultural G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -629,6 +699,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "sde-e-secitece-lan-am-plataforma-digital-cear-vale-para-5a98ef6be2be7e",
+      "category": "Tecnologia",
+      "title": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado - Governo do Estado do Ceará",
+      "snippet": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado Governo do Estado do Ceará",
+      "source": "Governo do Estado do Ceará",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPblZSVWpHR2hoNG9rS1pPV3gtQ0tUMHF2Zkt4VlFjSEFCYlBvNTJBUmRIOWZZZHdFRFJ5OW5RZkMyNkZpRzNQeG9rRVlpbnNJY3VwakE2S2Z6Z1p0amNWNFlEYUtRWVdOZGZXNDN4V2JIZlBpdk8yWUUxWnVZbnUwYTNud0Yxd1VCbVNaMWlBRnR6eElIcUVxYUVYbWFfN3dMZWJaNmdfVVFvNkxtb3lDaWc4dGtXT2QtaWFlN1NJQ3Fjd2hpLVhoVDBfVlhvUXpwanhqSnJRVUJBd1o4ZWZFQ3RremI?oc=5",
+      "published": "2026-11-05T17:43:31+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado Governo do Estado do Ceará",
+      "summary": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado Governo do Estado do Ceará",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "sde-e-secitece-lan-am-plataforma-digital-cear-vale-para-ee8b72840bfd23",
       "category": "Tecnologia",
       "title": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado - Governo do Estado do Ceará",
@@ -766,90 +850,6 @@
       "tone": "purple",
       "dek": "Fortalecimento da cooperação em ciência, tecnologia e inovação entre o Vietnã e a França. Vietnam.vn",
       "summary": "Fortalecimento da cooperação em ciência, tecnologia e inovação entre o Vietnã e a França. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-jogo-de-futebol-ca-tico-no-brasil-que-bateu-recorde-m-226d38534b9381",
-      "category": "Esportes",
-      "title": "O jogo de futebol 'caótico' no Brasil que bateu recorde mundial de cartões vermelhos - BBC",
-      "snippet": "O jogo de futebol 'caótico' no Brasil que bateu recorde mundial de cartões vermelhos BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jNnFWNFdmRXhoRzlZSjgzb2p0Wk4xckROWnM1YTZJMFd4aVBVMkgyYVdUM21zS0hFZGZHZnlSeTh3Ry1HTFphai10SlpmRTRxN05pcFNiTDZad0RQdFMyTW5HQdIBaEFVX3lxTE1CZ0ZSMnZXSDItSDZFWHBsRGcxSHVyd0VWbDdVMU1hdS1zQmZJdDFBdGRYa0xPaC1lOXgweWNEVnFET05WX0ZESGVfZHpuZERGUTlKV1VNUmE4Z1B1YUtYaEtyaDNMZXZy?oc=5",
-      "published": "2026-11-05T10:45:34+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "O jogo de futebol 'caótico' no Brasil que bateu recorde mundial de cartões vermelhos BBC",
-      "summary": "O jogo de futebol 'caótico' no Brasil que bateu recorde mundial de cartões vermelhos BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "corinthians-tem-desfalques-para-final-contra-botafogo-c-212dc8061324f8",
-      "category": "Esportes",
-      "title": "Corinthians tem desfalques para \"final\" contra Botafogo - CNN Brasil",
-      "snippet": "Corinthians tem desfalques para \"final\" contra Botafogo CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjN3dzRrTnd3WmRDUEdOb0taZ2UzYVRnTXhKYV81V2M0dmx2TXVoM2hSeF9ob0NSblpKS1gyQ0I2b1Q0ZFZWRXU2VkRrSVpsbC1mZEpCNEJ1UDlCVmFBOC1seXF1aGloUGRKd3JvaGxnQTlJMXJQNWNxd1pxMnhsMF96NERXMi1QQ0puNC1NeHcxeUtJeWhoczZUUVRXbEVEenRzVVJIRVByaTdpM2M0TGFB?oc=5",
-      "published": "2026-11-05T10:45:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Corinthians tem desfalques para \"final\" contra Botafogo CNN Brasil",
-      "summary": "Corinthians tem desfalques para \"final\" contra Botafogo CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "entenda-as-elei-es-de-meio-de-mandato-do-presidente-nos-b5685c7aec3f21",
-      "category": "Brasil",
-      "title": "Entenda as eleições de meio de mandato do presidente nos EUA - Agência Brasil",
-      "snippet": "Entenda as eleições de meio de mandato do presidente nos EUA Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjE2NjBaT01DQmh4RDlGel82X3lybFZFbjl6U1JEM2luMjZjS3ZfYkRCTWhRQjhyVm9pX1pIMFNHbi1mM2pQc2dZVkxiWHZzWDZuSVd4VURyS240ZTdadF9QMllYWTYzbm1DbkdHcTRxNUViUEcxTEExc0NxNXlpNFdaal9XY3ozZWZnakdkNjJRVUVhZHRraWdMZE1RWk5nT0M1X0NDN2V6N1JsUzBLZTRpVnNQSEhxMmxlWA?oc=5",
-      "published": "2026-11-05T10:28:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Entenda as eleições de meio de mandato do presidente nos EUA Agência Brasil",
-      "summary": "Entenda as eleições de meio de mandato do presidente nos EUA Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ampliar-a-coopera-o-em-ci-ncia-tecnologia-e-inova-o-vie-a4e5597c997f5b",
-      "category": "Tecnologia",
-      "title": "Ampliar a cooperação em ciência, tecnologia e inovação. - Vietnam.vn",
-      "snippet": "Ampliar a cooperação em ciência, tecnologia e inovação. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdHU0bXQwUlV6eU1TUlByc3NDWWdPQ1BZUnUzZllmdkVRbFRoUURfVWp0OWpsdzk3aUYwYmZYeTZKLVJBYUthNTJlLVQ0eHZuVV9nYmludDJzMk5VZXdtLUxySjBzSkVrMDJVdDk3R2FaR19MazZqSEVQZTE2a2VybGR2Z1Z5dkY5UFRSaV81N0xZQQ?oc=5",
-      "published": "2026-11-05T09:15:36+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Ampliar a cooperação em ciência, tecnologia e inovação. Vietnam.vn",
-      "summary": "Ampliar a cooperação em ciência, tecnologia e inovação. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "elei-o-nos-eua-press-o-de-trump-sobre-governo-lula-n-o--2226b8e27f45b4",
-      "category": "Brasil",
-      "title": "Eleição nos EUA: Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas - BBC",
-      "snippet": "Eleição nos EUA: Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1DNzdLdUdONlVWMl9vWEFCNm1QdEVOZmU0TG5ncVc1Ym54S0FDNXFIY2ZxbGI2MVU2R2c1bGJXWnFFZ00yZ3haTGtxZE1MeGZIbDBxVFl5dnMza0dFRjJ1T1lLONIBaEFVX3lxTE1hdUNVSWxreklpTzdQVzdfMm44NzBnTy1ubUw4cmF4RHhCZjhqR2pDVFpqUk5Wdjg5cF9XdW45Z3YtSjhpZ2ZxVEd4cTR0eFVuU0lUT3ZDUVFLYnFrcVN1M1ZzNWJkVnVm?oc=5",
-      "published": "2026-11-05T08:50:13+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Eleição nos EUA: Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas BBC",
-      "summary": "Eleição nos EUA: Pressão de Trump sobre governo Lula não deve ser aliviada com vitória democrata, dizem analistas BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cruzeiro-x-bahia-hor-rio-e-onde-assistir-ao-campeonato--cf565c5a45f5b7",
-      "category": "Esportes",
-      "title": "Cruzeiro x Bahia: horário e onde assistir ao Campeonato Brasileiro Série A - CNN Brasil",
-      "snippet": "Cruzeiro x Bahia: horário e onde assistir ao Campeonato Brasileiro Série A CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPQ3VUc0tIYnlVZzBzZDNfRnZ2S3hWVmt3TFBwR1pOX2pON2Z6ZkFRWC1iT25MR0x1aTVQUWJUdHN6Z09SUWRZZTBQUFpyVk1YMVJ2Q2Y4c0M2X3RmcWlQOXdESkQxdE1pRHFKM3lKVGtwSEtHeURuYkdmRjBPNHFYaF9IQUpubVNxbkZMMXlhZGlGZXhMUzhNeWNUWWFwaGQ4WEs4TFFLOGRzZVpFUy1wRjRUX01mSW95YW0wOTE4R25TdWVibHNualpEWlhXSDBvRVlyUlRVRFlmdw?oc=5",
-      "published": "2026-11-05T07:00:25+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Cruzeiro x Bahia: horário e onde assistir ao Campeonato Brasileiro Série A CNN Brasil",
-      "summary": "Cruzeiro x Bahia: horário e onde assistir ao Campeonato Brasileiro Série A CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
