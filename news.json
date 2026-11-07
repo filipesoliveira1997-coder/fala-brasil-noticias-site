@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T01:16:20.703747+00:00",
+  "updated_at": "2026-11-07T03:00:19.945139+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "dos-14-pa-ses-que-mais-compram-do-brasil-13-aumentaram--ba3d530c0b8069",
+      "category": "Brasil",
+      "title": "Dos 14 países que mais compram do Brasil, 13 aumentaram as importações em 2026 - G1",
+      "snippet": "Dos 14 países que mais compram do Brasil, 13 aumentaram as importações em 2026 G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNS01BcS1DbVBDOGh4cnhjTS1xZ203NmNqTzh2V3VKWTRsM0NDZHNhMnh4T19WUkY2d1JTUjRRcnBxVGNpUlprNVZpS0d0aHpldzNMX1VZMTJ4SFRnNUt5QXo3c2FGV3BzYmF0RUVLU1k5aUJ3alRWRWNtQ24xc0hWZ2twNENmU29ud253ay1ybk1zaGZxS0xwLVdYV0NPNkRYNlMxTlBEMnlYNjhEZXozMUhsSmNvVFRMbGRfTEo1N2QzdG1jbTl6Z0dVZHJGN0J1cmtVaHJn0gHkAUFVX3lxTE9SWnloT0RmckR3b3kyR2pvRk54TGhlNkMydnc1eFVLX1M2a1pRMGVjYWQwN0pOT0Z3c2FWTVZUNUZHb2ZzY1o4bVBwMFRaT3lHVTZjZHBqX0Z6cUtzVWlxNmZudmtibDBJbml4R09xMklLVlk4M0VjbTZESlhzcFpYVzJ3ck0zaFU4MmRzZ2RmWGZxMjgzMDdzNndJbU5TRXpXbHk0Z2ppSzdoRFNtRzQwb2tyYzFkSmZsb1o1Nml5NlJvekFhWWhEc0R5cmREVjJBaU5fY2pVcWMxdzNBZ25DZjJjSg?oc=5",
+      "published": "2026-11-07T00:52:25+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Dos 14 países que mais compram do Brasil, 13 aumentaram as importações em 2026 G1",
+      "summary": "Dos 14 países que mais compram do Brasil, 13 aumentaram as importações em 2026 G1",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "lula-vai-s-filipinas-buscando-estreitar-v-nculo-com-blo-7f3baf4e876121",
       "category": "Brasil",
@@ -125,6 +139,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "moledo-se-desculpa-por-erro-contra-o-inter-e-denuncia-a-3244c813bb88a4",
+      "category": "Esportes",
+      "title": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família - CNN Brasil",
+      "snippet": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSW5Da0VteGxPZTlIaFh4WTZHdHdaSXlfMDA0UkI0ODdfbWJzU3ZDVGowM2pJUVB1bG56RC1NMWJNQUh1YjJjOWlIZzc3bExhVmVTc25CaXFZZmtkZ3R2aWtJRHpqR1FWNHQ0bFJ3YW9nWnZvYVhIRkFMZkVyR013cGhLUHJaWmRpd0N6S2Q3eTk2aUUyLXQxdVh5WklhQldpYV9uTmlTTDlyTVhERW5IRzVrYUN0M0c5THM5OEZIdTI0WkxXUFE?oc=5",
+      "published": "2026-11-06T18:02:09+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
+      "summary": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "pol-cia-federal-espera-mudan-a-para-novo-minist-rio-da--31bb747acc2871",
       "category": "Polícia",
       "title": "Polícia Federal espera mudança para novo Ministério da Segurança Pública - Sociedade ON",
@@ -136,6 +164,20 @@
       "tone": "red",
       "dek": "Polícia Federal espera mudança para novo Ministério da Segurança Pública Sociedade ON",
       "summary": "Polícia Federal espera mudança para novo Ministério da Segurança Pública Sociedade ON",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "governo-lula-estabelece-diretrizes-para-reduzir-gradual-2954e00e135149",
+      "category": "Brasil",
+      "title": "Governo Lula estabelece diretrizes para reduzir gradualmente dependência de combustíveis fósseis no Brasil - Governo Federal",
+      "snippet": "Governo Lula estabelece diretrizes para reduzir gradualmente dependência de combustíveis fósseis no Brasil Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNMkkxTWlHUjJna0NWTktsc1NGU05iaVE2eEg2NHhuRnViYVpaMkM0U1N2YkJMSWliRFJBbzlodkxVQzZmMlNPNnhDNXcyM2lzNGplM0tOZ3dPVG96dy1JRU5EcjhVUkR1eG1aZUphallaWEkzekVQNDMyRlBad3FGZEp5RFpJRnh0b0tGbl93STFmcDhhVXFVb2dLN1RQeVpjNzh5WUlnaG0yQlhEdWM2WEd2aEZCNWxpYVRvbWdmYngzYmlPTm9tQ1A0STVsb2FkbGtBX2t3eWlEZVpz?oc=5",
+      "published": "2026-11-06T16:39:18+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Governo Lula estabelece diretrizes para reduzir gradualmente dependência de combustíveis fósseis no Brasil Governo Federal",
+      "summary": "Governo Lula estabelece diretrizes para reduzir gradualmente dependência de combustíveis fósseis no Brasil Governo Federal",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "",
       "dek": "Ministro diz que novos impostos não trazem aumento de carga tributária Agência Brasil",
       "summary": "Ministro diz que novos impostos não trazem aumento de carga tributária Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ex-dirigente-da-associa-o-japonesa-de-futebol-anuncia-c-84f6b9abaa953c",
-      "category": "Esportes",
-      "title": "Ex-dirigente da Associação Japonesa de Futebol anuncia candidatura à Fifa - CNN Brasil",
-      "snippet": "Ex-dirigente da Associação Japonesa de Futebol anuncia candidatura à Fifa CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMDZ0RkxKOGMyN2tMNU9xS0s0LTd1VnloYjI2WnFrYnZ2RDBFUWNva1pOTmdKNXhCeXo5SWlTZHhsWWxnd1RySW1XSTUyWEU2YXJlcHVNTzRodDFtMjJYeFlnckJNOVdRa1daMkdhb3RnTXpnYnF6TkdyRFBFeHZhUlBmOG40WHJKWEdxVGRmZ2FWaUV6aUZ2UWNOQWY0VEZHNTFfeWpzRjg3UVhLU2JMQ01xVjRYVmI1NUNLWXdRYkNkSDc1dEpHZ1VkejFBUmFBYlJyZ1JONW9BZw?oc=5",
-      "published": "2026-11-05T12:50:23+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Ex-dirigente da Associação Japonesa de Futebol anuncia candidatura à Fifa CNN Brasil",
-      "summary": "Ex-dirigente da Associação Japonesa de Futebol anuncia candidatura à Fifa CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "futebol-brasileiro-amplia-receitas-e-atrai-novos-neg-ci-e3534e76be366d",
-      "category": "Esportes",
-      "title": "Futebol brasileiro amplia receitas e atrai novos negócios - CNN Brasil",
-      "snippet": "Futebol brasileiro amplia receitas e atrai novos negócios CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNTIwc3dkOU1GZVg3U2JaTlk3cXdFRWREMENscFZibFEwV2djVVZSZFpyNVl2ajBHNTl2blZhdTJTbkRrTDhzY0ZqRHZ3MTBEdjVrSzdaTElZcGVlMFI5R18wSkxUZ2lkQ2d1YnpEY3RBRFRBVDl1M2s4WWV5c3czeFlxSklMQTQtTWNWeHhjX2UwOF83bm42MzVZaXZVb3A2a0xYZEVOUzlTdFI1eU9WWlN3?oc=5",
-      "published": "2026-11-05T12:00:29+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Futebol brasileiro amplia receitas e atrai novos negócios CNN Brasil",
-      "summary": "Futebol brasileiro amplia receitas e atrai novos negócios CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "fortalecimento-da-coopera-o-em-ci-ncia-tecnologia-e-ino-6f2aeee9571c07",
-      "category": "Tecnologia",
-      "title": "Fortalecimento da cooperação em ciência, tecnologia e inovação entre o Vietnã e a França. - Vietnam.vn",
-      "snippet": "Fortalecimento da cooperação em ciência, tecnologia e inovação entre o Vietnã e a França. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQl84cDhUeW13N0tNRFM0UXpnSldpdEpOa19TTzdCa3pOZVZrRlFGRi1sdzFSNktrNElnTFRwZ1B1d1dOM1dldkpCTGt6ckZ2eVdwUnlwZHRNV01ESFFqZ3lQdk5JNU5rX1ZiY1lfT3JCYi1MdTNmZGFOaGQyQU9XRVhzQ0ZNbS1yLUY3ZEt2WnU3bElmN3F6dXZ2RlJlQlZKRG9aOQ?oc=5",
-      "published": "2026-11-05T11:38:36+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Fortalecimento da cooperação em ciência, tecnologia e inovação entre o Vietnã e a França. Vietnam.vn",
-      "summary": "Fortalecimento da cooperação em ciência, tecnologia e inovação entre o Vietnã e a França. Vietnam.vn",
       "summary_by": "descrição da fonte"
     }
   ],
