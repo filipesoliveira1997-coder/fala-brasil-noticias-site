@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T03:00:19.945139+00:00",
+  "updated_at": "2026-11-07T05:02:28.027943+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "gonet-pede-ao-stf-que-suspenda-todas-as-a-es-sobre-bets-08489c4593aa7f",
+      "category": "Brasil",
+      "title": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil - UOL Notícias",
+      "snippet": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3oxRHNuTVNyYV9jeTBLTTh0Q2V5QTF6SXlrYzM0a0pxdUIyUXlTVjcwMGNsamZuNTRtS2Q0SUNBVlYxNUhrVmdBTFhfWkZCSnpIRmVlYVMxdFFGUHMwVkwwUHJkUlJsSE1wOVpfa3hGclNwYmo4cl8xRnItZlExR2xLM3ZabUsxNUJRbjJ4YTlHWExnemNfLUhEaEsxdDdXdTI1YUkydTVRQTVWdUxvS09xdy1WX24tNXRNMDFYeDM5Y2hQakxv?oc=5",
+      "published": "2026-11-07T04:28:11+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
+      "summary": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "dos-14-pa-ses-que-mais-compram-do-brasil-13-aumentaram--ba3d530c0b8069",
       "category": "Brasil",
@@ -69,6 +83,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "1941-o-decreto-que-proibiu-mulheres-de-jogar-futebol-no-9cb9ea3f78719a",
+      "category": "Esportes",
+      "title": "1941: o decreto que proibiu mulheres de jogar futebol no Brasil - Espaço do Povo",
+      "snippet": "1941: o decreto que proibiu mulheres de jogar futebol no Brasil Espaço do Povo",
+      "source": "Espaço do Povo",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTdtUDM4LU81dWNxUmFPQkJGRzVqRElSd0ZoVGpCbzZEQjFmSE94LXBqbFlzdkF6a0RiMkRPZFhYQmNFdzgwTHFLT2JZVGhpdUZtUXEwU3dVSU5PQVNtR0RFRy1UUHhZX2dJb2haT3JaQkFiS3IyR2RkR3QyUHpFTw?oc=5",
+      "published": "2026-11-06T21:52:21+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "1941: o decreto que proibiu mulheres de jogar futebol no Brasil Espaço do Povo",
+      "summary": "1941: o decreto que proibiu mulheres de jogar futebol no Brasil Espaço do Povo",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "agu-vai-recorrer-contra-a-retomada-de-tr-s-casas-de-apo-8ddfce114eb923",
       "category": "Brasil",
       "title": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil - uol.com.br",
@@ -80,6 +108,34 @@
       "tone": "",
       "dek": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
       "summary": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "jpmorgan-mant-m-brasil-entre-mercados-preferidos-ap-s-a-7434d63047f82f",
+      "category": "Economia",
+      "title": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas - MundoBA",
+      "snippet": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas MundoBA",
+      "source": "MundoBA",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMENuaGZ2Y3k3LXZrSzZ6Ym52Nzk0Q2RmQTNuY2JBQ1M3aUtUbWI3U2hIblI0QjZqbUlBcDVrcHBBckpKeDQycjhWX3lRZkdINDlLcHBzbDZLQU1MWTl2M1Rrd1VBd1R0U0NvdkIzMllXYjVIR1pRZlV0bTJCSEVzbERxenBaWWR5Umk4ODI1SXgxMjI2eXBBSi1mVUxyN2UyTnY5X2s1WUNORFlEZDZMWExHOWxWQQ?oc=5",
+      "published": "2026-11-06T21:25:00+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas MundoBA",
+      "summary": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas MundoBA",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "justi-a-federal-rejeita-a-o-de-improbidade-contra-bolso-01211e4316ed0c",
+      "category": "Brasil",
+      "title": "Justiça Federal rejeita ação de improbidade contra Bolsonaro - Agência Brasil",
+      "snippet": "Justiça Federal rejeita ação de improbidade contra Bolsonaro Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbXBuS2xwVHd2N29FQVd0OU9naWY2Unh0cGU3TENyQ0d3TVA1WUt3Yk1vT1l3bUZ6VXVhU1JQdUU3UGpuQ2dsR3ZPakVIMVhDR2RNNXlzSFNFTW5pb3ExQ1lEeWt3bGx1Ym11dE5fNkJaMHFBVU1oZWU4d2U5STUxTl9yOVhWbUdWMGtwdF9xMzNCTDVRUFpVYVl2c3Z0ZHFLNS15WG1HWUpKWXVvZnlqRzJsWkgzb1hh?oc=5",
+      "published": "2026-11-06T20:39:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Justiça Federal rejeita ação de improbidade contra Bolsonaro Agência Brasil",
+      "summary": "Justiça Federal rejeita ação de improbidade contra Bolsonaro Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "",
       "dek": "Vírus 'de fábrica' em TV boxes afeta 150 mil aparelhos só no Brasil UOL",
       "summary": "Vírus 'de fábrica' em TV boxes afeta 150 mil aparelhos só no Brasil UOL",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "renata-mieli-assessora-especial-do-minist-rio-da-ci-nci-78e33c27f23334",
-      "category": "Tecnologia",
-      "title": "Renata Mieli, assessora especial do Ministério da Ciência, Tecnologia e Inovação do Brasil, defende governança digital centrada nas pessoas - Portuguese Cri",
-      "snippet": "Renata Mieli, assessora especial do Ministério da Ciência, Tecnologia e Inovação do Brasil, defende governança digital centrada nas pessoas Portuguese Cri",
-      "source": "Portuguese Cri",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE54bGlRalRYdGVONWtDQmFKWEQxNFJLaDdyd1FYd3d6SDVyZndNNnFYS1otNExvLW4yaE9mZ1NiMGc2QUR6aU9DUGhnS0J3ZXk1S0M0ZDN4SFU4UlJUWGkzeDRQXzNlMVVZ?oc=5",
-      "published": "2026-11-05T16:27:03+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Renata Mieli, assessora especial do Ministério da Ciência, Tecnologia e Inovação do Brasil, defende governança digital centrada nas pessoas Portuguese Cri",
-      "summary": "Renata Mieli, assessora especial do Ministério da Ciência, Tecnologia e Inovação do Brasil, defende governança digital centrada nas pessoas Portuguese Cri",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "google-derruba-esquema-que-controlava-1-milh-o-de-tv-bo-0b11b684f61386",
-      "category": "Brasil",
-      "title": "Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado - G1",
-      "snippet": "Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNamNDUmhPQ0RvTkR6eE5ISXVYR2dkVFdBeHFyMl8yOXZYLWZhaUJEZmlLSGtkdE00Ykl1a1lqcWZRamhHUG15WFpPVS00N2RycE5kYUZDMC1mZ3BOTWdYY3lWTGVqQUdUWDA5bEo0M0ZXSXlVNGFjWDN0RnBoMnE5Zm1VSm8tSEN5VFhKSno1MExRQmJVZW4yQmFMTVBTQ0JHeWt0R0R5N0F3UllaSW5OeWRoQlAySFhJbGlmRGx0VTFlQUQ5UlJ3dUJGUzRUbTFmY3BVQmZfelRLVE5wZFdRckxKSzM4UkZsZ3F3ZmZrUmbSAf8BQVVfeXFMTi1LWFY0TWhrN3kzbk0xWTdEUTRoSFdQeUtvQ1BiU1hfbFFRZWtHVDBLaWd5THphdHVnQlhaZjR6UEtHeEY2Rk1jYWZEVDROb2Y4cWdfWUVLZ0xWbUp5b3NjZk42Q3RlWHdwZmZsLVFKY3NFZVJMalBoTEhQbVJ1RUxsWFNrS0V0NHNyUEZhUEdTUWYzWU56ZjAtbHlPbTctX0d0QWlnWm1UeWVvdU9nbkRLRVdpMlR3TC1DZ3JGOHZ5RTlBaUVkUTAzNEdkc3VsNG1UcmFyQnVvdFJteVN1b2VDbmxYVTZHUkVCVEE3Zld1MF9SMzZKLWVRbzZBNXRN?oc=5",
-      "published": "2026-11-05T16:01:11+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado G1",
-      "summary": "Google derruba esquema que controlava 1 milhão de TV boxes infectados; Brasil é o 2º mais afetado G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ibge-anuncia-concurso-com-27-mil-vagas-tempor-rias-em-t-5a377854745461",
-      "category": "Brasil",
-      "title": "IBGE anuncia concurso com 27 mil vagas temporárias em todo o Brasil; veja salários - G1",
-      "snippet": "IBGE anuncia concurso com 27 mil vagas temporárias em todo o Brasil; veja salários G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVUtmZlpkekFXRWVLbUlxLWk0Y3JVU2YyMUdiMnFGYTkzZ3BJXzJBRU9YU21jaWJ2SUh0dF9QRWFPYnFNREZQemN0V2ZJMEZSS0U1dmg4NUh2eS1tMXJzdFlSQldFNTZycHZjSlJSSExYVTVEeXIzUXFfcnZlSXUxQXhNamVEYVVCOEcwN1VSV3R5TXhQZXRKMmtDT0ZhS29PM0h4aVNibkExVU5Kd2xlUmJiY21nNndkSFg0YVV1N3lVeHNNZUR3a1lOblR5TU1RTWsyeENpZE9oLVRTTDN5VTZTcDJWOW5KY2JlcnNn0gH8AUFVX3lxTE9ZdHVVU1M0TjlFV1N5QWlkVDlhTEhjODFQXzVlOHltQ1dXMFdQMEFEMl9rS01kSkJRcDZPSVo1S1J6cW14eVBVZHI5UzhjbEFLaDkyUEVYYVo0OEVGbDRSZzdVV0VFcTlDbm1QYTJfbDVWbHhHaS1KWjVpWmx0ZS1fMlI5MzBrYzVUcFo2RUUxd3d3ZnNDeE12ZklSamlnOVAwdUJrVFJ4V1ZYQU53S29JbTh4eldxZjd5TjIxekg3cFN1c1NZNzFuMVZ2ZHl5dEtKQTd1UWhWcXVpREpNb0ZIYnJFcTlZWVBFNjIxX1NHUHU4TzFkamdMLVVGYw?oc=5",
-      "published": "2026-11-05T14:26:01+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "IBGE anuncia concurso com 27 mil vagas temporárias em todo o Brasil; veja salários G1",
-      "summary": "IBGE anuncia concurso com 27 mil vagas temporárias em todo o Brasil; veja salários G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ministro-diz-que-novos-impostos-n-o-trazem-aumento-de-c-958ad7b595c100",
-      "category": "Brasil",
-      "title": "Ministro diz que novos impostos não trazem aumento de carga tributária - Agência Brasil",
-      "snippet": "Ministro diz que novos impostos não trazem aumento de carga tributária Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNWhUUGxrWmlxcHIyWlRId19aVGhlY2tZRzAtWng4Mkp1aEhlSllsVUNTSTRIVmxDUmd6cWc0OEs3LTJqWDBnc0ZaeHV0RlRHQ2lydmI2MFBtUGk4RjhIVzBqbW8zdnV6M0h3UDNxRGpOajN4aU83Y2RQdjZrdGVHbnlBcnN4LUc2aHNTLUlhUHdWYmFfSV80UEI5aWxyd3V0Y2MxS0ttcXd1RXR6Y01OTWdoclV5a0NhbFBWZzE3M0JydS1qcFY4?oc=5",
-      "published": "2026-11-05T14:17:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Ministro diz que novos impostos não trazem aumento de carga tributária Agência Brasil",
-      "summary": "Ministro diz que novos impostos não trazem aumento de carga tributária Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
