@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T07:15:58.980034+00:00",
+  "updated_at": "2026-11-07T09:00:50.549858+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -19,7 +19,7 @@
       "snippet": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
       "source": "UOL Notícias",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3oxRHNuTVNyYV9jeTBLTTh0Q2V5QTF6SXlrYzM0a0pxdUIyUXlTVjcwMGNsamZuNTRtS2Q0SUNBVlYxNUhrVmdBTFhfWkZCSnpIRmVlYVMxdFFGUHMwVkwwUHJkUlJsSE1wOVpfa3hGclNwYmo4cl8xRnItZlExR2xLM3ZabUsxNUJRbjJ4YTlHWExnemNfLUhEaEsxdDdXdTI1YUkydTVRQTVWdUxvS09xdy1WX24tNXRNMDFYeDM5Y2hQakxv?oc=5",
-      "published": "2026-11-07T04:28:11+00:00",
+      "published": "2026-11-07T06:14:32+00:00",
       "image": "",
       "tone": "",
       "dek": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
@@ -66,6 +66,20 @@
       "tone": "",
       "dek": "Bets voltaram? O que a Justiça decidiu sobre casas de apostas BBC",
       "summary": "Bets voltaram? O que a Justiça decidiu sobre casas de apostas BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "marc-o-abre-o-jogo-sobre-o-futuro-e-se-coloca-disposi-o-168f616aecf1fc",
+      "category": "Esportes",
+      "title": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027 - CNN Brasil",
+      "snippet": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027 CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEtBbS14dk13Vmo5UlF3eTc1UWNhRXpxSFBzUzIwMklIUlk5NE0ydW13OUFfRUZoLWt2OEVRS3VxUENFVWpJNnd3RTZOM1VEYnhrYjhJMGZxalhvb3NKNjdUaE9KUmRERGZhNHdlLTJiUXkzVVBZWkVha0FueVE2SjlwOUpiMXQwcXZqR05TRHpOTGZoQ2xKa0pJUUZnSmxRRHJkNHI2VTFfN2JzVDNxdmFJbENIM3V0azhGUG54RTV2X1JV?oc=5",
+      "published": "2026-11-06T23:49:16+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027 CNN Brasil",
+      "summary": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027 CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -223,6 +237,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "nubank-e-mercado-pago-suspendem-opera-es-de-criptomoeda-ce2d9505e19473",
+      "category": "Brasil",
+      "title": "Nubank e Mercado Pago suspendem operações de criptomoedas; entenda - CNN Brasil",
+      "snippet": "Nubank e Mercado Pago suspendem operações de criptomoedas; entenda CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPN1RMRWhHLXlmM2dIOVM1VEI4U3lVaU1iYTZnNThsTGx5Sm1IOHhNZ1BCMEhTWXJIQmdnM3BiNVVkZm1HOVY1ZnNfeHZWM2g2LWFId3NaZXhCYTZmSUR1azlCZzVpc0d4Tjh0QnFQbmZTRE5YM052YjdZc0llSWxxSGU0ZzVtQTZIODRZdjEyTFYxd1RxZHhjcV81a2JCNWZzdDZiUzg5bksyNldkVmMzbUJrWC14OUJMU3c?oc=5",
+      "published": "2026-11-06T16:50:59+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Nubank e Mercado Pago suspendem operações de criptomoedas; entenda CNN Brasil",
+      "summary": "Nubank e Mercado Pago suspendem operações de criptomoedas; entenda CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "governo-lula-estabelece-diretrizes-para-reduzir-gradual-2954e00e135149",
       "category": "Brasil",
       "title": "Governo Lula estabelece diretrizes para reduzir gradualmente dependência de combustíveis fósseis no Brasil - Governo Federal",
@@ -262,6 +290,20 @@
       "tone": "",
       "dek": "Governo altera regras da perícia para concessão do auxílio-doença Agência Brasil",
       "summary": "Governo altera regras da perícia para concessão do auxílio-doença Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "alckmin-favorito-da-pf-e-prf-para-chefiar-minist-rio-da-d6d7127f2c4b21",
+      "category": "Polícia",
+      "title": "Alckmin é favorito da PF e PRF para chefiar Ministério da Segurança Pública - Brasil 247",
+      "snippet": "Alckmin é favorito da PF e PRF para chefiar Ministério da Segurança Pública Brasil 247",
+      "source": "Brasil 247",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNNDZ4c1MxUzM1UUNRajM1Q1hvaDN5MWVLVDRxaldQODhUUkpPRG9jSmdWLTZBNXdKRDVMa1FKb1AtUTNVMmxueldnVlA3bHpvNmZCcXVWUHhva19OcjV0T2RFeXlmcnVmYXVOOUl3eHg1Umo0S09BMnRvTGsyemMwWkdxb2ZCa2hrS3BrV1hYQU44WEFMcVRVdTJWOG1CeURwMGs1ZkdLUy1IQTRh?oc=5",
+      "published": "2026-11-06T14:16:45+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Alckmin é favorito da PF e PRF para chefiar Ministério da Segurança Pública Brasil 247",
+      "summary": "Alckmin é favorito da PF e PRF para chefiar Ministério da Segurança Pública Brasil 247",
       "summary_by": "descrição da fonte"
     },
     {
@@ -673,9 +715,9 @@
     {
       "id": "cgee-completa-25-anos-e-projeta-o-brasil-de-2051-minist-bb54881a67e8fe",
       "category": "Tecnologia",
-      "title": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação - GOV.BR",
-      "snippet": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
-      "source": "GOV.BR",
+      "title": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação - Governo Federal",
+      "snippet": "CGEE completa 25 anos e projeta o Brasil de 2051 — Ministério da Ciência, Tecnologia e Inovação Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSG8xTmttUXNkZGowdnhJeG13NUVXR1ZzclNQcTZnWVZhcjdwc3VoWU1TNkNkVktkeERYd0RZNHZkcGFXQldGSDlDNHRoZ01IUVh2U2liOHlvOEFlNmRTRXBpZlByNE9sUGg5QXR0bDM2M2xaZk1nYnB2TlF6R3cycXlYaGVCeUVFZjk1UnRkblZKdDlTeDJkemFmazFmXy0zSi1EaWU3V0JOa2dHVnZ1RjdR?oc=5",
       "published": "2026-11-05T20:11:19+00:00",
       "image": "",
@@ -808,48 +850,6 @@
       "tone": "purple",
       "dek": "Dia do Designer Gráfico: como o visual ajuda a construir a identidade da cultura e do entretenimento capixaba A Gazeta",
       "summary": "Dia do Designer Gráfico: como o visual ajuda a construir a identidade da cultura e do entretenimento capixaba A Gazeta",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "sde-e-secitece-lan-am-plataforma-digital-cear-vale-para-5a98ef6be2be7e",
-      "category": "Tecnologia",
-      "title": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado - Governo do Estado do Ceará",
-      "snippet": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado Governo do Estado do Ceará",
-      "source": "Governo do Estado do Ceará",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPblZSVWpHR2hoNG9rS1pPV3gtQ0tUMHF2Zkt4VlFjSEFCYlBvNTJBUmRIOWZZZHdFRFJ5OW5RZkMyNkZpRzNQeG9rRVlpbnNJY3VwakE2S2Z6Z1p0amNWNFlEYUtRWVdOZGZXNDN4V2JIZlBpdk8yWUUxWnVZbnUwYTNud0Yxd1VCbVNaMWlBRnR6eElIcUVxYUVYbWFfN3dMZWJaNmdfVVFvNkxtb3lDaWc4dGtXT2QtaWFlN1NJQ3Fjd2hpLVhoVDBfVlhvUXpwanhqSnJRVUJBd1o4ZWZFQ3RremI?oc=5",
-      "published": "2026-11-05T17:43:31+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado Governo do Estado do Ceará",
-      "summary": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado Governo do Estado do Ceará",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "sde-e-secitece-lan-am-plataforma-digital-cear-vale-para-ee8b72840bfd23",
-      "category": "Tecnologia",
-      "title": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado - Governo do Estado do Ceará",
-      "snippet": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado Governo do Estado do Ceará",
-      "source": "Governo do Estado do Ceará",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPV0dTUGFidXpjeDdJdGpLdlVuNm5xSG5hdVE0N0hYcGFOQWlhTVcyalAxNVVVZ3VJX2lxODY1LWpXT19mU2VhNU1rWDVkWmgtd0RQSW1fRGpYamRjRkZkVW1DbDBrYVBXQ0tGVVludWxHenNWMnBkLVhiRW05YlF5SS1zbHZEeGRtV29CSDJic0N2UDlWTXNNVzF6VVg4RmVNVUhVWnluaXJ4OHpoLWdCbjRtV2lGa3RoMkhXXzBTYUYwTUQzUXBqRXFZbGs5UFRfM0hWVXVFYUZqZHk0RkJJ?oc=5",
-      "published": "2026-11-05T17:26:17+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado Governo do Estado do Ceará",
-      "summary": "SDE e Secitece lançam plataforma digital Ceará Vale para integrar ecossistema de inovação e tecnologia no estado Governo do Estado do Ceará",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "presidente-do-paraguai-renuncia-em-meio-crise-banc-ria--7a4e5fe3a43634",
-      "category": "Brasil",
-      "title": "Presidente do Paraguai renuncia em meio à crise bancária; vice assume - Agência Brasil",
-      "snippet": "Presidente do Paraguai renuncia em meio à crise bancária; vice assume Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLTkxemxSdl8zZ1NaLThOMG42RXVoVU5vaHh2ZWpzTnNUSEJlQWVqcFJjbnotYjlDeGc0eTIxc0tSSXp4bi1fOFgxNm45S25CUnRQSWdGS295RUlmX016WXVza0JGbThqR0xvT1lycDU0dkRuV2QtODlpYjh0UHVDUlNqWXh3T0R5enFnRFR1UEo5eDh2cGdBaWpjR25yOTd6RmlUc3pzVVZDUWtEOW9QdF9BeHktWHRqX0N1WlpIS3lod0d0Mnc0eA?oc=5",
-      "published": "2026-11-05T17:26:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Presidente do Paraguai renuncia em meio à crise bancária; vice assume Agência Brasil",
-      "summary": "Presidente do Paraguai renuncia em meio à crise bancária; vice assume Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
