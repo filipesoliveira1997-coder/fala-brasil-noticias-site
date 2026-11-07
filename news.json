@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T13:06:18.241067+00:00",
+  "updated_at": "2026-11-07T14:53:04.332288+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "aten-o-presidente-lula-seguran-a-p-blica-n-o-s-pol-cia--43e0bc1ec4b1ea",
+      "category": "Polícia",
+      "title": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz - Brasil 247",
+      "snippet": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz Brasil 247",
+      "source": "Brasil 247",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTjRWOTdxalkydWlScUcwRUVUa2lFTHBtRmN3Ul9GcFE5d3FNaHJDLV82QlR2OXlManNGMXNFSEN3Q1ZKU1lXc1pvVVZTVmk0S0daOUlLWTMyR1g3YnMzNXY4MDYtQ0RHWG9aajQ2eVBtVFF6NElWNE9odjJ3Wi13bnZfSTEzdEdpNUJJZVBFQldpOWla?oc=5",
+      "published": "2026-11-07T14:49:23+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz Brasil 247",
+      "summary": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz Brasil 247",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "papa-no-uruguai-pa-s-tem-um-beato-que-foi-batizado-no-b-4302af31164614",
       "category": "Brasil",
@@ -80,6 +94,20 @@
       "tone": "",
       "dek": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
       "summary": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "jogos-hoje-07-11-26-ao-vivo-de-futebol-onde-assistir-e--087c8649acbca5",
+      "category": "Esportes",
+      "title": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário - O POVO",
+      "snippet": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário O POVO",
+      "source": "O POVO",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNTFVlRHBpYVBvRU1pMjZFY1BUcUxaLVRlSU1oMGdBTElnSDduZnRBWlVGblpJT0s0c01SX29BcjRBSm8wVTZEQ0RQOUw2cDBmRXdlYkUtd0FkNmhCdFdScGFzeU5QZ2dBREl1dWx1MHhFWTFQZUFmNjN0NFE0MHlGa05lSzZPWEx2VkVGMmlMR3IyT0hkNTJoaFhpdkN2TG91Y1R2b0tNYU1iLVoxNHU0UTM4RmhLbmI0SEFlc1VPVExiUC10T3BKZGNmUVdRekk?oc=5",
+      "published": "2026-11-07T03:10:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário O POVO",
+      "summary": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário O POVO",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "teal",
       "dek": "Bayer Leverkusen x Marseille: escalações e onde assistir à Europa League CNN Brasil",
       "summary": "Bayer Leverkusen x Marseille: escalações e onde assistir à Europa League CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "corinthians-atualiza-situa-o-de-garro-ap-s-les-o-contra-a78c4e5767e8ac",
-      "category": "Esportes",
-      "title": "Corinthians atualiza situação de Garro após lesão contra o São Paulo - CNN Brasil",
-      "snippet": "Corinthians atualiza situação de Garro após lesão contra o São Paulo CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQVFFSYVBmd1h4MDNEekZPaGJERjVodmRsYVpzeXFlcjdlRmttYTF1aXh0emlJaWtlenc0ZHl5X2FjNjBQQTFUTTdkODZtVFFNcUtiRWVHSUp0X041Tm9fU0xrNUhRcGZJbGdmNDVKQTlnR19IWWZ1YlhfSlEyRGxiRmpmTU9mR2ZhS1dMajVFaURhc3VrUGZ0TnRndzVVelloQmJUMkR1OUZaVEZzNS1kaFpkRVUzVXVlUUtsUVBOSjVBU0lpUmc?oc=5",
-      "published": "2026-11-05T18:36:49+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Corinthians atualiza situação de Garro após lesão contra o São Paulo CNN Brasil",
-      "summary": "Corinthians atualiza situação de Garro após lesão contra o São Paulo CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "os-brasileiros-com-dinheiro-preso-no-paraguai-ap-s-queb-4b95328755fe7b",
-      "category": "Brasil",
-      "title": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' - BBC",
-      "snippet": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBVSW1UX0ZEdlNna09sc3U4V1YtUTBNVXoyWVVFUkZWS19Mai1PRXhTRldVWlRUdDl3ZDRyYVVLd3NaQVh2bWwzMjdUWnVSdElwTmh2ZW04NnpYODJtTXpkQnFxWdIBaEFVX3lxTE15YVRnM29Jdkw5Z3BFWC0xQlhTOHNwRjBjNzZJSWhfMUY0aS1xUjNIZUhWSEUwbE1YbHhKRHZCNXg4NTZpeDY5OUpQUkI3Tzc1cDh6Q3RYeU5UN05Wd3JFdDl4N2doTlRI?oc=5",
-      "published": "2026-11-05T18:29:36+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' BBC",
-      "summary": "Os brasileiros com dinheiro preso no Paraguai após quebra do Ueno Bank: 'Preocupada com meu negócio' BBC",
       "summary_by": "descrição da fonte"
     }
   ],
