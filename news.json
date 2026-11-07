@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T14:53:04.332288+00:00",
+  "updated_at": "2026-11-07T16:52:39.191240+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "atirador-deixa-5-mortos-e-mais-de-10-feridos-em-pra-a-n-6b93792eb498e3",
+      "category": "Brasil",
+      "title": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe - BBC",
+      "snippet": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZVBaZms2VWEtM25wODk1NVFUUnMxRHhQOS1pRDE2azNvZGVRX0VKYl9RU19FRmVjalhrS1hHV3JMdEw0SFA2aFhoSkRDbG0xQk1UNEZjbUZ5eVB5VC1xdmRnVdIBaEFVX3lxTE81V3pXSHVLTDVqZnVIQk1WQVN0ZDlPUWVjb0N1OHNzR21yZExsSnVOWXNURjFqV3l3RjFhRFVJS0ZMejdyTzItUHlWUngwbnhoQURhYkRLQkV0TGJ6U3pxaG50X1BPalZr?oc=5",
+      "published": "2026-11-07T15:45:33+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe BBC",
+      "summary": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "aten-o-presidente-lula-seguran-a-p-blica-n-o-s-pol-cia--43e0bc1ec4b1ea",
       "category": "Polícia",
@@ -83,20 +97,6 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "gonet-pede-ao-stf-que-suspenda-todas-as-a-es-sobre-bets-08489c4593aa7f",
-      "category": "Brasil",
-      "title": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil - UOL Notícias",
-      "snippet": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3oxRHNuTVNyYV9jeTBLTTh0Q2V5QTF6SXlrYzM0a0pxdUIyUXlTVjcwMGNsamZuNTRtS2Q0SUNBVlYxNUhrVmdBTFhfWkZCSnpIRmVlYVMxdFFGUHMwVkwwUHJkUlJsSE1wOVpfa3hGclNwYmo4cl8xRnItZlExR2xLM3ZabUsxNUJRbjJ4YTlHWExnemNfLUhEaEsxdDdXdTI1YUkydTVRQTVWdUxvS09xdy1WX24tNXRNMDFYeDM5Y2hQakxv?oc=5",
-      "published": "2026-11-07T06:14:32+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
-      "summary": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
       "id": "jogos-hoje-07-11-26-ao-vivo-de-futebol-onde-assistir-e--087c8649acbca5",
       "category": "Esportes",
       "title": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário - O POVO",
@@ -108,6 +108,20 @@
       "tone": "teal",
       "dek": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário O POVO",
       "summary": "Jogos hoje (07/11/26) ao vivo de futebol: onde assistir e horário O POVO",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "gonet-pede-ao-stf-que-suspenda-todas-as-a-es-sobre-bets-08489c4593aa7f",
+      "category": "Brasil",
+      "title": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil - UOL Notícias",
+      "snippet": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3oxRHNuTVNyYV9jeTBLTTh0Q2V5QTF6SXlrYzM0a0pxdUIyUXlTVjcwMGNsamZuNTRtS2Q0SUNBVlYxNUhrVmdBTFhfWkZCSnpIRmVlYVMxdFFGUHMwVkwwUHJkUlJsSE1wOVpfa3hGclNwYmo4cl8xRnItZlExR2xLM3ZabUsxNUJRbjJ4YTlHWExnemNfLUhEaEsxdDdXdTI1YUkydTVRQTVWdUxvS09xdy1WX24tNXRNMDFYeDM5Y2hQakxv?oc=5",
+      "published": "2026-11-07T01:14:32+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
+      "summary": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -223,6 +237,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "moledo-se-desculpa-por-erro-contra-o-inter-e-denuncia-a-3244c813bb88a4",
+      "category": "Esportes",
+      "title": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família - CNN Brasil",
+      "snippet": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSW5Da0VteGxPZTlIaFh4WTZHdHdaSXlfMDA0UkI0ODdfbWJzU3ZDVGowM2pJUVB1bG56RC1NMWJNQUh1YjJjOWlIZzc3bExhVmVTc25CaXFZZmtkZ3R2aWtJRHpqR1FWNHQ0bFJ3YW9nWnZvYVhIRkFMZkVyR013cGhLUHJaWmRpd0N6S2Q3eTk2aUUyLXQxdVh5WklhQldpYV9uTmlTTDlyTVhERW5IRzVrYUN0M0c5THM5OEZIdTI0WkxXUFE?oc=5",
+      "published": "2026-11-06T21:02:09+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
+      "summary": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "justi-a-federal-rejeita-a-o-de-improbidade-contra-bolso-01211e4316ed0c",
       "category": "Brasil",
       "title": "Justiça Federal rejeita ação de improbidade contra Bolsonaro - Agência Brasil",
@@ -290,20 +318,6 @@
       "tone": "purple",
       "dek": "Ciência na prática, descobertas e experiências interativas integram programação da SNCT 2026 Governo Federal",
       "summary": "Ciência na prática, descobertas e experiências interativas integram programação da SNCT 2026 Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "moledo-se-desculpa-por-erro-contra-o-inter-e-denuncia-a-3244c813bb88a4",
-      "category": "Esportes",
-      "title": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família - CNN Brasil",
-      "snippet": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSW5Da0VteGxPZTlIaFh4WTZHdHdaSXlfMDA0UkI0ODdfbWJzU3ZDVGowM2pJUVB1bG56RC1NMWJNQUh1YjJjOWlIZzc3bExhVmVTc25CaXFZZmtkZ3R2aWtJRHpqR1FWNHQ0bFJ3YW9nWnZvYVhIRkFMZkVyR013cGhLUHJaWmRpd0N6S2Q3eTk2aUUyLXQxdVh5WklhQldpYV9uTmlTTDlyTVhERW5IRzVrYUN0M0c5THM5OEZIdTI0WkxXUFE?oc=5",
-      "published": "2026-11-06T18:02:09+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
-      "summary": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -836,20 +850,6 @@
       "tone": "purple",
       "dek": "Comitê Gestor da Pessoa Idosa promove inclusão digital na INVENTUM 2026 Município de Pato Branco",
       "summary": "Comitê Gestor da Pessoa Idosa promove inclusão digital na INVENTUM 2026 Município de Pato Branco",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "bayer-leverkusen-x-marseille-escala-es-e-onde-assistir--335dd60e1007d4",
-      "category": "Esportes",
-      "title": "Bayer Leverkusen x Marseille: escalações e onde assistir à Europa League - CNN Brasil",
-      "snippet": "Bayer Leverkusen x Marseille: escalações e onde assistir à Europa League CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNlcxaC1KU1RxV3RNTnRkZEx2TWJFeWhuMWJFcTVscmpfUUhSb05RQ0ZsclpLZUc2SHpBQ08xUEVwVnVfVEVhX1B3aFRBSVpGaG54SDV6T0E4aURtaWR2TnpPb2F6R0FnODFMTm5CVGpxMVQ4eTZrUThDc0VEUlBiZXMzM3ZIOGM3U2VmdTQ5QXh0em01ZVpVUkNfSTBadzJhem9Kc0g3MjZvTWJndzAzQUZjN1dESTFfaDdLb001b0RyWFh6ZzM4eHdRdDc1M1NwYl9meWktQQ?oc=5",
-      "published": "2026-11-05T18:50:52+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Bayer Leverkusen x Marseille: escalações e onde assistir à Europa League CNN Brasil",
-      "summary": "Bayer Leverkusen x Marseille: escalações e onde assistir à Europa League CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
