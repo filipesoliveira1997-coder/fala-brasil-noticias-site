@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T10:55:51.029953+00:00",
+  "updated_at": "2026-11-08T13:06:24.141693+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "livro-resgata-a-hist-ria-das-pioneiras-do-futebol-femin-3b7df936fbd007",
+      "category": "Brasil",
+      "title": "Livro resgata a história das pioneiras do futebol feminino no Brasil - Agência Brasil",
+      "snippet": "Livro resgata a história das pioneiras do futebol feminino no Brasil Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaG1WVnZUWFBDVFNCSU91UUVDSkluS0RubDhpeUVubXZQQ0ZrbnRXaXBMalZLVjBHdHFJVVdVYWVWb0VRbG9NQ3dzNTZnVjdFNEE1S1VKU1FTSlN5OU1hZzAtUkZwano4Z3JQRnhpUU4tTXpLaC1zWGJzaU9PNlhURVFuU2FMdHZydkxwaXE1VlhNZk53OVhYU2FjdS1OX3BHVkJKaFJGUFNwQTdEU3A0Vi1kWW4wci1HaHBlVURzUmE?oc=5",
+      "published": "2026-11-08T12:51:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Livro resgata a história das pioneiras do futebol feminino no Brasil Agência Brasil",
+      "summary": "Livro resgata a história das pioneiras do futebol feminino no Brasil Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "economia-da-nostalgia-transforma-saudade-em-neg-cio-par-08e42b42813df7",
+      "category": "Economia",
+      "title": "Economia da nostalgia transforma saudade em negócio - Paraíba Business",
+      "snippet": "Economia da nostalgia transforma saudade em negócio Paraíba Business",
+      "source": "Paraíba Business",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnk5VzU0dXhkYlUtc0lmeUlvZXBWOWNLMXU0YWJ5S1NHSURTcGNKOEZkNW5FcXJ3M3F0OHRZNGs1S0tQQVNITUZ3STI1WWFVRXcyem9LamtLdFJTS3BnWXM1RWZzd29Qb3p4R2hKb2stcW5BY0pJOHkxOWQyQ3liYXQ2aHptYy0wQVZNME9Dc1dpMDVzZnNDRXN4TzJlU2dhV2p5U0tNU29ZaW5XdDkteVZLMA?oc=5",
+      "published": "2026-11-08T12:00:00+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Economia da nostalgia transforma saudade em negócio Paraíba Business",
+      "summary": "Economia da nostalgia transforma saudade em negócio Paraíba Business",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "sem-elei-o-de-meio-de-mandato-brasil-v-disputa-municipa-dbda9aa22273db",
+      "category": "Brasil",
+      "title": "Sem eleição de meio de mandato, Brasil vê disputa municipal como termômetro - UOL Notícias",
+      "snippet": "Sem eleição de meio de mandato, Brasil vê disputa municipal como termômetro UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQODh1dmJrYXJVRWtaSmlfOVkxMXFMT1htT0F3YTNpYzdDT0RFMVRiYUZkQXVNWHVCYm5QanViMFRwZTVocHFGcEVreUd3LURfYlc2ZkhKTWtCM2l0cVVTWmh5WFJZaW1EWHVsQzQzSEx2ZmNjeEJ0NlZYODlJSU90NXVnVS1uSHpxUGdBWTd4anJYWWl2dXJ2MUxtMzJvY3U5YUlod3hjSk1pdXZ5Nlgza0FwYjZ5OVBVeHQySWJzb3cxVk43NTdHbE9oM1huSUUxenJxSG5SdEo2V2M?oc=5",
+      "published": "2026-11-08T11:51:55+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Sem eleição de meio de mandato, Brasil vê disputa municipal como termômetro UOL Notícias",
+      "summary": "Sem eleição de meio de mandato, Brasil vê disputa municipal como termômetro UOL Notícias",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "por-que-mulheres-podem-estar-por-tr-s-da-vit-ria-de-lul-8f3a25b896e955",
       "category": "Brasil",
@@ -41,6 +83,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "rafa-c-mara-pode-quebrar-tabu-hist-rico-de-brasileiros--7cbb550f889576",
+      "category": "Brasil",
+      "title": "Rafa Câmara pode quebrar tabu histórico de brasileiros no GP de São Paulo - CNN Brasil",
+      "snippet": "Rafa Câmara pode quebrar tabu histórico de brasileiros no GP de São Paulo CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNbkNGMm9XZXlldTJlSVVWaWlPc1c3bERvcVZqS3RlcldtRGRUd2VaQzNyanR2bHpOa1JQZ1VaSnVYRGFEUGJsY1Y3Z1FMbXRpLWp4V3pvTmxBWUx5UGhtUml2VWJ3YlZ1TU5CS25pSlBNd1VHX242YTZtcmJVMmx0amVHN3dvZTFfeW10a2JFaWVvcHNfNE0tWV9WNGpNWHFTSUw3cVFQaURDVnJxNVZvS0FUZmFtRG81MmthQ25sT3g5Qm1J?oc=5",
+      "published": "2026-11-08T07:00:29+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Rafa Câmara pode quebrar tabu histórico de brasileiros no GP de São Paulo CNN Brasil",
+      "summary": "Rafa Câmara pode quebrar tabu histórico de brasileiros no GP de São Paulo CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "vit-ria-democrata-nos-eua-n-o-deve-aliviar-press-o-de-t-d544db38e07ba2",
       "category": "Brasil",
       "title": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas - G1",
@@ -52,6 +108,20 @@
       "tone": "",
       "dek": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas G1",
       "summary": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "jogos-hoje-08-11-26-ao-vivo-de-futebol-onde-assistir-e--e5d88d822efce3",
+      "category": "Esportes",
+      "title": "Jogos hoje (08/11/26) ao vivo de futebol: onde assistir e horário - O POVO",
+      "snippet": "Jogos hoje (08/11/26) ao vivo de futebol: onde assistir e horário O POVO",
+      "source": "O POVO",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQWE5ReWlJckJ1VTlNV0FPSldsUmtJVmt4YlNTeUdHVXU0QjBFdVYwT3ZqMW1UNHFSRU1XTlpvTS1iQm83UFFhSXVXVlQxNHhPLXB3VHNtSWIwcF9JcWtLd3dxenR1UDNnNkFEMGR4UVpQSjZ4MGw5ekVQOWtXUmpMT05xRzVVN3RybFdFaW9YbGIzMlhESFlwSGFWQktjcWctWFlXNmwyczB6Qnh4b3RhWmczeDZ0VnNuYzFuMm9oZkU0aHZOdVZubWV0Z1QybTQ?oc=5",
+      "published": "2026-11-08T03:10:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Jogos hoje (08/11/26) ao vivo de futebol: onde assistir e horário O POVO",
+      "summary": "Jogos hoje (08/11/26) ao vivo de futebol: onde assistir e horário O POVO",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "",
       "dek": "Governo diz que vai recorrer de decisão da Justiça que liberou funcionamento de três bets no Brasil G1",
       "summary": "Governo diz que vai recorrer de decisão da Justiça que liberou funcionamento de três bets no Brasil G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "gia-lai-desembolsou-apenas-23-do-seu-financiamento-para-ac212da8ce65ce",
-      "category": "Tecnologia",
-      "title": "Gia Lai desembolsou apenas 23% do seu financiamento para ciência e tecnologia. - Vietnam.vn",
-      "snippet": "Gia Lai desembolsou apenas 23% do seu financiamento para ciência e tecnologia. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeHpTSDV5SE5OaTlRTlhMWHdyZXlFbVV3S3k4YV9ER1N0UHdlN3JaQzhYbm1Ka0dUTUE3Qkp0dERHdFVKUkJJemh6d01LbmhIUnhXTThHclhfR1hZcUhvRFB2SVRmcjFaUGRfb2RwcG5sOFIyRTNHcGZJWi1FYmJUX1pVaDk1MUVxMUE?oc=5",
-      "published": "2026-11-06T12:46:28+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Gia Lai desembolsou apenas 23% do seu financiamento para ciência e tecnologia. Vietnam.vn",
-      "summary": "Gia Lai desembolsou apenas 23% do seu financiamento para ciência e tecnologia. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "avan-a-mp-do-plano-brasil-soberano-contra-tarifa-o-sena-7310d81d5e026c",
-      "category": "Brasil",
-      "title": "Avança MP do Plano Brasil Soberano, contra tarifaço - Senado",
-      "snippet": "Avança MP do Plano Brasil Soberano, contra tarifaço Senado",
-      "source": "Senado",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOdDdtOWhJYXJ5dmlKeVAta1BnbnZrbmdQd2VDMGppQ1hyaEhBODVDR1BqRGJlbWlzZVlmTF90UVZ1aFlmN2ZEQkdtMF9JdWpPS2lYZlRCOU5LeTYwOW1vOG5FaUM2TEpJd1o5SnNROWx3Sk1PVjYxNGVIS2ZZT0FDRG9QWmpPbERlQTFHUUhxRHFRYVY2ZXZlZzRka1dmU0lOMFdDXw?oc=5",
-      "published": "2026-11-06T11:50:09+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Avança MP do Plano Brasil Soberano, contra tarifaço Senado",
-      "summary": "Avança MP do Plano Brasil Soberano, contra tarifaço Senado",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "justi-a-autoriza-tr-s-bets-a-voltar-a-funcionar-em-sp-e-793c02093a12e6",
-      "category": "Brasil",
-      "title": "Justiça autoriza três bets a voltar a funcionar em SP, e desembargadora chama proibição do governo federal de 'verdadeiro confisco' - G1",
-      "snippet": "Justiça autoriza três bets a voltar a funcionar em SP, e desembargadora chama proibição do governo federal de 'verdadeiro confisco' G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPd2NnaTdFalBMcWt2Mkd1QndhRlZxOFAxLUJpVUR0dnVSc1lIaW94cXpZZURpWVd1Y2g5NWd4UkVqVEtnQ0JkOV80aDlLU1ZrRzZaaURZQmNaRXFjU2k1NDdyTFFGNHVSUmVKM1JUMEtpeUtqaEZ3VkpSalpXb0ZESVpLSE1yb2duM29tQVpZYm9oX2x6bUFHZldvWE5ST0pDY293ZUVQVUI0cFNHczdLRVRuMTVpS3VhcXdrR2dMcDNZWkV5dHlDUmlqY1VCWC1KbGxIWmhyWWtvdGF5NjM0X1d0a29BYTRiMFdzSkFuNU5qRVVMcHdLTkcwaUxBNFJlX1E2XzYwX1RVMUZGdGVHVFBnNXJfTmIwNnfSAagCQVVfeXFMTmMxM3VodUw4VUx3Z3VWRWg0MmVkc09Eckd6cmpJbEl0UVd6VHNFN2laR2Y2RmNyZFBFQjVybFBucTkyLUNGczhSTDRzSEc5dk9EMDRjdDFPMUowTjlxOFpxZ2JOVS1qWjVoV1Z4Z3Z0WHNMb0h0cXBGUExwcWc4TTZncEtxdzlzZElPdXBpa09lRXdCb0x6RWhoLXRJRVhodjdEMHdQWmFMVS1oUVd5OUJXa3VKMG5mZS1yWkVVNE5IRmo3WEpHZkE3RG9GaUJWbkZFNXhxdjFLZ3RhQzFlVHhfNWZScmtrTkFMbldCSkptZ21jTEJXc0JIY1ltZURGNlFNMm9VQ1pGcUFTZ0NEdTZtNUZOb0l2Um56TVdVNzhyTVBvNldLd2M?oc=5",
-      "published": "2026-11-06T10:58:05+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Justiça autoriza três bets a voltar a funcionar em SP, e desembargadora chama proibição do governo federal de 'verdadeiro confisco' G1",
-      "summary": "Justiça autoriza três bets a voltar a funcionar em SP, e desembargadora chama proibição do governo federal de 'verdadeiro confisco' G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "festival-com-alcione-seu-jorge-e-nando-reis-show-de-san-fb8297bb74efa7",
-      "category": "Entretenimento",
-      "title": "Festival com Alcione, Seu Jorge e Nando Reis, show de Santanna e Flávio José, Bienal Black Brazil e mais: confira agenda cultural - G1",
-      "snippet": "Festival com Alcione, Seu Jorge e Nando Reis, show de Santanna e Flávio José, Bienal Black Brazil e mais: confira agenda cultural G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPYlNYWktWS0ZKMVZGMFF5SmJVQXdnYzZxVW1RYnhwSzNLdFFaZ1dJak5aNDRqTjZXU2taaTVnZmk2TGdLRk9LNXFMVDdQNVlFeGl4MFAxeUVsVlBHOWxQQmwxVWpaN2F2UzV5OUFoWnBDTl9fZzlMV2ZZcHZlYlFuNmQxVzhxYnN1Y01TWDg2eldaODFxYTVOU0MzZkhLVlFUdWZQRXMyQWxwMTc4WkJiTFJTUUk4SUk1cXM3OU1wczFqeGNub3hSc21xempxUjQ0RFh5M1J2X2tJTlh2dGliSnd1RjN2S2Q4aDRWNFVab0ZIV2lwYkJicHIwSXpXNi1ZdTlvbTkzUTZ4blhYTU5PNFZIYXJ3bVZKQlZZYi1TY196WnhtZkFLTjNsa1dRM25W0gG_AkFVX3lxTE1lb0ZmRHptSG5pbWJOejNlQUdyTVR6aHRtek9rYUVtLVdkNWZ0S1lvdkhNZzdNRUwzbmR5MHJDdW1BTExEWjZOdVBjZHJwQnRheHhqdjU2NFgtNVV5dkVvTUVsUmpuVHBhbG4waTRFa2RmRjdQTS1EVTQ0OHFPaVVwMzY2c242OGRwdm1vejRmeDV0Rm9zdGtpejJJSWxaSzctTHNWRngtSlc5NTc3M3RSS0U5dTdmWXNIQ3BpVnJIMllZd0NJaUg3VmJHdUpNY0UwWDlMYi1tcmVabDV6VUFwY0ZwdFFjeGVramljazFfR0tZYjBIaktxaldvQklRSmNqdUE4MmdaZi1qcEdLVDVYOC0xY2tneHhnVjJqVVk0RE9WUEV1TTFqclZTSkE5NnhVVDRkSmF5TzZ0LTB0TkE?oc=5",
-      "published": "2026-11-06T08:00:01+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Festival com Alcione, Seu Jorge e Nando Reis, show de Santanna e Flávio José, Bienal Black Brazil e mais: confira agenda cultural G1",
-      "summary": "Festival com Alcione, Seu Jorge e Nando Reis, show de Santanna e Flávio José, Bienal Black Brazil e mais: confira agenda cultural G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "acelerar-a-implementa-o-de-tarefas-nas-reas-de-ci-ncia--416aadc611b8bd",
-      "category": "Tecnologia",
-      "title": "Acelerar a implementação de tarefas nas áreas de ciência e tecnologia, inovação e transformação digital até 2026. - Vietnam.vn",
-      "snippet": "Acelerar a implementação de tarefas nas áreas de ciência e tecnologia, inovação e transformação digital até 2026. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTR2UVNZeHV2ajBld09EYV96UTYtUGVYelRrcWRabXBSSnprY0xFbVdtdE1XQ3RBdlVKS3pfQm93Tk9EZHhqRlFXQjNDRnNEQS1vMmFwZUpKRmlIajMxTnlFV0VYQzUzZFBHZ2NwRUpUS3R0V2RDSmVkaHV1dEFuY09iSVRrQXU2b1E3OVhKV2J6S1dWV0FhTGFrUHdiQnVFcEVoS3JYM2N0UVROQmxTWEZJbS1nNnFYa1I1d0pZaTNfTWhmLThLd3FB?oc=5",
-      "published": "2026-11-06T07:04:56+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Acelerar a implementação de tarefas nas áreas de ciência e tecnologia, inovação e transformação digital até 2026. Vietnam.vn",
-      "summary": "Acelerar a implementação de tarefas nas áreas de ciência e tecnologia, inovação e transformação digital até 2026. Vietnam.vn",
       "summary_by": "descrição da fonte"
     }
   ],
