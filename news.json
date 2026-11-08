@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T03:00:55.385258+00:00",
+  "updated_at": "2026-11-08T05:04:34.584172+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -503,6 +503,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "o-que-diz-a-a-o-no-tse-que-pede-cassa-o-da-chapa-de-lul-5f1739e71f4328",
+      "category": "Brasil",
+      "title": "O que diz a ação no TSE que pede cassação da chapa de Lula e Alckmin - BBC",
+      "snippet": "O que diz a ação no TSE que pede cassação da chapa de Lula e Alckmin BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNjRxUHc3c0VaQXBpVkE0RGxUM0hPZ3dxdHlkUlNnem8xSlVUR2VOdHF1SDhxNTM4Y1d6TFFzaks3cm9CUThIWEZQRG4wbnVHR2dDbU9IRi05c1FvTmYyY2VzY9IBaEFVX3lxTE55S2J6VzBQbVpKWkprMmhrZDk0aFh0cjd2b25BblpzZUNMcEVibTNCZUtrckxQc2xkanJ4S1huSmlTekJBdTZlbzNEZ1dyUnh4Q016T2xXbGNJUWRQUjVPaTZHak1paS16?oc=5",
+      "published": "2026-11-06T20:26:08+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "O que diz a ação no TSE que pede cassação da chapa de Lula e Alckmin BBC",
+      "summary": "O que diz a ação no TSE que pede cassação da chapa de Lula e Alckmin BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "lula-sanciona-lei-que-torna-obrigat-rio-exame-para-m-di-0df021acb60eed",
       "category": "Brasil",
       "title": "Lula sanciona lei que torna obrigatório exame para médicos exercerem a profissão no Brasil - Bahia Notícias",
@@ -836,20 +850,6 @@
       "tone": "",
       "dek": "Lula vai criar Ministério da Segurança Pública com Medida Provisória Agência Brasil",
       "summary": "Lula vai criar Ministério da Segurança Pública com Medida Provisória Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "kaio-jorge-supera-ronaldo-em-artilharia-hist-rica-do-cr-60a1339fd7e270",
-      "category": "Esportes",
-      "title": "Kaio Jorge supera Ronaldo em artilharia histórica do Cruzeiro; veja números - CNN Brasil",
-      "snippet": "Kaio Jorge supera Ronaldo em artilharia histórica do Cruzeiro; veja números CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxONUtpSjBFMDNiVWFsN3N3VmpXUVlkaWprdlFHXzdSLUhYTE5BQUdXX3E2OEJacDFNRVlJOGgxTEdDNDhxMlUtNE81Vm1RWDl6TnF0d1M3OEltT0FSWklaaEFDQjExVWR1cXFRS1VUNEZ1akpLWGZMZ3ltWi0ySVpINkxrM3pyc2ttNngyYTFpSGRsUEFiVG45dVo3WDNvSzhYUTM4NWE3UURzN2ttVFpvTzd1Ujd1akd6ZFVCR28xNlFaMGxKcUhpWmhB?oc=5",
-      "published": "2026-11-06T00:13:24+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Kaio Jorge supera Ronaldo em artilharia histórica do Cruzeiro; veja números CNN Brasil",
-      "summary": "Kaio Jorge supera Ronaldo em artilharia histórica do Cruzeiro; veja números CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
