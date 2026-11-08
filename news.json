@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T09:00:35.586448+00:00",
+  "updated_at": "2026-11-08T10:55:51.029953+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "por-que-mulheres-podem-estar-por-tr-s-da-vit-ria-de-lul-8f3a25b896e955",
+      "category": "Brasil",
+      "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições - BBC",
+      "snippet": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90WkZYeU5jU3QzcHRlbVlGZk1vQWs1dTJHajNJcDQ3MHBuTHpDNm9kaGNISjdmcEZGRXVPU05wdUp3NWd5ck1TbUEzT29fVEpCRVY2c1EwRVZCYmxqUGtKNGdkUdIBaEFVX3lxTE9yOXRsYkU3d0NSSHd2cy1YRHlCV1JUeGJxVFJVNFc5M1BsbExpc2lUTi1DMWt5S1h5a1A2RzFYakRrRXllYVh5VTZxb283Z05vT1cwNndTNjJWd3pCcmNUODg5MmpxZzJC?oc=5",
+      "published": "2026-11-08T09:30:14+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
+      "summary": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "est-agendada-uma-reuni-o-e-consulta-com-os-eleitores-so-b721c8bb77e1e7",
       "category": "Tecnologia",
@@ -206,6 +220,20 @@
       "tone": "red",
       "dek": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
       "summary": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "h-risco-nas-pr-ximas-72-horas-no-brasil-entenda-alerta--5a0492fd3318b5",
+      "category": "Brasil",
+      "title": "Há risco nas próximas 72 horas no Brasil? Entenda alerta da Defesa Civil - O GLOBO",
+      "snippet": "Há risco nas próximas 72 horas no Brasil? Entenda alerta da Defesa Civil O GLOBO",
+      "source": "O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUV9zLUh2cTROUDFQbFFOTWtuVHFCdzRWMnhJM3h5MU1ZcVNRZ0x4RkdvYUJsdjlzSUN4TXNjS0hXeS0yMEc5UFhvN1VTRnJ5MzdRamNJallENUwtV3RpVTRGdnRhZzc5ZW16QndDNUJNTFJlLVJtb1JkczNxNW1Qb2hFYUtya3hxZHhlVWlmdkZ5N0FvOGxZSno3SXZ4VzNZODFBb3BGZFhtU05tOFlZMXV4dkt2X2ZYN2FEaTlHQ3JDd3pTMmpz0gHWAUFVX3lxTFBUMXZPbTltalRTdy1RM1JXWUV1V2F4SFdPWXZleFNON1NXc0hvbV83aUFrU3hfS0NKQmtRamk0QThCUUFGQjd1V1o4bXktUWNZWGN3U3pjTFhUMFhPT0dKSktJZmFkeV9qM2xucjVBdTZSbHM3TTRrRmdPZUttZ3MwRWt5ZlU4X3QwcVUxOGdMRTVSclVsMW4xY1YzTEg5RHhCMVpMVURBMUhGM2lDaERUM1N0ZFJESVFnTFVxS1dKQ1NoVTVYTFk1cTkzMV82VWJUNERaX3c?oc=5",
+      "published": "2026-11-07T18:11:02+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Há risco nas próximas 72 horas no Brasil? Entenda alerta da Defesa Civil O GLOBO",
+      "summary": "Há risco nas próximas 72 horas no Brasil? Entenda alerta da Defesa Civil O GLOBO",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "purple",
       "dek": "Acelerar a implementação de tarefas nas áreas de ciência e tecnologia, inovação e transformação digital até 2026. Vietnam.vn",
       "summary": "Acelerar a implementação de tarefas nas áreas de ciência e tecnologia, inovação e transformação digital até 2026. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jogos-hoje-06-11-26-ao-vivo-de-futebol-onde-assistir-e--9854522a73e2fe",
-      "category": "Esportes",
-      "title": "Jogos hoje (06/11/26) ao vivo de futebol: onde assistir e horário - O POVO",
-      "snippet": "Jogos hoje (06/11/26) ao vivo de futebol: onde assistir e horário O POVO",
-      "source": "O POVO",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMFYyamVMU21ibDFqZ0FWOXdQNmxqMkdMblh6Q2ZQU0owLS1EeEZkcVFpQ1dzTEJvamd1eHlBNGRzSVNEYkczVkU3S1VwZHJRYUE0QzRwUHNXTF83Rl9RNlNvU0lzOWNSbWNtdklMM1NvM3dod0V0alExTFBSSGloTnphLWpyNUdvMWoxcEwwWVk2bEdjY3QxMGFnMEp3LWp5QUZaLWY0eTlFc0E5RmhDbGRDRkdnT1lxNUNMQmlWN1ZUUXJHb210QW5SNEVTN2c?oc=5",
-      "published": "2026-11-06T03:10:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Jogos hoje (06/11/26) ao vivo de futebol: onde assistir e horário O POVO",
-      "summary": "Jogos hoje (06/11/26) ao vivo de futebol: onde assistir e horário O POVO",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "leverkusen-0-x-1-marseille-veja-os-melhores-momentos-pe-6ce62058f1c6e1",
-      "category": "Esportes",
-      "title": "Leverkusen 0 x 1 Marseille: veja os melhores momentos pela Europa League - CNN Brasil",
-      "snippet": "Leverkusen 0 x 1 Marseille: veja os melhores momentos pela Europa League CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN0ZMUW1sb0RpQXNEUkxNTjRqZ2Utb2NvajYtZmtUeFJjaUYtaU9vOVFnbWZSa3RkT0puMTdzX0RGLUZ4bUNoUEF5OUlvaEhhckdRYnYyMWtHTTg1Mmg0aGVqZEN2dnIwTmJqOUotRno4dXNTMEhGZnRKMXNEY3BCVm9mNGJ5RldITWRaS19acEhTSnRfWVd1V2tYSVZfdVdTYlM1Rm5sQWJ6eEgwcGQ2WHhMSzRuRUVpNmJkbnhYWGFpdndJMFBCcHZBWXBObzB0cmpKSnZ2dw?oc=5",
-      "published": "2026-11-06T02:57:46+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Leverkusen 0 x 1 Marseille: veja os melhores momentos pela Europa League CNN Brasil",
-      "summary": "Leverkusen 0 x 1 Marseille: veja os melhores momentos pela Europa League CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
