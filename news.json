@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T20:50:00.076441+00:00",
+  "updated_at": "2026-11-08T22:49:29.395233+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "livro-resgata-a-hist-ria-das-pioneiras-do-futebol-femin-3a0a93a3783fd3",
+      "category": "Esportes",
+      "title": "Livro resgata a história das pioneiras do futebol feminino no Brasil - Drops de Jogos",
+      "snippet": "Livro resgata a história das pioneiras do futebol feminino no Brasil Drops de Jogos",
+      "source": "Drops de Jogos",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVlQ4ZlpVT1NFdHJDdHVEd3h0cW8xcHRXZzdfZHpUbGJPSVBOWFo1dEF2SHBRZ1ZpU3l0M2ZNbXV6d29vSUoyMDFEWWxRM01VZkE1aUctQzRhVVl1by0zRlZBcjFDT3Nmc1NEeXMzeGgwbGl0UV9iR0RodzVsbE50bF9jUEZWbUotMzZ1RmpqNTFDTW9WQndYUlhaNTlEUUg0c0J6YWJwRVlTS1R1Z21zMUxZOUJDQUJRa3dB?oc=5",
+      "published": "2026-11-08T22:38:13+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Livro resgata a história das pioneiras do futebol feminino no Brasil Drops de Jogos",
+      "summary": "Livro resgata a história das pioneiras do futebol feminino no Brasil Drops de Jogos",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "final-da-copa-do-brasil-data-local-e-regulamento-para-g-7c111b468a6132",
+      "category": "Esportes",
+      "title": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras - Esporte",
+      "snippet": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras Esporte",
+      "source": "Esporte",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE1wUjRubXZ4U2tiTDNRTGxTV2w5aTM3Y0VFNlRia2N6Q3BRcjBQaG95M3dScUR5b1dIRDJJaWd5cUNtNXFrMVFqNG4wNnV3cnRuekR5WnltWVd0cWtUT1FBdnRFRUJwTnZNTWdkNm91VGJVdnZTUFlGcUdES3lfLWV2YmZYbFFwLVhnTmRiZjczMlUyMHhMMm1ubV9wcFVxTnpTemJPUEVlMzB1V25za2dSV1NycS0wbFZtTjRjc1c3NkQ0Y1JJ?oc=5",
+      "published": "2026-11-08T22:30:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras Esporte",
+      "summary": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras Esporte",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "por-que-o-corpo-humano-pode-estar-esfriando-bbc-9b44c4b186ffb7",
+      "category": "Brasil",
+      "title": "Por que o corpo humano pode estar esfriando - BBC",
+      "snippet": "Por que o corpo humano pode estar esfriando BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0ODJFWW5rZjdCcTBrX3RQSWctbWtfWHNNdnRybTQxc3NvMEhsMVUzcTVNbnV4WTlGZ3l4UHZzcFVqTlRDNjNrbzZpUmpFU3p4R0hkblNoRmwzMzFaNlRzRmtNQdIBaEFVX3lxTE1rWXE5UWNXNDQ2dWJzYkJxWVZ0M3MyejhOZVNUY0pZVi1SUS1NaXc1TzBiU3psVk42ZHRyTmRfdGdFUDQ5cEtVWUlseV9wYk1CeWp4RlRsSlp5c183akFRRjIzazJnRHE2?oc=5",
+      "published": "2026-11-08T20:42:06+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Por que o corpo humano pode estar esfriando BBC",
+      "summary": "Por que o corpo humano pode estar esfriando BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "defesa-civil-diz-n-o-haver-motivo-para-p-nico-por-kit-d-d187584f03102e",
+      "category": "Brasil",
+      "title": "Defesa Civil diz não haver motivo para pânico por kit de emergência - Agência Brasil",
+      "snippet": "Defesa Civil diz não haver motivo para pânico por kit de emergência Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmh0YTFQLVZvLXh2YXZfUk9Nek1kdWtLRy1FdEZJOV9HLVNsUnBfNnVTazlYTDdBRVZ2NnNKVF9PU1JZWUVxWUpvb0lRNzlkSkZDNzQxTzZfRFV4azlsaWM5a2VGVWZXMWV5SHRXVWpaek85cHVoLVNfeEhIX3N3a3hPOHhad3V3dzlfdjVSYjgtRnBpaFpiVWlxc3psZWVqWW9TR01KQnk2TE05TzFrc1I3VXNhSnVjSzF0MDdfbw?oc=5",
+      "published": "2026-11-08T20:26:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Defesa Civil diz não haver motivo para pânico por kit de emergência Agência Brasil",
+      "summary": "Defesa Civil diz não haver motivo para pânico por kit de emergência Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "sele-o-masculina-inicia-apresenta-o-para-ltimos-amistos-980422fad8dca4",
       "category": "Brasil",
@@ -111,6 +167,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "jo-o-teodoro-analisa-mudan-as-na-seguran-a-p-blica-do-b-76085b64324ea7",
+      "category": "Polícia",
+      "title": "João Teodoro analisa mudanças na segurança pública do Brasil - Paraíba Business",
+      "snippet": "João Teodoro analisa mudanças na segurança pública do Brasil Paraíba Business",
+      "source": "Paraíba Business",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTFmTld4Z3g2cTJlLURNWXNHQXJFekMxdW13OW8xZzZEUVZ3VFFHZ0s1Ukt2eVJWUkVrckRmdDlRcXlyUHBHUE9wTGE1Y21fZHNFSm5taUJPSnVoYzV4Z2tfd19OZWc0YzBZd3NhZFprZ2tqZS0wc3RrQW5IenpDODdhSWdMQlM0S3FrcjVFZW9WeEtwSFh3?oc=5",
+      "published": "2026-11-08T15:30:00+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "João Teodoro analisa mudanças na segurança pública do Brasil Paraíba Business",
+      "summary": "João Teodoro analisa mudanças na segurança pública do Brasil Paraíba Business",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "evento-em-bras-lia-vai-debater-o-impacto-das-fake-news--d78c806158cbe1",
       "category": "Brasil",
       "title": "Evento em Brasília vai debater o impacto das fake news nas últimas eleições no Brasil - VEJA",
@@ -150,6 +220,20 @@
       "tone": "",
       "dek": "Livro resgata a história das pioneiras do futebol feminino no Brasil Agência Brasil",
       "summary": "Livro resgata a história das pioneiras do futebol feminino no Brasil Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "palmeiras-e-vasco-decidem-neste-domingo-quem-enfrenta-o-7be892cc0c92be",
+      "category": "Esportes",
+      "title": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil - Jovem Pan",
+      "snippet": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil Jovem Pan",
+      "source": "Jovem Pan",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNktjRklhcmJXeGk3bEMyd3FWZ3BpblFfZ1REdVlXT1NxNnZHSXpnaHNQdjQtd0JmMERWVW9LVUFGR2FtNUt5SS1ic2Z0SHJmY3JaN2ZyMjlsU3pBdk1YaXJCUTVmdWdtT3hWZ2xaekNQUWJFSzhUYUdJczRpWlFqekd1azE5UlJLQ08tbmI0SEpUaFRPcVJ4Q2M2TFNHanhIc3NQUE9RWDNXejctcW0yM05PZExBeFM3ajB2V0xQcFB5Qk1JUFhKcmFqb05zNWRPLWE5akd1bzE?oc=5",
+      "published": "2026-11-08T12:33:42+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil Jovem Pan",
+      "summary": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil Jovem Pan",
       "summary_by": "descrição da fonte"
     },
     {
@@ -766,90 +850,6 @@
       "tone": "",
       "dek": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
       "summary": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jpmorgan-mant-m-brasil-entre-mercados-preferidos-ap-s-a-7434d63047f82f",
-      "category": "Economia",
-      "title": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas - MundoBA",
-      "snippet": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas MundoBA",
-      "source": "MundoBA",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMENuaGZ2Y3k3LXZrSzZ6Ym52Nzk0Q2RmQTNuY2JBQ1M3aUtUbWI3U2hIblI0QjZqbUlBcDVrcHBBckpKeDQycjhWX3lRZkdINDlLcHBzbDZLQU1MWTl2M1Rrd1VBd1R0U0NvdkIzMllXYjVIR1pRZlV0bTJCSEVzbERxenBaWWR5Umk4ODI1SXgxMjI2eXBBSi1mVUxyN2UyTnY5X2s1WUNORFlEZDZMWExHOWxWQQ?oc=5",
-      "published": "2026-11-06T21:25:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas MundoBA",
-      "summary": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas MundoBA",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "novo-painel-do-el-ni-o-aponta-intensifica-o-da-seca-e-a-bfcf81c73252b7",
-      "category": "Brasil",
-      "title": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027 - GOV.BR",
-      "snippet": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027 GOV.BR",
-      "source": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOXA1YjBEZjJPR1pNS01DNkExU0dtbGxrLU1RVVNKUWJ1QlA2VmhkdTc5eWRqa2NlOWg0R3JfbmttY3ZUbUdtdzBFcVI5Q29lRWxWZkdWbXFYeF9zU0MyY25GV1luWHN2YVFKNkxoQnpJV01kWlpINGxlWXV6clJ2eWRwcy00aVJTTlczVWNmU2UzbkMwTmVXak1yeE41QXR3QWc0UDR4X0ZJRjBKbTFOMW1XS1VKYU50N3FEaVZfV1BnbkpVUF9MMW9LSUN5YlBRTDZVclU5YWpRenktTTJzTEh0MXctazRYdVZRNGdtd3U?oc=5",
-      "published": "2026-11-06T21:19:16+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027 GOV.BR",
-      "summary": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027 GOV.BR",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "moledo-se-desculpa-por-erro-contra-o-inter-e-denuncia-a-3244c813bb88a4",
-      "category": "Esportes",
-      "title": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família - CNN Brasil",
-      "snippet": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSW5Da0VteGxPZTlIaFh4WTZHdHdaSXlfMDA0UkI0ODdfbWJzU3ZDVGowM2pJUVB1bG56RC1NMWJNQUh1YjJjOWlIZzc3bExhVmVTc25CaXFZZmtkZ3R2aWtJRHpqR1FWNHQ0bFJ3YW9nWnZvYVhIRkFMZkVyR013cGhLUHJaWmRpd0N6S2Q3eTk2aUUyLXQxdVh5WklhQldpYV9uTmlTTDlyTVhERW5IRzVrYUN0M0c5THM5OEZIdTI0WkxXUFE?oc=5",
-      "published": "2026-11-06T21:02:09+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
-      "summary": "Moledo se desculpa por erro contra o Inter e denuncia ameaças à família CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "justi-a-federal-rejeita-a-o-de-improbidade-contra-bolso-01211e4316ed0c",
-      "category": "Brasil",
-      "title": "Justiça Federal rejeita ação de improbidade contra Bolsonaro - Agência Brasil",
-      "snippet": "Justiça Federal rejeita ação de improbidade contra Bolsonaro Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbXBuS2xwVHd2N29FQVd0OU9naWY2Unh0cGU3TENyQ0d3TVA1WUt3Yk1vT1l3bUZ6VXVhU1JQdUU3UGpuQ2dsR3ZPakVIMVhDR2RNNXlzSFNFTW5pb3ExQ1lEeWt3bGx1Ym11dE5fNkJaMHFBVU1oZWU4d2U5STUxTl9yOVhWbUdWMGtwdF9xMzNCTDVRUFpVYVl2c3Z0ZHFLNS15WG1HWUpKWXVvZnlqRzJsWkgzb1hh?oc=5",
-      "published": "2026-11-06T20:39:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Justiça Federal rejeita ação de improbidade contra Bolsonaro Agência Brasil",
-      "summary": "Justiça Federal rejeita ação de improbidade contra Bolsonaro Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-que-diz-a-a-o-no-tse-que-pede-cassa-o-da-chapa-de-lul-5f1739e71f4328",
-      "category": "Brasil",
-      "title": "O que diz a ação no TSE que pede cassação da chapa de Lula e Alckmin - BBC",
-      "snippet": "O que diz a ação no TSE que pede cassação da chapa de Lula e Alckmin BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9BNjRxUHc3c0VaQXBpVkE0RGxUM0hPZ3dxdHlkUlNnem8xSlVUR2VOdHF1SDhxNTM4Y1d6TFFzaks3cm9CUThIWEZQRG4wbnVHR2dDbU9IRi05c1FvTmYyY2VzY9IBaEFVX3lxTE55S2J6VzBQbVpKWkprMmhrZDk0aFh0cjd2b25BblpzZUNMcEVibTNCZUtrckxQc2xkanJ4S1huSmlTekJBdTZlbzNEZ1dyUnh4Q016T2xXbGNJUWRQUjVPaTZHak1paS16?oc=5",
-      "published": "2026-11-06T20:26:08+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "O que diz a ação no TSE que pede cassação da chapa de Lula e Alckmin BBC",
-      "summary": "O que diz a ação no TSE que pede cassação da chapa de Lula e Alckmin BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-sanciona-lei-que-torna-obrigat-rio-exame-para-m-di-0df021acb60eed",
-      "category": "Brasil",
-      "title": "Lula sanciona lei que torna obrigatório exame para médicos exercerem a profissão no Brasil - Bahia Notícias",
-      "snippet": "Lula sanciona lei que torna obrigatório exame para médicos exercerem a profissão no Brasil Bahia Notícias",
-      "source": "Bahia Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSlVvQVFmdkpBOHdwNm9fVm9NX3phanp0MHFxeThhcElYbHlQVW90ci02Vnk0SFNGeG9SdC1GYUNtc0hhQzRmNXY4QkVnUTR2RGZkZ0N3WjkyVlNNSFVKNkhuTUNpbTM1VUlYS3FmZml6SnVlWmo0TGtNOGxtbjlCRXhiS3d6Q0k3THcwbER3dExLRWozUGJ1amxoQmhsREdaTF9QVjZjRU50WUFyTW5IemVTVmhaT2ZYMGNaT3g4NC1JX3drOFA2SmlJY1dPaEM1WFZId3ItNHRZOEE?oc=5",
-      "published": "2026-11-06T20:05:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula sanciona lei que torna obrigatório exame para médicos exercerem a profissão no Brasil Bahia Notícias",
-      "summary": "Lula sanciona lei que torna obrigatório exame para médicos exercerem a profissão no Brasil Bahia Notícias",
       "summary_by": "descrição da fonte"
     }
   ],
