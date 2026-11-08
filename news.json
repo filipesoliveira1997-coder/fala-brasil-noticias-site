@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T05:04:34.584172+00:00",
+  "updated_at": "2026-11-08T07:17:55.075787+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -38,20 +38,6 @@
       "tone": "teal",
       "dek": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil CNN Brasil",
       "summary": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pedro-filipe-segue-pela-4-vez-na-lista-dos-melhores-del-a2f0480c4cbb1e",
-      "category": "Polícia",
-      "title": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 - Portal Nacional dos Delegados",
-      "snippet": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
-      "source": "Portal Nacional dos Delegados",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUpRWUpSN3NZdm9MajNyVFNHVEtVNTJvcXNZMXQxUWNCNWhsWWgxQ09sRDZmS0xIeUw1WENkVThBY2xvVmNfT3R5X0xLS0t4VEktbjhuTklXWVhNeXRDNE42X2pSbFVDZFpCd0ppM3AySEozSzVTSG54NUJ4WlhyLUMzUlhPR3Z5VjI3bk00LXI3N0xQQlVhMXdJcm5pcjdiaHBpcVRpMC15a2Vwd3FCRXNJWFMybW9lWEVxWG9JWExkN1RGbjNhNQ?oc=5",
-      "published": "2026-11-07T23:09:52+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
-      "summary": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
       "summary_by": "descrição da fonte"
     },
     {
@@ -178,6 +164,20 @@
       "tone": "",
       "dek": "'Desde criança ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI BBC",
       "summary": "'Desde criança ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pedro-filipe-segue-pela-4-vez-na-lista-dos-melhores-del-a2f0480c4cbb1e",
+      "category": "Polícia",
+      "title": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 - Portal Nacional dos Delegados",
+      "snippet": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
+      "source": "Portal Nacional dos Delegados",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUpRWUpSN3NZdm9MajNyVFNHVEtVNTJvcXNZMXQxUWNCNWhsWWgxQ09sRDZmS0xIeUw1WENkVThBY2xvVmNfT3R5X0xLS0t4VEktbjhuTklXWVhNeXRDNE42X2pSbFVDZFpCd0ppM3AySEozSzVTSG54NUJ4WlhyLUMzUlhPR3Z5VjI3bk00LXI3N0xQQlVhMXdJcm5pcjdiaHBpcVRpMC15a2Vwd3FCRXNJWFMybW9lWEVxWG9JWExkN1RGbjNhNQ?oc=5",
+      "published": "2026-11-07T18:27:26+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
+      "summary": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
       "summary_by": "descrição da fonte"
     },
     {
@@ -472,6 +472,20 @@
       "tone": "gold",
       "dek": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas MundoBA",
       "summary": "JPMorgan mantém Brasil entre mercados preferidos após alta nos lucros das empresas MundoBA",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "novo-painel-do-el-ni-o-aponta-intensifica-o-da-seca-e-a-bfcf81c73252b7",
+      "category": "Brasil",
+      "title": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027 - GOV.BR",
+      "snippet": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027 GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQOXA1YjBEZjJPR1pNS01DNkExU0dtbGxrLU1RVVNKUWJ1QlA2VmhkdTc5eWRqa2NlOWg0R3JfbmttY3ZUbUdtdzBFcVI5Q29lRWxWZkdWbXFYeF9zU0MyY25GV1luWHN2YVFKNkxoQnpJV01kWlpINGxlWXV6clJ2eWRwcy00aVJTTlczVWNmU2UzbkMwTmVXak1yeE41QXR3QWc0UDR4X0ZJRjBKbTFOMW1XS1VKYU50N3FEaVZfV1BnbkpVUF9MMW9LSUN5YlBRTDZVclU5YWpRenktTTJzTEh0MXctazRYdVZRNGdtd3U?oc=5",
+      "published": "2026-11-06T21:19:16+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027 GOV.BR",
+      "summary": "Novo painel do El Niño aponta intensificação da seca e atualiza previsões para o início de 2027 GOV.BR",
       "summary_by": "descrição da fonte"
     },
     {
@@ -836,20 +850,6 @@
       "tone": "",
       "dek": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo Agência Brasil",
       "summary": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-vai-criar-minist-rio-da-seguran-a-p-blica-com-medi-5e26c8be333c1b",
-      "category": "Brasil",
-      "title": "Lula vai criar Ministério da Segurança Pública com Medida Provisória - Agência Brasil",
-      "snippet": "Lula vai criar Ministério da Segurança Pública com Medida Provisória Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQLUFoN1FzeXpUVWt4c0dNNnBMUC12eElfMlR2dWVZNVlrNVdPZ2dWYlRIQldmWmlISW1TcnVDNVBjZlRwdXFmN2pKTWlpYVc4NTBTZDB3VWxKeldTNDVOeWxkTG5xdHBNTkg3WHgydkVzRFNHamlSb2F6b3ROU0VUS3gxVlRiY2xaM1JDRnJZenJuODJQN1Z6SGpTTGR2ekctOFFRbWRhT05WdzhraGZSejh4dU5JOEhra2JNLWtQRmM2Z21H?oc=5",
-      "published": "2026-11-06T00:15:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula vai criar Ministério da Segurança Pública com Medida Provisória Agência Brasil",
-      "summary": "Lula vai criar Ministério da Segurança Pública com Medida Provisória Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
