@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T07:17:55.075787+00:00",
+  "updated_at": "2026-11-08T09:00:35.586448+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "est-agendada-uma-reuni-o-e-consulta-com-os-eleitores-so-b721c8bb77e1e7",
+      "category": "Tecnologia",
+      "title": "Está agendada uma reunião e consulta com os eleitores sobre ciência, tecnologia e transformação digital para o dia 13 de novembro. - Vietnam.vn",
+      "snippet": "Está agendada uma reunião e consulta com os eleitores sobre ciência, tecnologia e transformação digital para o dia 13 de novembro. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjk0b1V3b0x1Uy11cTJiM2NBUTYzZkVKdkQ2TjBXRXVOS2dmUHdRM0wybDRaQ2V6OVJQcXVMbUUxVnE5TDZ5X0F3N3NURERBcGFQMy1zRFRJVXJhUUpxcjNKclVXT1ZsWXI3enVPdExRdGZNV2xHRV9LdjF6LUhhWGNVWHNJZVNCazhFc3poNXFPQkVOU01hb3ZXeFc2b3ZqSnBuN21EWnhyVGlGN0xsUVo2UGVpWFRVWDVzbldyWDhoZ1E?oc=5",
+      "published": "2026-11-08T07:50:02+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Está agendada uma reunião e consulta com os eleitores sobre ciência, tecnologia e transformação digital para o dia 13 de novembro. Vietnam.vn",
+      "summary": "Está agendada uma reunião e consulta com os eleitores sobre ciência, tecnologia e transformação digital para o dia 13 de novembro. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "vit-ria-democrata-nos-eua-n-o-deve-aliviar-press-o-de-t-d544db38e07ba2",
+      "category": "Brasil",
+      "title": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas - G1",
+      "snippet": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPa3NubVF3LXZka1FZSDhMV2xYa25JMFMtd1o4YzBZNzRxRWRvYVRxajNjamY5OUVHVGhTQnpJMm5yNzBRTUE5V191djZPcjRqNHBJMnJsUjcwT3NvZmk2Wm8tcnQ3bGIyV1U4Tm9yVzZtcHA4REV1ZnVCXzdtNVUwM1dhUXBRU0hYMmVVbVREQzFObkJoQWRQSVpNVmpCV1RIQzVyV0VfT2l4YU5teWpkdVhtcEw1RmhEQ2tkZHZiRnB5QWpvQ0IzeEt0Uzlnc3hnTTBISEFFYlJ1QdIB6AFBVV95cUxPUm05cU11Uy15b29Ec0ZYR3dGOWNQdngyRTQwSFp2d0g4ZnQ0Yl9oeEVZZHZuSEJiMUN1NER3WDJmYWo5TUJSMldqNGtDblU2TU4xb3ZjYkFLTlpDX3liV1J3T2FLUi1ma1VlSUllQnNzeEdEY0lhd0JlNlRmV1o4ZmE3bnp6YkZqc2tUX1liNExWZ2tOQ1UxajF3ZTVhdzdCbW8xVUlUZFR1R3VoVXdiS3V3SVRuMXUxWFIyVm5JODl3RU53d21iM080R3hncXVIcU9WQnFGdkFTbXR5aGV5Zkt0VWg3Vmpp?oc=5",
+      "published": "2026-11-08T07:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas G1",
+      "summary": "Vitória democrata nos EUA não deve aliviar pressão de Trump sobre Brasil, avaliam analistas G1",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "final-da-copa-do-brasil-com-gr-mio-veja-data-e-local-do-c9b166a3d65f8b",
       "category": "Esportes",
@@ -822,34 +850,6 @@
       "tone": "teal",
       "dek": "Leverkusen 0 x 1 Marseille: veja os melhores momentos pela Europa League CNN Brasil",
       "summary": "Leverkusen 0 x 1 Marseille: veja os melhores momentos pela Europa League CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mais-de-150-mil-tv-boxes-no-brasil-s-o-infectadas-por-v-a755ee55fd8587",
-      "category": "Brasil",
-      "title": "Mais de 150 mil TV boxes no Brasil são infectadas por vírus instalado de fábrica - ICL Notícias",
-      "snippet": "Mais de 150 mil TV boxes no Brasil são infectadas por vírus instalado de fábrica ICL Notícias",
-      "source": "ICL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQTFRKVTVCb3lMSkMyUTVXZG14SjI3aUMzN3FWZGtEVkp3aThET3U0UGNKaWp2OXVTRXdiZ3Z1Nzd5TFJkQ0E4V1BXUjRNNWk0TE41TVMzeE1sMTRjcllLc1hkVTRrR01DTkJCY1FmQUxpNG9w?oc=5",
-      "published": "2026-11-06T01:00:59+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Mais de 150 mil TV boxes no Brasil são infectadas por vírus instalado de fábrica ICL Notícias",
-      "summary": "Mais de 150 mil TV boxes no Brasil são infectadas por vírus instalado de fábrica ICL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "equipe-da-ag-ncia-brasil-vence-sele-o-petrobras-de-jorn-1f2ebff55182f2",
-      "category": "Brasil",
-      "title": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo - Agência Brasil",
-      "snippet": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSlpIeG9TTGhOUGpxRUJydzIyS2h1LXRtOFpGSGJkdWNFNDFJOHdxWFlQUG8za01OYWEwT2ZvT0EzSVB0WUdzTkVwN3JpbmdPbnZmdjVhTlhJVGtyTW14RmtRT096TUIzRWlURDRWZEVEZDF1Z3FzVkJna3dKTG5vbHNDbElDcEVHUDVVcGs1a3hCM1pOSXNEOFpwNDRBdVdKM1V3TzQ4bC1fU0puRVFYZEdFeXk1WkU5?oc=5",
-      "published": "2026-11-06T00:30:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo Agência Brasil",
-      "summary": "Equipe da Agência Brasil vence Seleção Petrobras de Jornalismo Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
