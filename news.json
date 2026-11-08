@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T22:50:01.459410+00:00",
+  "updated_at": "2026-11-08T01:21:28.718787+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "final-da-copa-do-brasil-com-gr-mio-veja-data-e-local-do-c9b166a3d65f8b",
+      "category": "Esportes",
+      "title": "Final da Copa do Brasil: com Grêmio, veja data e local do jogo único - Band",
+      "snippet": "Final da Copa do Brasil: com Grêmio, veja data e local do jogo único Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFl3Y2xEUXljZTZjYUs3WUVNNDBLQ3FrNUVZeUF6Qk1vS0hNSzlMRUJsZkZhREZ5MDJLY3dWWHdpZGIteU15eWY2WXk5SW42dW50Vl9DSUlUNFBhZEQ4RVg4RGd6bG1YZHJVdzBKQmh6WEJNeC10SnJUN09OYTRqRjlKZTFlM3FTMjMyOW1WMjhWZ211X1lmNmx4X2Q0UVJBTWg2eFVqcERycGs?oc=5",
+      "published": "2026-11-07T23:31:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Final da Copa do Brasil: com Grêmio, veja data e local do jogo único Band",
+      "summary": "Final da Copa do Brasil: com Grêmio, veja data e local do jogo único Band",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "gr-mio-segura-empate-com-atl-tico-mg-e-avan-a-final-da--4b1a2b027078b2",
+      "category": "Esportes",
+      "title": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil - CNN Brasil",
+      "snippet": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPckNYWm5rN1d4SGw2cDM4NTlZQkl6djQ5SVlVdmhWTTlPbGR6MTFIYmMxUVViQnZVS1ZYNXJXa2hUQ0VIMFV5WG5wRll6d1k0NUZhMHhVbzdidnBXUVc4N3V2UTBlU1NyeEd1VS03MDJCOExGNFZVV2U2YWJidkx1UGZpLVdKYVRubTVDSVpUUURJVGNFVy1Vb1RDcWJqZmxtZGFDempmb1I1cldkTDgyeXYwaWxfMlpZMjRNRThfb0dOaFZKYVBXNWZDMnE2UQ?oc=5",
+      "published": "2026-11-07T23:11:24+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil CNN Brasil",
+      "summary": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pedro-filipe-segue-pela-4-vez-na-lista-dos-melhores-del-a2f0480c4cbb1e",
+      "category": "Polícia",
+      "title": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 - Portal Nacional dos Delegados",
+      "snippet": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
+      "source": "Portal Nacional dos Delegados",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQUpRWUpSN3NZdm9MajNyVFNHVEtVNTJvcXNZMXQxUWNCNWhsWWgxQ09sRDZmS0xIeUw1WENkVThBY2xvVmNfT3R5X0xLS0t4VEktbjhuTklXWVhNeXRDNE42X2pSbFVDZFpCd0ppM3AySEozSzVTSG54NUJ4WlhyLUMzUlhPR3Z5VjI3bk00LXI3N0xQQlVhMXdJcm5pcjdiaHBpcVRpMC15a2Vwd3FCRXNJWFMybW9lWEVxWG9JWExkN1RGbjNhNQ?oc=5",
+      "published": "2026-11-07T23:09:52+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
+      "summary": "Pedro Filipe segue, pela 4ª vez, na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "dana-por-favor-aceite-o-cargo-trump-convida-presidente--74acb6f538ed6e",
+      "category": "Brasil",
+      "title": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca - BBC",
+      "snippet": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wNG1LS3VDNGpWRGE3ZnJNWnEyMXc5aXpkSmNscXpvbUU0d2xWUjJON3NnZHJwN1JXdjFCSnpTRzRGNTVxWlpwRUN4czkxZ3lES3ZINllyTkh6YWtrREFEVkd1UdIBaEFVX3lxTFBvWHpfNUVOUG5rZjhtUWVTeG1oaDc3VGx5UTY4SS1hZzBwNm10Z29JWWw0ZjVqYXdadGdHaTNYRkdwcVVkMUp0VTQ2RGV1bUQ2LW5iaFdVZmhZN29oZjYtcHk2QVJEcVow?oc=5",
+      "published": "2026-11-07T22:51:13+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca BBC",
+      "summary": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "frente-fria-provoca-queda-de-temperatura-e-risco-de-tem-9958e154377374",
       "category": "Brasil",
@@ -122,6 +178,20 @@
       "tone": "",
       "dek": "'Desde criança ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI BBC",
       "summary": "'Desde criança ensinaram a reconhecer policiais à paisana na multidão': como foi minha infância fugindo do FBI BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "enem-confira-as-regras-os-hor-rios-e-os-itens-proibidos-5f034ec1c81285",
+      "category": "Brasil",
+      "title": "Enem: confira as regras, os horários e os itens proibidos na prova - Agência Brasil",
+      "snippet": "Enem: confira as regras, os horários e os itens proibidos na prova Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWVwbkRkOUVvM0lMVklqNVk0REZTQTMxaEZaRmhPU0tyel9LN1U5eEFuSUNjZ2pHcGFfSjZaV2FFVUhUeDhFSlpxZWl0WGZGWlMtTnV2NmhQWUh0M2ZiSUFkNkFETGJtcXBMUGZ2MDZjdHktRWNuS29MVUdybF9iQldFaXRTVUxHd3ROdUh6VnBQYlZuR0RyenpLTDdVX2VuZXdVckgtTXVnOUlQMlpqd2RpSVU1MEVvQWh3?oc=5",
+      "published": "2026-11-07T17:52:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Enem: confira as regras, os horários e os itens proibidos na prova Agência Brasil",
+      "summary": "Enem: confira as regras, os horários e os itens proibidos na prova Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -503,6 +573,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "pr-mio-brasil-digital-reconhece-dois-programas-do-es-es-8a4a3e7ae3fde9",
+      "category": "Tecnologia",
+      "title": "Prêmio Brasil Digital reconhece dois programas do ES - ES Brasil",
+      "snippet": "Prêmio Brasil Digital reconhece dois programas do ES ES Brasil",
+      "source": "ES Brasil",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9raGh4eTAwQzlaU0VoZkY4U21QUGRFT2VPQy1yelZjc1ZGam0xbUdhcGdTOEZaWFRrTWNmS3pTQ0xQcW41ZDBBckU0ZjZQSFNmX0JNR0JXLS1YOG1aRUROdmpDM2pGN2p6WTk0?oc=5",
+      "published": "2026-11-06T19:00:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Prêmio Brasil Digital reconhece dois programas do ES ES Brasil",
+      "summary": "Prêmio Brasil Digital reconhece dois programas do ES ES Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "pol-cia-federal-espera-mudan-a-para-novo-minist-rio-da--31bb747acc2871",
       "category": "Polícia",
       "title": "Polícia Federal espera mudança para novo Ministério da Segurança Pública - Sociedade ON",
@@ -584,6 +668,20 @@
       "tone": "red",
       "dek": "Alckmin é favorito da PF e PRF para chefiar Ministério da Segurança Pública Brasil 247",
       "summary": "Alckmin é favorito da PF e PRF para chefiar Ministério da Segurança Pública Brasil 247",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "governo-do-brasil-disponibiliza-vales-do-g-s-do-povo-pa-5c76ac6da44968",
+      "category": "Brasil",
+      "title": "Governo do Brasil disponibiliza vales do Gás do Povo para 3,1 milhões de famílias nesta terça-feira (10.11) - GOV.BR",
+      "snippet": "Governo do Brasil disponibiliza vales do Gás do Povo para 3,1 milhões de famílias nesta terça-feira (10.11) GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSUtDWHhydExqb253M2xpcUZ6d2JPbFRRUnM0cXpuMXM4NUFHblU2Qm5XUXlTOVRLV2FEa3l2NG1RVzlFZXNkdnE0OGdBQVpSay10VC1KYm1LVUNOUVlHMjgyTDZHT2Y4SFRJemgtdkhRVjh4S0luaGJ4MkNtczBpaU90R2pLSXNwaEFtZXNSUVBaSW1FYjEyVGZwX2R2ZC1hOTh2by1MY2dpeVFUaFRCZlNMSm1aMWthSGJYdW43SQ?oc=5",
+      "published": "2026-11-06T13:47:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Governo do Brasil disponibiliza vales do Gás do Povo para 3,1 milhões de famílias nesta terça-feira (10.11) GOV.BR",
+      "summary": "Governo do Brasil disponibiliza vales do Gás do Povo para 3,1 milhões de famílias nesta terça-feira (10.11) GOV.BR",
       "summary_by": "descrição da fonte"
     },
     {
@@ -752,104 +850,6 @@
       "tone": "teal",
       "dek": "Kaio Jorge supera Ronaldo em artilharia histórica do Cruzeiro; veja números CNN Brasil",
       "summary": "Kaio Jorge supera Ronaldo em artilharia histórica do Cruzeiro; veja números CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cruzeiro-x-bahia-escala-es-e-onde-assistir-ao-jogo-do-b-558d51da725308",
-      "category": "Esportes",
-      "title": "Cruzeiro x Bahia: escalações e onde assistir ao jogo do Brasileirão - CNN Brasil",
-      "snippet": "Cruzeiro x Bahia: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZUFfcmhneWhRYXExLXFPVzNacFQ4RjVaQWFvbkoyVEJoYjVFYmFrMEFKSWY5SWYzSjFadnFkRW42blF1T3M1MjJaVnNBOU1fUzhjYlJkMXNtaE5YcW1FeW9qbEtUQ3VjYndLZDFCZVBKTDUxQ296ODkxQ1ZubDlLTWtSR3NBR3BRSEttNXRQSExPZXRGcVNJUDZCOVlwTFNMem1xMGdnYzVSM05jUU5zUUYxX2lyLVRY?oc=5",
-      "published": "2026-11-05T23:31:23+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Cruzeiro x Bahia: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
-      "summary": "Cruzeiro x Bahia: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "andr-lara-resende-bbc-n-o-falei-com-lula-isso-foi-plant-37b620e9a0eac3",
-      "category": "Brasil",
-      "title": "André Lara Resende à BBC: 'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta' - BBC",
-      "snippet": "André Lara Resende à BBC: 'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta' BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9nUTU4SU9vN2oxbVJ1ZjBRNUM2LWpOd0gydjN2Wmk0akRPcllXYXRMQUVDV2ZWTGJwUE9FcHNDMXFvTmNBcHRlSjdqNEtsWDR6UkloU2hkNFp6ZGVYYXF1QmNUUdIBaEFVX3lxTE9ubExVX3Z1andtdVpIZEw4VzV4blZiTElrdmEzbk5sYm91YjQtYnlpRDVLZXg0OTA1Z29qdUJWbEVyNEJCX0k2TDQwN1VJYkg2QUNPbFZObDUtLXVCTnUyY3ZpazA3bmFt?oc=5",
-      "published": "2026-11-05T23:21:08+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "André Lara Resende à BBC: 'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta' BBC",
-      "summary": "André Lara Resende à BBC: 'Não falei com Lula. Isso foi plantado para queimar alguém que defendeu a proposta' BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "governo-define-minerais-cr-ticos-priorit-rios-para-inve-0ad58cd4f8f610",
-      "category": "Brasil",
-      "title": "Governo define minerais críticos prioritários para investimentos - Agência Brasil",
-      "snippet": "Governo define minerais críticos prioritários para investimentos Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMzhFVnZ6ZXNLWWlFdWt0VTE1em5oSnBvVm5vV2hSbnpFbFF2V2hYcE54eVBWX2JqZ1hQVWlfN2gtaWZDUUY1SGRSQ3hmZmtib2hyNXdSMzU2MFVHYjlOemxJVmhYQ1BPVTNReThndUU2U2hUYnh1SXplcWdZWS0wQWNMdFp2ckVJTDlQUU4wQUt0T0hIRzNLMElORkNfRUx2OTJ6V0RHaVRwY0R4T0Y2dG9XQjlweElES2lYUjFYYw?oc=5",
-      "published": "2026-11-05T22:55:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Governo define minerais críticos prioritários para investimentos Agência Brasil",
-      "summary": "Governo define minerais críticos prioritários para investimentos Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-diz-que-elei-o-fez-do-brasil-um-exemplo-democr-tic-42f23b11702ba0",
-      "category": "Brasil",
-      "title": "Lula diz que eleição fez do Brasil um exemplo democrático - Vero Notícias",
-      "snippet": "Lula diz que eleição fez do Brasil um exemplo democrático Vero Notícias",
-      "source": "Vero Notícias",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPX1ZlVmk0aXlYY1V3WU5QeHZOVlBpeUpVSm0xVTVxOWNySlF3YmJoeHBPdTQySWNDQVFiSVgwY3lUZnM2c2RRTXo5TVVfLTROeU5SOXBoX1Y0T0laT05yQXJhcTlnS3NKbDhKMHI2bGlrczJXSGFjdFdzNUUtbW8zUl9udnFvR1VvekJaX2xnVko5ZmtQdEVV?oc=5",
-      "published": "2026-11-05T22:40:05+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula diz que eleição fez do Brasil um exemplo democrático Vero Notícias",
-      "summary": "Lula diz que eleição fez do Brasil um exemplo democrático Vero Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pr-mio-tv-brasil-petrobras-para-elas-anuncia-finalistas-26d06ba814df23",
-      "category": "Esportes",
-      "title": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas do futebol feminino - - Portal Cambé",
-      "snippet": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas do futebol feminino - Portal Cambé",
-      "source": "Portal Cambé",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOdUVXVmJMaXpMQWZUbnNjNEFmUlROeVlVaXZNa2lQenRqUm5PdmZUVHQwMkdDdk9kUXdFakJrVEJFeFpxRVVtUWVtNmt0SkFrOFlGdU1qeWlzWWtfeDRkTXE5MnMxOEVqRk5iTmo3dFNvUWhIbDBZR3p2RlpVanF0Uw?oc=5",
-      "published": "2026-11-05T22:31:26+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas do futebol feminino - Portal Cambé",
-      "summary": "Prêmio TV Brasil Petrobras Para Elas anuncia finalistas do futebol feminino - Portal Cambé",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-pede-oea-a-o-conjunta-contra-interfer-ncia-estra-d4c09983dbc9a4",
-      "category": "Brasil",
-      "title": "Brasil pede à OEA ação conjunta contra interferência estrangeira - Vero Notícias",
-      "snippet": "Brasil pede à OEA ação conjunta contra interferência estrangeira Vero Notícias",
-      "source": "Vero Notícias",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUjVCQVpoV3VUVzdFaEM5MGdrRkJvRmhVRms4Ymt2Ui0tLWwzZnNDQlRSeDM4MS1uT2pMYUs0MDVPUnhuMWRWOFNJQ3g3aWpRUFhZVU5kb2tmSHliUkpleXBEbDZrMlJqT21xam5UOEVRaWVJdXkzTWJ5eTJhWHhOQmZpQVZyS0RjUXJNSVdHMm4wZ0xIS2tRNkFPaEF4bjlO?oc=5",
-      "published": "2026-11-05T22:20:25+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil pede à OEA ação conjunta contra interferência estrangeira Vero Notícias",
-      "summary": "Brasil pede à OEA ação conjunta contra interferência estrangeira Vero Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ao-vivo-e-com-imagens-itatiaia-esporte-e-cnn-esportes-t-6b1803d46dfdf5",
-      "category": "Esportes",
-      "title": "Ao vivo e com imagens: Itatiaia Esporte e CNN Esportes transmitirão Rennes x Lille - Rádio Itatiaia",
-      "snippet": "Ao vivo e com imagens: Itatiaia Esporte e CNN Esportes transmitirão Rennes x Lille Rádio Itatiaia",
-      "source": "Rádio Itatiaia",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOLXhoU0dJWmlCNmlST21XOExFeExCeTIwNnk5N1gtdzl6VGd4RDloNV9HMHVOQ1hWMTQ5V1hGa0g3ZktpUHN4OHRHUFpHUFJWLUNic2pKak1haURianR2YnA1Tk11aHg5MDlDWDdGbGJqYzhMUzI1eXFVV1ZzU3RmbW5LZnNnWmdJWWdiOFRXV2kxMkV1M0toQTM2dEJqNDRxckZydExCMXoyc1FJLVY2VnVpbVFsRURBQjVvd2hSd3BPcnhDcFlUVkxuV0JyTFNBN0ZqZUtFSUhSaVoxa0xxVXc4SlI3aE5jelJzTUN0SjlqT1J2SkE?oc=5",
-      "published": "2026-11-05T22:20:24+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Ao vivo e com imagens: Itatiaia Esporte e CNN Esportes transmitirão Rennes x Lille Rádio Itatiaia",
-      "summary": "Ao vivo e com imagens: Itatiaia Esporte e CNN Esportes transmitirão Rennes x Lille Rádio Itatiaia",
       "summary_by": "descrição da fonte"
     }
   ],
