@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T05:21:04.610005+00:00",
+  "updated_at": "2026-11-09T07:42:21.648011+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,20 @@
   ],
   "articles": [
     {
+      "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
+      "category": "Brasil",
+      "title": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge - UOL Notícias",
+      "snippet": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWE3ZkRzQkxtQmVPb2VjSWNRNTZiNDRFNERMZy1NMGhxNDVWcm1nSjg2VlY4YkJtTEszMC1RdVVQTkliTlgwX1dhM3BUZjViS052Ylc4TG1nVlhxSnVMS2x1SEJnX0NFeGxXMUM1dFhHUDZuYlBPcFBRTmNtbURpVlVBN0JXa1lQQzVNLS1vWUhJZjd3Tm9nOGpmUVc1RWo3blVKSHJYMU85NnlG?oc=5",
+      "published": "2026-11-09T04:41:17+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
+      "summary": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "parte-da-sele-o-brasileira-desembarcou-neste-domingo-8--91afb3b0b72b9e",
       "category": "Esportes",
       "title": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respetivamente. Os primeiros dos 26 convocados a se apresentar na concentra - Instagram",
@@ -24,20 +38,6 @@
       "tone": "teal",
       "dek": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respe",
       "summary": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respetivamente. Os primeiros dos 26 convocados a se apresentar na concentra Instagram",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
-      "category": "Brasil",
-      "title": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge - UOL Notícias",
-      "snippet": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWE3ZkRzQkxtQmVPb2VjSWNRNTZiNDRFNERMZy1NMGhxNDVWcm1nSjg2VlY4YkJtTEszMC1RdVVQTkliTlgwX1dhM3BUZjViS052Ylc4TG1nVlhxSnVMS2x1SEJnX0NFeGxXMUM1dFhHUDZuYlBPcFBRTmNtbURpVlVBN0JXa1lQQzVNLS1vWUhJZjd3Tm9nOGpmUVc1RWo3blVKSHJYMU85NnlG?oc=5",
-      "published": "2026-11-09T02:50:27+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "summary": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -220,6 +220,20 @@
       "tone": "teal",
       "dek": "Vasco x Palmeiras: escalações e onde assistir à semifinal da Copa do Brasil CNN Brasil",
       "summary": "Vasco x Palmeiras: escalações e onde assistir à semifinal da Copa do Brasil CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "as-aves-comedoras-de-crian-as-que-moldaram-nossa-evolu--ecdf2425bf32ee",
+      "category": "Brasil",
+      "title": "As aves comedoras de crianças que moldaram nossa evolução na Idade da Pedra - BBC",
+      "snippet": "As aves comedoras de crianças que moldaram nossa evolução na Idade da Pedra BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBmOEtTLUNFeGJ5TnVEYll5OEdxM3d6amJZTy1yeHZ2Wld3SW1BaWh2UXd0Y2tBUklsMndEM21RYmE4ZTh1YzJoalFXcTFxWGl6UklVbVVqVk5vSk9TOEhuaHhVONIBaEFVX3lxTFBLQWVINWtFc1RENGZGMEl1cTd2UGpOVEFqSkZCZjRVZTZ3d0libTI5V05sd011dnB5UER6ZVB1dmdYcmdKQ1kySzNCQlY2ZDVxQmNsdkxoTlI2Y1pYSFJheVpSTm0tQ0lR?oc=5",
+      "published": "2026-11-08T19:01:28+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "As aves comedoras de crianças que moldaram nossa evolução na Idade da Pedra BBC",
+      "summary": "As aves comedoras de crianças que moldaram nossa evolução na Idade da Pedra BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -430,6 +444,20 @@
       "tone": "",
       "dek": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
       "summary": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "alto-escal-o-confira-quem-mudou-de-endere-o-ou-de-cadei-ffd691bca5efb5",
+      "category": "Economia",
+      "title": "Alto Escalão: confira quem mudou de endereço ou de cadeira na última semana - Estadão",
+      "snippet": "Alto Escalão: confira quem mudou de endereço ou de cadeira na última semana Estadão",
+      "source": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEE0Y2dVU3MwenFwdkFIZTJrVU1wN1lSblV1WnJSRk54T1pROGFPMUlKQ3BNdXcxUlYwa29icWJYSWY1amFTTW5SOEZsRWpNb2FPRFpkZkVTdzFVWWJqdGhMREhIalZTVkU1V2JpNXBhZkJIRjRiY0N6WENGcjEtV2UtVUp1NVNKSHh1TlQ2dTRGSjJsaGNUTi1BVXU4UDFOYXpIcDcybEpCNUg0eW1PbHYtOGNwZUJHeTRaamhpREw1d9IBxwFBVV95cUxOR1NtRHc3aHFJdV92S2lpaFQzYk05UGxkWWFOcVlaSHVNZUlNNVBiOWRXWHloay1qdmQxZ3BMUk9aQW40eW05UGZ4Q0tmM3lqb3FTM1MyMUNiR2t1TDlVQlAyaU52T2FyUG5rLTN0VTYzMzRGQjhIR3U0RVNWWXZXVmpyVHBnbGttbXk3cWwzSWVDa21iUW9CdWxQVTlHM2J1eVEyYVJEeVluOHYyMFdKSDVGU2xsTk5jRHR3S29RM182Y2FQa2c0?oc=5",
+      "published": "2026-11-08T08:30:00+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Alto Escalão: confira quem mudou de endereço ou de cadeira na última semana Estadão",
+      "summary": "Alto Escalão: confira quem mudou de endereço ou de cadeira na última semana Estadão",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "teal",
       "dek": "Flamengo x Bahia: horário e onde assistir o jogo da Copa do Brasil Feminina CNN Brasil",
       "summary": "Flamengo x Bahia: horário e onde assistir o jogo da Copa do Brasil Feminina CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "paris-saint-germain-x-troyes-hor-rio-e-onde-assistir-ao-582b72461c61a3",
-      "category": "Esportes",
-      "title": "Paris Saint-Germain x Troyes: horário e onde assistir ao jogo da Ligue 1 - CNN Brasil",
-      "snippet": "Paris Saint-Germain x Troyes: horário e onde assistir ao jogo da Ligue 1 CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeXR2Mm90THpmY0NxSEgtRlVoVDlJaExFQ0VRZVNvMlp0MXlDbnVncWwwR1dyYjVmYjRxS0Z0UmNISjlEcGl5b2syaUVXZjFJRzV6OURPZTJpdEoyUjhUSmU1ZTEzM2xQMElmSWhDQXBuYlo5YllfMDhnZ0hLT1E0dmNkVUx5QWU4dlRTbnN3bXN4b21lSUc3R2tBN1FNbFA0eENtR21UR1ppYmQzUUtHVWpMQTlMMEJMRk9TOU5IY1lGVjRsNlpIdGJNVDVnQXRlNGI5bW4xdw?oc=5",
-      "published": "2026-11-07T09:00:59+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Paris Saint-Germain x Troyes: horário e onde assistir ao jogo da Ligue 1 CNN Brasil",
-      "summary": "Paris Saint-Germain x Troyes: horário e onde assistir ao jogo da Ligue 1 CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "covid-19-casos-aumentam-h-seis-semanas-no-brasil-e-fioc-13a8bd1a082ac6",
-      "category": "Brasil",
-      "title": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações - G1",
-      "snippet": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNMmtMdnJiZXNxdU9SaU1wbktlVWZXZ0diYVZjX0l1LVR2WWJFcjZ4Z2JUVzd6UlB3X3hpc0ZTTExJMzNsbnhGTjBTM1pCb0h4VFc2cTA5bTBtYnNremtjXzh6ZFc0a1FlSlZ2NE1ZamhaZi1BLXoyNTRYNjNQZmdLc29Ebjk4LUF5TWdVaENrUVNReHZ4b0FFQ1Q4cTlwTTh6WWZPZ203Qy1Wc2x0VXRKREhMUWJBNXQ3eGJoRk1QYnVCa09jZDBtSlVPZmowSVBYU1MtWkdR0gHkAUFVX3lxTE5DLVFPY25TR1lSMDJCVVVPTzU5dVdQbDlmNXZUWVhsdUF1c2dVTGl2Q1RlbU1wN2FldXNrNFZvcWpIdTNoWDZzOERyQUp4X2Via0R2ekFQY09sZTFhTU1lRTZCS3dSX0NNSEp4dEY0RnJxbEpLSWRWcUpGcjVDd2VmNUhfSDdoOTdMLTZueGVBb1VMYVpYRHU4MVliaTVuZXJSSGh0SGJ1QlpfWTBSQzVvbXpMaUlqUURCYTA5cExQZDJHN3gwNnJoQnB0QVF5eGtXcnVIUThlUFkzdkQwRWJGR1p5Qg?oc=5",
-      "published": "2026-11-07T07:00:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações G1",
-      "summary": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações G1",
       "summary_by": "descrição da fonte"
     }
   ],
