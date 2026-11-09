@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T22:49:29.395233+00:00",
+  "updated_at": "2026-11-09T01:25:14.379116+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "jp-sampaio-avalia-cen-rio-do-futebol-brasileiro-perdeu--3d3d7a52566afa",
+      "category": "Esportes",
+      "title": "JP Sampaio avalia cenário do futebol brasileiro: \"Perdeu a cultura\" - CNN Brasil",
+      "snippet": "JP Sampaio avalia cenário do futebol brasileiro: \"Perdeu a cultura\" CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclFMcmpMZlNOdzZSNVJ6c3lOMmZjZkVKbXQ4Q3ozd215MlRHVllnNXZ5YU9lQUw1NWE0NXlwcVhfV0tIeDM5X29RUFNfSjBiTzJ3UE1tbmhBTVhCWEJHZHUyazRBX1d6aUVvbHFKOGo3YTBJeWhSOHdPektwaF80d0xhTVVpWFc0dzJybHY5ZHhyLW9pV2Y2SXdQV283YUhaaGlUYlE4TDJkSC1TOEY1WQ?oc=5",
+      "published": "2026-11-09T00:15:55+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "JP Sampaio avalia cenário do futebol brasileiro: \"Perdeu a cultura\" CNN Brasil",
+      "summary": "JP Sampaio avalia cenário do futebol brasileiro: \"Perdeu a cultura\" CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pronunciamento-do-presidente-lula-na-o-planalto-gov-br-97cec820f62095",
+      "category": "Brasil",
+      "title": "Pronunciamento do presidente Lula à nação — Planalto - GOV.BR",
+      "snippet": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHBrb1JRX1I2MU11eUlqUlA1RklQRnM4V1V1RlBIdUt5OVZ1VE5yR21nV2JNeHNuN1dqZ1N6TVlhc3JjS2R5R1pmLUhOVFVINVh5QWZSSDdtZzZYX2l2OTNTdDZTRnYzbHR2LUNIWTNhLUVrOE9Zcjk3XzZmV3l2NW9Ncm95cU9VYjFyemNBTlg3RFJWQ01BVG91RVVvc3JjVDNTbEhFdC0?oc=5",
+      "published": "2026-11-08T23:51:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
+      "summary": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "mesmo-eliminado-vasco-somou-premia-o-milion-ria-ao-long-3ec66aa4ce4bcb",
+      "category": "Esportes",
+      "title": "Mesmo eliminado, Vasco somou premiação milionária ao longo da Copa do Brasil; confira - O GLOBO",
+      "snippet": "Mesmo eliminado, Vasco somou premiação milionária ao longo da Copa do Brasil; confira O GLOBO",
+      "source": "O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZHdCVmJCaFdKR1pNLVRLaENCSEl2NEF2WU1VMUM1YTJraE5UZHYtVFQ3X2pkVDY5dzBOMDROSmtRVmVsTVVDeHI2MDlWRmd1X1hRdV9saFFsNmNtUFlCaV9HbTJwMGx1cnlsNnhLeS0yZ1F6MktnTEhpV1E1NUdVVTJkWi1OaGd4cWZqa01XOGdHcmc0YThuUkcyQVpORFFSYTRQRnRScHJyYlNReG9WQWpHX0xhWXh2TFdobkVIcFhlZ0p0dUN2Zkx2NzFMUVVSMnczMFREN0hLMXdKQ05tYXRsWllBNERJdnltMA?oc=5",
+      "published": "2026-11-08T22:39:07+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Mesmo eliminado, Vasco somou premiação milionária ao longo da Copa do Brasil; confira O GLOBO",
+      "summary": "Mesmo eliminado, Vasco somou premiação milionária ao longo da Copa do Brasil; confira O GLOBO",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "livro-resgata-a-hist-ria-das-pioneiras-do-futebol-femin-3a0a93a3783fd3",
       "category": "Esportes",
@@ -29,15 +71,29 @@
     {
       "id": "final-da-copa-do-brasil-data-local-e-regulamento-para-g-7c111b468a6132",
       "category": "Esportes",
-      "title": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras - Esporte",
-      "snippet": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras Esporte",
-      "source": "Esporte",
+      "title": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras - Band",
+      "snippet": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras Band",
+      "source": "Band",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTE1wUjRubXZ4U2tiTDNRTGxTV2w5aTM3Y0VFNlRia2N6Q3BRcjBQaG95M3dScUR5b1dIRDJJaWd5cUNtNXFrMVFqNG4wNnV3cnRuekR5WnltWVd0cWtUT1FBdnRFRUJwTnZNTWdkNm91VGJVdnZTUFlGcUdES3lfLWV2YmZYbFFwLVhnTmRiZjczMlUyMHhMMm1ubV9wcFVxTnpTemJPUEVlMzB1V25za2dSV1NycS0wbFZtTjRjc1c3NkQ0Y1JJ?oc=5",
       "published": "2026-11-08T22:30:00+00:00",
       "image": "",
       "tone": "teal",
       "dek": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras Esporte",
       "summary": "Final da Copa do Brasil: data, local e regulamento para Grêmio x Palmeiras Esporte",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "mundo-not-cias-rtp-not-cias-rtp-d8a2e9d0ab7021",
+      "category": "Mundo",
+      "title": "Mundo | Notícias | RTP Notícias - RTP",
+      "snippet": "Mundo | Notícias | RTP Notícias RTP",
+      "source": "RTP",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KMk1sa2FHVXRmTHluaExmYmtENzJSTWd3eDBUQ0RJRW42THV2SHM0SXVpX0k5cTJFRm41VG9hcjJhbGVfVG5YNQ?oc=5",
+      "published": "2026-11-08T21:17:47+00:00",
+      "image": "",
+      "tone": "blue",
+      "dek": "Mundo | Notícias | RTP Notícias RTP",
+      "summary": "Mundo | Notícias | RTP Notícias RTP",
       "summary_by": "descrição da fonte"
     },
     {
@@ -108,6 +164,20 @@
       "tone": "teal",
       "dek": "Vasco x Palmeiras: escalações e onde assistir à semifinal da Copa do Brasil CNN Brasil",
       "summary": "Vasco x Palmeiras: escalações e onde assistir à semifinal da Copa do Brasil CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "caiu-no-enem-2026-exame-citou-lei-rouanet-mst-e-a-impor-eec711c153c22b",
+      "category": "Brasil",
+      "title": "Caiu no Enem 2026: exame citou Lei Rouanet, MST e a importância do voto - G1",
+      "snippet": "Caiu no Enem 2026: exame citou Lei Rouanet, MST e a importância do voto G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFlWbm12QkJXckEtZnFnVmswS3hmMWVrUFhzazZfY1RLV2NLZW1NNFVqd0tqZXFsZ2hWaEY5TExKMFdmek5MRXg4TEVGY2V2d085U2VrQldIVHdnajA0YVNMa0VOaV9rbUVQbmRHZWdJcWluNEpHc3VaMmZqbEVmS3E1ajVrOGNzOVHSAZgBQVVfeXFMTjdKMUJZRkFRZk1rU2FqaVZ4YmItVjd0QjRkbkpGRlNqN2lqcnNoaThxUWtRZ01jc0xKMlFWMWV0ZnVuX0ZIalJ4Mmp0RTFFaWVSaGE4c2VFUnh5Y0J2eTJLNWJYRjc3aElqNFpsbkp3RUVYdXhLTHk4OWJwQUVUVlRNekVBZlRJdk5fZHktQ1lmSmVRak1ld0o?oc=5",
+      "published": "2026-11-08T18:37:03+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Caiu no Enem 2026: exame citou Lei Rouanet, MST e a importância do voto G1",
+      "summary": "Caiu no Enem 2026: exame citou Lei Rouanet, MST e a importância do voto G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "",
       "dek": "Bets voltaram? O que a Justiça decidiu sobre casas de apostas BBC",
       "summary": "Bets voltaram? O que a Justiça decidiu sobre casas de apostas BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "marc-o-abre-o-jogo-sobre-o-futuro-e-se-coloca-disposi-o-168f616aecf1fc",
-      "category": "Esportes",
-      "title": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027 - CNN Brasil",
-      "snippet": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027 CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOEtBbS14dk13Vmo5UlF3eTc1UWNhRXpxSFBzUzIwMklIUlk5NE0ydW13OUFfRUZoLWt2OEVRS3VxUENFVWpJNnd3RTZOM1VEYnhrYjhJMGZxalhvb3NKNjdUaE9KUmRERGZhNHdlLTJiUXkzVVBZWkVha0FueVE2SjlwOUpiMXQwcXZqR05TRHpOTGZoQ2xKa0pJUUZnSmxRRHJkNHI2VTFfN2JzVDNxdmFJbENIM3V0azhGUG54RTV2X1JV?oc=5",
-      "published": "2026-11-06T23:49:16+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027 CNN Brasil",
-      "summary": "Marcão abre o jogo sobre o futuro e se coloca à disposição para 2027 CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "vit-ria-x-fluminense-escala-es-e-onde-assistir-ao-jogo--40e159c9303364",
-      "category": "Esportes",
-      "title": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão - CNN Brasil",
-      "snippet": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNLWh2VjRWNFBOSnd2aUZuVmlhYXJHbzNTbk9tQ3lLYUQzV25ldEVVMjNmNmJ1SE1TbHFLZlRXcUFialpYZVdHS1Fia0oxUllLS2VtMVJONm0wcU1PLWlGeEQ4eDZobmk5R1ZWdDd2RDVVaTZ4U09Mbm9sQ09JRWVOX2djTnZxNFR0cC1HT3Q4SkZLclZZZFMxcHdIU1F0M2ZnV3pWT1VXQzhqaFVGdnItNEFyaFVOWFlISnpJT1NR?oc=5",
-      "published": "2026-11-06T22:03:37+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
-      "summary": "Vitória x Fluminense: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mar-lia-vasconcelos-segue-pela-2-vez-na-lista-das-melho-b401ec388ee1ac",
-      "category": "Polícia",
-      "title": "Marília Vasconcelos segue, pela 2ª vez, na Lista das Melhores Delegadas e Delegados de Polícia do Brasil! Censo 2026 - Portal Nacional dos Delegados",
-      "snippet": "Marília Vasconcelos segue, pela 2ª vez, na Lista das Melhores Delegadas e Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
-      "source": "Portal Nacional dos Delegados",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOZzNQTkNaTThCWUZORWhQcGhYSGVvRTg2cS0yUVkzWnFsMmdVZ29JcE5iU2ZlcTF5VWM3OTNVQWt6dE1WNW5PWS1DT0d4NF9hTUQtNDhNeHRLZ1ljX1FiNlA5a2hXdkJqT1AweS1oTEV4eUZvZzAtZk9hWkVOZlhDZHc4UnBnbkR5YVVKZTBDazM0ajJESWZ2YUgzX0hOdHNlREVwSXRJbFk1VDVDYVQtWmtfMzVGbGYwRUlYR1MwdVg0LV81aC1ZU0RTQ0l0Rkc0ZENobjBqUDBPMy00dGNxUklB?oc=5",
-      "published": "2026-11-06T22:00:54+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Marília Vasconcelos segue, pela 2ª vez, na Lista das Melhores Delegadas e Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
-      "summary": "Marília Vasconcelos segue, pela 2ª vez, na Lista das Melhores Delegadas e Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "1941-o-decreto-que-proibiu-mulheres-de-jogar-futebol-no-9cb9ea3f78719a",
-      "category": "Esportes",
-      "title": "1941: o decreto que proibiu mulheres de jogar futebol no Brasil - Espaço do Povo",
-      "snippet": "1941: o decreto que proibiu mulheres de jogar futebol no Brasil Espaço do Povo",
-      "source": "Espaço do Povo",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZTdtUDM4LU81dWNxUmFPQkJGRzVqRElSd0ZoVGpCbzZEQjFmSE94LXBqbFlzdkF6a0RiMkRPZFhYQmNFdzgwTHFLT2JZVGhpdUZtUXEwU3dVSU5PQVNtR0RFRy1UUHhZX2dJb2haT3JaQkFiS3IyR2RkR3QyUHpFTw?oc=5",
-      "published": "2026-11-06T21:52:21+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "1941: o decreto que proibiu mulheres de jogar futebol no Brasil Espaço do Povo",
-      "summary": "1941: o decreto que proibiu mulheres de jogar futebol no Brasil Espaço do Povo",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "agu-vai-recorrer-contra-a-retomada-de-tr-s-casas-de-apo-8ddfce114eb923",
-      "category": "Brasil",
-      "title": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil - uol.com.br",
-      "snippet": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
-      "source": "uol.com.br",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPeXNQYTFTc0FmOXNucUJvZWRidE0yNnktLWtmQXRoY3VvSk4wcVBxMEdyT0x2ejE5cVFzRlh4dFBtaVFkemlzQm1mUE9zV1dDZ0tvaDdVM3JOall2YWx4a1FmelZDbDNra05ORm1MNEMzcUcxejZmQjh4TDNidjU4TEEwSkZ5LXBHeGxkQWZqZmdZMU5rUUk0M3JlbjMwT3JESlgwc0YzYw?oc=5",
-      "published": "2026-11-06T21:38:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
-      "summary": "AGU vai recorrer contra a retomada de três casas de apostas no Brasil uol.com.br",
       "summary_by": "descrição da fonte"
     }
   ],
