@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T02:59:58.998272+00:00",
+  "updated_at": "2026-11-09T05:21:04.610005+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "parte-da-sele-o-brasileira-desembarcou-neste-domingo-8--91afb3b0b72b9e",
+      "category": "Esportes",
+      "title": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respetivamente. Os primeiros dos 26 convocados a se apresentar na concentra - Instagram",
+      "snippet": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respetivamente. Os primeiros dos 26 convocados a se apresentar na concentra Instagram",
+      "source": "Instagram",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9jcm9BeElmQWVzMTB2V0FmMkYzdGoxZW5lYlFyZTdWdEhNVFVCelZONGY1TDFFU05Ncmh0TkVTcV9ORUdodWJ2VTcxSmZVdTRMUnc?oc=5",
+      "published": "2026-11-09T03:23:15+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respe",
+      "summary": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respetivamente. Os primeiros dos 26 convocados a se apresentar na concentra Instagram",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
       "category": "Brasil",
@@ -836,20 +850,6 @@
       "tone": "",
       "dek": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações G1",
       "summary": "Covid-19: casos aumentam há seis semanas no Brasil, e Fiocruz aponta alta nas internações G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "gonet-pede-ao-stf-que-suspenda-todas-as-a-es-sobre-bets-08489c4593aa7f",
-      "category": "Brasil",
-      "title": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil - UOL Notícias",
-      "snippet": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQX3oxRHNuTVNyYV9jeTBLTTh0Q2V5QTF6SXlrYzM0a0pxdUIyUXlTVjcwMGNsamZuNTRtS2Q0SUNBVlYxNUhrVmdBTFhfWkZCSnpIRmVlYVMxdFFGUHMwVkwwUHJkUlJsSE1wOVpfa3hGclNwYmo4cl8xRnItZlExR2xLM3ZabUsxNUJRbjJ4YTlHWExnemNfLUhEaEsxdDdXdTI1YUkydTVRQTVWdUxvS09xdy1WX24tNXRNMDFYeDM5Y2hQakxv?oc=5",
-      "published": "2026-11-07T06:14:32+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
-      "summary": "Gonet pede ao STF que suspenda todas as ações sobre bets no Brasil UOL Notícias",
       "summary_by": "descrição da fonte"
     }
   ],
