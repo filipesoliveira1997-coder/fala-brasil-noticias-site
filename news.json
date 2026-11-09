@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T19:09:25.780175+00:00",
+  "updated_at": "2026-11-09T21:04:06.700222+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "pgr-pede-ao-supremo-arquivamento-do-inqu-rito-das-fake--b4fe65d4425ea3",
+      "category": "Brasil",
+      "title": "PGR pede ao Supremo arquivamento do inquérito das Fake News - Agência Brasil",
+      "snippet": "PGR pede ao Supremo arquivamento do inquérito das Fake News Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjE1emhfeDZrLWRMbU1mZFF4bm5qQldjOGhLZS1UNGdKVEh6czM2dE9kSHQxRktKZTk4b3lrbXd4T1IxMGc1cThFVzZnWURXeTUwUlMyR041a1h6dnV4V3VxQTFQZS13NFdvYkh3NlFTMUZlMHNjZ2RUNFVGd09ZbmF3UHJWNzdyOXF3bUNucXpDenZCRWpGWEc3bWFaMEZuUEc3M3NOSXBybXVTV0hxWmpBTGtLNjg?oc=5",
+      "published": "2026-11-09T18:46:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "PGR pede ao Supremo arquivamento do inquérito das Fake News Agência Brasil",
+      "summary": "PGR pede ao Supremo arquivamento do inquérito das Fake News Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "exporta-es-de-soja-do-brasil-crescem-37-em-volume-na-pr-8614116ace5b9d",
       "category": "Brasil",
@@ -111,6 +125,34 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "prefeitura-re-ne-cerca-de-40-mulheres-em-capacita-o-sob-b0d76574bf27ea",
+      "category": "Tecnologia",
+      "title": "Prefeitura reúne cerca de 40 mulheres em capacitação sobre marketing digital e empreendedorismo - Prefeitura de Aracaju",
+      "snippet": "Prefeitura reúne cerca de 40 mulheres em capacitação sobre marketing digital e empreendedorismo Prefeitura de Aracaju",
+      "source": "Prefeitura de Aracaju",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNZm85TkIzbHF4aVZoZ1IxMjdaRVM2NlBrUHBlRVp6ZEtIcXhqMWhYdjdiSm12TjBtWXJrbUF3OVA0dm9ZdnZ6RVhtbWJGZzRieE1sS01xZFd6T3A2cWNOM2ZWVDM2UzJXQkxvQzRFWUROeHlGWnU0U0hRQjJMUDZLUmwxWHUzcHVlMTd3YjEtbnVtQ3B0ZXp4NXB0YWVRb1FONk1uVUI3dE04bUVFWEJXMGh2d0U0RTZqZjNKN2FGN0hyb1VaZ1lFTFV4X0ZWS2s1Q0szbWF5aVM?oc=5",
+      "published": "2026-11-09T14:51:20+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Prefeitura reúne cerca de 40 mulheres em capacitação sobre marketing digital e empreendedorismo Prefeitura de Aracaju",
+      "summary": "Prefeitura reúne cerca de 40 mulheres em capacitação sobre marketing digital e empreendedorismo Prefeitura de Aracaju",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "mudan-as-no-desenvolvimento-da-ci-ncia-e-da-tecnologia--569f6f4daad7f3",
+      "category": "Tecnologia",
+      "title": "Mudanças no desenvolvimento da ciência e da tecnologia após quase dois anos da implementação da Resolução 57. - Vietnam.vn",
+      "snippet": "Mudanças no desenvolvimento da ciência e da tecnologia após quase dois anos da implementação da Resolução 57. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUdEcmFiMlV4UmE4NlZFdDNyVW5mWktMMy1NTnZMVTNQWlJyOXZVakZZX3A0QlJsNDE3al9JRHRBa0FUeXh1aDhhZEU5aFZNak1MbUhPS2NvNzlFdlBQYUJETTNpM0t4WmZud3ozejhsRFh2R0ZWSzNabm1QdlVISjRPdzB1Vm5aMXVaWGRwRlo1dXd4WHBGWFZ6dDI0Ukg3TVM0RDBsdXQ0c29rVmhhcg?oc=5",
+      "published": "2026-11-09T13:38:02+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Mudanças no desenvolvimento da ciência e da tecnologia após quase dois anos da implementação da Resolução 57. Vietnam.vn",
+      "summary": "Mudanças no desenvolvimento da ciência e da tecnologia após quase dois anos da implementação da Resolução 57. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "fux-suspende-todas-as-a-es-judiciais-contra-proibi-o-de-28fdbef0f127e1",
       "category": "Brasil",
       "title": "Fux suspende todas as ações judiciais contra proibição de bets no país - Agência Brasil",
@@ -122,6 +164,20 @@
       "tone": "",
       "dek": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
       "summary": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "filipinas-suspendem-importa-es-de-carne-de-porco-por-60-01fd7dfb40e23b",
+      "category": "Brasil",
+      "title": "Filipinas suspendem importações de carne de porco por 60 dias; país é maior cliente do Brasil - G1",
+      "snippet": "Filipinas suspendem importações de carne de porco por 60 dias; país é maior cliente do Brasil G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcnNMak1Ya19ZYVByazY4VS1xX0M2RnRlWVU2b3pDMXVwakQwdVJxUktsQmpqc2Z2Skhfa2c1enVud18tMURVWUJ0UTJPa2ZhVlZYZzktMV9rMXFBVkZzdUV1YUJrd253ZEFDaXc1bFhGZjdwWWZ2MW5aSlVlQ1N0UEV2VkJOUl9LR0ZSSF92WGQ3S1ZUaE82OFZLeW4yeHZYaW9UR0ZUWjR6NnhWazdER2FCZzE2UlBMOGF6VlRodUdsenhTZnExcEZUbzdDNGJ5LW1ObXRKbXpmX1Y5UlRLaEdlZHRfTHlxYmV4aWdMVdIB_gFBVV95cUxPTExvQ1ZVSUI1VUVTcHpKYnlwT3ptbE5ybDZTZ3lORG9pWUtJVFUwWlRoeDlUbEEySTAtbTBBTlVCUEd3SXNHek5pSkZtUmJic2lpZzdKWHRHcXJ1c1dFNWZrZFpfeGJYMGN0V1VlamJsaFhpQUg1UjBMX21oV25JMmIxU01qaFp0X0cwYlphYm5LdzRnZVd4MkY0dTlUTHBuUTFOVER4dlBhSUlEVkxoOENWRC0ybHhaeldIcjBUZnFOTXFLa2ZSVS02bnU4UlB5bnluSmpLUEQtcFZZbnNPY2tnQ2lwMEdNY1BuZVNITzVOYkhLWUp0d2xWVnh3QQ?oc=5",
+      "published": "2026-11-09T11:45:51+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Filipinas suspendem importações de carne de porco por 60 dias; país é maior cliente do Brasil G1",
+      "summary": "Filipinas suspendem importações de carne de porco por 60 dias; país é maior cliente do Brasil G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "purple",
       "dek": "Programas de inovação do ES viram referência nacional ES Brasil",
       "summary": "Programas de inovação do ES viram referência nacional ES Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "final-da-copa-do-brasil-com-gr-mio-veja-data-e-local-do-c9b166a3d65f8b",
-      "category": "Esportes",
-      "title": "Final da Copa do Brasil: com Grêmio, veja data e local do jogo único - Band",
-      "snippet": "Final da Copa do Brasil: com Grêmio, veja data e local do jogo único Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFl3Y2xEUXljZTZjYUs3WUVNNDBLQ3FrNUVZeUF6Qk1vS0hNSzlMRUJsZkZhREZ5MDJLY3dWWHdpZGIteU15eWY2WXk5SW42dW50Vl9DSUlUNFBhZEQ4RVg4RGd6bG1YZHJVdzBKQmh6WEJNeC10SnJUN09OYTRqRjlKZTFlM3FTMjMyOW1WMjhWZ211X1lmNmx4X2Q0UVJBTWg2eFVqcERycGs?oc=5",
-      "published": "2026-11-07T23:31:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Final da Copa do Brasil: com Grêmio, veja data e local do jogo único Band",
-      "summary": "Final da Copa do Brasil: com Grêmio, veja data e local do jogo único Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "gr-mio-segura-empate-com-atl-tico-mg-e-avan-a-final-da--4b1a2b027078b2",
-      "category": "Esportes",
-      "title": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil - CNN Brasil",
-      "snippet": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPckNYWm5rN1d4SGw2cDM4NTlZQkl6djQ5SVlVdmhWTTlPbGR6MTFIYmMxUVViQnZVS1ZYNXJXa2hUQ0VIMFV5WG5wRll6d1k0NUZhMHhVbzdidnBXUVc4N3V2UTBlU1NyeEd1VS03MDJCOExGNFZVV2U2YWJidkx1UGZpLVdKYVRubTVDSVpUUURJVGNFVy1Vb1RDcWJqZmxtZGFDempmb1I1cldkTDgyeXYwaWxfMlpZMjRNRThfb0dOaFZKYVBXNWZDMnE2UQ?oc=5",
-      "published": "2026-11-07T23:11:24+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil CNN Brasil",
-      "summary": "Grêmio segura empate com Atlético-MG e avança à final da Copa do Brasil CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "dana-por-favor-aceite-o-cargo-trump-convida-presidente--74acb6f538ed6e",
-      "category": "Brasil",
-      "title": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca - BBC",
-      "snippet": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wNG1LS3VDNGpWRGE3ZnJNWnEyMXc5aXpkSmNscXpvbUU0d2xWUjJON3NnZHJwN1JXdjFCSnpTRzRGNTVxWlpwRUN4czkxZ3lES3ZINllyTkh6YWtrREFEVkd1UdIBaEFVX3lxTFBvWHpfNUVOUG5rZjhtUWVTeG1oaDc3VGx5UTY4SS1hZzBwNm10Z29JWWw0ZjVqYXdadGdHaTNYRkdwcVVkMUp0VTQ2RGV1bUQ2LW5iaFdVZmhZN29oZjYtcHk2QVJEcVow?oc=5",
-      "published": "2026-11-07T22:51:13+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca BBC",
-      "summary": "'Dana, por favor, aceite o cargo!': Trump convida presidente do UFC para ser secretário de imprensa da Casa Branca BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "frente-fria-provoca-queda-de-temperatura-e-risco-de-tem-9958e154377374",
-      "category": "Brasil",
-      "title": "Frente fria provoca queda de temperatura e risco de tempestades - Agência Brasil",
-      "snippet": "Frente fria provoca queda de temperatura e risco de tempestades Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOMjZoYUdESUJLQVZaNkF6dk9KRjg5TWxtN3FrblZrdjJfWjkxWTdaQ0QwSUhMSF9BZHJCUWJOV0t2VXFlclllR1NaeDBUblR2MUtKT2VXYnNmaUMwSG1MRDh6cGs5N2F5cXBLblMwUHlrQUxnVk5EQl9lbElNdmx6alpJdk1qaXJ4SjBXT3dfZGRMNks4ZFlnZG10RVZnU0NVV3FQZ3lNZmRnNFltQlpxMXJPVm01VUJHNkE?oc=5",
-      "published": "2026-11-07T21:59:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Frente fria provoca queda de temperatura e risco de tempestades Agência Brasil",
-      "summary": "Frente fria provoca queda de temperatura e risco de tempestades Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
