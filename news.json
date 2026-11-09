@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T17:21:23.628132+00:00",
+  "updated_at": "2026-11-09T19:09:25.780175+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,34 @@
   ],
   "articles": [
     {
+      "id": "exporta-es-de-soja-do-brasil-crescem-37-em-volume-na-pr-8614116ace5b9d",
+      "category": "Brasil",
+      "title": "Exportações de soja do Brasil crescem 37% em volume na primeira semana de novembro, aponta Secex - Notícias Agrícolas",
+      "snippet": "Exportações de soja do Brasil crescem 37% em volume na primeira semana de novembro, aponta Secex Notícias Agrícolas",
+      "source": "Notícias Agrícolas",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZzl5MU91QVVoTHlVWnM4VkZ5NW12X1otMzBLYWNuYWFaUGx6NU9uNG44cHZ5dUstQmF6NlJXeGFaakFWa2pvY1JoNWVtU0ZiRkFBU3VpX0VzdFZuUTE0Q0wtbGp5b083c2hTUlMwMXBsS2tYMU9Rc2hGQVpXcC0zVG5UT1N5YVcwbEk5QWFiemxoaE93TkZQS3V4bXhvd3Z3SDFmQzFqdm5Pd0JPckp0ZGVQNHBvWm11a0VwOEpIbUdGTGJpQVA0YU9fSHVwT0g0QUdsMDF5QTYyeXlKYU5JcDVYZWV5ZXRjSXY1NVpn0gHzAUFVX3lxTFBmSk42dDhVSXM3LXFva1p0b1BObEhMcWMweXFVODJWdVNCWHdxUFRCZU9ZRDladFdnS3RrMDZtcXpwMmxjNEc5dGhpVDZWeldEVzVKbjFmb1JPRVY5bXc0R3JsYnZHWWhzRnpPN2UzUWNXQ2taT2g0ck9yWjZLSGpSYlJqemViSFhscDBFb25MQ3RTdzhPT2hncXU4OXRHMXNJMV8zVUd0UlJPT2RhZHBtRlVFckNWa01LUFpsdkF1WkxPR29yOHctaWhzaFdGTDl4YURzcS1UVGNtbkR4RE5ETU9iOTVoMVU0YTRKa3A2VmxWSQ?oc=5",
+      "published": "2026-11-09T18:38:58+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Exportações de soja do Brasil crescem 37% em volume na primeira semana de novembro, aponta Secex Notícias Agrícolas",
+      "summary": "Exportações de soja do Brasil crescem 37% em volume na primeira semana de novembro, aponta Secex Notícias Agrícolas",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "comentarista-aponta-abel-como-melhor-t-cnico-no-brasil--26183d09883f56",
+      "category": "Esportes",
+      "title": "Comentarista aponta Abel como melhor técnico no Brasil: \"Nenhum se compara\" - CNN Brasil",
+      "snippet": "Comentarista aponta Abel como melhor técnico no Brasil: \"Nenhum se compara\" CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSjh5Z0R5V0lzLXNKQ2otRXJhMGtPbWJRbndsbWRjRzVXWGNRenpoV25ScklpNTNOQnNPZnczQS1LbGpZU2pReTlZdnRRcmQ0NllOSHlQN29tVVBabXJvSW4wQTBheDduYUlmb1Vnd0dIQXVXQnZlUkNUUk1VeHRBdWFUWlBrMjlUNWxRQmZLZ1UtTmVBcEc1R1Y5a2tuc3ZBeG0yd2d5aC1iYVcxcmxkQlFQR3h2aXRHWUpNZEQzQ1FKejRPWHcwVA?oc=5",
+      "published": "2026-11-09T17:52:04+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Comentarista aponta Abel como melhor técnico no Brasil: \"Nenhum se compara\" CNN Brasil",
+      "summary": "Comentarista aponta Abel como melhor técnico no Brasil: \"Nenhum se compara\" CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "quanto-mais-estudei-a-b-blia-menos-consegui-acreditar-o-680e1cde8992f8",
       "category": "Brasil",
       "title": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus - BBC",
@@ -24,6 +52,20 @@
       "tone": "",
       "dek": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
       "summary": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "final-da-copa-do-brasil-entenda-por-que-a-data-pode-mud-42ead4ae18655a",
+      "category": "Esportes",
+      "title": "Final da Copa do Brasil: entenda por que a data pode mudar - Band",
+      "snippet": "Final da Copa do Brasil: entenda por que a data pode mudar Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3BJXzVhR21LUEFQSHZUYXZJanNjSHM4Qk9Fa1Jjc0VjN1Bob1d2U213a2JhNUdISENnQ1VJLUFSNEp0ZDVERzhsUjdQQWRvdTBCdklyUkFJR2ZDRFR2MTdPMWZqT2xkTVg2cWJCZzM5V2dRRDlTdEtqV0NrQlQwWGhUWi0xblF4bmNsdlBtQVBlMFNxNXFiT1FsbEZCdXNKVnlqakZLaHhVbEh6eEJ2cWZmcw?oc=5",
+      "published": "2026-11-09T16:19:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Final da Copa do Brasil: entenda por que a data pode mudar Band",
+      "summary": "Final da Copa do Brasil: entenda por que a data pode mudar Band",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "",
       "dek": "Frente fria provoca queda de temperatura e risco de tempestades Agência Brasil",
       "summary": "Frente fria provoca queda de temperatura e risco de tempestades Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "rio-de-janeiro-registra-chuva-intensa-e-rajadas-de-vent-0bf1035aacc2b3",
-      "category": "Brasil",
-      "title": "Rio de Janeiro registra chuva intensa e rajadas de vento - Agência Brasil",
-      "snippet": "Rio de Janeiro registra chuva intensa e rajadas de vento Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQT3lZT0NNZlVfUlUzX3NNTTBfYnExY21OM1lpWjVRekFLNVNGdTVJNEpiaEhGQzVUSF90S3BXZGdZMkRZV3RHSXpxTG1Ec2lMRDdsWmlfVDhxRFMwVzJmWTFRV2c4NDlnMTYzVlpKb2ozLVR0T1pzSXRCbUxuRVNmdUFRTDNOUGVYdzFLSTJyTGhSWmZIT0RoSzBGNXFEbzE4b3RRTV9NTXp4bFgta1d1WA?oc=5",
-      "published": "2026-11-07T21:16:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Rio de Janeiro registra chuva intensa e rajadas de vento Agência Brasil",
-      "summary": "Rio de Janeiro registra chuva intensa e rajadas de vento Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "quem-miguel-v-zquez-o-jovem-dono-do-banco-ueno-no-centr-50cc721b6d9bb1",
-      "category": "Brasil",
-      "title": "Quem é Miguel Vázquez, o jovem dono do banco Ueno, no centro de escândalo financeiro e político no Paraguai - BBC",
-      "snippet": "Quem é Miguel Vázquez, o jovem dono do banco Ueno, no centro de escândalo financeiro e político no Paraguai BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBCbmc3YVZuNWFqMHA3N01LbmVWU2NKYWJOYW5oUUdNeXNCWVZFeXpoeHdNUVpSRkJkN1dsbTBuOWk0NHBtVTVRQ3FBNUV6a0p3QV9UT1hiZUhtMHNEdHhDanU3QdIBaEFVX3lxTE9mcmNoMEFTTzlnOWEtc2FnV0VsNDRpZzFpY2pjNm13YnFEeG9aU0U3OXNaNlc3NG1MMDhfV2pxeFFDMFJaQ0tab0hHZGRuUGZhVG9WSEdEc1hZdEhPalpLY1diSWE3bm9D?oc=5",
-      "published": "2026-11-07T20:41:20+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Quem é Miguel Vázquez, o jovem dono do banco Ueno, no centro de escândalo financeiro e político no Paraguai BBC",
-      "summary": "Quem é Miguel Vázquez, o jovem dono do banco Ueno, no centro de escândalo financeiro e político no Paraguai BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "atl-tico-mg-e-gr-mio-est-o-escalados-para-semi-da-copa--cc2ffb42d61012",
-      "category": "Esportes",
-      "title": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja - Band",
-      "snippet": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONkJEcGVWRzNmaHczUXcyanhreTZuUjFxVjc4M18zU2FJT3F1dTlhTmlrLXc0OFNZMFg0MHJVVWRYQWtoV21YQlBMYXd4NV9KTk80UGg5UFNjTG11RzAzZHVSamJKTzNMWHJTc2RfTGc4bUxnVjh6VlRsWTQzcmNUMjJKUlI0OVVQTEhJX2pveGM1OHlLLTB5TkRxTzFIck5JdU42ekNlelhTdVN6dVY0?oc=5",
-      "published": "2026-11-07T20:08:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja Band",
-      "summary": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja Band",
       "summary_by": "descrição da fonte"
     }
   ],
