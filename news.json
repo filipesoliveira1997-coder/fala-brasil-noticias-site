@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T11:10:27.535729+00:00",
+  "updated_at": "2026-11-09T13:28:44.567568+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "fux-suspende-todas-as-a-es-judiciais-contra-proibi-o-de-28fdbef0f127e1",
+      "category": "Brasil",
+      "title": "Fux suspende todas as ações judiciais contra proibição de bets no país - Agência Brasil",
+      "snippet": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkJWa1lrc240d0pmMXF2Zm9Zc3lGaVR4b0dtTHBsQUJXc2xSVE5YZGMxQ3FMVzdRaFlqOC1wM1BNYjlPRDMtNm1zdzdoc1pObVVuY0hpZkFsR2dlLU4xWFlaVFdYekFzY2ZnU3hFTVpMa2NQMVIyelJjZlQ1Vk5UamQ3dzNTQzU4UGo4eGpfYTV5Y1VMSUFxX19ZYWdKUlpwTGMwQW9GTDY2a2FlNVJlc3V5eVBPLVRSRXY0aWlGRERrdw?oc=5",
+      "published": "2026-11-09T12:17:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
+      "summary": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "stf-suspende-a-es-judiciais-sobre-proibi-o-das-bets-em--b95a81bf3f649d",
+      "category": "Brasil",
+      "title": "STF suspende ações judiciais sobre proibição das bets em todo o país - CNN Brasil",
+      "snippet": "STF suspende ações judiciais sobre proibição das bets em todo o país CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0VZM0xoRE9JazcxT0NEZUMzNFBxTmI1cmlJUmRYZF9EZU0zSWIwMVp5VnYzMXFNSHJ1ME5KdVhuV296c0p2QVVKVUVhY0hlZ2RuMXhlM3RqR0RCcklkWHBSUTJZZC1pb2NFbUtLUjhjdnh2R3E1d25vLTVlbWx2RENtTDhaSl9Eck95ald3ZmptM19wX1I2bWtpakNmR0ZrZGo4UTkzQ2phTm8?oc=5",
+      "published": "2026-11-09T10:38:26+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "STF suspende ações judiciais sobre proibição das bets em todo o país CNN Brasil",
+      "summary": "STF suspende ações judiciais sobre proibição das bets em todo o país CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "girl-up-brasil-lan-a-almanaque-para-adolescentes-sobre--59e97caac73f6b",
       "category": "Brasil",
@@ -27,6 +55,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "o-avan-o-do-bolsonarismo-onde-o-mst-nasceu-por-que-o-te-d6ec4e62551b14",
+      "category": "Brasil",
+      "title": "O avanço do bolsonarismo onde o MST nasceu: por que o território símbolo de luta pela reforma agrária agora apoiou Flávio Bolsonaro - BBC",
+      "snippet": "O avanço do bolsonarismo onde o MST nasceu: por que o território símbolo de luta pela reforma agrária agora apoiou Flávio Bolsonaro BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9RNUc1c1RsQVFJSHdFeURFelZlcjJTUXVtbENVdENENElFNUlKbTMxUkptV0ZiYXJzMG5LclBtak02R3l3UExXTVFyRUpycUdHQTZqQWJ6b2ZVVTFwclJwbXU4UdIBaEFVX3lxTE1WNFo1dlVKdlZYaWdGdG5xVTVlR3NFMXBucy1icTJsbjBLSW1QZHJRRTBILTFPX0I3TnlDamRENVFPTGpvQ1JheGN6SzlKNmdLSTFPYThPUnNTUVdMRDZMYjV5cFJMSG05?oc=5",
+      "published": "2026-11-09T09:42:39+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "O avanço do bolsonarismo onde o MST nasceu: por que o território símbolo de luta pela reforma agrária agora apoiou Flávio Bolsonaro BBC",
+      "summary": "O avanço do bolsonarismo onde o MST nasceu: por que o território símbolo de luta pela reforma agrária agora apoiou Flávio Bolsonaro BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "lula-costura-protagonismo-global-ap-s-resultado-de-urna-3a1509cfa1de46",
       "category": "Brasil",
       "title": "Lula costura protagonismo global após resultado de urnas no Brasil e EUA - ICL Notícias",
@@ -38,6 +80,20 @@
       "tone": "",
       "dek": "Lula costura protagonismo global após resultado de urnas no Brasil e EUA ICL Notícias",
       "summary": "Lula costura protagonismo global após resultado de urnas no Brasil e EUA ICL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
+      "category": "Brasil",
+      "title": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge - UOL Notícias",
+      "snippet": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWE3ZkRzQkxtQmVPb2VjSWNRNTZiNDRFNERMZy1NMGhxNDVWcm1nSjg2VlY4YkJtTEszMC1RdVVQTkliTlgwX1dhM3BUZjViS052Ylc4TG1nVlhxSnVMS2x1SEJnX0NFeGxXMUM1dFhHUDZuYlBPcFBRTmNtbURpVlVBN0JXa1lQQzVNLS1vWUhJZjd3Tm9nOGpmUVc1RWo3blVKSHJYMU85NnlG?oc=5",
+      "published": "2026-11-09T04:41:17+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
+      "summary": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -122,20 +178,6 @@
       "tone": "",
       "dek": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
       "summary": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
-      "category": "Brasil",
-      "title": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge - UOL Notícias",
-      "snippet": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWE3ZkRzQkxtQmVPb2VjSWNRNTZiNDRFNERMZy1NMGhxNDVWcm1nSjg2VlY4YkJtTEszMC1RdVVQTkliTlgwX1dhM3BUZjViS052Ylc4TG1nVlhxSnVMS2x1SEJnX0NFeGxXMUM1dFhHUDZuYlBPcFBRTmNtbURpVlVBN0JXa1lQQzVNLS1vWUhJZjd3Tm9nOGpmUVc1RWo3blVKSHJYMU85NnlG?oc=5",
-      "published": "2026-11-08T23:41:17+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "summary": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "",
       "dek": "Há risco nas próximas 72 horas no Brasil? Entenda alerta da Defesa Civil O GLOBO",
       "summary": "Há risco nas próximas 72 horas no Brasil? Entenda alerta da Defesa Civil O GLOBO",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "enem-confira-as-regras-os-hor-rios-e-os-itens-proibidos-5f034ec1c81285",
-      "category": "Brasil",
-      "title": "Enem: confira as regras, os horários e os itens proibidos na prova - Agência Brasil",
-      "snippet": "Enem: confira as regras, os horários e os itens proibidos na prova Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSWVwbkRkOUVvM0lMVklqNVk0REZTQTMxaEZaRmhPU0tyel9LN1U5eEFuSUNjZ2pHcGFfSjZaV2FFVUhUeDhFSlpxZWl0WGZGWlMtTnV2NmhQWUh0M2ZiSUFkNkFETGJtcXBMUGZ2MDZjdHktRWNuS29MVUdybF9iQldFaXRTVUxHd3ROdUh6VnBQYlZuR0RyenpLTDdVX2VuZXdVckgtTXVnOUlQMlpqd2RpSVU1MEVvQWh3?oc=5",
-      "published": "2026-11-07T17:52:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Enem: confira as regras, os horários e os itens proibidos na prova Agência Brasil",
-      "summary": "Enem: confira as regras, os horários e os itens proibidos na prova Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "atirador-deixa-5-mortos-e-mais-de-10-feridos-em-pra-a-n-6b93792eb498e3",
-      "category": "Brasil",
-      "title": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe - BBC",
-      "snippet": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IZVBaZms2VWEtM25wODk1NVFUUnMxRHhQOS1pRDE2azNvZGVRX0VKYl9RU19FRmVjalhrS1hHV3JMdEw0SFA2aFhoSkRDbG0xQk1UNEZjbUZ5eVB5VC1xdmRnVdIBaEFVX3lxTE81V3pXSHVLTDVqZnVIQk1WQVN0ZDlPUWVjb0N1OHNzR21yZExsSnVOWXNURjFqV3l3RjFhRFVJS0ZMejdyTzItUHlWUngwbnhoQURhYkRLQkV0TGJ6U3pxaG50X1BPalZr?oc=5",
-      "published": "2026-11-07T15:45:33+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe BBC",
-      "summary": "Atirador deixa 5 mortos e mais de 10 feridos em praça no centro da Cracóvia, na Polônia; o que se sabe BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "aten-o-presidente-lula-seguran-a-p-blica-n-o-s-pol-cia--43e0bc1ec4b1ea",
-      "category": "Polícia",
-      "title": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz - Brasil 247",
-      "snippet": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz Brasil 247",
-      "source": "Brasil 247",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTjRWOTdxalkydWlScUcwRUVUa2lFTHBtRmN3Ul9GcFE5d3FNaHJDLV82QlR2OXlManNGMXNFSEN3Q1ZKU1lXc1pvVVZTVmk0S0daOUlLWTMyR1g3YnMzNXY4MDYtQ0RHWG9aajQ2eVBtVFF6NElWNE9odjJ3Wi13bnZfSTEzdEdpNUJJZVBFQldpOWla?oc=5",
-      "published": "2026-11-07T14:49:23+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz Brasil 247",
-      "summary": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz Brasil 247",
       "summary_by": "descrição da fonte"
     }
   ],
