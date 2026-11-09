@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T15:08:53.292390+00:00",
+  "updated_at": "2026-11-09T17:21:23.628132+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "quanto-mais-estudei-a-b-blia-menos-consegui-acreditar-o-680e1cde8992f8",
+      "category": "Brasil",
+      "title": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus - BBC",
+      "snippet": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JcVZtcTA2UU9SSjdPamtmRnlqdXVXVUJYaXB1Zm5EdjJMb1NxYUpGc3FHTTJlc2x3ZFl1TWkwSTR2R041aEoxcXZSbXVNZkd4bUt3cFkxMFl5OXZjX2d1dW1ad9IBaEFVX3lxTE9YcnY2X3VzVlU2bEVsX25RS2hiREJ3cXZ0LXBBMndUa3ZtY0F3VXFWbVFIWFRtUWsyQTFYYUx3RWd2MkdCeWV5d1p2Q1JSYUVwV0V6NG1qeS1GWXVwNUVsd3Nnb1JQRC1a?oc=5",
+      "published": "2026-11-09T16:50:54+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
+      "summary": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pgr-defende-a-fachin-que-inqu-rito-das-fake-news-seja-a-28ba7b2fad6530",
+      "category": "Brasil",
+      "title": "PGR defende a Fachin que inquérito das fake news seja arquivado - CNN Brasil",
+      "snippet": "PGR defende a Fachin que inquérito das fake news seja arquivado CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3otU29EY3JKa1ByX0JVVGtrU0xzVXI3RXhuVWxDX2ZyN1MyazJuckw0SzZpaG5tYVVMRDVfNDJPV1p4Mlo4Y2FBSWYzcTh1aTBTVnNFWFRVaWNUMUUwYnZtNnBiU2xCTW1xQnIyajBEeUxyV2lVRWNXbGItaW1Kc3k2Y2FQVlAxY2JvTVRKNnBKRm1sVGpOTExpR1cwX2RaanZld2NrbDd0eTRFelVvcGlNNHBTanNCLU1qUmo0Yw?oc=5",
+      "published": "2026-11-09T16:16:26+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "PGR defende a Fachin que inquérito das fake news seja arquivado CNN Brasil",
+      "summary": "PGR defende a Fachin que inquérito das fake news seja arquivado CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "g-s-do-povo-governo-prorroga-vig-ncia-do-aux-lio-at-203-5c7f6e045181c0",
       "category": "Brasil",
@@ -822,34 +850,6 @@
       "tone": "teal",
       "dek": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja Band",
       "summary": "Atlético-MG e Grêmio estão escalados para semi da Copa do Brasil; veja Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "tv-brasil-transmite-jogo-entre-ferrovi-ria-e-paulista-s-7278cfc8f86e5a",
-      "category": "Esportes",
-      "title": "TV Brasil transmite jogo entre Ferroviária e Paulista Sub-20 Petrobras - Agência Brasil",
-      "snippet": "TV Brasil transmite jogo entre Ferroviária e Paulista Sub-20 Petrobras Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTzBJVlBsemZQelRNZzBaZ0ZVbEpOb2FIRS1TSDF6RTBFcE51T0UyQTZEdFotQjM3d0xfUjdsMjQ5YUxNUzBRY2NqWl9zUklvQkkwYy1FWU10SUVrc0l0dU4wZjk3QmcyQXZ2WF9NVGgzQlJ3U21TZkRUSWtDZFd3NzhfTWpqNDlQVVh3aFhzZHBobF9mSkNqWUZaMzB0TklkeERYMnhxYmpDUWpuclZnZ3F5VkhyMHVmdWwyNVl1UjU2OU5ZN3NV?oc=5",
-      "published": "2026-11-07T20:06:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "TV Brasil transmite jogo entre Ferroviária e Paulista Sub-20 Petrobras Agência Brasil",
-      "summary": "TV Brasil transmite jogo entre Ferroviária e Paulista Sub-20 Petrobras Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "atl-tico-mg-x-gr-mio-assista-transmiss-o-ao-vivo-da-cop-b50b23c770573d",
-      "category": "Esportes",
-      "title": "Atlético-MG x Grêmio: assista à transmissão ao vivo da Copa do Brasil - CNN Brasil",
-      "snippet": "Atlético-MG x Grêmio: assista à transmissão ao vivo da Copa do Brasil CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbFRqLUZ0UnNBNnlxY3UwaUxrY1I2bmg4UzF1aXQwZG4yXzVhMnhWMHB6M2xfUTFsdzhCYjBFUVBwdW9iT2FCTTh5ekdQZmtUY3VxbUY4cDVYS2JIQTM5S1FPc0VPOUNpU1lacmNONjdPaUVxa0V2c1Q4UWFrM2t3b0t3NjYtbXA5cW9zdU9BSjdabTV2OGFRSjNaOTZHYkVpZzdDSFE5UUVXYzFwWXdjYm9HWGlJM2FyaHFLT2VTSEd4YUVrMzJiZ3ZR?oc=5",
-      "published": "2026-11-07T20:00:59+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Atlético-MG x Grêmio: assista à transmissão ao vivo da Copa do Brasil CNN Brasil",
-      "summary": "Atlético-MG x Grêmio: assista à transmissão ao vivo da Copa do Brasil CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
