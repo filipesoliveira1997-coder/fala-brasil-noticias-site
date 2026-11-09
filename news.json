@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T09:25:31.583976+00:00",
+  "updated_at": "2026-11-09T11:10:27.535729+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,20 @@
   ],
   "articles": [
     {
+      "id": "girl-up-brasil-lan-a-almanaque-para-adolescentes-sobre--59e97caac73f6b",
+      "category": "Brasil",
+      "title": "Girl Up Brasil lança almanaque para adolescentes sobre 1ª menstruação - Agência Brasil",
+      "snippet": "Girl Up Brasil lança almanaque para adolescentes sobre 1ª menstruação Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUNIQjB6RHB1VlVVWFEwUnR0c0lYN04wX0pqVU9ITVdIcmVEUnRNUmR2azMtLTg3ZGI1aG5jREREUWhuS1dsQ0hyZ1FKOVRrTW0zV0RqRG16VG00QURqZkpfM2doUnRyYVZpQmRZZVY3RENXU0wzN05QQ3BtdGkwbDA2Z1E4VlowdUVvRzRYenNsdi1Na0k2bXFjUDFGUmNaYjJ2MHRlNlFacTlTcTAybGdPclhraVVpTnJjTWNB?oc=5",
+      "published": "2026-11-09T10:32:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Girl Up Brasil lança almanaque para adolescentes sobre 1ª menstruação Agência Brasil",
+      "summary": "Girl Up Brasil lança almanaque para adolescentes sobre 1ª menstruação Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "lula-costura-protagonismo-global-ap-s-resultado-de-urna-3a1509cfa1de46",
       "category": "Brasil",
       "title": "Lula costura protagonismo global após resultado de urnas no Brasil e EUA - ICL Notícias",
@@ -24,20 +38,6 @@
       "tone": "",
       "dek": "Lula costura protagonismo global após resultado de urnas no Brasil e EUA ICL Notícias",
       "summary": "Lula costura protagonismo global após resultado de urnas no Brasil e EUA ICL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
-      "category": "Brasil",
-      "title": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge - UOL Notícias",
-      "snippet": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWE3ZkRzQkxtQmVPb2VjSWNRNTZiNDRFNERMZy1NMGhxNDVWcm1nSjg2VlY4YkJtTEszMC1RdVVQTkliTlgwX1dhM3BUZjViS052Ylc4TG1nVlhxSnVMS2x1SEJnX0NFeGxXMUM1dFhHUDZuYlBPcFBRTmNtbURpVlVBN0JXa1lQQzVNLS1vWUhJZjd3Tm9nOGpmUVc1RWo3blVKSHJYMU85NnlG?oc=5",
-      "published": "2026-11-09T04:41:17+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "summary": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -69,6 +69,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "jovem-passa-35-dias-com-dois-cora-es-em-cirurgia-in-dit-a0066ad5511016",
+      "category": "Brasil",
+      "title": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil - G1",
+      "snippet": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGFHSUFtUnI0bklMUDN5NmpfZ3R3WEFITzNycWFocktMVE45OTEwdlZPRjhvNzFPeU5mWHJld3ZVSXlFYUNabFJzTE01Mk1Sbm41aGo4dXpJUXIyRzUzOTdLOExmUlZZUHlMYkdUWU9JMExVUGg4QkY1VnpqUDdmMVhzaGVVbExUUkpRRXdkVW9jR21rbXVlMU1KMXZMUXM3b3dwek84NHNtMlM3a214YkNSeWQ5azJZQ3NuaVQweEtpQQ?oc=5",
+      "published": "2026-11-09T01:07:15+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
+      "summary": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "jovem-passa-35-dias-com-dois-cora-es-em-cirurgia-in-dit-46bc3ac83749ba",
       "category": "Brasil",
       "title": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil - G1",
@@ -97,17 +111,31 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "pronunciamento-do-presidente-lula-na-o-planalto-gov-br-97cec820f62095",
+      "id": "pronunciamento-do-presidente-lula-na-o-planalto-governo-97cec820f62095",
       "category": "Brasil",
-      "title": "Pronunciamento do presidente Lula à nação — Planalto - GOV.BR",
-      "snippet": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
-      "source": "GOV.BR",
+      "title": "Pronunciamento do presidente Lula à nação — Planalto - Governo Federal",
+      "snippet": "Pronunciamento do presidente Lula à nação — Planalto Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHBrb1JRX1I2MU11eUlqUlA1RklQRnM4V1V1RlBIdUt5OVZ1VE5yR21nV2JNeHNuN1dqZ1N6TVlhc3JjS2R5R1pmLUhOVFVINVh5QWZSSDdtZzZYX2l2OTNTdDZTRnYzbHR2LUNIWTNhLUVrOE9Zcjk3XzZmV3l2NW9Ncm95cU9VYjFyemNBTlg3RFJWQ01BVG91RVVvc3JjVDNTbEhFdC0?oc=5",
       "published": "2026-11-08T23:51:00+00:00",
       "image": "",
       "tone": "",
       "dek": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
       "summary": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
+      "category": "Brasil",
+      "title": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge - UOL Notícias",
+      "snippet": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWE3ZkRzQkxtQmVPb2VjSWNRNTZiNDRFNERMZy1NMGhxNDVWcm1nSjg2VlY4YkJtTEszMC1RdVVQTkliTlgwX1dhM3BUZjViS052Ylc4TG1nVlhxSnVMS2x1SEJnX0NFeGxXMUM1dFhHUDZuYlBPcFBRTmNtbURpVlVBN0JXa1lQQzVNLS1vWUhJZjd3Tm9nOGpmUVc1RWo3blVKSHJYMU85NnlG?oc=5",
+      "published": "2026-11-08T23:41:17+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
+      "summary": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -150,6 +178,20 @@
       "tone": "teal",
       "dek": "Livro resgata a história das pioneiras do futebol feminino no Brasil Drops de Jogos",
       "summary": "Livro resgata a história das pioneiras do futebol feminino no Brasil Drops de Jogos",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "nvidia-abre-investiga-o-ap-s-relatos-de-que-ceo-teve-ca-daa6af17707f1c",
+      "category": "Brasil",
+      "title": "Nvidia abre investigação após relatos de que CEO teve caso com suposta espiã chinesa - BBC",
+      "snippet": "Nvidia abre investigação após relatos de que CEO teve caso com suposta espiã chinesa BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5CTE5WSWNiZVI5S0E3RTRfYUwxbXVMV1lNUmhWVFVBWmRzTFo3Z1VFcDJQQ1h1RFFSTllsQlgweEoxRUlkY3RHbzZhTkJ0X1RxQldpaUJDUy12ZF9mQ1MwY1JWZ9IBaEFVX3lxTE81UG5vY0RIUUM0V3RaMHp2WlZQRzRldGxRalh1SVhLTXpNOXdFR1BHbXhVMm05a2M5YkIyZURWcnNrT2xPb1lpZmYxeDJ1Y3lRVlRBZnRVRGEyVmcxclFFbG9uOGNZVHhq?oc=5",
+      "published": "2026-11-08T22:33:42+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Nvidia abre investigação após relatos de que CEO teve caso com suposta espiã chinesa BBC",
+      "summary": "Nvidia abre investigação após relatos de que CEO teve caso com suposta espiã chinesa BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "red",
       "dek": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz Brasil 247",
       "summary": "Atenção, presidente Lula: segurança pública não é só polícia! – Jacqueline Muniz Brasil 247",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ueno-bank-esc-ndalo-que-levou-queda-do-presidente-do-pa-4c9df509696f91",
-      "category": "Brasil",
-      "title": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master? - BBC",
-      "snippet": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master? BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zMnowU2hTbERiMnBtYnVVMHh0cHZtVWdRR3ZQYmFDMTAtcTNaMHFmTlBPb1cxN2tSNEc0Sk8zc1p4SjQzWDZKVnhWRkY2MWRHWEZ5M3dWMDdKQVZ2NDVIN1lwb9IBaEFVX3lxTE5hSGJTbHlSeFNBRS1NVEFmMU1RTXluUFdaaVNTTzR0NWtZdjVGUjlfM0tRRkJBWG84d1ZyUWF3TlVXNElNYVNkekoxOGhQVHpoTmxqbGNuOGV5ZHZpM1NFa05xM21tSTJ4?oc=5",
-      "published": "2026-11-07T13:28:21+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master? BBC",
-      "summary": "Ueno Bank: escândalo que levou à queda do presidente do Paraguai pode ser comparado ao do Banco Master? BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "papa-no-uruguai-pa-s-tem-um-beato-que-foi-batizado-no-b-4302af31164614",
-      "category": "Brasil",
-      "title": "Papa no Uruguai: país tem um beato que foi batizado no Brasil - Notícias - Canção Nova",
-      "snippet": "Papa no Uruguai: país tem um beato que foi batizado no Brasil Notícias - Canção Nova",
-      "source": "Notícias - Canção Nova",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaDNRdHI1aUhFRm52OUxQRldRQWNOZTB1dUViR2phOTV4c2Ewalc3eEZJTXZCVzJCR2pDUXhEZW4zcDJQcmFFYVg1MTZSU1lnSjJTSDdSc2FWb004d3Z5Z0lzdjljQXNiVF9uZjZ4RldNNGRxTnN6dkFfT0xPWDVxNUF4QmxHNWRiNmJjQV80eEtFc19SRGhQRGg0VFdyREs1dUgtbUJhUFpja0Zlc25sa1BCZkZScmVaX2l2NUp0WTRMdw?oc=5",
-      "published": "2026-11-07T12:14:34+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Papa no Uruguai: país tem um beato que foi batizado no Brasil Notícias - Canção Nova",
-      "summary": "Papa no Uruguai: país tem um beato que foi batizado no Brasil Notícias - Canção Nova",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-pode-liderar-mercado-de-ia-mas-temos-gap-de-tale-c9b2bfb7277de1",
-      "category": "Economia",
-      "title": "Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza - InfoMoney",
-      "snippet": "Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza InfoMoney",
-      "source": "InfoMoney",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOLXlYSUF5OFAtaF9adG5lOGNFVFNzenlPcURPanJjbWpvZFpaRU9uZmxqaFRabWcwMFZyc0VrVlNFdUtYanFVM1B0SHpBRUpOYUMzUWxRcjExOXJxSHVqQ1VZcklSSUtFS0VpMDBoUmRrT2F5bjRrVVFfckItblhuc2U0TVNFZ2E0ZWVXcG9BT1A1OE9nQW95d2I0ZHV6S0hHSGZuNm9jcnNFdHZMMjBkWXMtcUwyOFlVeXfSAb8BQVVfeXFMTVE2YTN5M0JtV1VGc25YeTJib29abmkxc25ob0tqalVhZWJ4eUJMNm16WVlEcUJlckRIaGNiQWVpR25MSkpscmpQOUhoZUd2Vy05REozc2lLTUJhc1dPRGF3SHFBWG9yMTBmWHhyQi1UOU9ydHFQYWRBUF91Zl9TUW1vQy0zTGdRU3lQTGJ5ZkVyVWpPZzNRWTJSem5CS0JYTzI2U081NHZSOTJsdlFmV2JPMnRwYXo4NTB6b1ZpOGM?oc=5",
-      "published": "2026-11-07T12:00:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza InfoMoney",
-      "summary": "Brasil pode liderar mercado de IA, mas temos gap de talentos, diz CTO da Localiza InfoMoney",
       "summary_by": "descrição da fonte"
     }
   ],
