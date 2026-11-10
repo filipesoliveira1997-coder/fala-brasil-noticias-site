@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:57:26.011700+00:00",
+  "updated_at": "2026-11-10T01:17:16.272817+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -52,6 +52,20 @@
       "tone": "teal",
       "dek": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" CNN Brasil",
       "summary": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "o-que-acontece-com-o-bolsonarismo-com-fl-vio-nos-eua-bb-46e4dbd9f36f1e",
+      "category": "Brasil",
+      "title": "O que acontece com o bolsonarismo com Flávio nos EUA? - BBC",
+      "snippet": "O que acontece com o bolsonarismo com Flávio nos EUA? BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSnBpSlA3dkQ0WXJ1NUFwWkV0cG9vRnprQV9RNGVjQVZLaWpKd2xSXzQ5bVh5Y2taUWVGMGVTVW9fZ2hGd2VMbm9BcVBjcks2SXVYY0tZR3RvMFZOUnBF?oc=5",
+      "published": "2026-11-09T19:32:56+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "O que acontece com o bolsonarismo com Flávio nos EUA? BBC",
+      "summary": "O que acontece com o bolsonarismo com Flávio nos EUA? BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -293,20 +307,6 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
-      "category": "Brasil",
-      "title": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge - UOL Notícias",
-      "snippet": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWE3ZkRzQkxtQmVPb2VjSWNRNTZiNDRFNERMZy1NMGhxNDVWcm1nSjg2VlY4YkJtTEszMC1RdVVQTkliTlgwX1dhM3BUZjViS052Ylc4TG1nVlhxSnVMS2x1SEJnX0NFeGxXMUM1dFhHUDZuYlBPcFBRTmNtbURpVlVBN0JXa1lQQzVNLS1vWUhJZjd3Tm9nOGpmUVc1RWo3blVKSHJYMU85NnlG?oc=5",
-      "published": "2026-11-09T04:41:17+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "summary": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
       "id": "parte-da-sele-o-brasileira-desembarcou-neste-domingo-8--91afb3b0b72b9e",
       "category": "Esportes",
       "title": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respetivamente. Os primeiros dos 26 convocados a se apresentar na concentra - Instagram",
@@ -402,6 +402,20 @@
       "tone": "",
       "dek": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
       "summary": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
+      "category": "Brasil",
+      "title": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge - UOL Notícias",
+      "snippet": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWE3ZkRzQkxtQmVPb2VjSWNRNTZiNDRFNERMZy1NMGhxNDVWcm1nSjg2VlY4YkJtTEszMC1RdVVQTkliTlgwX1dhM3BUZjViS052Ylc4TG1nVlhxSnVMS2x1SEJnX0NFeGxXMUM1dFhHUDZuYlBPcFBRTmNtbURpVlVBN0JXa1lQQzVNLS1vWUhJZjd3Tm9nOGpmUVc1RWo3blVKSHJYMU85NnlG?oc=5",
+      "published": "2026-11-08T23:41:17+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
+      "summary": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -836,20 +850,6 @@
       "tone": "",
       "dek": "Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA G1",
       "summary": "Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "est-agendada-uma-reuni-o-e-consulta-com-os-eleitores-so-b721c8bb77e1e7",
-      "category": "Tecnologia",
-      "title": "Está agendada uma reunião e consulta com os eleitores sobre ciência, tecnologia e transformação digital para o dia 13 de novembro. - Vietnam.vn",
-      "snippet": "Está agendada uma reunião e consulta com os eleitores sobre ciência, tecnologia e transformação digital para o dia 13 de novembro. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVjk0b1V3b0x1Uy11cTJiM2NBUTYzZkVKdkQ2TjBXRXVOS2dmUHdRM0wybDRaQ2V6OVJQcXVMbUUxVnE5TDZ5X0F3N3NURERBcGFQMy1zRFRJVXJhUUpxcjNKclVXT1ZsWXI3enVPdExRdGZNV2xHRV9LdjF6LUhhWGNVWHNJZVNCazhFc3poNXFPQkVOU01hb3ZXeFc2b3ZqSnBuN21EWnhyVGlGN0xsUVo2UGVpWFRVWDVzbldyWDhoZ1E?oc=5",
-      "published": "2026-11-08T07:50:02+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Está agendada uma reunião e consulta com os eleitores sobre ciência, tecnologia e transformação digital para o dia 13 de novembro. Vietnam.vn",
-      "summary": "Está agendada uma reunião e consulta com os eleitores sobre ciência, tecnologia e transformação digital para o dia 13 de novembro. Vietnam.vn",
       "summary_by": "descrição da fonte"
     }
   ],
