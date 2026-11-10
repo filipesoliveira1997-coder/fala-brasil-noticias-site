@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T11:02:42.286676+00:00",
+  "updated_at": "2026-11-10T13:19:36.871228+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "governo-prorroga-at-9-de-dezembro-desonera-o-da-gasolin-a3c1200eec3202",
+      "category": "Brasil",
+      "title": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol - Agência Brasil",
+      "snippet": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlNVRTdXWktWc1lIMlR0c3JyR3F3UkItSWRnUWtPbmthYjNCUE8wWFhraFE4TnR0dF8wbGhMNkt5dlIxRzNBNm9jeUxuOEdxZXVRYkdTMEhKWGd5cnlGazZtRjgydmhZUk9VZU0yM3hzRFpRcUVZb0MtVld4bnphWUcyamNqUDJMMnJaMGJGYjI1NG9KVHMtN19Kd1JRb3E3S2VjYlhVeVJWNi1lTUxMSUEtX3FfWmRLODNoenVTXzFfRy1kV0Ew?oc=5",
+      "published": "2026-11-10T12:33:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol Agência Brasil",
+      "summary": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pesquisa-mostra-frequ-ncia-com-que-brasileiros-dizem-en-f88e916d945d22",
+      "category": "Brasil",
+      "title": "Pesquisa mostra frequência com que brasileiros dizem encontrar notícias falsas na internet - VEJA",
+      "snippet": "Pesquisa mostra frequência com que brasileiros dizem encontrar notícias falsas na internet VEJA",
+      "source": "VEJA",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzM4al9UTndNNm5PVGIwY1JaNWZTM2F4TEZsNHg0clhoWUJmbHd3RVd0b29SWWhDQVpmN0pHSGxxa1AxV1ZFa2h0YWZLUmE0ejNXR2hVZWMzX2UwVGplcHFNRWR3QW1Jb25Xb0dOUDl4R2p4QkNLN0lxbUlPblBFYVhncjFCRXNDWHgxRDBjYnpwaDZDZS1XTXNfNXM1U2czWk5kUWgzUmgzalJ3M1lQMGVQR2o3RDBTenF0VlEzUEJfZw?oc=5",
+      "published": "2026-11-10T12:30:30+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Pesquisa mostra frequência com que brasileiros dizem encontrar notícias falsas na internet VEJA",
+      "summary": "Pesquisa mostra frequência com que brasileiros dizem encontrar notícias falsas na internet VEJA",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "uece-apresenta-atua-o-como-unidade-embrapii-em-sa-de-di-646c745c6a9918",
+      "category": "Tecnologia",
+      "title": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec - Universidade Estadual do Ceará",
+      "snippet": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec Universidade Estadual do Ceará",
+      "source": "Universidade Estadual do Ceará",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1NFMmFTNVAwbVBqMGQ3THR5MXZPaGJyS0F0N3hTX1JqdUJVbUktZ3VZSzZFN052cFNwUFp4cFhrSTd4QUVzS19xT1hpb0JLSThSVmNKUWpkQm9WZ1ZESUZNQTZBT291ZjU0eE9IMXdtZm9pWVhSSGZwTk4taXphdnRXMDhJajZzQ3ZaelUzaENDU0dLVVdvTnN2ZTlGaXR5LVRMVHJPTU9BaFRFczIyY0pnN1FkMDBiZGt5ZDZWdDQ?oc=5",
+      "published": "2026-11-10T11:48:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec Universidade Estadual do Ceará",
+      "summary": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec Universidade Estadual do Ceará",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pf-prende-ex-servidor-do-stj-suspeito-de-vazar-informa--632a831757a2f1",
+      "category": "Brasil",
+      "title": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas - Agência Brasil",
+      "snippet": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXdscFZNMFdJdklvZDBHemF5T19tOXFITG05MHY4WFpvTkdqanBraE54NjB0bm1YM0ppVW9MZ0Z4ZGVvRkNhM0NRNlp5SThVeE4zbEYyT19NRlpnNC1VRmxzS0NncUFNOWxIeVYwT3hEWnFCS3ozV1ZiQkdaYm5KN3BJQWJsbDlORUNjMEo2bi1CaGlaMzRrU1lqaHpJenl1TFcyTUE3SkRLR2gzZ2wtTm5sc3FIdzJWRkhwR2l4a3I?oc=5",
+      "published": "2026-11-10T11:31:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas Agência Brasil",
+      "summary": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "nvidia-por-que-infidelidade-do-chefe-da-empresa-com-sup-345b3ff7562105",
       "category": "Brasil",
@@ -38,6 +94,20 @@
       "tone": "purple",
       "dek": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. Vietnam.vn",
       "summary": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "jogos-hoje-10-11-26-ao-vivo-de-futebol-onde-assistir-e--6cab72e5fc7bd3",
+      "category": "Esportes",
+      "title": "Jogos hoje (10/11/26) ao vivo de futebol: onde assistir e horário - O POVO",
+      "snippet": "Jogos hoje (10/11/26) ao vivo de futebol: onde assistir e horário O POVO",
+      "source": "O POVO",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMWtZREZ4eU55bXlPSy10RW9lb3NCZ25QS3M4WlJyS3dnYWhuVHNEeDQ4LWNyUXMyR1lHc1ZISDl6b2VXNjlLMnBVUVVLQUZtOXRrQUNqQnRNV2VFdWRfOFhjSnJaNTIzLTg3MGNvWkZ4ZUNra0RmcVp0OFdGc3FGY0x4TkZwZFg1QWxDOUhJZnhYS1ZqakxMTHJJbm0xc3QtcHZXR0ZBb2NKMENsblNQVmtiLTAtSm1hZTFaZHBOU0dSVUtVUVpCZmNLOEh4M3c?oc=5",
+      "published": "2026-11-10T03:10:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Jogos hoje (10/11/26) ao vivo de futebol: onde assistir e horário O POVO",
+      "summary": "Jogos hoje (10/11/26) ao vivo de futebol: onde assistir e horário O POVO",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "",
       "dek": "Copa do Brasil Feminina: veja quem está na disputa pelo título CNN Brasil",
       "summary": "Copa do Brasil Feminina: veja quem está na disputa pelo título CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "caiu-no-enem-2026-exame-citou-lei-rouanet-mst-e-a-impor-eec711c153c22b",
-      "category": "Brasil",
-      "title": "Caiu no Enem 2026: exame citou Lei Rouanet, MST e a importância do voto - G1",
-      "snippet": "Caiu no Enem 2026: exame citou Lei Rouanet, MST e a importância do voto G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRFlWbm12QkJXckEtZnFnVmswS3hmMWVrUFhzazZfY1RLV2NLZW1NNFVqd0tqZXFsZ2hWaEY5TExKMFdmek5MRXg4TEVGY2V2d085U2VrQldIVHdnajA0YVNMa0VOaV9rbUVQbmRHZWdJcWluNEpHc3VaMmZqbEVmS3E1ajVrOGNzOVHSAZgBQVVfeXFMTjdKMUJZRkFRZk1rU2FqaVZ4YmItVjd0QjRkbkpGRlNqN2lqcnNoaThxUWtRZ01jc0xKMlFWMWV0ZnVuX0ZIalJ4Mmp0RTFFaWVSaGE4c2VFUnh5Y0J2eTJLNWJYRjc3aElqNFpsbkp3RUVYdXhLTHk4OWJwQUVUVlRNekVBZlRJdk5fZHktQ1lmSmVRak1ld0o?oc=5",
-      "published": "2026-11-08T18:37:03+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Caiu no Enem 2026: exame citou Lei Rouanet, MST e a importância do voto G1",
-      "summary": "Caiu no Enem 2026: exame citou Lei Rouanet, MST e a importância do voto G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "governo-lula-busca-reaproxima-o-com-trump-ap-s-elei-es--ecc7e38726a969",
-      "category": "Brasil",
-      "title": "Governo Lula busca reaproximação com Trump após eleições no Brasil - Vero Notícias",
-      "snippet": "Governo Lula busca reaproximação com Trump após eleições no Brasil Vero Notícias",
-      "source": "Vero Notícias",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU1F6NTk3eWt3cVpsWWdZYnZpZ3dSM3MzZmxxN0swbDViVFhKOXdiRTlSZkpYX2RfV1d1cHdRcXdqM3FMT3lCcm9sS2N2RFlfZ3g5LTBUeUp3anRSN3VnbFpiSVByVkh3WTFVVHBLb19FMmlRcUVVZEpROWFUVTZzR3o1Q0hNRmsyVkNEcHdFNUg4TU1DQjUwc1VQYUJJY3M?oc=5",
-      "published": "2026-11-08T18:15:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Governo Lula busca reaproximação com Trump após eleições no Brasil Vero Notícias",
-      "summary": "Governo Lula busca reaproximação com Trump após eleições no Brasil Vero Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "anvisa-seleciona-dossi-s-para-certificar-insumos-farmac-edef6b57164316",
-      "category": "Brasil",
-      "title": "Anvisa seleciona dossiês para certificar insumos farmacêuticos produzidos no Brasil - Bahia Notícias",
-      "snippet": "Anvisa seleciona dossiês para certificar insumos farmacêuticos produzidos no Brasil Bahia Notícias",
-      "source": "Bahia Notícias",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPM045OHhsT1pKU0tfR29oRU5Iak84eHlkTERkS0EtMHdSaGF1RExWRWJZMnZNZjVkS0oyLWZkSzdfTGoyU0lpcERZM1VqSjg2TXlGclV5T1JQZHdjODlST0hnSklmSUhsT2xEQUFLbktpQl9uTWZpQmxDYWdQYXpfOVRocmNjYm1McDQ3YzNNcXh1dTZKQ0hLUDlTODdwdmFWZ3B3LThsR05wY0d5V1E0Wm9DcDEwcEVHeDBIeDZHQmMzMkFFTFVaSU1mYw?oc=5",
-      "published": "2026-11-08T17:20:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Anvisa seleciona dossiês para certificar insumos farmacêuticos produzidos no Brasil Bahia Notícias",
-      "summary": "Anvisa seleciona dossiês para certificar insumos farmacêuticos produzidos no Brasil Bahia Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "carro-sobrelotado-cai-em-lago-e-faz-dez-mortos-no-brasi-e7903d64935182",
-      "category": "Brasil",
-      "title": "Carro sobrelotado cai em lago e faz dez mortos no Brasil - Euronews.com",
-      "snippet": "Carro sobrelotado cai em lago e faz dez mortos no Brasil Euronews.com",
-      "source": "Euronews.com",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPbllueWJZWUM5X1FKTHJvN3c1V1J5YUtBMGFfcnhJNTh6TmxvQ21ya0hpM1FiRU5OZEF1UDVyZ2EzdVVnaUVhSzNrQm9YemhGZ3ZTOFZaZDREUTY3emgwYnA0UmRmZjZ1b1VUV3YxYUpkVS1KNXpwU3ZvM3NzaWR5ZC00V3Rmcmd6ZjA0Zko4SDBOVm1RRnc?oc=5",
-      "published": "2026-11-08T16:08:10+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Carro sobrelotado cai em lago e faz dez mortos no Brasil Euronews.com",
-      "summary": "Carro sobrelotado cai em lago e faz dez mortos no Brasil Euronews.com",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "aplica-o-do-enem-opera-o-de-guerra-contra-o-retrocesso--84418f05417563",
-      "category": "Brasil",
-      "title": "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula - Agência Brasil",
-      "snippet": "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORndqZzhIZFZpQmIxeHhZYlU0aEY2ZHNHbkZzN3J4WFZsZWRxSWx0OHV4VmJEdnMwdGhrd3doSWQ5OHRIaGtKenR1WnlKc1B6Y0VYQ2NUWFJaejlYTVVSVndNVTZRQWxMTlFrTmNpN1FKX1BxdlBWczRBLTJBLVM0RXpDWEpQODRqZGtOcXkzMkVSVDVUTVhyOC1QZlY3VXNoeTIycHdjRUs5NktJa1F0LVBEY2hnMTdHZ3JoX2Y1dDYxSDQ?oc=5",
-      "published": "2026-11-08T15:56:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula Agência Brasil",
-      "summary": "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
