@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T20:58:03.002962+00:00",
+  "updated_at": "2026-11-10T22:55:27.575805+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "jornal-ingl-s-elege-maradona-como-maior-camisa-10-frent-1fb451a06b0b3f",
+      "category": "Esportes",
+      "title": "Jornal inglês elege Maradona como maior camisa 10, à frente de Pelé e Messi - CNN Brasil",
+      "snippet": "Jornal inglês elege Maradona como maior camisa 10, à frente de Pelé e Messi CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW9HLTB2am9NM084ZW1YTHNMb0VWUVU0R1BsamlOcVFNNmdBaExnbHgtcUpVWVRadnB4bkNCQXFJdER3VXhIQk9DcGd0ZHlkTDU5RUpXLUZwLXI1ZUNBVHFpanRKSjhVV3BsY19oa0swREdGeFdvMmVWQjFabG5IWWNCYkhsZThRaUJZVkgtVV96aXVIX3BzUnJqS2ctMll0NFlITnIyQjdoQ0o4MXVRNGxYZFRwbER1bW42MXUzb3lIU0kwT3NUMnozTDBrSEdPRDZXSkVGLU9rZTA?oc=5",
+      "published": "2026-11-10T20:44:34+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Jornal inglês elege Maradona como maior camisa 10, à frente de Pelé e Messi CNN Brasil",
+      "summary": "Jornal inglês elege Maradona como maior camisa 10, à frente de Pelé e Messi CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "policial-gay-e-petista-deputado-eleito-em-goi-s-quer-ap-a97eb0002b6899",
+      "category": "Polícia",
+      "title": "Policial, gay e petista: deputado eleito em Goiás quer aproximar segurança pública e esquerda - Brasil de Fato",
+      "snippet": "Policial, gay e petista: deputado eleito em Goiás quer aproximar segurança pública e esquerda Brasil de Fato",
+      "source": "Brasil de Fato",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNFAyaGJzalUtVlluOXFMVTFPUHBFekxuZUd5MFRPclhmazBmTXJLQmJ0eDNMcVFCOVVSYkx3YmR4QWRsNnV5N2s2d3RLeWtsOGhMVDlvcGZhMldlb3ZsaDhnRXc1RGtQUjBnWXp0MTVNUzVkZmt6U0c5cXltN0lnSXgtNW92aXhScF9KbkhEbkVfV1Z2aGZTYUdBY1BTSFNQMnZTNFl0NGwtRXVjNkY4R3ZiLVI2ODc2dDNkb1lrQVlHeHZmTnBlc19wY2FhOHUz?oc=5",
+      "published": "2026-11-10T20:31:00+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Policial, gay e petista: deputado eleito em Goiás quer aproximar segurança pública e esquerda Brasil de Fato",
+      "summary": "Policial, gay e petista: deputado eleito em Goiás quer aproximar segurança pública e esquerda Brasil de Fato",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "arthur-elias-convoca-sele-o-feminina-para-ltimos-amisto-acc0683b1c8e2e",
       "category": "Brasil",
@@ -41,6 +69,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "mcti-e-su-cia-avan-am-em-coopera-o-tecnol-gica-nas-reas-c14dd666867626",
+      "category": "Tecnologia",
+      "title": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade - Governo Federal",
+      "snippet": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZXFaT2F6UU5sS1pjalpmc3Z6a1MzdnYwbl9xWE5RSTE0LVhScGFaYkhTUzVMTHNTRlAwTkJzaGFWLVNRRHFfc3dzMmFDRnpTOHYzX29ab2lBbUhIOXhObktreUpoYTlmUzRwZFk5SFVQdlZxT2g1VDVkdm5lY0liVWJ1aVFSOS12NmN1VkpkZmxRVTg5eUdtTzVkZk1NS3cyWk55V1JHRldqZEw4Z3dNd1VsTXA3cEQ3T2RTOWsyZDhEMHMyQVR4RjlEVFBzcG5YalhQSEtSRzFRUzVycS0tWnR2UjJPZ1ZSWFVRa1o3VVhnVjVGT3FLamJHRlY0YWhudlVrRXlXYUFYaVU?oc=5",
+      "published": "2026-11-10T20:08:14+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade Governo Federal",
+      "summary": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade Governo Federal",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "pec-abre-espa-o-para-pol-cia-municipal-no-brasil-mas-mu-11da87d44abc17",
       "category": "Polícia",
       "title": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais - Gooning Simulator",
@@ -52,6 +94,48 @@
       "tone": "red",
       "dek": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais Gooning Simulator",
       "summary": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais Gooning Simulator",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "sem-marta-sele-o-brasileira-feminina-convocada-para-ami-c3318010b8239c",
+      "category": "Esportes",
+      "title": "Sem Marta, Seleção Brasileira Feminina é convocada para amistosos; veja - CNN Brasil",
+      "snippet": "Sem Marta, Seleção Brasileira Feminina é convocada para amistosos; veja CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNFR2a1k1SU5ybXdOMHFFNDdvTlVVQUNDZHl2bjZad1gxeWhNdGxGWmJsZ0hyclB0d1VlRllJYjFmS3dIQVpZNkIyUmxLSlc5VHJ5LTREQ3JjUU1Sa2lmMGdlVERkaVVGMFltTGx2RE10Sl9iUTM1QW00RU1zdzlwYmF2ZjQwdWxac2FrMUFzaHh4V3JSSzVsMHdhOXpCVnMySTVUdnJNZUFlNDB6VTRwT0dRZVhfcWNGb1RlWjVGUVQ0aldZUl92UjU2WjlwRm1kSjhz?oc=5",
+      "published": "2026-11-10T18:13:27+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Sem Marta, Seleção Brasileira Feminina é convocada para amistosos; veja CNN Brasil",
+      "summary": "Sem Marta, Seleção Brasileira Feminina é convocada para amistosos; veja CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "rubio-sinaliza-di-logo-com-o-governo-lula-mas-reuni-o-c-e8b6bf5d611027",
+      "category": "Brasil",
+      "title": "Rubio sinaliza diálogo com o governo Lula, mas reunião com Brasil não acontece - ICL Notícias",
+      "snippet": "Rubio sinaliza diálogo com o governo Lula, mas reunião com Brasil não acontece ICL Notícias",
+      "source": "ICL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reHprU2JyN1hzemxkQkZ1aUxqXzljV0J3TmFuLUVxWm5PVEgtZ2YtTFBXZy02VUh4UDlyVzJKZ3h0RVdGZjdxVVNaUWlzMWhCQ185bGtvMFR2bnlfMlRJRElBUmstVXBNNko5SUNYeXZiVGFybXc?oc=5",
+      "published": "2026-11-10T18:08:51+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Rubio sinaliza diálogo com o governo Lula, mas reunião com Brasil não acontece ICL Notícias",
+      "summary": "Rubio sinaliza diálogo com o governo Lula, mas reunião com Brasil não acontece ICL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "minist-rios-da-fazenda-da-espanha-e-do-brasil-assinam-m-db605d45b9951f",
+      "category": "Brasil",
+      "title": "Ministérios da Fazenda da Espanha e do Brasil assinam Memorando de Entendimento para impulsionar a tributação dos super-ricos - Governo Federal",
+      "snippet": "Ministérios da Fazenda da Espanha e do Brasil assinam Memorando de Entendimento para impulsionar a tributação dos super-ricos Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYjhyZGg1OU9LUzNOd281aFhvdlYxaTdzbGFteWoxTWN3Y3pkWVFkUmVtWkhmM2JBRGw1SkdRMnk2SGhYczFDS21oYmVJYjJCaWdTbl9WV2NSUVZkaEp5U040a21DWFR1Z25CQXNwLWVFNE5KcEZlUlVNa1hqNEN5cWgyOVFhQ1ZzYnA4enRjYzFmVEVmazZGZ09tbHkyUE9YQ2NjdjZHbG0zOU9XWE9PTjlhUENJTndEa1RueHlQanZJNm5nd1dvcW5DX0ZfUTRLUmNXUExJdUpFY2hFdzNHd0JKcHhGSzhiS1haZGMyZHZBN2pWUkVyckZYV3VkWVhGQ1M4aWNWRENNa0cxcU4zdU9lUjg1LVV6ZkE?oc=5",
+      "published": "2026-11-10T17:22:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Ministérios da Fazenda da Espanha e do Brasil assinam Memorando de Entendimento para impulsionar a tributação dos super-ricos Governo Federal",
+      "summary": "Ministérios da Fazenda da Espanha e do Brasil assinam Memorando de Entendimento para impulsionar a tributação dos super-ricos Governo Federal",
       "summary_by": "descrição da fonte"
     },
     {
@@ -141,8 +225,8 @@
     {
       "id": "pf-eleva-n-vel-de-prote-o-no-maior-porto-do-brasil-ap-s-22142e5a2fa13b",
       "category": "Brasil",
-      "title": "PF eleva nível de proteção no maior porto do Brasil após possível ataque cibernético - G1",
-      "snippet": "PF eleva nível de proteção no maior porto do Brasil após possível ataque cibernético G1",
+      "title": "PF eleva nível de proteção no maior porto do Brasil após ataque cibernético - G1",
+      "snippet": "PF eleva nível de proteção no maior porto do Brasil após ataque cibernético G1",
       "source": "G1",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOFBrbkFKUnp5YzRMZVYtVzEtUlN4NWd1UVoyT0o4VkdCLWhOUVp2cXdjbC1XekZwdXZnTWFPMC1kYzR4ZUJWQ0hyNUJQMl8talNORElJREw1cFdjLTRqNk9aci0tZFFNa2NTZ2JlY3NZVVZRVFhra1VmaFpLWFMzcVNmYml3OTJsb2wxZWNNbE5TaVkzak1UU0Fxd0JiMm9TM3hiYUVEREVNNWllVm9IR2pTYnZhd2ptLWM0UXJPZ0JOaDByVHlhZ2M3a2g1M3FIQlVlSWVFS1Jjdm5YNHVQS19ndXhXNFdDMUk5UHNn0gH8AUFVX3lxTE1IUTVIUW16NE9NZVFUVk0zUHljTFhtWkc2VEFMaVUzM3plb1pnMDNiNWVLY0hUeFpBenBnTnNoVF9lalc0ejJGSWhuc1RGVWpsWVh3eE1WbmlCcWxMb2RXeGxZNXlCWC1zUWdYTTBsbWU1QmcyZG1TLUxOck5oajFfUC1oVWFKeWk0Ui1ZNDVyZVJzWXR6OURETF9xbEU4ZFV0aDkzLXljMHdDX3Vfa0dFa21lSFJVT0lHZ3h0WVB0aVd5R0RyeURUR014QmRKbVlUS2VWdngzbTFTSVM2OS1ORWp6c0Q1YmhoMnkxVW9sdzZnVmU4cm1OQUJGcQ?oc=5",
       "published": "2026-11-10T13:04:13+00:00",
@@ -766,90 +850,6 @@
       "tone": "",
       "dek": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
       "summary": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jovem-passa-35-dias-com-dois-cora-es-em-cirurgia-in-dit-46bc3ac83749ba",
-      "category": "Brasil",
-      "title": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil - G1",
-      "snippet": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGFHSUFtUnI0bklMUDN5NmpfZ3R3WEFITzNycWFocktMVE45OTEwdlZPRjhvNzFPeU5mWHJld3ZVSXlFYUNabFJzTE01Mk1Sbm41aGo4dXpJUXIyRzUzOTdLOExmUlZZUHlMYkdUWU9JMExVUGg4QkY1VnpqUDdmMVhzaGVVbExUUkpRRXdkVW9jR21rbXVlMU1KMXZMUXM3b3dwek84NHNtMlM3a214YkNSeWQ5azJZQ3NuaVQweEtpQdIB0AFBVV95cUxOdGRab1dyLWQ1SVhNTDYtbVc0VGpra2xvb0VpanZuTHFSOFZENlNSZXVrUGdSWFVXUHNMOFZGalFYd1VjWXB6T1hzenEtTkpmVTBEMHpad0dKS2h4SGV6cVNYRnp3dDN0eUgzc2dmNmJkVzcxcFJOSVR5UWphNWJ5bmlqbHVaVzVkX0h1NTE0QmtOSmtOS0RFaFhld3N6dExqb01JRGQ4eWZQYTV6dHR1cDZNRjBJN1UxXzBFR1owdmd6a096Q3E2ZEFnN0pPS1Bq?oc=5",
-      "published": "2026-11-09T01:07:15+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
-      "summary": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jp-sampaio-avalia-cen-rio-do-futebol-brasileiro-perdeu--3d3d7a52566afa",
-      "category": "Esportes",
-      "title": "JP Sampaio avalia cenário do futebol brasileiro: \"Perdeu a cultura\" - CNN Brasil",
-      "snippet": "JP Sampaio avalia cenário do futebol brasileiro: \"Perdeu a cultura\" CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQclFMcmpMZlNOdzZSNVJ6c3lOMmZjZkVKbXQ4Q3ozd215MlRHVllnNXZ5YU9lQUw1NWE0NXlwcVhfV0tIeDM5X29RUFNfSjBiTzJ3UE1tbmhBTVhCWEJHZHUyazRBX1d6aUVvbHFKOGo3YTBJeWhSOHdPektwaF80d0xhTVVpWFc0dzJybHY5ZHhyLW9pV2Y2SXdQV283YUhaaGlUYlE4TDJkSC1TOEY1WQ?oc=5",
-      "published": "2026-11-09T00:15:55+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "JP Sampaio avalia cenário do futebol brasileiro: \"Perdeu a cultura\" CNN Brasil",
-      "summary": "JP Sampaio avalia cenário do futebol brasileiro: \"Perdeu a cultura\" CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pronunciamento-do-presidente-lula-na-o-planalto-governo-97cec820f62095",
-      "category": "Brasil",
-      "title": "Pronunciamento do presidente Lula à nação — Planalto - Governo Federal",
-      "snippet": "Pronunciamento do presidente Lula à nação — Planalto Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObHBrb1JRX1I2MU11eUlqUlA1RklQRnM4V1V1RlBIdUt5OVZ1VE5yR21nV2JNeHNuN1dqZ1N6TVlhc3JjS2R5R1pmLUhOVFVINVh5QWZSSDdtZzZYX2l2OTNTdDZTRnYzbHR2LUNIWTNhLUVrOE9Zcjk3XzZmV3l2NW9Ncm95cU9VYjFyemNBTlg3RFJWQ01BVG91RVVvc3JjVDNTbEhFdC0?oc=5",
-      "published": "2026-11-08T23:51:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
-      "summary": "Pronunciamento do presidente Lula à nação — Planalto GOV.BR",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "em-pronunciamento-ap-s-reelei-o-lula-diz-que-brasil-n-o-cbe082a0e6a601",
-      "category": "Brasil",
-      "title": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge - UOL Notícias",
-      "snippet": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPaWE3ZkRzQkxtQmVPb2VjSWNRNTZiNDRFNERMZy1NMGhxNDVWcm1nSjg2VlY4YkJtTEszMC1RdVVQTkliTlgwX1dhM3BUZjViS052Ylc4TG1nVlhxSnVMS2x1SEJnX0NFeGxXMUM1dFhHUDZuYlBPcFBRTmNtbURpVlVBN0JXa1lQQzVNLS1vWUhJZjd3Tm9nOGpmUVc1RWo3blVKSHJYMU85NnlG?oc=5",
-      "published": "2026-11-08T23:41:17+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "summary": "Em pronunciamento após reeleição, Lula diz que Brasil não é para quem foge UOL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "movimenta-es-no-senado-antecipam-disputa-pelo-comando-d-4086abc247b9aa",
-      "category": "Brasil",
-      "title": "Movimentações no Senado antecipam disputa pelo comando da Casa em 2027 - Agência Brasil",
-      "snippet": "Movimentações no Senado antecipam disputa pelo comando da Casa em 2027 Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORjBtb2U1SmdkZzdJVUNRRmpjYjRsOGk2aVZacTFNYmkxbFFJVGNqRE5nWXRuUlUySm1qazdVeDYzMENfUVUzekZGS2x4a2ZXNjYySTY5YXdyRWFsOWdleHdBMGdlNEZGX05nMzE3NVhoVlNUajFQUUNNUHdXeHJNWkxSVzNfa0xPOVlwMmluNVhWSEo5clRTTW9HR2VqaVhNeDVLUDlXbkRKbGRad25FQjV2WDRHMm8wMmhZdGhRek85R29rN0ZN?oc=5",
-      "published": "2026-11-08T23:37:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Movimentações no Senado antecipam disputa pelo comando da Casa em 2027 Agência Brasil",
-      "summary": "Movimentações no Senado antecipam disputa pelo comando da Casa em 2027 Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mesmo-eliminado-vasco-somou-premia-o-milion-ria-ao-long-b2b04f96e850b2",
-      "category": "Esportes",
-      "title": "Mesmo eliminado, Vasco somou premiação milionária ao longo da Copa do Brasil; confira - O GLOBO",
-      "snippet": "Mesmo eliminado, Vasco somou premiação milionária ao longo da Copa do Brasil; confira O GLOBO",
-      "source": "O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZHdCVmJCaFdKR1pNLVRLaENCSEl2NEF2WU1VMUM1YTJraE5UZHYtVFQ3X2pkVDY5dzBOMDROSmtRVmVsTVVDeHI2MDlWRmd1X1hRdV9saFFsNmNtUFlCaV9HbTJwMGx1cnlsNnhLeS0yZ1F6MktnTEhpV1E1NUdVVTJkWi1OaGd4cWZqa01XOGdHcmc0YThuUkcyQVpORFFSYTRQRnRScHJyYlNReG9WQWpHX0xhWXh2TFdobkVIcFhlZ0p0dUN2Zkx2NzFMUVVSMnczMFREN0hLMXdKQ05tYXRsWllBNERJdnltMNIB-wFBVV95cUxNaGltLXdjYWNsT0ZHZjdKdHUyS2c4bGhzdmhRb0thZDZ5ZWNnV195RnFEYzBTVnRodElmbjNJcVlCQUdva3cwRTFDSjFpTlJpazNsTXhUSnhCdG1nQU1ocU0yRGRTVVFSUC15YXJUYzhXVjEteWpEM0l2THR2SzVmTHJ0c25FcHFkMENJekRwX0laZnBiM0JnRkp4T0NQcXJtQjhNM2tudjctZDhiUjdKam1SdkVnV1dJbzV1VElYVXBxT0h3bF9WWmFfLXpVSmw0b1VwWEVBemVCXzlUQ2ozclFSX1k3NVRVbU9BeVNkdVFPbVVNeDBFenN3OA?oc=5",
-      "published": "2026-11-08T22:39:07+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Mesmo eliminado, Vasco somou premiação milionária ao longo da Copa do Brasil; confira O GLOBO",
-      "summary": "Mesmo eliminado, Vasco somou premiação milionária ao longo da Copa do Brasil; confira O GLOBO",
       "summary_by": "descrição da fonte"
     }
   ],
