@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T09:04:44.814817+00:00",
+  "updated_at": "2026-11-10T11:02:42.286676+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "nvidia-por-que-infidelidade-do-chefe-da-empresa-com-sup-345b3ff7562105",
+      "category": "Brasil",
+      "title": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA - BBC",
+      "snippet": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wU2pPS2VUcXV4a2pyQTNxSFoxUUVjdVYxaWFJYk5FME94X1ROd3EwTi13MDB1blJBZklTdFBsNEkwSFp2SC1HM0gxYlg0dlh5X3E1ajJfbUVwRkoxdVlvSi1kUdIBaEFVX3lxTFBJb3h6NWtFTDZYRUk2b1B2NTFhM3ZiWDhBMl9rcTNiaUMwNkVLUDhDWWFSdG16WHBPYWdrTC0zVlZSYk9aQmVaZDlzaHZMTUtQZ1Z1eWlJeUMwRnREOUxic2Y1UFRkc0Jo?oc=5",
+      "published": "2026-11-10T09:31:46+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA BBC",
+      "summary": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "aprimoramento-da-capacidade-tecnol-gica-e-da-inova-o-pa-9c81d2ed8beae8",
       "category": "Tecnologia",
@@ -27,6 +41,34 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "resultados-ap-s-quase-dois-anos-de-implementa-o-da-reso-b4f301e17184d7",
+      "category": "Tecnologia",
+      "title": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW - Vietnam.vn",
+      "snippet": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclhhTTNxeTJfUXRnT3dlQUtqcWItU2s0M2l3eU9ELWJkSWJDVmZnTTNJMkwtSExkY3J6UUkzQ3EyT0VjU2I0OHFKZFQ2N1FoUnlPREdFOS1TSUJ5S2NEbFE4TmpIVjVpd0otaERFZG1mWFhLSDV0M09NRnBpR3Zaa1Q3bWQ0RDA?oc=5",
+      "published": "2026-11-10T01:34:45+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW Vietnam.vn",
+      "summary": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "chuvas-fortes-reduzem-produ-o-de-trigo-e-brasil-ter-que-59c10ebdd62d7b",
+      "category": "Brasil",
+      "title": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna - G1",
+      "snippet": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPb05vVDhHd3NMbU9uU3BSa3ZEYVZfWEE2UnlRVHUzRDM1RmJEbVo1VmpNWjloaHhSYTJtMWVZQlZTZWYyV0huaFVrdTR2WHlxNXhQMzBkMWtHSkJvdGdMeUE2T2JaS3BzaGd4UWlQX0t6a3NXT25xeVpUYWJNc0xJcGJwT0g3a3JZUHh1SlJuN0F5YVRNMWdGZTFoLXhscl9tZk1VMG4tSFp3Y2JxRVZCNGxOcTItNkJ0NU01ZF9LR19EN1dWRWVYaG4xbWRhNzRDNkxmTE1DZHV0OElwcVdUcE1BTURPVmN5b1drNlpLaFZPUTdJRTNjU2s5NTVmR1J6b0VPWkt0R3d3UlFodHJuVnhsTl9TaHNmUkxINnJxVWfSAa8CQVVfeXFMUGxyRkM5WVdyMHliSk5zSjVqX29xeF9kTkp3Qk5XZ3QyWk9HZnVUS1pkWmdGMTA3VEMwLWlEbTU2X3NvWEJEd3lhaUw5UUg5UERmdklFZXdPQzFlclJQdzZ0Snc3YXZ2OXNoVzRocnBJMktYOFRPOUtlNGxQMmRreWpLWWY3THpJaFUybFFQeU53YmxTQy15ZlRTOGVwdmlKeDd5a1VFbkU0d0pwaEpocTFNMUJQeXNfS240a21pLWVkLUdoejRZOFZVZUxzVU5NMU1MUVZVWmNJdFRpOVdhRlJGT2txYmtERjhTUWQxV2hEZW9BSmRDRkVWRmJ4Ri0xNjR4X2dDOGQtMTA4SlNUelduNmlPY3l0SXNDMnROWkQ4d2Z1aDIxNEJ4czZtSU4w?oc=5",
+      "published": "2026-11-10T01:34:24+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna G1",
+      "summary": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "brasil-recebe-ta-a-da-copa-do-mundo-feminina-de-2027-cn-1df8c490712cf4",
       "category": "Esportes",
       "title": "Brasil recebe taça da Copa do Mundo Feminina de 2027 - CNN Brasil",
@@ -38,6 +80,20 @@
       "tone": "teal",
       "dek": "Brasil recebe taça da Copa do Mundo Feminina de 2027 CNN Brasil",
       "summary": "Brasil recebe taça da Copa do Mundo Feminina de 2027 CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "stf-ministro-fachin-arquiva-inqu-rito-das-fake-news-ag--8c096d3b9c49fd",
+      "category": "Brasil",
+      "title": "STF: ministro Fachin arquiva inquérito das Fake News - Agência Brasil",
+      "snippet": "STF: ministro Fachin arquiva inquérito das Fake News Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUJuZkMwOUtjUnF1ZnNhZEItZDNOSmpaTzhsQk5QamF6NGE5aVNMLVE2dDRIaTF5b2xlTC05ZDFfMEoycFRnTjJxRnVta1A4cnpHd0czX1Z3RkJ4YVpsRktZSktyLTU4dlhqeWplUDdXTmdmaHFPM2RpcFJUTUtoa05OdVF5QXpGSk52R0JsYlZ4eHBFR3hSa2czbHBBRDYtV2tDQ195bXZub2M2?oc=5",
+      "published": "2026-11-09T23:21:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "STF: ministro Fachin arquiva inquérito das Fake News Agência Brasil",
+      "summary": "STF: ministro Fachin arquiva inquérito das Fake News Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -318,6 +374,20 @@
       "tone": "",
       "dek": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
       "summary": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "apag-o-mundial-em-17-de-novembro-vai-acontecer-veja-o-q-08db05a97678f8",
+      "category": "Brasil",
+      "title": "Apagão mundial em 17 de novembro vai acontecer? Veja o que se sabe - Notícias ao Minuto Brasil",
+      "snippet": "Apagão mundial em 17 de novembro vai acontecer? Veja o que se sabe Notícias ao Minuto Brasil",
+      "source": "Notícias ao Minuto Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPejU3UW5XeEJVeDVqQ25CMFoxVjRjVnNCRmtTQjZOWEVtOUdVTnlDanBSWG1GeElESnFKR21RX3BYbXhxWENwTGZhNjlWR0FQM2stZWJqcU1fN1dCRG1NS1NvZ0FpS3BPSHNKZjFfYVJPZWs0S2lILWRxSW1pUHN5RG5KeHc3MmxXVmZRdEVBUHJPMEt5WDRXZnJTb21TTkh3RzB4b0RsNHQ2LXB4eUNTZjExX0JVd3c?oc=5",
+      "published": "2026-11-09T12:11:46+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Apagão mundial em 17 de novembro vai acontecer? Veja o que se sabe Notícias ao Minuto Brasil",
+      "summary": "Apagão mundial em 17 de novembro vai acontecer? Veja o que se sabe Notícias ao Minuto Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "",
       "dek": "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula Agência Brasil",
       "summary": "Aplicação do Enem é operação de guerra contra o retrocesso, diz Lula Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jo-o-teodoro-analisa-mudan-as-na-seguran-a-p-blica-do-b-76085b64324ea7",
-      "category": "Polícia",
-      "title": "João Teodoro analisa mudanças na segurança pública do Brasil - Paraíba Business",
-      "snippet": "João Teodoro analisa mudanças na segurança pública do Brasil Paraíba Business",
-      "source": "Paraíba Business",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdTFmTld4Z3g2cTJlLURNWXNHQXJFekMxdW13OW8xZzZEUVZ3VFFHZ0s1Ukt2eVJWUkVrckRmdDlRcXlyUHBHUE9wTGE1Y21fZHNFSm5taUJPSnVoYzV4Z2tfd19OZWc0YzBZd3NhZFprZ2tqZS0wc3RrQW5IenpDODdhSWdMQlM0S3FrcjVFZW9WeEtwSFh3?oc=5",
-      "published": "2026-11-08T15:30:00+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "João Teodoro analisa mudanças na segurança pública do Brasil Paraíba Business",
-      "summary": "João Teodoro analisa mudanças na segurança pública do Brasil Paraíba Business",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "evento-em-bras-lia-vai-debater-o-impacto-das-fake-news--d78c806158cbe1",
-      "category": "Brasil",
-      "title": "Evento em Brasília vai debater o impacto das fake news nas últimas eleições no Brasil - VEJA",
-      "snippet": "Evento em Brasília vai debater o impacto das fake news nas últimas eleições no Brasil VEJA",
-      "source": "VEJA",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPVmgyZjQ4V2wwV1JJSmVTcXcwcnlxc0R4R1lqdmxhNFVGOWRxdElMVXIxanNTeGU2b195eS0yNWtSMW04bFpic2JxWThMOUJxVWVjMXhzSHJHNEE5U2hHWkRrQ2dCZGpUZGVheUNNcE5BajFZRnMyTno5VTBVZzZNbm1sWUl6RFJQOGhhZFpUdTY0TVI1bHg2X2hUdURPV0tSMjJGUVVvXzFOOVRUYXNUQ2hieVBZZHF1ajh3?oc=5",
-      "published": "2026-11-08T15:01:57+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Evento em Brasília vai debater o impacto das fake news nas últimas eleições no Brasil VEJA",
-      "summary": "Evento em Brasília vai debater o impacto das fake news nas últimas eleições no Brasil VEJA",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "valencia-x-real-madrid-hor-rio-e-onde-assistir-ao-jogo--ba9848dc43b85c",
-      "category": "Esportes",
-      "title": "Valencia x Real Madrid: horário e onde assistir ao jogo de LaLiga - CNN Brasil",
-      "snippet": "Valencia x Real Madrid: horário e onde assistir ao jogo de LaLiga CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQUkxyVnUtNmd5M01iUHMySFNPa3pjQ3lKd1VhNmEyaHlVRGtVVjNRN1c5MnE2R1U5REFZUE9uSkJkNm9SMjN0V2h6T0ZDMjhXOFB6bUhIWDd3TGExdzZfV3I3aGlXMTJhaWQ2SzZQaW43QjF4N0ZITDNYN1NMOVh1TFY5RkF6YTVkcUktajVoc3pKT0NxamV3Y0ZNUWQwWWhGSWhkS0JPNTlpekZoOGFIRWc2WUJNcExWQ2NwN2kwcUw2QU1wTl9qdUU4b1h6S2FTNFhQa1hRTlVNUnBOZjU5SkRGVUdMRFk?oc=5",
-      "published": "2026-11-08T13:18:23+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Valencia x Real Madrid: horário e onde assistir ao jogo de LaLiga CNN Brasil",
-      "summary": "Valencia x Real Madrid: horário e onde assistir ao jogo de LaLiga CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "livro-resgata-a-hist-ria-das-pioneiras-do-futebol-femin-3b7df936fbd007",
-      "category": "Brasil",
-      "title": "Livro resgata a história das pioneiras do futebol feminino no Brasil - Agência Brasil",
-      "snippet": "Livro resgata a história das pioneiras do futebol feminino no Brasil Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPaG1WVnZUWFBDVFNCSU91UUVDSkluS0RubDhpeUVubXZQQ0ZrbnRXaXBMalZLVjBHdHFJVVdVYWVWb0VRbG9NQ3dzNTZnVjdFNEE1S1VKU1FTSlN5OU1hZzAtUkZwano4Z3JQRnhpUU4tTXpLaC1zWGJzaU9PNlhURVFuU2FMdHZydkxwaXE1VlhNZk53OVhYU2FjdS1OX3BHVkJKaFJGUFNwQTdEU3A0Vi1kWW4wci1HaHBlVURzUmE?oc=5",
-      "published": "2026-11-08T12:51:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Livro resgata a história das pioneiras do futebol feminino no Brasil Agência Brasil",
-      "summary": "Livro resgata a história das pioneiras do futebol feminino no Brasil Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "palmeiras-e-vasco-decidem-neste-domingo-quem-enfrenta-o-7be892cc0c92be",
-      "category": "Esportes",
-      "title": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil - Jovem Pan",
-      "snippet": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil Jovem Pan",
-      "source": "Jovem Pan",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNktjRklhcmJXeGk3bEMyd3FWZ3BpblFfZ1REdVlXT1NxNnZHSXpnaHNQdjQtd0JmMERWVW9LVUFGR2FtNUt5SS1ic2Z0SHJmY3JaN2ZyMjlsU3pBdk1YaXJCUTVmdWdtT3hWZ2xaekNQUWJFSzhUYUdJczRpWlFqekd1azE5UlJLQ08tbmI0SEpUaFRPcVJ4Q2M2TFNHanhIc3NQUE9RWDNXejctcW0yM05PZExBeFM3ajB2V0xQcFB5Qk1JUFhKcmFqb05zNWRPLWE5akd1bzE?oc=5",
-      "published": "2026-11-08T12:33:42+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil Jovem Pan",
-      "summary": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil Jovem Pan",
       "summary_by": "descrição da fonte"
     }
   ],
