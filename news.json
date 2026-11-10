@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T15:02:33.161716+00:00",
+  "updated_at": "2026-11-10T17:04:45.140969+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "brasil-n-o-deveria-aumentar-o-sal-rio-m-nimo-mas-se-liv-395cea160206d7",
+      "category": "Brasil",
+      "title": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane - BBC",
+      "snippet": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9IV0VVTk95RS1xbjFJNU50aHFWajdZTWZiRzZMWk1nZmV6TElCN1cyUExsVWNuamtrTzk4aXZzNkZsNkN0eVVZYTlnZUNqak5iNDhLclI0ZF9kNHYtcTBoUlFXc9IBaEFVX3lxTE5nU0FqRDJsYTB6dlVYYkRRQ1NDY0pncjhyZWJwc09XSWJRZXp4SHhYV0RBSW0ydWY0SGZXbnVNUGViNGt4ZnEzbVZzRzQ4RUNYb1ZvclV3QlBkbEFpUzBnTFdaZko0b3pJ?oc=5",
+      "published": "2026-11-10T16:42:45+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane BBC",
+      "summary": "Brasil não deveria aumentar o salário mínimo, mas se livrar dele, diz o economista John Cochrane BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "trabalho-10-ocupa-es-det-m-um-ter-o-de-notifica-es-de-a-e661bdd7b7d1f6",
+      "category": "Brasil",
+      "title": "Trabalho: 10 ocupações detém um terço de notificações de acidentes - Agência Brasil",
+      "snippet": "Trabalho: 10 ocupações detém um terço de notificações de acidentes Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQYjdDU1dXaktsMjJRWGZ1MnZtdlYtM1ZwcWdOckVVU2dwdWhCZm0xSU0td2dfbzJ6a1dCRnZfazhCQ2M4QXNrd08zR19KYzNXRkhDUVhNNTVaSmhkRFBVMDVvZVVNRmFhR2ZFbHFjdkVIaE1WQVdNUUVGMmZWejc5VEdxeTNFd0xhZ3RocnhrWXpHWjZ2dEVYa215c2czMEJTb3VLRkx1RkQ5Qi0zQ1UzVGw3YWtHM0JhVUhXSDZKX3k?oc=5",
+      "published": "2026-11-10T16:11:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Trabalho: 10 ocupações detém um terço de notificações de acidentes Agência Brasil",
+      "summary": "Trabalho: 10 ocupações detém um terço de notificações de acidentes Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "exoplanetas-mostram-potencial-de-gua-l-quida-minist-rio-32a3437739e894",
+      "category": "Tecnologia",
+      "title": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação - www.gov.br",
+      "snippet": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação www.gov.br",
+      "source": "www.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVRDWktwTl9DUGdrQXVHY0xDYWduU1haNW9PRkhmQ0xIMVVIYXJXcENYR3MxNlc1d1ptWkY5eXNYZk5XaHVQYnkxR3d6d2dhZkVMeXBFN1dVV241MkJKWWljamd2aF8yOHN6Y0JBU1JwTzNuNzY4a0pJS3FCb1hkbS1sN0VOMm04bVpjWC1razlUcGJ5Y1p0N2NHMzQzU2hXUjQtVEN0d0Jwd3RrVXc?oc=5",
+      "published": "2026-11-10T16:06:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação www.gov.br",
+      "summary": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação www.gov.br",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "o-grande-debate-inqu-rito-das-fake-news-durou-mais-do-q-b5ac83f2d2c232",
       "category": "Brasil",
@@ -181,6 +223,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "rubio-diz-que-eua-manter-o-di-logo-com-brasil-e-cobra-a-10b72df477b64f",
+      "category": "Brasil",
+      "title": "Rubio diz que EUA manterão diálogo com Brasil e cobra aval a embaixador - UOL Notícias",
+      "snippet": "Rubio diz que EUA manterão diálogo com Brasil e cobra aval a embaixador UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb0pyNmJ2NzB4QjdwVFpLTEdiWHJKdVhWTTRNeXUtZG56TFd2aWZvLUpNbXFoX1J0dFo0OVlCaEpMalg3OVZfM2FQMTFYZHh0blhnQjREdEJCSE4wczJDaTcxZ2NqMjM3R3d6UlRwejNRaXlxTDdWM3Y2Z2k2Q0p5NHk2Qk8yYVZub1JsSXM3eWVhRUJwQU5veVpDTFQzb0pIYVBqRUdmQmMwRDdMTUpQdHlCeVpiUW1QR0xfUkc0MDZKZV9LNDdlSnNDMjhHS3dBekNhV0JjUGFYVHRKQnBn?oc=5",
+      "published": "2026-11-10T00:10:28+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Rubio diz que EUA manterão diálogo com Brasil e cobra aval a embaixador UOL Notícias",
+      "summary": "Rubio diz que EUA manterão diálogo com Brasil e cobra aval a embaixador UOL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "stf-ministro-fachin-arquiva-inqu-rito-das-fake-news-ag--8c096d3b9c49fd",
       "category": "Brasil",
       "title": "STF: ministro Fachin arquiva inquérito das Fake News - Agência Brasil",
@@ -220,6 +276,20 @@
       "tone": "",
       "dek": "Brasil receberá 25 mil doses de vacina contra mpox nas próximas três semanas Bahia Notícias",
       "summary": "Brasil receberá 25 mil doses de vacina contra mpox nas próximas três semanas Bahia Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "centro-de-lan-amento-de-alc-ntara-se-prepara-para-novo--d2a4373818fe51",
+      "category": "Tecnologia",
+      "title": "Centro de Lançamento de Alcântara se prepara para novo voo de teste de foguete sul-coreano - www.gov.br",
+      "snippet": "Centro de Lançamento de Alcântara se prepara para novo voo de teste de foguete sul-coreano www.gov.br",
+      "source": "www.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUWhXVDJUeFZNNWRmRTBMRFpnY3JFV3VyMUpTMUIzdlJrZ19nbU5YUENMYk13dlFjZHpoMU1TV2NoY0pzWTU4QnpUcTV4cF91dTRBRHd5TUxFTjVseFVDUkpoUUJNV2JZXzFTUWdYR1d0Uzk4X2tMUGxNeHpUbzZCZ3BWNW04R2NoYUs3Wmd4Yjh4WVRodmZaMDFDYjNQNDZVdzdadXo1dG9HRDU4LXV4SlBOYVZ4VFhqdDRKNlVMSWpfcDBMZjN6eWF6S3lZMEVKNTc0bW44a0t2X0RRWEU2aTNZUzNlclBFWVE?oc=5",
+      "published": "2026-11-09T21:26:57+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Centro de Lançamento de Alcântara se prepara para novo voo de teste de foguete sul-coreano www.gov.br",
+      "summary": "Centro de Lançamento de Alcântara se prepara para novo voo de teste de foguete sul-coreano www.gov.br",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "gold",
       "dek": "Vaidade ganha valor comercial e muda mercado de wellness nos EUA; entenda CNN Brasil",
       "summary": "Vaidade ganha valor comercial e muda mercado de wellness nos EUA; entenda CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "por-que-o-corpo-humano-pode-estar-esfriando-bbc-9b44c4b186ffb7",
-      "category": "Brasil",
-      "title": "Por que o corpo humano pode estar esfriando - BBC",
-      "snippet": "Por que o corpo humano pode estar esfriando BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB0ODJFWW5rZjdCcTBrX3RQSWctbWtfWHNNdnRybTQxc3NvMEhsMVUzcTVNbnV4WTlGZ3l4UHZzcFVqTlRDNjNrbzZpUmpFU3p4R0hkblNoRmwzMzFaNlRzRmtNQdIBaEFVX3lxTE1rWXE5UWNXNDQ2dWJzYkJxWVZ0M3MyejhOZVNUY0pZVi1SUS1NaXc1TzBiU3psVk42ZHRyTmRfdGdFUDQ5cEtVWUlseV9wYk1CeWp4RlRsSlp5c183akFRRjIzazJnRHE2?oc=5",
-      "published": "2026-11-08T20:42:06+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Por que o corpo humano pode estar esfriando BBC",
-      "summary": "Por que o corpo humano pode estar esfriando BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "defesa-civil-diz-n-o-haver-motivo-para-p-nico-por-kit-d-d187584f03102e",
-      "category": "Brasil",
-      "title": "Defesa Civil diz não haver motivo para pânico por kit de emergência - Agência Brasil",
-      "snippet": "Defesa Civil diz não haver motivo para pânico por kit de emergência Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNcmh0YTFQLVZvLXh2YXZfUk9Nek1kdWtLRy1FdEZJOV9HLVNsUnBfNnVTazlYTDdBRVZ2NnNKVF9PU1JZWUVxWUpvb0lRNzlkSkZDNzQxTzZfRFV4azlsaWM5a2VGVWZXMWV5SHRXVWpaek85cHVoLVNfeEhIX3N3a3hPOHhad3V3dzlfdjVSYjgtRnBpaFpiVWlxc3psZWVqWW9TR01KQnk2TE05TzFrc1I3VXNhSnVjSzF0MDdfbw?oc=5",
-      "published": "2026-11-08T20:26:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Defesa Civil diz não haver motivo para pânico por kit de emergência Agência Brasil",
-      "summary": "Defesa Civil diz não haver motivo para pânico por kit de emergência Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "sele-o-masculina-inicia-apresenta-o-para-ltimos-amistos-980422fad8dca4",
-      "category": "Brasil",
-      "title": "Seleção masculina inicia apresentação para últimos amistosos do ano - Agência Brasil",
-      "snippet": "Seleção masculina inicia apresentação para últimos amistosos do ano Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdVAzNTBqQkJYMndqZXJ1M3VwbFotZnVmZHZuY1U4S1RVdnRxNTFPMlhPdU9LMDllNVYzUlNWYTRnMG5vZTNsQm12QkhrbkQ2S3FqOGloa2pQTnptcHBMZTFFRFptYVJhc0NCbjkyOHBDTnV2NTQydGZJVmJULVhWRWdrNXZVNFNsSllPaENCQzRwdS0zdzAwRVFPSmR5VnpZcjVUS3cwYkdHS2hKN2hNYmVqWEVBTmdETDRYZ2xOT2JLMTQ?oc=5",
-      "published": "2026-11-08T19:15:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Seleção masculina inicia apresentação para últimos amistosos do ano Agência Brasil",
-      "summary": "Seleção masculina inicia apresentação para últimos amistosos do ano Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "vasco-e-palmeiras-est-o-escalados-para-semifinal-da-cop-2f4863b334ed75",
-      "category": "Esportes",
-      "title": "Vasco e Palmeiras estão escalados para semifinal da Copa do Brasil; veja - Band",
-      "snippet": "Vasco e Palmeiras estão escalados para semifinal da Copa do Brasil; veja Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQXlKNl9sOFJYc3Vyc1FuLXhsNU1WOGFKYmNmTGxLclRUNkxmTUh4VkNQbC0zT296SDIzTXZwaDBiQ1o2N0VfRUU5X3dsWVM3cUtfZUFGZVZlTzUyUVd1Vmg3QnVjbFAtVEpzTWRFTnNGZTkxQXJEYXpFd2duU3ZXWUN5T0tXSWVHQmxNZXJrS2FjdU9pTVVZQVdFOGhKeWtvb3lieWN6UmkwSkNzU1VHQkZ3?oc=5",
-      "published": "2026-11-08T19:04:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Vasco e Palmeiras estão escalados para semifinal da Copa do Brasil; veja Band",
-      "summary": "Vasco e Palmeiras estão escalados para semifinal da Copa do Brasil; veja Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "vasco-x-palmeiras-escala-es-e-onde-assistir-semifinal-d-27b7585d679f40",
-      "category": "Esportes",
-      "title": "Vasco x Palmeiras: escalações e onde assistir à semifinal da Copa do Brasil - CNN Brasil",
-      "snippet": "Vasco x Palmeiras: escalações e onde assistir à semifinal da Copa do Brasil CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSjh0aFZoSno2Z2JqRWdyZWZQTlFVcFNFUHBmWHRmTF94ajBzVDU3cmNyN2VvRVc0NzE4R0c4WU5VWHVESGNBNkxaNnpremNJUFNZOXgtd1YzYjNiTEUycU54RUtVOXdldldiRnd5YTdtb19jVmlXc2xjNkd5VXAwQXBhbXU0U0M1QXRzMW1lemc3NDdFc1BtQTNCZWk1OTAzRXNJQWYwR1pub0ZJVmFzakhISFgwdWIxcjd2ckk0S2ZsV25TUktwOGZmWjdBN28xMlE?oc=5",
-      "published": "2026-11-08T19:01:31+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Vasco x Palmeiras: escalações e onde assistir à semifinal da Copa do Brasil CNN Brasil",
-      "summary": "Vasco x Palmeiras: escalações e onde assistir à semifinal da Copa do Brasil CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
