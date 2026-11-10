@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T01:17:16.272817+00:00",
+  "updated_at": "2026-11-10T03:00:00.962340+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,17 +13,17 @@
   ],
   "articles": [
     {
-      "id": "stf-suspende-a-es-judiciais-sobre-proibi-o-das-bets-em--b95a81bf3f649d",
-      "category": "Brasil",
-      "title": "STF suspende ações judiciais sobre proibição das bets em todo o país - CNN Brasil",
-      "snippet": "STF suspende ações judiciais sobre proibição das bets em todo o país CNN Brasil",
+      "id": "brasil-recebe-ta-a-da-copa-do-mundo-feminina-de-2027-cn-1df8c490712cf4",
+      "category": "Esportes",
+      "title": "Brasil recebe taça da Copa do Mundo Feminina de 2027 - CNN Brasil",
+      "snippet": "Brasil recebe taça da Copa do Mundo Feminina de 2027 CNN Brasil",
       "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0VZM0xoRE9JazcxT0NEZUMzNFBxTmI1cmlJUmRYZF9EZU0zSWIwMVp5VnYzMXFNSHJ1ME5KdVhuV296c0p2QVVKVUVhY0hlZ2RuMXhlM3RqR0RCcklkWHBSUTJZZC1pb2NFbUtLUjhjdnh2R3E1d25vLTVlbWx2RENtTDhaSl9Eck95ald3ZmptM19wX1I2bWtpakNmR0ZrZGo4UTkzQ2phTm8?oc=5",
-      "published": "2026-11-09T22:38:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakZOZUczMjRvUlIzWUpRMnJmb3VpaC1YeDFkMWt2UTRtcGYxSi1LMUhQZ0lQbkJmT2swMkZ1ODhNSnBYQ1BZX1dhS0tVOXdRYm92b0xhdDBnRW1wN2l1dG1nMU1QV2xwcllBbVVmSWRzM1JhaW53VWxEUjgxMEFNWmFFMWZHdlRQeWtsOHNsQkczaFZseGRna1RuZk9lTWFXSk9XMkdFNWxLaHRiVTdzMlJjUQ?oc=5",
+      "published": "2026-11-10T00:44:20+00:00",
       "image": "",
-      "tone": "",
-      "dek": "STF suspende ações judiciais sobre proibição das bets em todo o país CNN Brasil",
-      "summary": "STF suspende ações judiciais sobre proibição das bets em todo o país CNN Brasil",
+      "tone": "teal",
+      "dek": "Brasil recebe taça da Copa do Mundo Feminina de 2027 CNN Brasil",
+      "summary": "Brasil recebe taça da Copa do Mundo Feminina de 2027 CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -52,6 +52,20 @@
       "tone": "teal",
       "dek": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" CNN Brasil",
       "summary": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "trump-questiona-integridade-das-elei-es-de-meio-de-mand-f4e7eabe2cc5c4",
+      "category": "Brasil",
+      "title": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente - BBC",
+      "snippet": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EVktNSXFmRmZjbjE5aUlXaFdHSmc2YVhxbXo5RFB4YWtYNGtYSGNwU0d6QlhUdTY5NTFxOTROdGN6X1FhUXV1YnE4UlNHb05lblJfQ3ZrZmpwYXdyYXU0eDJhNNIBaEFVX3lxTFAteXNRT3J1OWxrOXZiS2dGaThEWTQ5Z2tOcmhGOVdNaks4MXVrdDZoRGU2SmZxeGhfLUNqUFJsMnl2X1p6dGtGc0ZvX3NuSUY2cmY3M3NlbnJNMmVLR3VGMHMtSm5aLTJr?oc=5",
+      "published": "2026-11-09T20:43:57+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente BBC",
+      "summary": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -262,6 +276,20 @@
       "tone": "",
       "dek": "Filipinas suspendem importações de carne de porco por 60 dias; país é maior cliente do Brasil G1",
       "summary": "Filipinas suspendem importações de carne de porco por 60 dias; país é maior cliente do Brasil G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "stf-suspende-a-es-judiciais-sobre-proibi-o-das-bets-em--b95a81bf3f649d",
+      "category": "Brasil",
+      "title": "STF suspende ações judiciais sobre proibição das bets em todo o país - CNN Brasil",
+      "snippet": "STF suspende ações judiciais sobre proibição das bets em todo o país CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOX0VZM0xoRE9JazcxT0NEZUMzNFBxTmI1cmlJUmRYZF9EZU0zSWIwMVp5VnYzMXFNSHJ1ME5KdVhuV296c0p2QVVKVUVhY0hlZ2RuMXhlM3RqR0RCcklkWHBSUTJZZC1pb2NFbUtLUjhjdnh2R3E1d25vLTVlbWx2RENtTDhaSl9Eck95ald3ZmptM19wX1I2bWtpakNmR0ZrZGo4UTkzQ2phTm8?oc=5",
+      "published": "2026-11-09T10:38:26+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "STF suspende ações judiciais sobre proibição das bets em todo o país CNN Brasil",
+      "summary": "STF suspende ações judiciais sobre proibição das bets em todo o país CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "",
       "dek": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
       "summary": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "alto-escal-o-confira-quem-mudou-de-endere-o-ou-de-cadei-ffd691bca5efb5",
-      "category": "Economia",
-      "title": "Alto Escalão: confira quem mudou de endereço ou de cadeira na última semana - Estadão",
-      "snippet": "Alto Escalão: confira quem mudou de endereço ou de cadeira na última semana Estadão",
-      "source": "Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbEE0Y2dVU3MwenFwdkFIZTJrVU1wN1lSblV1WnJSRk54T1pROGFPMUlKQ3BNdXcxUlYwa29icWJYSWY1amFTTW5SOEZsRWpNb2FPRFpkZkVTdzFVWWJqdGhMREhIalZTVkU1V2JpNXBhZkJIRjRiY0N6WENGcjEtV2UtVUp1NVNKSHh1TlQ2dTRGSjJsaGNUTi1BVXU4UDFOYXpIcDcybEpCNUg0eW1PbHYtOGNwZUJHeTRaamhpREw1d9IBxwFBVV95cUxOR1NtRHc3aHFJdV92S2lpaFQzYk05UGxkWWFOcVlaSHVNZUlNNVBiOWRXWHloay1qdmQxZ3BMUk9aQW40eW05UGZ4Q0tmM3lqb3FTM1MyMUNiR2t1TDlVQlAyaU52T2FyUG5rLTN0VTYzMzRGQjhIR3U0RVNWWXZXVmpyVHBnbGttbXk3cWwzSWVDa21iUW9CdWxQVTlHM2J1eVEyYVJEeVluOHYyMFdKSDVGU2xsTk5jRHR3S29RM182Y2FQa2c0?oc=5",
-      "published": "2026-11-08T08:30:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Alto Escalão: confira quem mudou de endereço ou de cadeira na última semana Estadão",
-      "summary": "Alto Escalão: confira quem mudou de endereço ou de cadeira na última semana Estadão",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-pode-perder-seu-maior-comprador-de-soja-entenda--3f78cd215fd594",
-      "category": "Brasil",
-      "title": "Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA - G1",
-      "snippet": "Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNNWU2cjgwUDFUZHl4d29wWkh1NDhRZkVkSGVoMkR0VXZXN2xpX1dfWjJLcGUzQy1XY0NJWWtDcWFfc1VSWDM1ZUdBRmlvTUVsbmhPek8zNWNMbDhrNUYtd1VueXdzbTNGRVRMY1RjT3M2ZTl5aDV1dzZ0RTFnMmFpWGozOFlTN19UbWJmSzZWYXNGN0VDeGtyX19jd2VWYzVWRUdvenhkazZ0cHVmTHoydzdwLVMtNXRWUnZoY2JfVlJ0N0dLVnUzenFGZUhQNndoYjBqQ0V1RldWVkpmT2cwem9SeEVNaGVYWHl4NUJRNVVCTjhNQjJj0gGGAkFVX3lxTFB0NkpSeEdpQ3d6ZXVkTFpzR3Z6SzNtM1ZsalRtX3AwVG4wMGhIVTVKbUtQUXZSY19QSDdwQVBjYm02QWw0VlpHU0dlSnAtMWp2WTZRVUlCUGdRVThBZUNRZFFwOHdaOUFJTlNGUlBiUjgyREhtdGg4cXlaNjlwc0pLLTdaNF9KWHcyLW5iS0tsRndWQkhfYVc1TXRmbWFYR29QRlYyQVg1cTBLdGJJSi1EdVhMTXRtOFdveXBRcDluam56aU40RG8teWpVWk5RNmZDNzV0WVFhQ2pybDREVWxwSmczdUVxUVBwblB2bUZJVHNvSGVtY2VSM0Q5WlRFZFJiajlINWc?oc=5",
-      "published": "2026-11-08T08:00:01+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA G1",
-      "summary": "Brasil pode perder seu maior comprador de soja? Entenda os planos da China e a disputa com os EUA G1",
       "summary_by": "descrição da fonte"
     }
   ],
