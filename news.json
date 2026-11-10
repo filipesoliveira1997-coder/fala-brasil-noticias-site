@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T03:00:00.962340+00:00",
+  "updated_at": "2026-11-10T05:06:51.225795+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "ap-s-vit-ria-de-lula-rubio-diz-que-eua-v-o-manter-di-lo-cc5b7af3584e30",
+      "category": "Brasil",
+      "title": "Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador - G1",
+      "snippet": "Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1NTb09QdHlzcTU3NW1aaEFKX0lPd1NwMkZpZE13LTNuaE5YMThacko2VVlINlUxSVlPM0t0eklvMHlyOG1CTm1rLTQ5SjIxUDNxdHZZeGhFLUVFR1JUdDlvMWtvWE1naUg4ak50M1p0TFZpMTFhOVNmMmtuQVFCYm1vb3l2ZjFmNkJmUFBXRXUtOTVtQnllQTFWdkZZZjRVU1l1MHVxNktKc2JIMDczSlFUc2FQQlBraTdkQUJYVkJXYmxqZ29iUERKSFJqRVo2MXlLN1A5aGRyLTJ5OTdkRG5sOTRMWXJFZlHSAfgBQVVfeXFMUGxRTVpBVnBsbmVfRURuak5ZYjhuYWRmOXUyT2RXLU9KNDd0XzI1UHkxSm9lYk9QamZKRlZIZ1lscnRuQk9PY2k4UlVuckdEbXBUenRoRi1ENXhzVld1Z0V2aW5nUkNoSEl1VTZLZ2pkYWhvaU1jZk5lNU1ubjRLZHhFY290RDFIaXlVNURfWkwyOU13ZnJaSlhmWXJTSkhwRUo0bnBjWEpjVTd5R1ZjUGFmckZwdW1jd0dRNUlQc0NmVGR1MFh5TnI5dnNYUWYyM21RV3MwUGRaa0FhQzFrT0ZXSlA5anpRR2RMQm5LQ1ZSdllRclRZaU8?oc=5",
+      "published": "2026-11-10T02:10:50+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador G1",
+      "summary": "Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador G1",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "brasil-recebe-ta-a-da-copa-do-mundo-feminina-de-2027-cn-1df8c490712cf4",
       "category": "Esportes",
@@ -234,6 +248,20 @@
       "tone": "purple",
       "dek": "Prefeitura reúne cerca de 40 mulheres em capacitação sobre marketing digital e empreendedorismo Prefeitura de Aracaju",
       "summary": "Prefeitura reúne cerca de 40 mulheres em capacitação sobre marketing digital e empreendedorismo Prefeitura de Aracaju",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "mudan-as-nos-m-todos-de-governan-a-no-ambiente-digital--9f8ff6919ccc88",
+      "category": "Tecnologia",
+      "title": "Mudanças nos métodos de governança no ambiente digital. - Vietnam.vn",
+      "snippet": "Mudanças nos métodos de governança no ambiente digital. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9QUFlyZm95ZmUxRnhLR3pMSGlOVkVmMUxoMUg3RUtNVW1UQlh1U09ncGQ5NGM3OFBzV1RhRTdwR0xmNE1SaUFLdm5nVnhqY1BQREk5c2YyOWZQS2ZBT1UzU1NjdE5mcXVCSEQwdjRjR2RkNFF4aUQ2bGREVXFJQ2s?oc=5",
+      "published": "2026-11-09T14:06:25+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Mudanças nos métodos de governança no ambiente digital. Vietnam.vn",
+      "summary": "Mudanças nos métodos de governança no ambiente digital. Vietnam.vn",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "gold",
       "dek": "Economia da nostalgia transforma saudade em negócio Paraíba Business",
       "summary": "Economia da nostalgia transforma saudade em negócio Paraíba Business",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "sem-elei-o-de-meio-de-mandato-brasil-v-disputa-municipa-dbda9aa22273db",
-      "category": "Brasil",
-      "title": "Sem eleição de meio de mandato, Brasil vê disputa municipal como termômetro - UOL Notícias",
-      "snippet": "Sem eleição de meio de mandato, Brasil vê disputa municipal como termômetro UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQODh1dmJrYXJVRWtaSmlfOVkxMXFMT1htT0F3YTNpYzdDT0RFMVRiYUZkQXVNWHVCYm5QanViMFRwZTVocHFGcEVreUd3LURfYlc2ZkhKTWtCM2l0cVVTWmh5WFJZaW1EWHVsQzQzSEx2ZmNjeEJ0NlZYODlJSU90NXVnVS1uSHpxUGdBWTd4anJYWWl2dXJ2MUxtMzJvY3U5YUlod3hjSk1pdXZ5Nlgza0FwYjZ5OVBVeHQySWJzb3cxVk43NTdHbE9oM1huSUUxenJxSG5SdEo2V2M?oc=5",
-      "published": "2026-11-08T11:51:55+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Sem eleição de meio de mandato, Brasil vê disputa municipal como termômetro UOL Notícias",
-      "summary": "Sem eleição de meio de mandato, Brasil vê disputa municipal como termômetro UOL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "por-que-mulheres-podem-estar-por-tr-s-da-vit-ria-de-lul-8f3a25b896e955",
-      "category": "Brasil",
-      "title": "Por que mulheres podem estar por trás da vitória de Lula nas eleições - BBC",
-      "snippet": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90WkZYeU5jU3QzcHRlbVlGZk1vQWs1dTJHajNJcDQ3MHBuTHpDNm9kaGNISjdmcEZGRXVPU05wdUp3NWd5ck1TbUEzT29fVEpCRVY2c1EwRVZCYmxqUGtKNGdkUdIBaEFVX3lxTE9yOXRsYkU3d0NSSHd2cy1YRHlCV1JUeGJxVFJVNFc5M1BsbExpc2lUTi1DMWt5S1h5a1A2RzFYakRrRXllYVh5VTZxb283Z05vT1cwNndTNjJWd3pCcmNUODg5MmpxZzJC?oc=5",
-      "published": "2026-11-08T09:30:14+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
-      "summary": "Por que mulheres podem estar por trás da vitória de Lula nas eleições BBC",
       "summary_by": "descrição da fonte"
     }
   ],
