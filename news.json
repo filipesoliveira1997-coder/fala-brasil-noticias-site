@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T05:06:51.225795+00:00",
+  "updated_at": "2026-11-10T07:25:54.696855+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "aprimoramento-da-capacidade-tecnol-gica-e-da-inova-o-pa-9c81d2ed8beae8",
+      "category": "Tecnologia",
+      "title": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. - Vietnam.vn",
+      "snippet": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmxpVEQta1ZEbS1tYlhHS2NaMXNibFdjNzItbVFfelpZNFhhV1ZvRVJtLW0wTzRsZ045V3hHU29QNUgzYWphOXFYOGVKekVHeTAzWnVVRF9udGNqVDN6RUx6dDJVMktneng1cUUya09tTm1rNEswemw1NHNWbEpleWlLTE1NcnBGeFRMYTRhWE1iZFlTazVhUmVLTWlSVElNbDV6UEs1dGZzSXhOYUcyZUpDajZKTHFpSl9Zd1BaWXR2dw?oc=5",
+      "published": "2026-11-10T04:57:45+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. Vietnam.vn",
+      "summary": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "ap-s-vit-ria-de-lula-rubio-diz-que-eua-v-o-manter-di-lo-cc5b7af3584e30",
       "category": "Brasil",
@@ -169,15 +183,29 @@
     {
       "id": "snct-2026-mobiliza-o-pa-s-e-prepara-grande-encontro-da--be3ffbcfc88a91",
       "category": "Tecnologia",
-      "title": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília - GOV.BR",
-      "snippet": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília GOV.BR",
-      "source": "GOV.BR",
+      "title": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília - Governo Federal",
+      "snippet": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLTV5enVaRE5PMGMxbU5CazJOdVFnYnQ5VGxiUzcxRWdXUEJudUExcWtwNlFGTmFfanBFRHJCY3RRWXFmLVNZU3VFWlZTWTJzZGRKdWFGVmN2WkFDSzdSZVJoazRSM3l2bmV4U1c5V2U4bktCcUxPYjVSYU5FQmhsZWpnd2YycFRRUXc3enA5X1E4QlN4QURzdkFHcDllT0w1bkxXVmJTemYxUkprTWNkWGJjQnNDU2ljMWlPWi1pQl95ei1QTk5vOVUwY01zTHhkdDZsZQ?oc=5",
       "published": "2026-11-09T16:39:00+00:00",
       "image": "",
       "tone": "purple",
       "dek": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília GOV.BR",
       "summary": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília GOV.BR",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-e-jap-o-trocam-experi-ncias-para-modernizar-os-c-dd5cf6507854cc",
+      "category": "Brasil",
+      "title": "Brasil e Japão trocam experiências para modernizar os Correios e aprimorar serviços postais - Governo Federal",
+      "snippet": "Brasil e Japão trocam experiências para modernizar os Correios e aprimorar serviços postais Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDc3YVpoMjAzb1VJT1p0RDJEbU1RT1FQLVYzbEhXZGlDM2QzUFd2ZjlnLWNEdEt1UG9ZSk1iZEgtZGlrbDB3REk2NWtKRDMxWW9RX2E5QXlSS1VodDRjcEdKM0t3d2tOcGVGb19IRUpUU3JlYnZubTdMSEVMajluM0gtMWNkbVhodkdta0xUUU1kZUtEb185TlZ0Y3JxSWVhT01xdnRUVmhUN2p1R1RPRXJCNk9OalVVQ05VWm15YlgwRllNNVFSYkFOMXZ6elRuUzA2SDdSb28ybi1s?oc=5",
+      "published": "2026-11-09T16:32:04+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil e Japão trocam experiências para modernizar os Correios e aprimorar serviços postais Governo Federal",
+      "summary": "Brasil e Japão trocam experiências para modernizar os Correios e aprimorar serviços postais Governo Federal",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "teal",
       "dek": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil Jovem Pan",
       "summary": "Palmeiras e Vasco decidem neste domingo quem enfrenta o Grêmio na final da Copa do Brasil Jovem Pan",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "israel-quem-o-principal-rival-de-netanyahu-que-pode-se--8d640a58064f64",
-      "category": "Brasil",
-      "title": "Israel: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro? - BBC",
-      "snippet": "Israel: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro? BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9WUVRkQkFKNEJxbUhCVmFwbm80LWhPNm1SdlVrdGEwUzRsYlFBNG84MHZTcWxWRW1XTzRpSUZfcnVSX2c5NmpnQTJRMTlxakdyaF82LVJtbk41YU5CbGIwbDh4NNIBaEFVX3lxTE9LVWFtcEFkcTFfVXVvSnNjejhMZ1lLd0xMUGxZVXRXWExLbkR3QVFHalJPUEtmTTc3enl0dDU5N3lzWDlLZ1h0N0tHUHFSakF1TkFhYlJEWlJoc3NTOWR5bVdhd1pkd3Fl?oc=5",
-      "published": "2026-11-08T12:04:43+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Israel: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro? BBC",
-      "summary": "Israel: Quem é o principal rival de Netanyahu que pode se tornar novo primeiro-ministro? BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "economia-da-nostalgia-transforma-saudade-em-neg-cio-par-08e42b42813df7",
-      "category": "Economia",
-      "title": "Economia da nostalgia transforma saudade em negócio - Paraíba Business",
-      "snippet": "Economia da nostalgia transforma saudade em negócio Paraíba Business",
-      "source": "Paraíba Business",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZnk5VzU0dXhkYlUtc0lmeUlvZXBWOWNLMXU0YWJ5S1NHSURTcGNKOEZkNW5FcXJ3M3F0OHRZNGs1S0tQQVNITUZ3STI1WWFVRXcyem9LamtLdFJTS3BnWXM1RWZzd29Qb3p4R2hKb2stcW5BY0pJOHkxOWQyQ3liYXQ2aHptYy0wQVZNME9Dc1dpMDVzZnNDRXN4TzJlU2dhV2p5U0tNU29ZaW5XdDkteVZLMA?oc=5",
-      "published": "2026-11-08T12:00:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Economia da nostalgia transforma saudade em negócio Paraíba Business",
-      "summary": "Economia da nostalgia transforma saudade em negócio Paraíba Business",
       "summary_by": "descrição da fonte"
     }
   ],
