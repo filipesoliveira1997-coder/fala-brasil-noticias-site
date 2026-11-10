@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T17:04:45.140969+00:00",
+  "updated_at": "2026-11-10T19:10:48.302620+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -43,9 +43,9 @@
     {
       "id": "exoplanetas-mostram-potencial-de-gua-l-quida-minist-rio-32a3437739e894",
       "category": "Tecnologia",
-      "title": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação - www.gov.br",
-      "snippet": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação www.gov.br",
-      "source": "www.gov.br",
+      "title": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação - Governo Federal",
+      "snippet": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaVRDWktwTl9DUGdrQXVHY0xDYWduU1haNW9PRkhmQ0xIMVVIYXJXcENYR3MxNlc1d1ptWkY5eXNYZk5XaHVQYnkxR3d6d2dhZkVMeXBFN1dVV241MkJKWWljamd2aF8yOHN6Y0JBU1JwTzNuNzY4a0pJS3FCb1hkbS1sN0VOMm04bVpjWC1razlUcGJ5Y1p0N2NHMzQzU2hXUjQtVEN0d0Jwd3RrVXc?oc=5",
       "published": "2026-11-10T16:06:00+00:00",
       "image": "",
@@ -150,6 +150,20 @@
       "tone": "",
       "dek": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA BBC",
       "summary": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "coca-na-o-novo-esconderijo-da-droga-no-porto-de-santos--1b1640c3a31a16",
+      "category": "Brasil",
+      "title": "Cocaína: o novo esconderijo da droga no Porto de Santos - BBC",
+      "snippet": "Cocaína: o novo esconderijo da droga no Porto de Santos BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBocnRTOE1kVm1UTEJIZFlDbENoUDdaWkpna21XSGp1dWVjTXJhVHNGT2xndGx2Y0s3QmpvYzBrUlRBQk56c2wyM0NmRzhFOFZadWdaRThjODl5bUtYdUt6SFZ2Y9IBaEFVX3lxTE9POThUQ2JvSUhTV2lsb1VEUE1vSHA0MTduLW5Tc0s3SkRGdGhpeXN6VUlaVmVybVJzdnE4WFFPc1J4aTF6a2k4Y2FWLU9KaHVRMlo1SG5NRjRGb25tLURiQkZveHRJZm9X?oc=5",
+      "published": "2026-11-10T08:28:38+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Cocaína: o novo esconderijo da droga no Porto de Santos BBC",
+      "summary": "Cocaína: o novo esconderijo da droga no Porto de Santos BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -836,20 +850,6 @@
       "tone": "blue",
       "dek": "Mundo | Notícias | RTP Notícias RTP",
       "summary": "Mundo | Notícias | RTP Notícias RTP",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "vaidade-ganha-valor-comercial-e-muda-mercado-de-wellnes-3a85a2d1c67dd5",
-      "category": "Economia",
-      "title": "Vaidade ganha valor comercial e muda mercado de wellness nos EUA; entenda - CNN Brasil",
-      "snippet": "Vaidade ganha valor comercial e muda mercado de wellness nos EUA; entenda CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjN1aEJaRENUeDhXY3l6RHNkaXI4Nmk0OGFNU0EzVUFtQkxFU0NBU3U1a2ZvcEtpRFJxRVhKREpEZE9Wam9OSE10WVZ0TVNtS3RrSG9reHFXSzg4NnBMalJWOHVmYTRCRmVwdXFFRXhqZVFNZGhMRE0yWkxlSEU2Qkptdmx1UEZfY09UQWVkOC1aZFJHSmE3SmJ2NWF4T1dlQXRGVkxMR3BzWVAxajZsTlhZMHpKZEFOYzhSSkYtNUV2R3M3?oc=5",
-      "published": "2026-11-08T21:07:20+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Vaidade ganha valor comercial e muda mercado de wellness nos EUA; entenda CNN Brasil",
-      "summary": "Vaidade ganha valor comercial e muda mercado de wellness nos EUA; entenda CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
