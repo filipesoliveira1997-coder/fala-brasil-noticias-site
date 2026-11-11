@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T05:14:22.327859+00:00",
+  "updated_at": "2026-11-11T07:29:51.626784+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -66,6 +66,34 @@
       "tone": "",
       "dek": "Resumão diário do JN: Porto de Santos, o maior do Brasil, é alvo de ataque cibernético; Banco Central indica que juros vão continuar elevados G1",
       "summary": "Resumão diário do JN: Porto de Santos, o maior do Brasil, é alvo de ataque cibernético; Banco Central indica que juros vão continuar elevados G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "guarapuava-d-mais-um-passo-para-fortalecer-a-inova-o-co-becfe9ae002972",
+      "category": "Tecnologia",
+      "title": "Guarapuava dá mais um passo para fortalecer a inovação com criação de sistema municipal - Paraná Central",
+      "snippet": "Guarapuava dá mais um passo para fortalecer a inovação com criação de sistema municipal Paraná Central",
+      "source": "Paraná Central",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR1NVRXpscTRaQXc5UWoyVHliN3FSeVotUjN2YVgzcnFxVS1yOHVOSVBJdXREbGtIQ1dRMmdIM1ZJbEpEWE5fV0Q3SlhoT09WZnVqdVlON1o0Vm5mY29UU2RPUkhIVzl6QkpTNHNsMDd2czBxbXZYckpvd255czl6eGlvcWV6NllleExPOTNBN0RXeGdxQTdFcHlxX18yazNhNno3UnRmR0NKemRsSWU3TGpzbHRVeFk?oc=5",
+      "published": "2026-11-10T23:51:55+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Guarapuava dá mais um passo para fortalecer a inovação com criação de sistema municipal Paraná Central",
+      "summary": "Guarapuava dá mais um passo para fortalecer a inovação com criação de sistema municipal Paraná Central",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "fim-da-clt-para-pol-cias-municipais-decreta-moralidade--8f0d5165c8500d",
+      "category": "Polícia",
+      "title": "Fim da CLT para Polícias Municipais decreta moralidade administrativa - Consultor Jurídico",
+      "snippet": "Fim da CLT para Polícias Municipais decreta moralidade administrativa Consultor Jurídico",
+      "source": "Consultor Jurídico",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXdCU0pZQ0tDYkY5TG1NOUNVRmZxZmM3MDYwSVYwTE4zRU9PWmE5TDJJdEdWR2JnRWdLRUYxQkxNUE5jMEdzMkdMZXpfWk9aeVZPZTV2ZFk5YzdEZVU4eGJkZ1JHRXNyZDNvRDVkVGd3cllBVGdhWHphcnRjSlV2aA?oc=5",
+      "published": "2026-11-10T23:31:05+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Fim da CLT para Polícias Municipais decreta moralidade administrativa Consultor Jurídico",
+      "summary": "Fim da CLT para Polícias Municipais decreta moralidade administrativa Consultor Jurídico",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "purple",
       "dek": "Mudanças nos métodos de governança no ambiente digital. Vietnam.vn",
       "summary": "Mudanças nos métodos de governança no ambiente digital. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mudan-as-no-desenvolvimento-da-ci-ncia-e-da-tecnologia--569f6f4daad7f3",
-      "category": "Tecnologia",
-      "title": "Mudanças no desenvolvimento da ciência e da tecnologia após quase dois anos da implementação da Resolução 57. - Vietnam.vn",
-      "snippet": "Mudanças no desenvolvimento da ciência e da tecnologia após quase dois anos da implementação da Resolução 57. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSUdEcmFiMlV4UmE4NlZFdDNyVW5mWktMMy1NTnZMVTNQWlJyOXZVakZZX3A0QlJsNDE3al9JRHRBa0FUeXh1aDhhZEU5aFZNak1MbUhPS2NvNzlFdlBQYUJETTNpM0t4WmZud3ozejhsRFh2R0ZWSzNabm1QdlVISjRPdzB1Vm5aMXVaWGRwRlo1dXd4WHBGWFZ6dDI0Ukg3TVM0RDBsdXQ0c29rVmhhcg?oc=5",
-      "published": "2026-11-09T13:38:02+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Mudanças no desenvolvimento da ciência e da tecnologia após quase dois anos da implementação da Resolução 57. Vietnam.vn",
-      "summary": "Mudanças no desenvolvimento da ciência e da tecnologia após quase dois anos da implementação da Resolução 57. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "fux-suspende-todas-as-a-es-judiciais-contra-proibi-o-de-28fdbef0f127e1",
-      "category": "Brasil",
-      "title": "Fux suspende todas as ações judiciais contra proibição de bets no país - Agência Brasil",
-      "snippet": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSkJWa1lrc240d0pmMXF2Zm9Zc3lGaVR4b0dtTHBsQUJXc2xSVE5YZGMxQ3FMVzdRaFlqOC1wM1BNYjlPRDMtNm1zdzdoc1pObVVuY0hpZkFsR2dlLU4xWFlaVFdYekFzY2ZnU3hFTVpMa2NQMVIyelJjZlQ1Vk5UamQ3dzNTQzU4UGo4eGpfYTV5Y1VMSUFxX19ZYWdKUlpwTGMwQW9GTDY2a2FlNVJlc3V5eVBPLVRSRXY0aWlGRERrdw?oc=5",
-      "published": "2026-11-09T12:17:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
-      "summary": "Fux suspende todas as ações judiciais contra proibição de bets no país Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
