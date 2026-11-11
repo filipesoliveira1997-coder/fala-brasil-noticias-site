@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T17:10:56.969504+00:00",
+  "updated_at": "2026-11-11T19:15:02.119677+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "palmeiras-inicia-prepara-o-para-enfrentar-o-cruzeiro-co-213717dc62ad07",
+      "category": "Esportes",
+      "title": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques - CNN Brasil",
+      "snippet": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVdrd2hOYnBlNDd5TUozUkpDRDNWSk9jbXQ2WTA3d0tUN0hNd094b2dKcTkzZkNXcjVDU2NWRDI4R28ybHBtSHktX0hNQXFYdGtaREF1N29MdU95UHhLb0hKU3VTUUVvc0JhRWNXemNnVzU1TlNOQ0hjXzVkcHN0c2dJVkNpSGkzQjNCZEltdDFwSEppdnJRX29kd0tTc3dVdVBzcDBmRVhPRWE0T3BodjYzTXBDWXlyVU1BUXZrbWdLYnk0MjQw?oc=5",
+      "published": "2026-11-11T18:10:03+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques CNN Brasil",
+      "summary": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ju-ara-mar-al-homenageia-agn-s-varda-em-show-in-dito-no-26601d6eae0b1f",
+      "category": "Entretenimento",
+      "title": "Juçara Marçal homenageia Agnès Varda em show inédito no Cine Theatro Brasil, em BH - SouBH",
+      "snippet": "Juçara Marçal homenageia Agnès Varda em show inédito no Cine Theatro Brasil, em BH SouBH",
+      "source": "SouBH",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHo1VVZCOHdhQW1IeC16YUt3RTJITmZVVHBqWFpIRTctRVVLR1ZHbWp1aDc1eFFtd3VxVk1mU0Z0aGdXUmNaTEEtVDhLNkxwWUxoZFZ6ZUxKWlBlYmwxeXVYM2RiUGVfeExfeEswSHdsT2UzQ0ZNVkVNbk41cTVmajVfTFAtUEFSSnIwTTkxLVZBSFdVenNQa2tDVnBnYlFZaDlCOVZtMFB1d0h4eFZn?oc=5",
+      "published": "2026-11-11T16:09:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Juçara Marçal homenageia Agnès Varda em show inédito no Cine Theatro Brasil, em BH SouBH",
+      "summary": "Juçara Marçal homenageia Agnès Varda em show inédito no Cine Theatro Brasil, em BH SouBH",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "jogador-morre-aos-22-anos-ap-s-parada-card-aca-em-trein-4c4e7a39dee99d",
+      "category": "Brasil",
+      "title": "Jogador morre aos 22 anos após parada cardíaca em treino - CNN Brasil",
+      "snippet": "Jogador morre aos 22 anos após parada cardíaca em treino CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVVNSX2lCUW1rZHdCWU5la0dTcnF1QXR0VjVlQXBpMk52SkdVX2pzbDVScWcwSnVKLUsyTTRiLWthaklhYjQ1eFVFWW5vTUhMMUR5NmNkWURmekNUa0N4TlZvdGZpbnYxR0NOLWtEMENuY2Iwc2xTTXFMSzEwYm95amdsQ0dJX0hCR1RTYmdCWWdFR0pUWDhCSkxqVXVBdVdtNlgxVU51Q2RFdHNJSFJZbG5kMUw0ZTFxNW83UUlrWUVmaGM?oc=5",
+      "published": "2026-11-11T16:04:32+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Jogador morre aos 22 anos após parada cardíaca em treino CNN Brasil",
+      "summary": "Jogador morre aos 22 anos após parada cardíaca em treino CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "concurso-da-transpetro-ter-novos-locais-de-prova-em-qua-3bd4b2e9a84fcc",
+      "category": "Brasil",
+      "title": "Concurso da Transpetro terá novos locais de prova em quatro estados - Agência Brasil",
+      "snippet": "Concurso da Transpetro terá novos locais de prova em quatro estados Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQN2UxNWNtQjlDcktQOW9NUW5scjlJXzB5N18wZGt2N0pCcmRCc3FDVk9WZkpMMDdFT0R4TGhYN2poSUVJNFRqRlp4QVV3bFVtMXFOLVdKYlhkTmFYNjA5Si1MWWtzQkVPWUxWTHVZQ3dvcW8zVFJpdVQ5SHRDTG91dlhPaU41LUJlS2o0NXZzZ2c3WDVSODB6RkdPN09iTWhhQ01aeTZkRTVGWU9IeDZiVlM1eFBMNjF5MUNoRHBydw?oc=5",
+      "published": "2026-11-11T16:02:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Concurso da Transpetro terá novos locais de prova em quatro estados Agência Brasil",
+      "summary": "Concurso da Transpetro terá novos locais de prova em quatro estados Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "senador-alessandro-vieira-durante-reuni-o-da-comiss-o-d-a6312e979ba4a4",
       "category": "Polícia",
@@ -794,62 +850,6 @@
       "tone": "",
       "dek": "STF: ministro Fachin arquiva inquérito das Fake News Agência Brasil",
       "summary": "STF: ministro Fachin arquiva inquérito das Fake News Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ap-s-vit-ria-de-lula-rubio-diz-que-eua-v-o-manter-di-lo-cc5b7af3584e30",
-      "category": "Brasil",
-      "title": "Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador - G1",
-      "snippet": "Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNN1NTb09QdHlzcTU3NW1aaEFKX0lPd1NwMkZpZE13LTNuaE5YMThacko2VVlINlUxSVlPM0t0eklvMHlyOG1CTm1rLTQ5SjIxUDNxdHZZeGhFLUVFR1JUdDlvMWtvWE1naUg4ak50M1p0TFZpMTFhOVNmMmtuQVFCYm1vb3l2ZjFmNkJmUFBXRXUtOTVtQnllQTFWdkZZZjRVU1l1MHVxNktKc2JIMDczSlFUc2FQQlBraTdkQUJYVkJXYmxqZ29iUERKSFJqRVo2MXlLN1A5aGRyLTJ5OTdkRG5sOTRMWXJFZlHSAfgBQVVfeXFMUGxRTVpBVnBsbmVfRURuak5ZYjhuYWRmOXUyT2RXLU9KNDd0XzI1UHkxSm9lYk9QamZKRlZIZ1lscnRuQk9PY2k4UlVuckdEbXBUenRoRi1ENXhzVld1Z0V2aW5nUkNoSEl1VTZLZ2pkYWhvaU1jZk5lNU1ubjRLZHhFY290RDFIaXlVNURfWkwyOU13ZnJaSlhmWXJTSkhwRUo0bnBjWEpjVTd5R1ZjUGFmckZwdW1jd0dRNUlQc0NmVGR1MFh5TnI5dnNYUWYyM21RV3MwUGRaa0FhQzFrT0ZXSlA5anpRR2RMQm5LQ1ZSdllRclRZaU8?oc=5",
-      "published": "2026-11-09T23:12:32+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador G1",
-      "summary": "Após vitória de Lula, Rubio diz que EUA vão manter diálogo com o Brasil e cobra aprovação de indicado a embaixador G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-receber-25-mil-doses-de-vacina-contra-mpox-nas-p-e387b4a5e7ca8d",
-      "category": "Brasil",
-      "title": "Brasil receberá 25 mil doses de vacina contra mpox nas próximas três semanas - Bahia Notícias",
-      "snippet": "Brasil receberá 25 mil doses de vacina contra mpox nas próximas três semanas Bahia Notícias",
-      "source": "Bahia Notícias",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZVR6RC1tNml6TGI1T29raFhWb2F2ejhYdUVfZ1BpenRkdDV0WFlwWl92bElRRDF3ZE5EZ1Q5WHEtR19kbXBKQ25DVnhNOC16Q2JyQWxhTk1uUWlUTWtJQWlvLVFuZGp3ZWp3Y0lNeUFidXBNenlwanNjNlZSVFZud2FZazV1SUJOZ2w4TW90TktYcGpiNUVUekY4bkcxaUxrNy1jdDdFTkpqVGtCMjk5VDNRenhzT29sQzRKNGc1clJMWmxaampMY082WGRBT1k?oc=5",
-      "published": "2026-11-09T22:20:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil receberá 25 mil doses de vacina contra mpox nas próximas três semanas Bahia Notícias",
-      "summary": "Brasil receberá 25 mil doses de vacina contra mpox nas próximas três semanas Bahia Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "centro-de-lan-amento-de-alc-ntara-se-prepara-para-novo--d2a4373818fe51",
-      "category": "Tecnologia",
-      "title": "Centro de Lançamento de Alcântara se prepara para novo voo de teste de foguete sul-coreano - www.gov.br",
-      "snippet": "Centro de Lançamento de Alcântara se prepara para novo voo de teste de foguete sul-coreano www.gov.br",
-      "source": "www.gov.br",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQUWhXVDJUeFZNNWRmRTBMRFpnY3JFV3VyMUpTMUIzdlJrZ19nbU5YUENMYk13dlFjZHpoMU1TV2NoY0pzWTU4QnpUcTV4cF91dTRBRHd5TUxFTjVseFVDUkpoUUJNV2JZXzFTUWdYR1d0Uzk4X2tMUGxNeHpUbzZCZ3BWNW04R2NoYUs3Wmd4Yjh4WVRodmZaMDFDYjNQNDZVdzdadXo1dG9HRDU4LXV4SlBOYVZ4VFhqdDRKNlVMSWpfcDBMZjN6eWF6S3lZMEVKNTc0bW44a0t2X0RRWEU2aTNZUzNlclBFWVE?oc=5",
-      "published": "2026-11-09T21:26:57+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Centro de Lançamento de Alcântara se prepara para novo voo de teste de foguete sul-coreano www.gov.br",
-      "summary": "Centro de Lançamento de Alcântara se prepara para novo voo de teste de foguete sul-coreano www.gov.br",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "xavi-justifica-a-aus-ncia-de-memphis-na-holanda-precisa-49f4b421de5d34",
-      "category": "Esportes",
-      "title": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" - CNN Brasil",
-      "snippet": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQNXJxYUpUSllOVktyczI2b1dxVVFIaEZWaWFiRTZpRHk3eksyNzg4ckliU0hXcm9OQXNzTVNtQWRVVjJzVURFaWIzYTQ0VVNzZjIyNTR2a2NsdHR1TldPdVBmaWZ1VVRKdmN3MmhUTEpoZ0daTzJ4TFdlbGdFeDRtR24zSXB0UDQyUkdXendVdmt1SlczVS11WHVzYnE5bDR2dEZsR1I2a0tETVNVR21Pd0M4U1Ixd1NBdTZnRmxCd2d4YzJ3RWc?oc=5",
-      "published": "2026-11-09T20:53:47+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" CNN Brasil",
-      "summary": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
