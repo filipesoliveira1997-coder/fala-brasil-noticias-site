@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-10T22:55:27.575805+00:00",
+  "updated_at": "2026-11-11T01:20:10.116611+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "resum-o-di-rio-do-jn-porto-de-santos-o-maior-do-brasil--bb3ea507a62ee5",
+      "category": "Brasil",
+      "title": "Resumão diário do JN: Porto de Santos, o maior do Brasil, é alvo de ataque cibernético; Banco Central indica que juros vão continuar elevados - G1",
+      "snippet": "Resumão diário do JN: Porto de Santos, o maior do Brasil, é alvo de ataque cibernético; Banco Central indica que juros vão continuar elevados G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQMnllbGJwSlQwUFdkcVY4N2plWGVoN2tPVFJ1ZFJFdDFtSHZYdEJnQ3c3MjI3Sml3bVd0RlJmNnVGTU5lS0hqYmlXd2xpQVFBTlZiVFRtd0RkRFQya2FnRHlvZ2duV2NtOWowVUQ3ZVU1WXFzdVd0OXV5dnZjY2NjNXQyWDNqcXRnTk9aMmYxbFV2UTBUUENVQTZmN0hpSkNoRG56eTVTUVJRUE9RLTZ6T3lNMmlQVkZEVWh1OFNIak9JTDlyUlR0dUNNa2dRYjRuTXNvOHVmdmpnVmZGM2xPUTJQdXU5b3JwZmlKNVE2QlpGS3FONUw2NDZzellsZkxJdU5uVmhpMVRXN1BweC0tVC1JSkc4SjBmMG90Tl9VWEpaUlVEU1HSAbQCQVVfeXFMT195ZlRWeDdFNnpBeWJLS2tfZFZ2UTl6bTBrUUZBZ05lS0RtdklUcGhnbEIxYkhhTTlPQ0swMHF5U25jTUdsZ0N3bER3empMZjRZYWl2UVNBZmhjaHpOc0NtdktmSXNBcEZmT1BPMFpzX3lsbXliNTRwTTFrMHpyUFAxQllxMzRXdVVIX1ZXT21pdDNha1VLRHZFUW1mSHpLYWJjWkt4RVNCd3psd3Rza194RmJFMXl5bEl3dFZMYWlTMzJIdmJDTndPX3dMcGVXVFdSUkpVNHdqbWpFMUtiUFU4TzZjOVFZa3A1TDBXVmo0NHJDX09aeVM0RUNleXJzZ1lHX21MWlkwM2RPblBfaXFWM191b241TDZtLXpOR1dMUjJQaHhHWTNadi0ya25CN0pPckg?oc=5",
+      "published": "2026-11-11T00:42:21+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Resumão diário do JN: Porto de Santos, o maior do Brasil, é alvo de ataque cibernético; Banco Central indica que juros vão continuar elevados G1",
+      "summary": "Resumão diário do JN: Porto de Santos, o maior do Brasil, é alvo de ataque cibernético; Banco Central indica que juros vão continuar elevados G1",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "jornal-ingl-s-elege-maradona-como-maior-camisa-10-frent-1fb451a06b0b3f",
       "category": "Esportes",
@@ -83,11 +97,25 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "encontro-em-sc-busca-aproximar-empresas-catarinenses-do-11d74dbaf6842b",
+      "category": "Economia",
+      "title": "Encontro em SC busca aproximar empresas catarinenses do mercado indiano - Rádio Centro Oeste",
+      "snippet": "Encontro em SC busca aproximar empresas catarinenses do mercado indiano Rádio Centro Oeste",
+      "source": "Rádio Centro Oeste",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWM0emVfUnBCeDdGWl9wRGxocV84YnJWWG1xeTBmQlBoME90ZUs0T3N2cGlibDF2NlN0RHk1dFhFQUNWVXpNN09tZjUyRGoyR2k1bUtycm4zbF96RjVoc0tRNUpVaXpTbUNKTUVCOUJfWnUzRHpTMzZIQVU4U1B0dFlERDNTU0c4ZjlBSFJnVng0ZjJjenhzbjdkNzVFV3Y3dU40S2VGYjlWTFlq?oc=5",
+      "published": "2026-11-10T19:03:58+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Encontro em SC busca aproximar empresas catarinenses do mercado indiano Rádio Centro Oeste",
+      "summary": "Encontro em SC busca aproximar empresas catarinenses do mercado indiano Rádio Centro Oeste",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "pec-abre-espa-o-para-pol-cia-municipal-no-brasil-mas-mu-11da87d44abc17",
       "category": "Polícia",
-      "title": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais - Gooning Simulator",
-      "snippet": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais Gooning Simulator",
-      "source": "Gooning Simulator",
+      "title": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais - Capital do Pantanal",
+      "snippet": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais Capital do Pantanal",
+      "source": "Capital do Pantanal",
       "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUhVVEllZkh1UTFfRHlkS3lSUnFRN3lPRHE3TlJlVDh1OHNFdFBFaldRMGpPRGZVVjZGRGszVnBsem81Q2xNSTdiNFJtajNCajdZY0NHR3ltVlZHUVViMVU5OG9ZMVNTNU1iSTRjM2xUV04waEFCZkZSUWxDbE1SckVoQmg1amFlamswQ3lTTXY5TFZjVzRfSHc1WktlUVlZQTFyTHN3RUtmcjJpeDJMNVFVUXpqamdNckNaeWZxZEFzTDVtM05DT2Q5ekEyYWlpLVh5WW5nYjRlRjRDdGxEN1lvcVc5TDFFbXhn?oc=5",
       "published": "2026-11-10T18:23:00+00:00",
       "image": "",
@@ -178,6 +206,20 @@
       "tone": "purple",
       "dek": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação www.gov.br",
       "summary": "Exoplanetas mostram potencial de água líquida — Ministério da Ciência, Tecnologia e Inovação www.gov.br",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "no-dia-mundial-da-ci-ncia-samsung-am-rica-latina-destac-c1682afbe23b25",
+      "category": "Saúde e bem-estar",
+      "title": "No Dia Mundial da Ciência, Samsung América Latina destaca iniciativas gratuitas para incentivar cientistas e pesquisadores a desenvolverem soluções na área da Saúde - samsung.com",
+      "snippet": "No Dia Mundial da Ciência, Samsung América Latina destaca iniciativas gratuitas para incentivar cientistas e pesquisadores a desenvolverem soluções na área da Saúde samsung.com",
+      "source": "samsung.com",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPYTNPZHlnTlNCLTk1MFFSWmNoMVhRcDY0WGtpNW0zVTd2bzkyOThWR25IX1cwVkdlcXZteC1OTnRybWpUYUZMSWxVWEFDQlB1N2JlTGYxSkk4NjBBNmU0eEotejAtUGY0aEVoN3B2V1JrUFFILVFyODY3WmdaS3I1bjBfQ0M1VzhhWUt4Z2JPRTdYZ3g3WkhsSUFDMkRwQmlBSmZ6dnVwbHhZR1hMWC1Fa2w1R1ozTnU2NkhROThZLU9IYnpUdzdFTUIycmFmR1RyRTctY2s2S2M0MnNBenR3Vkt3aU1rWm1nLW9RWjZ1ZmVDRjhDUkJLeVQ0NDBOMFpFcHpibFZVbUlpWmF3SHM1NGN1UUF6UTdrWnJF?oc=5",
+      "published": "2026-11-10T14:22:07+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "No Dia Mundial da Ciência, Samsung América Latina destaca iniciativas gratuitas para incentivar cientistas e pesquisadores a desenvolverem soluções na área da Saúde samsung.co",
+      "summary": "No Dia Mundial da Ciência, Samsung América Latina destaca iniciativas gratuitas para incentivar cientistas e pesquisadores a desenvolverem soluções na área da Saúde samsung.com",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "teal",
       "dek": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respe",
       "summary": "Parte da Seleção Brasileira desembarcou neste domingo (8) em Singapura, para os últimos amistosos do ano contra o Japão e os donos da casa, nos dias 14 e 17 de novembro, respetivamente. Os primeiros dos 26 convocados a se apresentar na concentra Instagram",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ao-vivo-jogo-aberto-debate-classifica-o-do-palmeiras-na-6c24ef8f9ec3d1",
-      "category": "Esportes",
-      "title": "AO VIVO: Jogo Aberto debate classificação do Palmeiras na Copa do Brasil - Band",
-      "snippet": "AO VIVO: Jogo Aberto debate classificação do Palmeiras na Copa do Brasil Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQRGs5M294NDNWS1dEUWRCVTNUX04zZzk4T202dUNCeDE0eVozdUF2M0d3WnByQ2d6ZlVSaDJHS0t3ZnJjVC1tUTE1clM0QUZNT3c3ak91Um5vcXNFeWljclhGcmRkMmN5akdqMVh2M1daNlFxV21uRTY3MDlOTlg5T2c5cFM5UF8tLVNJMTFOeldMcmdSU09ydlhUdk9YUQ?oc=5",
-      "published": "2026-11-09T03:03:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "AO VIVO: Jogo Aberto debate classificação do Palmeiras na Copa do Brasil Band",
-      "summary": "AO VIVO: Jogo Aberto debate classificação do Palmeiras na Copa do Brasil Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-se-compromete-com-responsabilidade-fiscal-e-busca--37e31d1bf5d8ed",
-      "category": "Brasil",
-      "title": "Lula se compromete com responsabilidade fiscal e busca conciliação - Agência Brasil",
-      "snippet": "Lula se compromete com responsabilidade fiscal e busca conciliação Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOdWdLMllGbzJySEN1ZmM2WnN3Qk1DU2g2bDE4cUdTTlRheWpkQWRNWG1YTkdWckJQVEk2MDV2S2VDYjVINDdTQU9CNnhpZGk3NWRVNXFqc19KNG0wZDF4SjFYNXV2M1B6OVU1OF95N1lJS2p6TnNVU09nRWh2U2l1cDdjbzNhYlhKVFBQeXNSenFjQ0I4R1lEV3Bxbmc5X1pLRkhqWVJ6SHlZaHdBdjVoVFZmbjdSOUpTR1B5VmFFTVkzUQ?oc=5",
-      "published": "2026-11-09T01:16:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula se compromete com responsabilidade fiscal e busca conciliação Agência Brasil",
-      "summary": "Lula se compromete com responsabilidade fiscal e busca conciliação Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jovem-passa-35-dias-com-dois-cora-es-em-cirurgia-in-dit-a0066ad5511016",
-      "category": "Brasil",
-      "title": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil - G1",
-      "snippet": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPWGFHSUFtUnI0bklMUDN5NmpfZ3R3WEFITzNycWFocktMVE45OTEwdlZPRjhvNzFPeU5mWHJld3ZVSXlFYUNabFJzTE01Mk1Sbm41aGo4dXpJUXIyRzUzOTdLOExmUlZZUHlMYkdUWU9JMExVUGg4QkY1VnpqUDdmMVhzaGVVbExUUkpRRXdkVW9jR21rbXVlMU1KMXZMUXM3b3dwek84NHNtMlM3a214YkNSeWQ5azJZQ3NuaVQweEtpQQ?oc=5",
-      "published": "2026-11-09T01:07:15+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
-      "summary": "Jovem passa 35 dias com dois corações em cirurgia inédita no Brasil G1",
       "summary_by": "descrição da fonte"
     }
   ],
