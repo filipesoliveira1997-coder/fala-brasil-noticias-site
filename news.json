@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T19:15:02.119677+00:00",
+  "updated_at": "2026-11-11T23:03:38.983084+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "d-lar-cai-0-42-e-fecha-a-r-5-56-com-foco-em-pacote-fisc-d20e1fda190590",
+      "category": "Brasil",
+      "title": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal - Agência Brasil",
+      "snippet": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZXBNR09SVkFSNHBoT1A0SENnSW9RNXZNdjJ2eE41RU1mTnB4LUJvV2x4YVIyVm1RdDZQMnpGWjdPVzl2RTdtbHk0QzhOZDc2OWtocURkdTVhcUw1ZHJJVkpZOEZZaTVpZkRSb3VKREhEdXpoc2VPSkVabGhlU3JlTkZCM0RRYzQ0UTBNWjZLNW92N1ZFX0FrdDh1SVpCSzVnZUlwNjVQQnBNYWdCMEVrdg?oc=5",
+      "published": "2026-11-11T22:51:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal Agência Brasil",
+      "summary": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "melhor-secret-rio-de-seguran-a-p-blica-que-temos-invest-136d2d29974164",
+      "category": "Polícia",
+      "title": "“Melhor secretário de Segurança Pública que temos”: Investigador da Polícia Civil, Douglas Pithon defende Marcelo Werner no comando da PF - Política ao Ponto",
+      "snippet": "“Melhor secretário de Segurança Pública que temos”: Investigador da Polícia Civil, Douglas Pithon defende Marcelo Werner no comando da PF Política ao Ponto",
+      "source": "Política ao Ponto",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPdHFUTkZfSGRYbUFCaWFwdmswdVRxUUlEbVduVlBPYWw2bEJzdkNVaENLZ0Vob1ltcmtUSXNMV2RzRGYwWnBSVDZGVFQ0WVN6XzQ3SzdpRGx1TnlhZE1tZnZ2VjI4bXVUdDN6aFpPZU96ZndpTVJBckpfZVJyNHRMWkE3bmZDR0Z3eUlodjVPOUVCcjRiQ3lBZklYRl9BczBBREc4VW5oWFYtNnFqRDM3QmRVMFNCcGNZbElCeE9kbER3OU5vZ2Y4M2s1RE9kaXZlMms2QW94MjNNaFFMVFpWejRGc3BRN09xNW9BX3NaY18xam53NHhlcg?oc=5",
+      "published": "2026-11-11T20:14:56+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "“Melhor secretário de Segurança Pública que temos”: Investigador da Polícia Civil, Douglas Pithon defende Marcelo Werner no comando da PF Política ao Ponto",
+      "summary": "“Melhor secretário de Segurança Pública que temos”: Investigador da Polícia Civil, Douglas Pithon defende Marcelo Werner no comando da PF Política ao Ponto",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "palmeiras-inicia-prepara-o-para-enfrentar-o-cruzeiro-co-213717dc62ad07",
       "category": "Esportes",
@@ -69,6 +97,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "rubio-teria-alertado-trump-sobre-suposta-espi-em-caso-n-b68186761d9277",
+      "category": "Brasil",
+      "title": "Rubio teria alertado Trump sobre suposta espiã em caso Nvidia, diz fonte - CNN Brasil",
+      "snippet": "Rubio teria alertado Trump sobre suposta espiã em caso Nvidia, diz fonte CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZHRodzVqZFhBd1NaNVBIXzdZRkhMYkFLODlDcmpVMGN4Uk5GLXF1T2NwVkFxUmREbHN2OXlRUjdCZUFxLVQ1WG9FVUhGTTVNX3lmVjFDZkFfSlNwekNmdFRMU3B2OUNyWTFwdTlsQkZac2ExWC1la3ZiWHRyWXl1ZTlVWDB0Q3ROV05PZEJRaEZlMVd4eWZCQWktVm5FMXVmQkVnWEgwWnpaVC10ZUo3RmNhaTl1OWNPOUVlaTRQQTJSaWtlTnJlSXNB?oc=5",
+      "published": "2026-11-11T15:29:17+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Rubio teria alertado Trump sobre suposta espiã em caso Nvidia, diz fonte CNN Brasil",
+      "summary": "Rubio teria alertado Trump sobre suposta espiã em caso Nvidia, diz fonte CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "senador-alessandro-vieira-durante-reuni-o-da-comiss-o-d-a6312e979ba4a4",
       "category": "Polícia",
       "title": "Senador Alessandro Vieira durante Reunião da Comissão de Segurança Pública do Senado - Agência Brasil",
@@ -80,6 +122,20 @@
       "tone": "red",
       "dek": "Senador Alessandro Vieira durante Reunião da Comissão de Segurança Pública do Senado Agência Brasil",
       "summary": "Senador Alessandro Vieira durante Reunião da Comissão de Segurança Pública do Senado Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "criminosos-usam-caminh-es-como-barricadas-na-av-brasil--5901a477897150",
+      "category": "Brasil",
+      "title": "Criminosos usam caminhões como barricadas na Av. Brasil, no Rio, durante operação da PM na Maré; aulas são suspensas em 15 escolas - G1",
+      "snippet": "Criminosos usam caminhões como barricadas na Av. Brasil, no Rio, durante operação da PM na Maré; aulas são suspensas em 15 escolas G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenBVcVpldEZyYVRZUXdPenhQZVBqcENGb3lDb1pLQTRWUDJGNGszZTZ2MUo0a3dYUTQ3YVZ0VlJObnR1U1R0SG1YYjM2T3JlNGs1R20tWTEyUkpIaTJUd0t6cXB5QnpfSE9rMmFLZEd2Z2ZwMkdPR0t1Q1BadF9LLVNDWk92Q3RvOFRsbW50Q19TYV9yNENlLUdMd9IBqgFBVV95cUxOM1pMSkZSbVVVVU1yYjRvMXg5LVZoUVVQR29LVks1M1ozbG52azdYOWFfOHk3WTRxZkRhLXFxaTV3SU1fT0ZaZnR6SmJ6T0hqbWp5MHp2c2IzdzhMd2FYaTctRkhsSmI2dktocGFHTExFRE4yQnhibGJWV1NKOGg5Nm1LZU83Q05RWi1ocWNxOXhwUXExTFA4Z190ZE5GVnhNVnpwc3F0T1FPUQ?oc=5",
+      "published": "2026-11-11T14:13:23+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Criminosos usam caminhões como barricadas na Av. Brasil, no Rio, durante operação da PM na Maré; aulas são suspensas em 15 escolas G1",
+      "summary": "Criminosos usam caminhões como barricadas na Av. Brasil, no Rio, durante operação da PM na Maré; aulas são suspensas em 15 escolas G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -351,9 +407,9 @@
     {
       "id": "covid-19-casos-e-bitos-seguem-em-queda-no-brasil-minist-1a0a56e0743196",
       "category": "Brasil",
-      "title": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde - Governo Federal",
-      "snippet": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde Governo Federal",
-      "source": "Governo Federal",
+      "title": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde - GOV.BR",
+      "snippet": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde GOV.BR",
+      "source": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjF4bC1CYzkzU1ppZUNMVkZ2NU1iaUprbEZGUUZFX2F6UDBBcGJ4MXdsUVM3YWlwckZsajZub2pQajBLcFdjOWpxekxTd2MxX2ZvNnMwTUw3LV82TDZVMkNXUDFlc2l0OGF5VWJ1SVk1cG5lMW5YbUY3dU1McDJZWTE2UVZPTEtzcTgyN2kxRUhodVlzcElfYVVoNHotYWNPOWdEb3ZsSl90c0pieFY5Mk5R?oc=5",
       "published": "2026-11-10T21:21:00+00:00",
       "image": "",
@@ -794,62 +850,6 @@
       "tone": "purple",
       "dek": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW Vietnam.vn",
       "summary": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "chuvas-fortes-reduzem-produ-o-de-trigo-e-brasil-ter-que-59c10ebdd62d7b",
-      "category": "Brasil",
-      "title": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna - G1",
-      "snippet": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxPb05vVDhHd3NMbU9uU3BSa3ZEYVZfWEE2UnlRVHUzRDM1RmJEbVo1VmpNWjloaHhSYTJtMWVZQlZTZWYyV0huaFVrdTR2WHlxNXhQMzBkMWtHSkJvdGdMeUE2T2JaS3BzaGd4UWlQX0t6a3NXT25xeVpUYWJNc0xJcGJwT0g3a3JZUHh1SlJuN0F5YVRNMWdGZTFoLXhscl9tZk1VMG4tSFp3Y2JxRVZCNGxOcTItNkJ0NU01ZF9LR19EN1dWRWVYaG4xbWRhNzRDNkxmTE1DZHV0OElwcVdUcE1BTURPVmN5b1drNlpLaFZPUTdJRTNjU2s5NTVmR1J6b0VPWkt0R3d3UlFodHJuVnhsTl9TaHNmUkxINnJxVWfSAa8CQVVfeXFMUGxyRkM5WVdyMHliSk5zSjVqX29xeF9kTkp3Qk5XZ3QyWk9HZnVUS1pkWmdGMTA3VEMwLWlEbTU2X3NvWEJEd3lhaUw5UUg5UERmdklFZXdPQzFlclJQdzZ0Snc3YXZ2OXNoVzRocnBJMktYOFRPOUtlNGxQMmRreWpLWWY3THpJaFUybFFQeU53YmxTQy15ZlRTOGVwdmlKeDd5a1VFbkU0d0pwaEpocTFNMUJQeXNfS240a21pLWVkLUdoejRZOFZVZUxzVU5NMU1MUVZVWmNJdFRpOVdhRlJGT2txYmtERjhTUWQxV2hEZW9BSmRDRkVWRmJ4Ri0xNjR4X2dDOGQtMTA4SlNUelduNmlPY3l0SXNDMnROWkQ4d2Z1aDIxNEJ4czZtSU4w?oc=5",
-      "published": "2026-11-10T01:34:24+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna G1",
-      "summary": "Chuvas fortes reduzem produção de trigo e Brasil terá que aumentar em 20% a importação do cereal para atender demanda interna G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-recebe-ta-a-da-copa-do-mundo-feminina-de-2027-cn-1df8c490712cf4",
-      "category": "Esportes",
-      "title": "Brasil recebe taça da Copa do Mundo Feminina de 2027 - CNN Brasil",
-      "snippet": "Brasil recebe taça da Copa do Mundo Feminina de 2027 CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOakZOZUczMjRvUlIzWUpRMnJmb3VpaC1YeDFkMWt2UTRtcGYxSi1LMUhQZ0lQbkJmT2swMkZ1ODhNSnBYQ1BZX1dhS0tVOXdRYm92b0xhdDBnRW1wN2l1dG1nMU1QV2xwcllBbVVmSWRzM1JhaW53VWxEUjgxMEFNWmFFMWZHdlRQeWtsOHNsQkczaFZseGRna1RuZk9lTWFXSk9XMkdFNWxLaHRiVTdzMlJjUQ?oc=5",
-      "published": "2026-11-10T00:44:20+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Brasil recebe taça da Copa do Mundo Feminina de 2027 CNN Brasil",
-      "summary": "Brasil recebe taça da Copa do Mundo Feminina de 2027 CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "rubio-diz-que-eua-manter-o-di-logo-com-brasil-e-cobra-a-10b72df477b64f",
-      "category": "Brasil",
-      "title": "Rubio diz que EUA manterão diálogo com Brasil e cobra aval a embaixador - UOL Notícias",
-      "snippet": "Rubio diz que EUA manterão diálogo com Brasil e cobra aval a embaixador UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb0pyNmJ2NzB4QjdwVFpLTEdiWHJKdVhWTTRNeXUtZG56TFd2aWZvLUpNbXFoX1J0dFo0OVlCaEpMalg3OVZfM2FQMTFYZHh0blhnQjREdEJCSE4wczJDaTcxZ2NqMjM3R3d6UlRwejNRaXlxTDdWM3Y2Z2k2Q0p5NHk2Qk8yYVZub1JsSXM3eWVhRUJwQU5veVpDTFQzb0pIYVBqRUdmQmMwRDdMTUpQdHlCeVpiUW1QR0xfUkc0MDZKZV9LNDdlSnNDMjhHS3dBekNhV0JjUGFYVHRKQnBn?oc=5",
-      "published": "2026-11-10T00:10:28+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Rubio diz que EUA manterão diálogo com Brasil e cobra aval a embaixador UOL Notícias",
-      "summary": "Rubio diz que EUA manterão diálogo com Brasil e cobra aval a embaixador UOL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "stf-ministro-fachin-arquiva-inqu-rito-das-fake-news-ag--8c096d3b9c49fd",
-      "category": "Brasil",
-      "title": "STF: ministro Fachin arquiva inquérito das Fake News - Agência Brasil",
-      "snippet": "STF: ministro Fachin arquiva inquérito das Fake News Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVUJuZkMwOUtjUnF1ZnNhZEItZDNOSmpaTzhsQk5QamF6NGE5aVNMLVE2dDRIaTF5b2xlTC05ZDFfMEoycFRnTjJxRnVta1A4cnpHd0czX1Z3RkJ4YVpsRktZSktyLTU4dlhqeWplUDdXTmdmaHFPM2RpcFJUTUtoa05OdVF5QXpGSk52R0JsYlZ4eHBFR3hSa2czbHBBRDYtV2tDQ195bXZub2M2?oc=5",
-      "published": "2026-11-09T23:21:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "STF: ministro Fachin arquiva inquérito das Fake News Agência Brasil",
-      "summary": "STF: ministro Fachin arquiva inquérito das Fake News Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
