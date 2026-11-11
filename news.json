@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T11:12:55.824364+00:00",
+  "updated_at": "2026-11-11T13:27:09.755129+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "premier-league-reconhece-erro-de-arbitragem-em-derrota--1c8cca2cd4e4fd",
+      "category": "Esportes",
+      "title": "Premier League reconhece erro de arbitragem em derrota do Liverpool - CNN Brasil",
+      "snippet": "Premier League reconhece erro de arbitragem em derrota do Liverpool CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcTlPZE16QkJzNU1ZU01uVVpDcXJfNDItUnp5eTN4ZXNYa0RNclNPUklzMmV1c0s2VWZWSnRSVWgxRlNKcXpBT0Q4bm5wT2RLQ2lQcmtCaUdaUFJmemdRNGN2NWhqbkRtQk9YTlZsbW1NQTI2TTRZWVpNQ0hweEZ2T0dMc1Vud2ktQW1HNW1yRlZXUXQ5SUVxUmpfX3QwMGJIYnpJdE1FWFlaRzhHako2SDNaZk9LY0ppdnVnOUd5U0poR3ZyY0ZlbXlIdVM2ci1Rb0E?oc=5",
+      "published": "2026-11-11T12:44:15+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Premier League reconhece erro de arbitragem em derrota do Liverpool CNN Brasil",
+      "summary": "Premier League reconhece erro de arbitragem em derrota do Liverpool CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "corintiano-magalh-es-esquece-luta-contra-queda-foco-na--022326013ecc14",
+      "category": "Esportes",
+      "title": "Corintiano, Magalhães \"esquece\" luta contra queda: \"Foco na Seleção\" - CNN Brasil",
+      "snippet": "Corintiano, Magalhães \"esquece\" luta contra queda: \"Foco na Seleção\" CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPeGNzWWNSak1VSklFdG9FZTVodzR0a3RHbzFYUEJEN0xuaVpabXJqdHdUWUs4SzhXTEFTbHhGU0l6N1pTNVA5NlE3RGFtQ1poZVZ5bEU5MGJkWGRfQkwtZWNHYVBVdk9XUkMyMmZIUVdzUDNRSkFjRFVBOWpHTWhzWU5DcUFGS3AxYnZ3S01MQVVjcF9vdmN2NzJXSE5QRlBhZkFselpJREh5NFd2UDYxb2dzTDBIcUkxR0tpMWNTc2ZacWo2eWFR?oc=5",
+      "published": "2026-11-11T12:11:24+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Corintiano, Magalhães \"esquece\" luta contra queda: \"Foco na Seleção\" CNN Brasil",
+      "summary": "Corintiano, Magalhães \"esquece\" luta contra queda: \"Foco na Seleção\" CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "quem-vai-cuidar-dos-idosos-do-brasil-por-que-o-envelhec-334c94687edb25",
+      "category": "Brasil",
+      "title": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século' - BBC",
+      "snippet": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século' BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5xMHZqVGM4X1lVTER3SWJxcU1DV2w3Ri1qSzM5N3E3bjJuSlZEUldoNW1GNkpMRVVkRk0yZG5JYUF2SUx5dTU3cEhqOVYxaWhFWUxocWdFRmlUcVN6NTZPbktOd9IBaEFVX3lxTFBOdjBFcnV0a3dSZHk2d1A5V1Z6d0ZWcDM0MUNySkQ0TzhfbFMtRDNEZUJha0h4V3F0NGhnd0dBU25adkJEVFRVcVByb0FaNmp2aDFIbXVUODJSYUpoWW4tTEN2dnF5Szht?oc=5",
+      "published": "2026-11-11T08:41:28+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século' BBC",
+      "summary": "Quem vai cuidar dos idosos do Brasil? Por que o envelhecimento acelerado é o 'desafio do século' BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-nunca-produziu-tanta-carne-bovina-mas-brasileiro-6f1b5bde96054d",
+      "category": "Brasil",
+      "title": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos; entenda o paradoxo - G1",
+      "snippet": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos; entenda o paradoxo G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSEFEUmp5YzFsSFJPRmx2anVnZmNIUno5Uk52Y3RYYTIzYWZCX0ZaVHJQU2U2N1BPdGRydmRlaURjWTlSTTFNVUVIZmlTTW5wT0dUakpqbXR5UUJyT2VMa0x6SlhjRXM1LTc0RVFFQ0NZODZINlQxMktDMXg5c1lEM0hzRUdsX1ZPMHA5bjNGd0c1Zmh2MkRrbVpFdWhpcHpHR08xU1ZIdWxqbjN1M2tTczV3UzR6ejctUTc5WnpLb1E4MW5xNDhZaVM4Nm9xSE8zWi00MlBFcTJkVmg3SDZZTEFFM0lUR1E4cnl2ZG5ZQmdhWkd20gGDAkFVX3lxTE1uNHdtT04zaGJPaUxJZUlMbnhoZ0ZtOUdTblQ2N0VkNVVJTTVZbWdUZlVGcnpQSVRZNno1N3BxOHNodkJnQTQxeGdqWkQzUUpHR3c1a1FvWWtMT0RfSFJ4WHNaRXl0RWxzYlhzbDBtanVkdk9DazRxRTdhRThvSFFYZE03OEw1TkVuVGsxSndDdDNwaWY3TmRvRHFvaDlEc2YzeDdCaTcyTTRFLXVMWTQ3Zi11T0ZLVFlXaXB3RHBDSU11bUNWeldxNFNQM1EwVm5zd3JFNkl4YVpaakZEUHN3eTdxOGo0UTctR2QxaHZWS3M0SHhqRDYydkFnTTVCa2JuYkE?oc=5",
+      "published": "2026-11-11T08:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos; entenda o paradoxo G1",
+      "summary": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos; entenda o paradoxo G1",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "ala-da-pf-v-alckmin-com-perfil-ideal-para-minist-rio-da-a50b6ec314609e",
       "category": "Polícia",
@@ -794,62 +850,6 @@
       "tone": "",
       "dek": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
       "summary": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "snct-2026-mobiliza-o-pa-s-e-prepara-grande-encontro-da--be3ffbcfc88a91",
-      "category": "Tecnologia",
-      "title": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília - Governo Federal",
-      "snippet": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQLTV5enVaRE5PMGMxbU5CazJOdVFnYnQ5VGxiUzcxRWdXUEJudUExcWtwNlFGTmFfanBFRHJCY3RRWXFmLVNZU3VFWlZTWTJzZGRKdWFGVmN2WkFDSzdSZVJoazRSM3l2bmV4U1c5V2U4bktCcUxPYjVSYU5FQmhsZWpnd2YycFRRUXc3enA5X1E4QlN4QURzdkFHcDllT0w1bkxXVmJTemYxUkprTWNkWGJjQnNDU2ljMWlPWi1pQl95ei1QTk5vOVUwY01zTHhkdDZsZQ?oc=5",
-      "published": "2026-11-09T16:39:00+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília GOV.BR",
-      "summary": "SNCT 2026 mobiliza o País e prepara grande encontro da ciência em Brasília GOV.BR",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-e-jap-o-trocam-experi-ncias-para-modernizar-os-c-dd5cf6507854cc",
-      "category": "Brasil",
-      "title": "Brasil e Japão trocam experiências para modernizar os Correios e aprimorar serviços postais - Governo Federal",
-      "snippet": "Brasil e Japão trocam experiências para modernizar os Correios e aprimorar serviços postais Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDc3YVpoMjAzb1VJT1p0RDJEbU1RT1FQLVYzbEhXZGlDM2QzUFd2ZjlnLWNEdEt1UG9ZSk1iZEgtZGlrbDB3REk2NWtKRDMxWW9RX2E5QXlSS1VodDRjcEdKM0t3d2tOcGVGb19IRUpUU3JlYnZubTdMSEVMajluM0gtMWNkbVhodkdta0xUUU1kZUtEb185TlZ0Y3JxSWVhT01xdnRUVmhUN2p1R1RPRXJCNk9OalVVQ05VWm15YlgwRllNNVFSYkFOMXZ6elRuUzA2SDdSb28ybi1s?oc=5",
-      "published": "2026-11-09T16:32:04+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil e Japão trocam experiências para modernizar os Correios e aprimorar serviços postais Governo Federal",
-      "summary": "Brasil e Japão trocam experiências para modernizar os Correios e aprimorar serviços postais Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "final-da-copa-do-brasil-entenda-por-que-a-data-pode-mud-42ead4ae18655a",
-      "category": "Esportes",
-      "title": "Final da Copa do Brasil: entenda por que a data pode mudar - Band",
-      "snippet": "Final da Copa do Brasil: entenda por que a data pode mudar Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3BJXzVhR21LUEFQSHZUYXZJanNjSHM4Qk9Fa1Jjc0VjN1Bob1d2U213a2JhNUdISENnQ1VJLUFSNEp0ZDVERzhsUjdQQWRvdTBCdklyUkFJR2ZDRFR2MTdPMWZqT2xkTVg2cWJCZzM5V2dRRDlTdEtqV0NrQlQwWGhUWi0xblF4bmNsdlBtQVBlMFNxNXFiT1FsbEZCdXNKVnlqakZLaHhVbEh6eEJ2cWZmcw?oc=5",
-      "published": "2026-11-09T16:19:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Final da Copa do Brasil: entenda por que a data pode mudar Band",
-      "summary": "Final da Copa do Brasil: entenda por que a data pode mudar Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pgr-defende-a-fachin-que-inqu-rito-das-fake-news-seja-a-28ba7b2fad6530",
-      "category": "Brasil",
-      "title": "PGR defende a Fachin que inquérito das fake news seja arquivado - CNN Brasil",
-      "snippet": "PGR defende a Fachin que inquérito das fake news seja arquivado CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxON3otU29EY3JKa1ByX0JVVGtrU0xzVXI3RXhuVWxDX2ZyN1MyazJuckw0SzZpaG5tYVVMRDVfNDJPV1p4Mlo4Y2FBSWYzcTh1aTBTVnNFWFRVaWNUMUUwYnZtNnBiU2xCTW1xQnIyajBEeUxyV2lVRWNXbGItaW1Kc3k2Y2FQVlAxY2JvTVRKNnBKRm1sVGpOTExpR1cwX2RaanZld2NrbDd0eTRFelVvcGlNNHBTanNCLU1qUmo0Yw?oc=5",
-      "published": "2026-11-09T16:16:26+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "PGR defende a Fachin que inquérito das fake news seja arquivado CNN Brasil",
-      "summary": "PGR defende a Fachin que inquérito das fake news seja arquivado CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
