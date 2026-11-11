@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T09:08:52.545935+00:00",
+  "updated_at": "2026-11-11T11:12:55.824364+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "ala-da-pf-v-alckmin-com-perfil-ideal-para-minist-rio-da-a50b6ec314609e",
+      "category": "Polícia",
+      "title": "Ala da PF vê Alckmin com perfil ideal para Ministério da Segurança Pública - CNN Brasil",
+      "snippet": "Ala da PF vê Alckmin com perfil ideal para Ministério da Segurança Pública CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUnpPc3p0RnNRMk1uN3VwV19pOGNxT3g3T0FrV3NnODE2Zy1nenNER3JFempRSlpBUVZKc2xYaHg2dk1XVlItQ19ZdW9TNHFkb3pHLXNVdHF6U1A5R3BxWk1nbFVqSTBNamc3SjAwZTVfQlZZb2lvS1k5bWxtaUZsR1JJeG9UOWpsNmNPck9OMFg0c2dHOS1kcFVxVkMxQUJwSTZrYkdBaXZ3cmoxVTFaaVhBYVhIR2xQYlMwQUtQeGVxaFZlOUE2SUNjazZTTzg?oc=5",
+      "published": "2026-11-11T06:50:34+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Ala da PF vê Alckmin com perfil ideal para Ministério da Segurança Pública CNN Brasil",
+      "summary": "Ala da PF vê Alckmin com perfil ideal para Ministério da Segurança Pública CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "guarapuava-ganha-pr-mio-gestor-p-blico-paran-com-projet-61a7421604231b",
       "category": "Tecnologia",
@@ -136,6 +150,20 @@
       "tone": "gold",
       "dek": "Nova plataforma do MDIC identificará oportunidades de comércio com UE Agência Brasil",
       "summary": "Nova plataforma do MDIC identificará oportunidades de comércio com UE Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-e-48fb321a2640f9",
+      "category": "Brasil",
+      "title": "MEC aprova diretrizes para uso de IA em cada etapa da educação - Agência Brasil",
+      "snippet": "MEC aprova diretrizes para uso de IA em cada etapa da educação Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOclJKUEYydVQzUjJndzRBY0w5UGc3SVd1RDV4Q0tkRkJTVUs0ajB2LU40Y2h1N2JndVUyZTZ0MXdWRXBxT244RFVKSGFFRDNXdExmYmpkb2JCRnFZODZZLXNxNk1Tci1DazY1eVloVUdWRnR3cVc3RFEtMFc0N0N0YldpMVF6YU5WTWJEcDVMRXE5N0lIVHQxRVpYWlVKNUgxWkcyRE1RNER4aEJNT0YtSVJNOEJrTm9sYk5aSA?oc=5",
+      "published": "2026-11-10T22:26:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "MEC aprova diretrizes para uso de IA em cada etapa da educação Agência Brasil",
+      "summary": "MEC aprova diretrizes para uso de IA em cada etapa da educação Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "",
       "dek": "PGR defende a Fachin que inquérito das fake news seja arquivado CNN Brasil",
       "summary": "PGR defende a Fachin que inquérito das fake news seja arquivado CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "g-s-do-povo-governo-prorroga-vig-ncia-do-aux-lio-at-203-5c7f6e045181c0",
-      "category": "Brasil",
-      "title": "Gás do Povo: governo prorroga vigência do auxílio até 2031 - Agência Brasil",
-      "snippet": "Gás do Povo: governo prorroga vigência do auxílio até 2031 Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMlpjRVY0Wlp6MzdaS3BqOXhpdXZjVE83M3lFYXhQUFJMR1NwaWx6YWFxMUVCMXJoaHZXUEpuUWxyS0FjODhqdlFMTGJPeFlyeEs4cy05TEVtS2Z4c2xuRWNZR3NCWTBJSzVfT3NoY2wyTzk0UnJzbWZvcnpxcFNQdE1KcnVReUtvcFdnU08ydnFzWnc5Z1ZKdERBZGM2bl9MbGtlRFg1aHlfcEdPNjlnV085aU1QbXM?oc=5",
-      "published": "2026-11-09T15:02:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Gás do Povo: governo prorroga vigência do auxílio até 2031 Agência Brasil",
-      "summary": "Gás do Povo: governo prorroga vigência do auxílio até 2031 Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ricardo-cavalcante-homenageado-com-a-comenda-ariosto-ho-c2116d9c5cee44",
-      "category": "Tecnologia",
-      "title": "Ricardo Cavalcante homenageado com a Comenda Ariosto Holanda de Ciência, Tecnologia e Inovação - Portal IN - Pompeu Vasconcelos",
-      "snippet": "Ricardo Cavalcante homenageado com a Comenda Ariosto Holanda de Ciência, Tecnologia e Inovação Portal IN - Pompeu Vasconcelos",
-      "source": "Portal IN - Pompeu Vasconcelos",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNaTU0MmljZzdaYS1sUDFDT2xHU1IxdVE3Y3NianFBZXhqd3pzLUFWNEJJNmhTLVhsZXNhblZETHlSTEJ4RkltcjA1YWc1M3NoY0xXMjF1UVZQWFZmVXRTVDQtTlBvWFJXbzM0MUp4QWZXMFQ4QlpUMUk4QlB6dVJSVExoSkFvSDFhcnpUZ3lETXl3LS1ITU5wdFlGMWRiZHM0bGFfbnc1WTk3UDl2ZXppVndrcEs3U1YzQWJoN3NVa0ZXSElkMkE?oc=5",
-      "published": "2026-11-09T14:59:00+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Ricardo Cavalcante homenageado com a Comenda Ariosto Holanda de Ciência, Tecnologia e Inovação Portal IN - Pompeu Vasconcelos",
-      "summary": "Ricardo Cavalcante homenageado com a Comenda Ariosto Holanda de Ciência, Tecnologia e Inovação Portal IN - Pompeu Vasconcelos",
       "summary_by": "descrição da fonte"
     }
   ],
