@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T13:27:09.755129+00:00",
+  "updated_at": "2026-11-11T15:07:20.923433+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,20 @@
   ],
   "articles": [
     {
+      "id": "congresso-prorroga-por-60-dias-mp-que-pro-be-apostas-es-0eb44b4dec2def",
+      "category": "Brasil",
+      "title": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil - ICL Notícias",
+      "snippet": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
+      "source": "ICL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yREp6V3FLYXBhamhhaGltM2NNUTllQzZmMTJsRHU5anZJTEFoMzZhLXFDZDFqUkZBY2RnUFVLZzVhQUotZW9YeURrNnhLVGRyWkpWU0FBNVZXYV9yZGdJU2k1V2JSakMzM1ZfMjNn?oc=5",
+      "published": "2026-11-11T13:28:04+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
+      "summary": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "premier-league-reconhece-erro-de-arbitragem-em-derrota--1c8cca2cd4e4fd",
       "category": "Esportes",
       "title": "Premier League reconhece erro de arbitragem em derrota do Liverpool - CNN Brasil",
@@ -24,6 +38,20 @@
       "tone": "teal",
       "dek": "Premier League reconhece erro de arbitragem em derrota do Liverpool CNN Brasil",
       "summary": "Premier League reconhece erro de arbitragem em derrota do Liverpool CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "quem-poder-ser-o-pr-ximo-t-cnico-do-manchester-united-v-8fc7c4f75df3c1",
+      "category": "Esportes",
+      "title": "Quem poderá ser o próximo técnico do Manchester United? Veja opções - CNN Brasil",
+      "snippet": "Quem poderá ser o próximo técnico do Manchester United? Veja opções CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPenQ0YW5tTWl2SHNINTdoM0lqb2JPQUxBNVlFblBZenVEeGROaDlSS0N2V2xGQjRtX0s0VkU2MUVUQkhwSmFCRTVNS29IOFJTNmU2VG5MOGhWaTFpUWtqNmxrNE1PZUd3RVhtM0lLUkp0X0hYbWRUMnkxZ2RMSVJuTW1IWkxmS1NRdmpvVlF0ZXBkbk9NT2YtYlo5dWpHSlhtbUxKWU11NHRrSUlQNmZMekNCampKOEs2c1ljMXhqSEg3RFVHbUd0eF9CLU9TSlRT?oc=5",
+      "published": "2026-11-11T12:29:31+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Quem poderá ser o próximo técnico do Manchester United? Veja opções CNN Brasil",
+      "summary": "Quem poderá ser o próximo técnico do Manchester United? Veja opções CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -136,6 +164,20 @@
       "tone": "teal",
       "dek": "Diretor do Corinthians abre o jogo sobre salários e não dá prazo de acerto CNN Brasil",
       "summary": "Diretor do Corinthians abre o jogo sobre salários e não dá prazo de acerto CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "tse-multa-meta-em-r-7-5-milh-es-por-descumprir-decis-o--40d4c591771021",
+      "category": "Brasil",
+      "title": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições - Agência Brasil",
+      "snippet": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmN2dEhPOVJvRUl4U1k5LU9HSGE5WHdNRUVrY1NTcUVBOWlKSHhNc19kZmExVElUQWdtUmpIclZfRXhPWWVfR0lieUwxSVFROUI3Qjh2Q2dqWXpBTG5fc0xfckVUVkV0WEx1c3V1WEV5QjZibDRoNGVFTFUtSE45NWFXMUxPNDFNeGcyYURNYXBZMTZ1dUZweDhJTUdVUEM3OE54ckFFSHhORU5tTU1HNzhmWXlibEdvYUJEa1VOWGo?oc=5",
+      "published": "2026-11-11T01:56:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições Agência Brasil",
+      "summary": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -304,6 +346,20 @@
       "tone": "purple",
       "dek": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade Governo Federal",
       "summary": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade Governo Federal",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "veja-quais-empresas-mais-perderam-valor-de-mercado-ap-s-13e1cb8413f88a",
+      "category": "Economia",
+      "title": "Veja quais empresas mais perderam valor de mercado após as eleições - VEJA",
+      "snippet": "Veja quais empresas mais perderam valor de mercado após as eleições VEJA",
+      "source": "VEJA",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW9rb1dva0tCNVhSa0k0TWRPTFpVbEdRRUt0UWhoeEhJY0FqREtwMURVWE9HSExvekMwenV6Y3FwQ3FiUDJabEJHT0o5cDlQSnBockc2LXZnTFZtTk1Oemcyb3V0eS1hS1ZndEg3N0hqWFkza1Y2NDJ0Q2RZX3Zfc2hEQ1dwVXM1Z3loSHA2ZlhWbmRUSEZCdEk0S2FXX1hVWC1iaUpn?oc=5",
+      "published": "2026-11-10T19:57:18+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Veja quais empresas mais perderam valor de mercado após as eleições VEJA",
+      "summary": "Veja quais empresas mais perderam valor de mercado após as eleições VEJA",
       "summary_by": "descrição da fonte"
     },
     {
@@ -545,6 +601,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "v-deos-not-cias-internacionais-mundo-g1-a75f22a8f24d3e",
+      "category": "Mundo",
+      "title": "VÍDEOS: Notícias internacionais | Mundo - G1",
+      "snippet": "VÍDEOS: Notícias internacionais | Mundo G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNWhwRkJsWlRkRGlzWnhmYTVpTHdZQ2VsYUpDeHZHSi14cFpqZFphUW5Ncy1xbG5tX081eTJPLWh0T3dBc2dWSDdSZkNjUUVaSEhUSWdid3NGSzBwM3dmWVBkc2REOGlFYXM3NS1OMHh3Y2F3TnJVQ3BZV0lMWHBqd1lVdXNxSDh6OHI4V2NVVDZCN3JX?oc=5",
+      "published": "2026-11-10T11:52:00+00:00",
+      "image": "",
+      "tone": "blue",
+      "dek": "VÍDEOS: Notícias internacionais | Mundo G1",
+      "summary": "VÍDEOS: Notícias internacionais | Mundo G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "uece-apresenta-atua-o-como-unidade-embrapii-em-sa-de-di-646c745c6a9918",
       "category": "Tecnologia",
       "title": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec - Universidade Estadual do Ceará",
@@ -780,76 +850,6 @@
       "tone": "",
       "dek": "O que acontece com o bolsonarismo com Flávio nos EUA? BBC",
       "summary": "O que acontece com o bolsonarismo com Flávio nos EUA? BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pgr-pede-ao-supremo-arquivamento-do-inqu-rito-das-fake--b4fe65d4425ea3",
-      "category": "Brasil",
-      "title": "PGR pede ao Supremo arquivamento do inquérito das Fake News - Agência Brasil",
-      "snippet": "PGR pede ao Supremo arquivamento do inquérito das Fake News Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNjE1emhfeDZrLWRMbU1mZFF4bm5qQldjOGhLZS1UNGdKVEh6czM2dE9kSHQxRktKZTk4b3lrbXd4T1IxMGc1cThFVzZnWURXeTUwUlMyR041a1h6dnV4V3VxQTFQZS13NFdvYkh3NlFTMUZlMHNjZ2RUNFVGd09ZbmF3UHJWNzdyOXF3bUNucXpDenZCRWpGWEc3bWFaMEZuUEc3M3NOSXBybXVTV0hxWmpBTGtLNjg?oc=5",
-      "published": "2026-11-09T18:46:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "PGR pede ao Supremo arquivamento do inquérito das Fake News Agência Brasil",
-      "summary": "PGR pede ao Supremo arquivamento do inquérito das Fake News Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "exporta-es-de-soja-do-brasil-crescem-37-em-volume-na-pr-8614116ace5b9d",
-      "category": "Brasil",
-      "title": "Exportações de soja do Brasil crescem 37% em volume na primeira semana de novembro, aponta Secex - Notícias Agrícolas",
-      "snippet": "Exportações de soja do Brasil crescem 37% em volume na primeira semana de novembro, aponta Secex Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQZzl5MU91QVVoTHlVWnM4VkZ5NW12X1otMzBLYWNuYWFaUGx6NU9uNG44cHZ5dUstQmF6NlJXeGFaakFWa2pvY1JoNWVtU0ZiRkFBU3VpX0VzdFZuUTE0Q0wtbGp5b083c2hTUlMwMXBsS2tYMU9Rc2hGQVpXcC0zVG5UT1N5YVcwbEk5QWFiemxoaE93TkZQS3V4bXhvd3Z3SDFmQzFqdm5Pd0JPckp0ZGVQNHBvWm11a0VwOEpIbUdGTGJpQVA0YU9fSHVwT0g0QUdsMDF5QTYyeXlKYU5JcDVYZWV5ZXRjSXY1NVpn0gHzAUFVX3lxTFBmSk42dDhVSXM3LXFva1p0b1BObEhMcWMweXFVODJWdVNCWHdxUFRCZU9ZRDladFdnS3RrMDZtcXpwMmxjNEc5dGhpVDZWeldEVzVKbjFmb1JPRVY5bXc0R3JsYnZHWWhzRnpPN2UzUWNXQ2taT2g0ck9yWjZLSGpSYlJqemViSFhscDBFb25MQ3RTdzhPT2hncXU4OXRHMXNJMV8zVUd0UlJPT2RhZHBtRlVFckNWa01LUFpsdkF1WkxPR29yOHctaWhzaFdGTDl4YURzcS1UVGNtbkR4RE5ETU9iOTVoMVU0YTRKa3A2VmxWSQ?oc=5",
-      "published": "2026-11-09T18:38:58+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Exportações de soja do Brasil crescem 37% em volume na primeira semana de novembro, aponta Secex Notícias Agrícolas",
-      "summary": "Exportações de soja do Brasil crescem 37% em volume na primeira semana de novembro, aponta Secex Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "comentarista-aponta-abel-como-melhor-t-cnico-no-brasil--26183d09883f56",
-      "category": "Esportes",
-      "title": "Comentarista aponta Abel como melhor técnico no Brasil: \"Nenhum se compara\" - CNN Brasil",
-      "snippet": "Comentarista aponta Abel como melhor técnico no Brasil: \"Nenhum se compara\" CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSjh5Z0R5V0lzLXNKQ2otRXJhMGtPbWJRbndsbWRjRzVXWGNRenpoV25ScklpNTNOQnNPZnczQS1LbGpZU2pReTlZdnRRcmQ0NllOSHlQN29tVVBabXJvSW4wQTBheDduYUlmb1Vnd0dIQXVXQnZlUkNUUk1VeHRBdWFUWlBrMjlUNWxRQmZLZ1UtTmVBcEc1R1Y5a2tuc3ZBeG0yd2d5aC1iYVcxcmxkQlFQR3h2aXRHWUpNZEQzQ1FKejRPWHcwVA?oc=5",
-      "published": "2026-11-09T17:52:04+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Comentarista aponta Abel como melhor técnico no Brasil: \"Nenhum se compara\" CNN Brasil",
-      "summary": "Comentarista aponta Abel como melhor técnico no Brasil: \"Nenhum se compara\" CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "voc-est-sendo-anestesiado-para-ficar-9-horas-por-dia-no-a1c3e1f89fe141",
-      "category": "Brasil",
-      "title": "'Você está sendo anestesiado para ficar 9 horas por dia no celular': o que diz o especialista digital Ronaldo Lemos sobre a captura da nossa atenção - BBC",
-      "snippet": "'Você está sendo anestesiado para ficar 9 horas por dia no celular': o que diz o especialista digital Ronaldo Lemos sobre a captura da nossa atenção BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5YMVd5SF80R3NxXzJzdFpkMlgxbGZEaUN4T1BvU2JkaTBuOXJoN2RVZmJGYTlVUnBGNXVkbE1HM0QyV0ZrYTIyLUtXTmlyZWY2MkxkRVdRc0dPZEtRZTVmY2RlNNIBaEFVX3lxTE4xekFkcWlwaUMxY3FYd1N4eW5ZeVZmbG5OU0Y1bTVBM2ZzWUpOTlFBclZ5bVlKOUxycFF3QlBFT2pQTmZEd2JlamloNzhKeHlSaUVFcGctRWpMVllISnNJcThTd3d5VXV3?oc=5",
-      "published": "2026-11-09T17:43:56+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "'Você está sendo anestesiado para ficar 9 horas por dia no celular': o que diz o especialista digital Ronaldo Lemos sobre a captura da nossa atenção BBC",
-      "summary": "'Você está sendo anestesiado para ficar 9 horas por dia no celular': o que diz o especialista digital Ronaldo Lemos sobre a captura da nossa atenção BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "quanto-mais-estudei-a-b-blia-menos-consegui-acreditar-o-680e1cde8992f8",
-      "category": "Brasil",
-      "title": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus - BBC",
-      "snippet": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5JcVZtcTA2UU9SSjdPamtmRnlqdXVXVUJYaXB1Zm5EdjJMb1NxYUpGc3FHTTJlc2x3ZFl1TWkwSTR2R041aEoxcXZSbXVNZkd4bUt3cFkxMFl5OXZjX2d1dW1ad9IBaEFVX3lxTE9YcnY2X3VzVlU2bEVsX25RS2hiREJ3cXZ0LXBBMndUa3ZtY0F3VXFWbVFIWFRtUWsyQTFYYUx3RWd2MkdCeWV5d1p2Q1JSYUVwV0V6NG1qeS1GWXVwNUVsd3Nnb1JQRC1a?oc=5",
-      "published": "2026-11-09T16:50:54+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
-      "summary": "'Quanto mais estudei a Bíblia, menos consegui acreditar': os teólogos que perderam a fé e se tornaram ateus BBC",
       "summary_by": "descrição da fonte"
     }
   ],
