@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T15:07:20.923433+00:00",
+  "updated_at": "2026-11-11T17:10:56.969504+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "senador-alessandro-vieira-durante-reuni-o-da-comiss-o-d-a6312e979ba4a4",
+      "category": "Polícia",
+      "title": "Senador Alessandro Vieira durante Reunião da Comissão de Segurança Pública do Senado - Agência Brasil",
+      "snippet": "Senador Alessandro Vieira durante Reunião da Comissão de Segurança Pública do Senado Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxONmJiLUVOekRvZTRBV0NIYXNTbkwyTEx1WWhGV256SmVtdjRhM0RPY3pMczlhV3R3Q19QVmZjUUhJTGxXTWF0SjVYVWZnSUxfVjJLdWF2QW1IUWtUNUpqMnNLV01JaG9PeS1KN0xMeXJjOWtkVXl2MV9heGoxUFJNamlLdVRXNjdtaW56NU9Zcl9ZcGtnV1pYYzBLaFA1bktGOHVKUU1hd01mQlVIZjhaRXlUQVZqM3hjTU5MbDhIeFNuMm1hb2h0M2FDbkNYWWM4TXp5eERlSklKaVk?oc=5",
+      "published": "2026-11-11T15:13:00+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Senador Alessandro Vieira durante Reunião da Comissão de Segurança Pública do Senado Agência Brasil",
+      "summary": "Senador Alessandro Vieira durante Reunião da Comissão de Segurança Pública do Senado Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "congresso-prorroga-por-60-dias-mp-que-pro-be-apostas-es-0eb44b4dec2def",
       "category": "Brasil",
@@ -66,6 +80,20 @@
       "tone": "teal",
       "dek": "Corintiano, Magalhães \"esquece\" luta contra queda: \"Foco na Seleção\" CNN Brasil",
       "summary": "Corintiano, Magalhães \"esquece\" luta contra queda: \"Foco na Seleção\" CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "gabriel-magalh-es-sai-em-defesa-de-raphinha-mal-interpr-8cfdc782e7265d",
+      "category": "Esportes",
+      "title": "Gabriel Magalhães sai em defesa de Raphinha: \"Mal interpretado\" - CNN Brasil",
+      "snippet": "Gabriel Magalhães sai em defesa de Raphinha: \"Mal interpretado\" CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYVRINS13ajJNOXJDd0YyMEx0TWttc3VFQmJDbG5kdnc1NG40OWVNUzN5cjlyVm8xTVZLVDdKa0dyVXl4N3UxTXRROFJjamExOTVLbDRPSW5vT0s4Tm4yQ3hBVDB1Q2x2Y0ZDcUpBd0tCWHd2WXVBYW84S1VNSEc5X05abkI3bTVBZWItTERZdzNxMDVDeWtiMHBaSHZqMGxqdHdoSW1lcW1VcGF5Rjg1T1BEQnRJTUZIWmJkMkZRNkxnRHdi?oc=5",
+      "published": "2026-11-11T11:35:15+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Gabriel Magalhães sai em defesa de Raphinha: \"Mal interpretado\" CNN Brasil",
+      "summary": "Gabriel Magalhães sai em defesa de Raphinha: \"Mal interpretado\" CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "teal",
       "dek": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" CNN Brasil",
       "summary": "Xavi justifica a ausência de Memphis na Holanda: \"Precisa se recuperar\" CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "trump-questiona-integridade-das-elei-es-de-meio-de-mand-f4e7eabe2cc5c4",
-      "category": "Brasil",
-      "title": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente - BBC",
-      "snippet": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5EVktNSXFmRmZjbjE5aUlXaFdHSmc2YVhxbXo5RFB4YWtYNGtYSGNwU0d6QlhUdTY5NTFxOTROdGN6X1FhUXV1YnE4UlNHb05lblJfQ3ZrZmpwYXdyYXU0eDJhNNIBaEFVX3lxTFAteXNRT3J1OWxrOXZiS2dGaThEWTQ5Z2tOcmhGOVdNaks4MXVrdDZoRGU2SmZxeGhfLUNqUFJsMnl2X1p6dGtGc0ZvX3NuSUY2cmY3M3NlbnJNMmVLR3VGMHMtSm5aLTJr?oc=5",
-      "published": "2026-11-09T20:43:57+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente BBC",
-      "summary": "Trump questiona integridade das eleições de meio de mandato após ter aceitado os resultados anteriormente BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-que-acontece-com-o-bolsonarismo-com-fl-vio-nos-eua-bb-46e4dbd9f36f1e",
-      "category": "Brasil",
-      "title": "O que acontece com o bolsonarismo com Flávio nos EUA? - BBC",
-      "snippet": "O que acontece com o bolsonarismo com Flávio nos EUA? BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5TSnBpSlA3dkQ0WXJ1NUFwWkV0cG9vRnprQV9RNGVjQVZLaWpKd2xSXzQ5bVh5Y2taUWVGMGVTVW9fZ2hGd2VMbm9BcVBjcks2SXVYY0tZR3RvMFZOUnBF?oc=5",
-      "published": "2026-11-09T19:32:56+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "O que acontece com o bolsonarismo com Flávio nos EUA? BBC",
-      "summary": "O que acontece com o bolsonarismo com Flávio nos EUA? BBC",
       "summary_by": "descrição da fonte"
     }
   ],
