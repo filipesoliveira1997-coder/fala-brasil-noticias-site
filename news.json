@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T11:17:11.123774+00:00",
+  "updated_at": "2026-11-12T13:28:58.660404+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "mulher-em-trabalho-de-parto-colocada-em-audi-ncia-pelo--1d0dca8c8e9b37",
+      "category": "Brasil",
+      "title": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' - BBC",
+      "snippet": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsM2NDYTU3RTE5OXlsWjVoamN4Y0dpZU1GYkF5RlpMbDVxc1JIN2phd0J0Z3Vka2F2WWk1X0dhRmdpT1hXUExGZzMwd2d4Zm1lN2k2LTFUcXhrNjNVN2M4Zk8xONIBaEFVX3lxTE1aSkRwbV9CbmZOb3YwaXhTN29ZVERXSjZmZk1SWGZGR3k2c0dibkgyMmZsNzcxa1pPd19UWFZETGNHZ09rNWlUSEt3RTFIdnBsLWRkRG42ZElLNW9nVDA0amh1Z3Y1Q3RV?oc=5",
+      "published": "2026-11-12T11:32:43+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' BBC",
+      "summary": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "dia-dos-supermercados-minas-gerais-o-segundo-maior-merc-be4e35bd476abe",
       "category": "Economia",
@@ -94,6 +108,34 @@
       "tone": "purple",
       "dek": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. Vietnam.vn",
       "summary": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "inglaterra-x-cro-cia-hor-rio-e-onde-assistir-ao-jogo-da-5c50c3fa55b339",
+      "category": "Esportes",
+      "title": "Inglaterra x Croácia: horário e onde assistir ao jogo da Nations League - CNN Brasil",
+      "snippet": "Inglaterra x Croácia: horário e onde assistir ao jogo da Nations League CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN3dpeTN4UzRsdG5WX0RCbHdPRDhvTEFPMl9UVGtGVGdqdFNBX1dfTS1rWGRWSmNhOWdLSjlzQm5xQzluaTFEOW5oY3U2XzU1MzVSXzUyd1NtMXUxdmpSeko1azdnUVpPOWI5WEY5WFhEdl9FOVI1TkNjRHdYXzd0UEN6MVVFdUdzNkdkMFdac2pYT2lfVHBzU2NtM2hyOVh2dE15dF9UX3JZd0JDcVlvcEdFMFVkVFVKOGxMYndLUlJoLUlHLXlXeTB0OV9KR3hhbXBpZS1R?oc=5",
+      "published": "2026-11-12T07:02:31+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Inglaterra x Croácia: horário e onde assistir ao jogo da Nations League CNN Brasil",
+      "summary": "Inglaterra x Croácia: horário e onde assistir ao jogo da Nations League CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "it-lia-x-fran-a-hor-rio-e-onde-assistir-ao-jogo-da-nati-9b5e18b0bc8e11",
+      "category": "Esportes",
+      "title": "Itália x França: horário e onde assistir ao jogo da Nations League - CNN Brasil",
+      "snippet": "Itália x França: horário e onde assistir ao jogo da Nations League CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTUMtLTc2TnJVeTZtZk4wbjZRbVdEMDVhSHVHV1NUT1NlOU9ZbEJkejN1SEh6VjNCdUd5eFotREJiU2tnS2lfSXQ3a25sdklhb3kxZzljNjhYcXBfNVdzZHgyR240TU5ZVGdJVXpJdVJkdjhjalBTMnFBU01wWklJLWMzQUJmYWlBVXVGM2ItMGxUWWJWTUV4VnJuVlNCb3BCaHpsWFhBajVsWnIwcWt6T2EtU19FS0ljSV9heHQ2WVladVlXY2tvZ1BXWjBqbDZ0Ync?oc=5",
+      "published": "2026-11-12T07:00:09+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Itália x França: horário e onde assistir ao jogo da Nations League CNN Brasil",
+      "summary": "Itália x França: horário e onde assistir ao jogo da Nations League CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -192,6 +234,20 @@
       "tone": "teal",
       "dek": "Seleção dos Estados Unidos mira Guardiola em caso de saída de Pochettino CNN Brasil",
       "summary": "Seleção dos Estados Unidos mira Guardiola em caso de saída de Pochettino CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "governo-anuncia-medidas-de-ajuste-para-economia-de-at-r-a1cb201420c0aa",
+      "category": "Brasil",
+      "title": "Governo anuncia medidas de ajuste para economia de até R$ 60 bilhões - Agência Brasil",
+      "snippet": "Governo anuncia medidas de ajuste para economia de até R$ 60 bilhões Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOd2RPUy11VGEwN0pGd3JvVTY3c1d1TE9MN2ZrLXI1cUxsb0xyQy1jcWRJZVNINkxRdnlMSUhCOHVTSmNyWEdmbUljdXE4SWpYaGhHOS1mdl9IbnJnRklsdElRb0FWNUhrWk9LNzFVNFJkVlFESnN4MF9pR29va28wNzR0SWhiSTlPdTVSYXR2dUpfbjA4bE43OEZyLVM4SDZxS3dfZW4zbE9sdVpQbzBGNk42N05WMVdmd19US0NXZFh6dHc?oc=5",
+      "published": "2026-11-11T20:48:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Governo anuncia medidas de ajuste para economia de até R$ 60 bilhões Agência Brasil",
+      "summary": "Governo anuncia medidas de ajuste para economia de até R$ 60 bilhões Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "red",
       "dek": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais Gooning Simulator",
       "summary": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais Gooning Simulator",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "sem-marta-sele-o-brasileira-feminina-convocada-para-ami-c3318010b8239c",
-      "category": "Esportes",
-      "title": "Sem Marta, Seleção Brasileira Feminina é convocada para amistosos; veja - CNN Brasil",
-      "snippet": "Sem Marta, Seleção Brasileira Feminina é convocada para amistosos; veja CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNFR2a1k1SU5ybXdOMHFFNDdvTlVVQUNDZHl2bjZad1gxeWhNdGxGWmJsZ0hyclB0d1VlRllJYjFmS3dIQVpZNkIyUmxLSlc5VHJ5LTREQ3JjUU1Sa2lmMGdlVERkaVVGMFltTGx2RE10Sl9iUTM1QW00RU1zdzlwYmF2ZjQwdWxac2FrMUFzaHh4V3JSSzVsMHdhOXpCVnMySTVUdnJNZUFlNDB6VTRwT0dRZVhfcWNGb1RlWjVGUVQ0aldZUl92UjU2WjlwRm1kSjhz?oc=5",
-      "published": "2026-11-10T18:13:27+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Sem Marta, Seleção Brasileira Feminina é convocada para amistosos; veja CNN Brasil",
-      "summary": "Sem Marta, Seleção Brasileira Feminina é convocada para amistosos; veja CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "rubio-sinaliza-di-logo-com-o-governo-lula-mas-reuni-o-c-e8b6bf5d611027",
-      "category": "Brasil",
-      "title": "Rubio sinaliza diálogo com o governo Lula, mas reunião com Brasil não acontece - ICL Notícias",
-      "snippet": "Rubio sinaliza diálogo com o governo Lula, mas reunião com Brasil não acontece ICL Notícias",
-      "source": "ICL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1reHprU2JyN1hzemxkQkZ1aUxqXzljV0J3TmFuLUVxWm5PVEgtZ2YtTFBXZy02VUh4UDlyVzJKZ3h0RVdGZjdxVVNaUWlzMWhCQ185bGtvMFR2bnlfMlRJRElBUmstVXBNNko5SUNYeXZiVGFybXc?oc=5",
-      "published": "2026-11-10T18:08:51+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Rubio sinaliza diálogo com o governo Lula, mas reunião com Brasil não acontece ICL Notícias",
-      "summary": "Rubio sinaliza diálogo com o governo Lula, mas reunião com Brasil não acontece ICL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ele-gastou-r-275-mil-em-labubus-e-fez-at-dentes-inspira-30f479f36a41bd",
-      "category": "Brasil",
-      "title": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou? - BBC",
-      "snippet": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou? BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5lZFNMQjRUSXpWdG40aFZOcEJNeW5IcHJRN1lFa3RjN3FWZWRZTjBxXzBZMVlLQlFYLVFENm9pVGFYR1h3YnJNYlkwclV0elZDRFlOS2R6bXFfN0tyY3k1eTc0QdIBaEFVX3lxTE0zODZOMjdCOC1UcUdWYzB2UXJHNWdXNHc3b1ZHQmJONmNOVzNFZVI0aXU2ZllKU2pGUVRrbG1sYkYwYW9nSFpnSnUzUDMyYWpnYkM1QUkzZk84TjhQU1cxVVg5OUZVZmly?oc=5",
-      "published": "2026-11-10T18:02:13+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou? BBC",
-      "summary": "Ele gastou R$ 275 mil em Labubus e fez até dentes inspirados nos bonecos, mas e agora que a febre passou? BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "minist-rios-da-fazenda-da-espanha-e-do-brasil-assinam-m-db605d45b9951f",
-      "category": "Brasil",
-      "title": "Ministérios da Fazenda da Espanha e do Brasil assinam Memorando de Entendimento para impulsionar a tributação dos super-ricos - Governo Federal",
-      "snippet": "Ministérios da Fazenda da Espanha e do Brasil assinam Memorando de Entendimento para impulsionar a tributação dos super-ricos Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQYjhyZGg1OU9LUzNOd281aFhvdlYxaTdzbGFteWoxTWN3Y3pkWVFkUmVtWkhmM2JBRGw1SkdRMnk2SGhYczFDS21oYmVJYjJCaWdTbl9WV2NSUVZkaEp5U040a21DWFR1Z25CQXNwLWVFNE5KcEZlUlVNa1hqNEN5cWgyOVFhQ1ZzYnA4enRjYzFmVEVmazZGZ09tbHkyUE9YQ2NjdjZHbG0zOU9XWE9PTjlhUENJTndEa1RueHlQanZJNm5nd1dvcW5DX0ZfUTRLUmNXUExJdUpFY2hFdzNHd0JKcHhGSzhiS1haZGMyZHZBN2pWUkVyckZYV3VkWVhGQ1M4aWNWRENNa0cxcU4zdU9lUjg1LVV6ZkE?oc=5",
-      "published": "2026-11-10T17:22:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Ministérios da Fazenda da Espanha e do Brasil assinam Memorando de Entendimento para impulsionar a tributação dos super-ricos Governo Federal",
-      "summary": "Ministérios da Fazenda da Espanha e do Brasil assinam Memorando de Entendimento para impulsionar a tributação dos super-ricos Governo Federal",
       "summary_by": "descrição da fonte"
     }
   ],
