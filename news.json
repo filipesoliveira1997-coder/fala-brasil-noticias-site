@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-11T23:03:38.983084+00:00",
+  "updated_at": "2026-11-12T01:28:09.841941+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "marta-mostrou-o-que-era-poss-vel-a-mulheres-no-futebol--d908ca36020ea5",
+      "category": "Esportes",
+      "title": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça - CNN Brasil",
+      "snippet": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFlMcmJKM0NNOGRWX0s1cXNKdmhTdWpJOGdsbTdOUHpmTllkcmItOVRkMXA2ZEtyVGJ6WGxhM3JISU01Y1JXZS1jQUxCY2tWellDbFBFcVRSeS02NWFmbldUb1BEQzRhUzlTR1RtRnAxOEdaZC0xN0VhZ1hIT2pUUE5sM2gxXzZpdElVLUpvaTlrbk1ob2JLcWMyQlpZbUxhUG1BcWx3WjVoYURtRnlic2lLUGlqRk4w?oc=5",
+      "published": "2026-11-12T01:11:53+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça CNN Brasil",
+      "summary": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "flamengo-x-internacional-ao-vivo-pela-final-da-copa-do--c309c6aeb5d645",
+      "category": "Esportes",
+      "title": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe - GZH",
+      "snippet": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "source": "GZH",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONWhZMkllMld4b1NKbXhrR181WUd3bDRMRnBwM2pqb291MEhNMlRDSDl0NS1PMzBvU3E0NmROMkR1dEZvM1J3RXBrUDZ1RkpPS3hvS0VKZGlvZHFFSHlCMHRhYkZQZ1dOOFoxM3RXWXFzWmIzSWdHbW9MNlBfd2hHM1ZGcnBUMVFqUUpRSkdVenBMaFJObjNIYzNkT0U5WUZqcG5DZ2lZMEI1di1NQkZCQUFTT1lWTkRlSHRsWm1BdGNGSV9VWHdLUTZJSGVPc0NfVWJXVHZjM04yOEE0cTA4YVpDbVZ3SXlGZldGXzRjNDRVN2MzeUZsU0FMbDc5anZMakxnYXpQRVA?oc=5",
+      "published": "2026-11-11T22:53:27+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "summary": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "d-lar-cai-0-42-e-fecha-a-r-5-56-com-foco-em-pacote-fisc-d20e1fda190590",
       "category": "Brasil",
@@ -52,6 +80,20 @@
       "tone": "teal",
       "dek": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques CNN Brasil",
       "summary": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "proposta-que-facilita-transi-o-tribut-ria-ser-enviada-a-ef0f5843018d56",
+      "category": "Brasil",
+      "title": "Proposta que facilita transição tributária será enviada ao Congresso - Agência Brasil",
+      "snippet": "Proposta que facilita transição tributária será enviada ao Congresso Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFpRaVNPRlVaYVU2SzF2ejRFbFVoaUZDa3J3b3NRRTZjbDM0bnMzaVlkclZ5ZW5OUXAwWkRNR3hsNU5iLVY3ODhHbndsdW1iUUNCQ1hYUWp0TlhNOWJyRXVObm1ta2FUc3NucGhWQlN1YjdwTG9tdlcxdUlLRnp6LW1fdGl4S3VoVmw1QmladWUxRmRRZVNVMjRFbE9LYnBiQ3RpczdzdGpTVlU4V1ViYnhnd3N6V2Uwd0gydzQza0VDMGpj?oc=5",
+      "published": "2026-11-11T16:32:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Proposta que facilita transição tributária será enviada ao Congresso Agência Brasil",
+      "summary": "Proposta que facilita transição tributária será enviada ao Congresso Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -150,6 +192,20 @@
       "tone": "",
       "dek": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
       "summary": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pol-tica-de-inova-o-da-aeb-prev-apoio-a-pesquisas-empre-3d9eb16ffa8000",
+      "category": "Tecnologia",
+      "title": "Política de Inovação da AEB prevê apoio a pesquisas, empresas e inventores do setor espacial - GOV.BR",
+      "snippet": "Política de Inovação da AEB prevê apoio a pesquisas, empresas e inventores do setor espacial GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZGZ3cy1TQUJXcXJITi05cWNnbGJfSjN2WVhOZ25wRC1LNGwtam51WERoUXRYcTdUbjVVZHhoR0lzQjMxM09KMU1QdG9lUG9hbzZJN2d1cU8zbjE4RTIzUEk3NE5xUDVtRkxQZlhLS0FXQkQ1SmY0RmJ0RFMyWEpuMUthQ3l0Y0RTdDJPMUZ3M2hlcnBnaDJhZVBJaGx3QnQtUDFpN3BFazRrMmV4V0wyWEZxaEpaVk5CZldOZDdHdFFBeTB0OU11M3ZaSlBzeG51RlhBMUZuRXVQS2tVR0tWY25Qd1JlTG10WWZ3?oc=5",
+      "published": "2026-11-11T12:58:35+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Política de Inovação da AEB prevê apoio a pesquisas, empresas e inventores do setor espacial GOV.BR",
+      "summary": "Política de Inovação da AEB prevê apoio a pesquisas, empresas e inventores do setor espacial GOV.BR",
       "summary_by": "descrição da fonte"
     },
     {
@@ -643,6 +699,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "free-flow-governo-do-brasil-come-a-a-enviar-notifica-es-a460f2ee49e7a3",
+      "category": "Brasil",
+      "title": "Free flow: Governo do Brasil começa a enviar notificações oficiais sobre débitos pendentes - GOV.BR",
+      "snippet": "Free flow: Governo do Brasil começa a enviar notificações oficiais sobre débitos pendentes GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUVNTZkFzZHVzQzE0bDR3RE9IVUtBNUZ2cnMyNlBnMWhlSDZMRVZld3p1SFk2bkdocURRUDNxdjRIVkF2am8xQzRuLTFBMW9SN0llN0cxYjZ5cHYwZ0N6WWlJZTgtMkFvZlZzbHJTMjFYd0pldXNXbFAxY3YtdWpjS0pzTktlbXliODNIRFhnWDZyckcxTU1WZzVsdnRBZ1dxdm92elBwTTdOYzlzVnBSUHlBYU5oXzJCY1N1d0dnVnhjQ2JOVHljVlh3Q0gzc0FlejA1aEZZSGtFclo1di1PRi16UDFPN0k?oc=5",
+      "published": "2026-11-10T15:18:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Free flow: Governo do Brasil começa a enviar notificações oficiais sobre débitos pendentes GOV.BR",
+      "summary": "Free flow: Governo do Brasil começa a enviar notificações oficiais sobre débitos pendentes GOV.BR",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "no-dia-mundial-da-ci-ncia-samsung-am-rica-latina-destac-c1682afbe23b25",
       "category": "Saúde e bem-estar",
       "title": "No Dia Mundial da Ciência, Samsung América Latina destaca iniciativas gratuitas para incentivar cientistas e pesquisadores a desenvolverem soluções na área da Saúde - samsung.com",
@@ -780,76 +850,6 @@
       "tone": "",
       "dek": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas Agência Brasil",
       "summary": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "nvidia-por-que-infidelidade-do-chefe-da-empresa-com-sup-345b3ff7562105",
-      "category": "Brasil",
-      "title": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA - BBC",
-      "snippet": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wU2pPS2VUcXV4a2pyQTNxSFoxUUVjdVYxaWFJYk5FME94X1ROd3EwTi13MDB1blJBZklTdFBsNEkwSFp2SC1HM0gxYlg0dlh5X3E1ajJfbUVwRkoxdVlvSi1kUdIBaEFVX3lxTFBJb3h6NWtFTDZYRUk2b1B2NTFhM3ZiWDhBMl9rcTNiaUMwNkVLUDhDWWFSdG16WHBPYWdrTC0zVlZSYk9aQmVaZDlzaHZMTUtQZ1Z1eWlJeUMwRnREOUxic2Y1UFRkc0Jo?oc=5",
-      "published": "2026-11-10T09:31:46+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA BBC",
-      "summary": "Nvidia: por que infidelidade do chefe da empresa com suposta espiã da China preocupa EUA e o setor de IA BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "coca-na-o-novo-esconderijo-da-droga-no-porto-de-santos--1b1640c3a31a16",
-      "category": "Brasil",
-      "title": "Cocaína: o novo esconderijo da droga no Porto de Santos - BBC",
-      "snippet": "Cocaína: o novo esconderijo da droga no Porto de Santos BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBocnRTOE1kVm1UTEJIZFlDbENoUDdaWkpna21XSGp1dWVjTXJhVHNGT2xndGx2Y0s3QmpvYzBrUlRBQk56c2wyM0NmRzhFOFZadWdaRThjODl5bUtYdUt6SFZ2Y9IBaEFVX3lxTE9POThUQ2JvSUhTV2lsb1VEUE1vSHA0MTduLW5Tc0s3SkRGdGhpeXN6VUlaVmVybVJzdnE4WFFPc1J4aTF6a2k4Y2FWLU9KaHVRMlo1SG5NRjRGb25tLURiQkZveHRJZm9X?oc=5",
-      "published": "2026-11-10T08:28:38+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Cocaína: o novo esconderijo da droga no Porto de Santos BBC",
-      "summary": "Cocaína: o novo esconderijo da droga no Porto de Santos BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "aprimoramento-da-capacidade-tecnol-gica-e-da-inova-o-pa-9c81d2ed8beae8",
-      "category": "Tecnologia",
-      "title": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. - Vietnam.vn",
-      "snippet": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMmxpVEQta1ZEbS1tYlhHS2NaMXNibFdjNzItbVFfelpZNFhhV1ZvRVJtLW0wTzRsZ045V3hHU29QNUgzYWphOXFYOGVKekVHeTAzWnVVRF9udGNqVDN6RUx6dDJVMktneng1cUUya09tTm1rNEswemw1NHNWbEpleWlLTE1NcnBGeFRMYTRhWE1iZFlTazVhUmVLTWlSVElNbDV6UEs1dGZzSXhOYUcyZUpDajZKTHFpSl9Zd1BaWXR2dw?oc=5",
-      "published": "2026-11-10T04:57:45+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. Vietnam.vn",
-      "summary": "Aprimoramento da capacidade tecnológica e da inovação para empresas de processamento e manufatura na região Sul. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jogos-hoje-10-11-26-ao-vivo-de-futebol-onde-assistir-e--6cab72e5fc7bd3",
-      "category": "Esportes",
-      "title": "Jogos hoje (10/11/26) ao vivo de futebol: onde assistir e horário - O POVO",
-      "snippet": "Jogos hoje (10/11/26) ao vivo de futebol: onde assistir e horário O POVO",
-      "source": "O POVO",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMWtZREZ4eU55bXlPSy10RW9lb3NCZ25QS3M4WlJyS3dnYWhuVHNEeDQ4LWNyUXMyR1lHc1ZISDl6b2VXNjlLMnBVUVVLQUZtOXRrQUNqQnRNV2VFdWRfOFhjSnJaNTIzLTg3MGNvWkZ4ZUNra0RmcVp0OFdGc3FGY0x4TkZwZFg1QWxDOUhJZnhYS1ZqakxMTHJJbm0xc3QtcHZXR0ZBb2NKMENsblNQVmtiLTAtSm1hZTFaZHBOU0dSVUtVUVpCZmNLOEh4M3c?oc=5",
-      "published": "2026-11-10T03:10:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Jogos hoje (10/11/26) ao vivo de futebol: onde assistir e horário O POVO",
-      "summary": "Jogos hoje (10/11/26) ao vivo de futebol: onde assistir e horário O POVO",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "resultados-ap-s-quase-dois-anos-de-implementa-o-da-reso-b4f301e17184d7",
-      "category": "Tecnologia",
-      "title": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW - Vietnam.vn",
-      "snippet": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQclhhTTNxeTJfUXRnT3dlQUtqcWItU2s0M2l3eU9ELWJkSWJDVmZnTTNJMkwtSExkY3J6UUkzQ3EyT0VjU2I0OHFKZFQ2N1FoUnlPREdFOS1TSUJ5S2NEbFE4TmpIVjVpd0otaERFZG1mWFhLSDV0M09NRnBpR3Zaa1Q3bWQ0RDA?oc=5",
-      "published": "2026-11-10T01:34:45+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW Vietnam.vn",
-      "summary": "Resultados após quase dois anos de implementação da Resolução nº 57-NQ/TW Vietnam.vn",
       "summary_by": "descrição da fonte"
     }
   ],
