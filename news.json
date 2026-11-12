@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T07:34:56.154441+00:00",
+  "updated_at": "2026-11-12T09:15:03.892283+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "ci-ncia-tecnologia-e-inova-o-tornaram-se-a-nova-for-a-m-a7c5a7e67438c2",
+      "category": "Tecnologia",
+      "title": "Ciência, tecnologia e inovação tornaram-se a nova força motriz do desenvolvimento. - Vietnam.vn",
+      "snippet": "Ciência, tecnologia e inovação tornaram-se a nova força motriz do desenvolvimento. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPczBqcWd1dVlCYzF3QW9ZdGpCVUtNOXBUNVFwenZUTXNicFFjQm43N3ZGemZ2cm1WZTVjSW1zbXEwWDhRTFNVME5XUkZtWUR1NDJkTExrdi1ubktmQzFpTGJOS3JfNUN4NWUtdWJrRnVwemRtSmVJRWowNzJaUkJwRnVhaVBHQmtsbC1fWkNfZUFnbUs4eDZicWprSQ?oc=5",
+      "published": "2026-11-12T08:50:14+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Ciência, tecnologia e inovação tornaram-se a nova força motriz do desenvolvimento. Vietnam.vn",
+      "summary": "Ciência, tecnologia e inovação tornaram-se a nova força motriz do desenvolvimento. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "os-brasileiros-que-decidiram-morar-nas-grandes-metr-pol-0f5c78bee5d0d6",
+      "category": "Brasil",
+      "title": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver' - BBC",
+      "snippet": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver' BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qcm5pNmV2OEVuZm5DRlI5U3h4bDUtcWVzYjFQXzYzTXItcXN1ZDN5NXIxbm5pUm5uVXZkeURFTXhBMU9lc2xUdW9sUDc0aGtTcnBOMmNfZTFJaG0wSExxZDJn0gFnQVVfeXFMT05Pbjg0R3dSZDF1MkYwUWlSSFdXT1lUa0ktcjEzSm9GSzhOdlpNMHdSWkNQN29FOHdDUUtqOGRIaTRfSzNHTXJNTE9LcFRmd28tckpJTDdBelItV2FaYXllVGx0V2Zhdw?oc=5",
+      "published": "2026-11-12T08:37:13+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver' BBC",
+      "summary": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver' BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "o-ministro-vu-hai-quan-responde-a-perguntas-sobre-ci-nc-c3097be8a6a08c",
       "category": "Tecnologia",
@@ -122,6 +150,20 @@
       "tone": "red",
       "dek": "“Melhor secretário de Segurança Pública que temos”: Investigador da Polícia Civil, Douglas Pithon defende Marcelo Werner no comando da PF Política ao Ponto",
       "summary": "“Melhor secretário de Segurança Pública que temos”: Investigador da Polícia Civil, Douglas Pithon defende Marcelo Werner no comando da PF Política ao Ponto",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "d-lar-sobe-mais-de-10-frente-ao-real-ap-s-elei-es-no-br-275fc08b688652",
+      "category": "Brasil",
+      "title": "Dólar sobe mais de 10% frente ao real após eleições no Brasil, mas produtor segura vendas de soja à espera de novas altas - Notícias Agrícolas",
+      "snippet": "Dólar sobe mais de 10% frente ao real após eleições no Brasil, mas produtor segura vendas de soja à espera de novas altas Notícias Agrícolas",
+      "source": "Notícias Agrícolas",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcW5MNDdUeTdtY0t0eVlmTFVvOW91VTJWalAyTnlfLXRhN09pbHZTd2MxM1ltZWNqTWd3UHJmYjlkdEJlRTE3eVRUbE9WdHluVWRkOWZNc0RsTFBNTkFxajdiNXlSaXFZYUxWdXQ3emhYYlZQTHUtUUxCYTR3SGFnUEY5V1dsdFkyWDh1THFkRzdsM1hIRnRtcFo4WXhneTFrazE5Tk4wdHlDUGpnT2FvWGRVR0puZ2dqcWwxMFlMdG1MMW80Q3J3Ql95V1ZhUFl5S2ZDNktBN0I4Y0RKeTJ4U2xVZmhJQjJZSTZkcjJB0gHzAUFVX3lxTE5MOVRZRWN1cGhGdF9jYjhud0JxUkk1QjdtSmNNZnQ3d2h3WXN1QUQzUVBobmwtV0hJMFVXT1NCSnJzVWJ1Tno2TFk1SVpSZGUtMC1udl8wQXhzNkJ0VjdNOVNtNkV1LUtGek9PMWlvcW52NlExcjJadUszVVgyUHk5SElxZ29zNDNZTEVERUlaalRSTHNvYnZSazFDdUJaU1ZhdnRvWmlhUy1KRllLeHVtWG1wVWEzaFVCeEtXdmNmeE51T1BybGxxQXNVejdqZk55UTFZZzRrcWFsdHRiMnhVRC04N3BmdDY3TUhRSDJrZ0ctVQ?oc=5",
+      "published": "2026-11-11T19:07:28+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Dólar sobe mais de 10% frente ao real após eleições no Brasil, mas produtor segura vendas de soja à espera de novas altas Notícias Agrícolas",
+      "summary": "Dólar sobe mais de 10% frente ao real após eleições no Brasil, mas produtor segura vendas de soja à espera de novas altas Notícias Agrícolas",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "red",
       "dek": "No Dia Mundial da Ciência, Samsung América Latina destaca iniciativas gratuitas para incentivar cientistas e pesquisadores a desenvolverem soluções na área da Saúde samsung.co",
       "summary": "No Dia Mundial da Ciência, Samsung América Latina destaca iniciativas gratuitas para incentivar cientistas e pesquisadores a desenvolverem soluções na área da Saúde samsung.com",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ap-s-alerta-da-defesa-civil-nacional-sobre-kit-de-emerg-fb7f94d9707650",
-      "category": "Brasil",
-      "title": "Após alerta da Defesa Civil Nacional sobre kit de emergência para 72h, órgãos estaduais descartam riscos de desastres - O GLOBO",
-      "snippet": "Após alerta da Defesa Civil Nacional sobre kit de emergência para 72h, órgãos estaduais descartam riscos de desastres O GLOBO",
-      "source": "O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdFItU2kzUGd3bUF3aFU0c2dWX1U5WmNVbkowckh2SjRDUnpiT21RNTF2YnFOdVFWQ3NpSklRVWVOeDh5NXdUODZ1eE15NFk4d01BOFZ0Vllnc1NOVEdEOW5oQ25US0JHRGx6QVJOY1lWZkxtcVRCSWl1NXFmSTFuNmFxZHROa01DZFg5V3prckhkb25RNTlJTE53MGFubEhIMXdFM0MwRnA1bkM3WEZnZi1aYWV0WWNmdlNjeTJXSFNsaHhEaWVkcWIwY09adzdfenVMVXVsYm14aTBsb3ZlS21Uem5xVUF2a1ZhQWVZWEFhQdIBgAJBVV95cUxQNWFnZmFXby1zdElyTjdNdTAzcUZNRllxV3E1Nm0za1lVbUJOWFN6Um1uWlJMZ29BTWxxblNseDdDcGQtczVvUmhqWWpycjRXcWRSblp0TDdnclVFNWlqd1lIZHJYWTIzams5Tno3Ti1ya3d2ZWhUbTJWYXJVSkVTejVwakNIQjE1cWpLZUx6dVU4VGczUEtlUDQtWkpQZGI1d0pSdlZkcFdmQ3lvOTFhTTZrTTl5UUNxN0NWU21XcXlSLTdaVW1RTG9wUHdrXzRSbEI3MkRsaGdqRlVEOGhNbmk4TW04ZDd6VmRpUDJrT1hFWWpOTFdLVHp1azlHckZh?oc=5",
-      "published": "2026-11-10T13:50:13+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Após alerta da Defesa Civil Nacional sobre kit de emergência para 72h, órgãos estaduais descartam riscos de desastres O GLOBO",
-      "summary": "Após alerta da Defesa Civil Nacional sobre kit de emergência para 72h, órgãos estaduais descartam riscos de desastres O GLOBO",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mercado-da-soja-tem-neg-cios-lentos-e-pre-os-mistos-no--d7a27f1b65cb88",
-      "category": "Economia",
-      "title": "Mercado da soja tem negócios lentos e preços mistos no Brasil - Portal PaNoRaMa",
-      "snippet": "Mercado da soja tem negócios lentos e preços mistos no Brasil Portal PaNoRaMa",
-      "source": "Portal PaNoRaMa",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZUJiZVJJYU44b2tIemUzZDZubW9PQVdQRFh5Z2NCMUJINDZzUi1RaXFzSkJZRjRVTDRUZVJ5SGVsMmtJQ1NLSV9FdXFCU3Bnck15S0VIWTN3M3d4TjhsbDNWdW9UN0VZbElJaVJsN2NTS2d3djJVQ0c3SlU0VDJva0Y3UjFmZHpB?oc=5",
-      "published": "2026-11-10T13:23:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Mercado da soja tem negócios lentos e preços mistos no Brasil Portal PaNoRaMa",
-      "summary": "Mercado da soja tem negócios lentos e preços mistos no Brasil Portal PaNoRaMa",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-grande-debate-inqu-rito-das-fake-news-durou-mais-do-q-b5ac83f2d2c232",
-      "category": "Brasil",
-      "title": "O Grande Debate: Inquérito das fake news durou mais do que devia? - CNN Brasil",
-      "snippet": "O Grande Debate: Inquérito das fake news durou mais do que devia? CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdmFUdXJkWVFCY3JWeFJ0S3d3WG9XMWFidUJBRlotWXRVVkZJSjZyTUFwZmFzVHNCdTV2LUNtWG1MSVdleHJ5ZDhVSFdLbkg3RDFKcHhCSVhUQ1lLODI3c0FkUjZIbjFPNExVYW0zdXlrdUtiRWE5bV9mUkRodlI1MzFabEdybm1yT3BkaDR0Z3NYOUFhM1Z5NFVPV1hCbW1hbnNvcA?oc=5",
-      "published": "2026-11-10T13:09:33+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "O Grande Debate: Inquérito das fake news durou mais do que devia? CNN Brasil",
-      "summary": "O Grande Debate: Inquérito das fake news durou mais do que devia? CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
