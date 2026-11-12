@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T21:01:12.203887+00:00",
+  "updated_at": "2026-11-12T22:58:28.502047+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "meta-exibe-mais-de-700-an-ncios-de-bets-proibidas-revel-cbb5d4330ec9ae",
+      "category": "Brasil",
+      "title": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC - BBC",
+      "snippet": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTkhael9tdzNWdkRIQWszcFR5R1B6OWhmcG5LRWR5dS1WbDBqeGpaVWRLVEdYMV8zRFVNT3NkTV84bTc0Ylp3SjRNb2hnU1JKeHc5bzZiYmNRVEZRMnpxV3JuSQ?oc=5",
+      "published": "2026-11-12T21:45:26+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC BBC",
+      "summary": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "outlook-falha-na-microsoft-deixa-email-fora-do-ar-email-9b0af21fca4b6f",
+      "category": "Brasil",
+      "title": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe - BBC",
+      "snippet": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UeHJuZnpRUDlRQmZfQU9heTJFaFZjMlo2OW1YN0tZREY3RGtJVzZxQ1FFUkhzYlpkLTlTMTBKeU1wZ1IzakZPQzQ2ckJNbTNnQVhld2xaRkh6Y2hKZlZrUDlIONIBaEFVX3lxTE9ndkNIckJLMWZDeHFwV2ozMHpLdEcxczhaa1ZyUnRxYlcwN3pFTHBQSnBBSjAydzJ5bHd3dGZFQkxKVlN0MllDd3UzMV9TaTljVGd4VTdJa0tCamgwRm5mSEFUUVA2aVNr?oc=5",
+      "published": "2026-11-12T21:37:12+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
+      "summary": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "raquel-lyra-participa-de-debate-sobre-inova-o-e-desenvo-735dd5112029fe",
+      "category": "Tecnologia",
+      "title": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play - Blog Cenário",
+      "snippet": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play Blog Cenário",
+      "source": "Blog Cenário",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlpjQTZMZjdSbjVZajEzcUxsZENiaWozbFRtLV9uWUFGNVVjcTNlTWttZTZESVhUcy1mLTE4ZlNiUVliUThiQmVVa0x4cVVHTzM4RjRsRldEb0dsSXBBTFVLakNQZzRBSW5UVGNxc1JETDM3VXBjWVE2czRsN0RDWUNPOUNNNTdjZ3EyRFFsTDBQX2ZNUWRmbjJKak9ZWW8zQ2ttZlJscjlLdm1rdnBDdWg5dzI?oc=5",
+      "published": "2026-11-12T20:50:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play Blog Cenário",
+      "summary": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play Blog Cenário",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "lula-diz-que-brasil-tem-mais-autoridade-para-discutir-c-075fda8c50ce0c",
       "category": "Brasil",
@@ -84,23 +126,23 @@
     },
     {
       "id": "congresso-muda-or-amento-em-favor-da-copa-do-mundo-de-f-b533a6b495be4c",
-      "category": "Brasil",
+      "category": "Esportes",
       "title": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino - Agência Brasil",
       "snippet": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
       "source": "Agência Brasil",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzl3aWxmOXJNVGROaVNEN2RCTXc5S0Zmbjh4TWJ2RFpQdDk2UFUtUW11MEtzc1BuUm1zM1BXTHB1RFR2a3lPR3QxSDZrbEZ4Wk9mTkE1Wlc0SW5CZlZnRFZDNUJuMEJESHR2cXdtekVKTU1QVHY0bXMyZWZRNzV5UG9QMG85ckRrU3ZaSHlnMWFNZzRzeWlhOWtxb1RuMTF5V21TSDlQYzVZQ1UtSDdTVTJKcGRxcHlfcEFTSklHbnBjMDg?oc=5",
       "published": "2026-11-12T16:47:00+00:00",
       "image": "",
-      "tone": "",
+      "tone": "teal",
       "dek": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
       "summary": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "banco-do-brasil-desaba-quase-10-na-bolsa-ap-s-lucro-des-eb0e9ef4b8c4c2",
+      "id": "pior-n-vel-em-quase-5-anos-por-que-as-a-es-do-banco-do--eb0e9ef4b8c4c2",
       "category": "Brasil",
-      "title": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026 - G1",
-      "snippet": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026 G1",
+      "title": "'Pior nível em quase 5 anos': por que as ações do Banco do Brasil derretem quase 9% na bolsa - G1",
+      "snippet": "'Pior nível em quase 5 anos': por que as ações do Banco do Brasil derretem quase 9% na bolsa G1",
       "source": "G1",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlBiSEwxbm9mNHBFNWxEUkFSYXE5ZllvUHVKUEZhM01FRVkwLW1Jc1I5aV9GcTJ0Q0tJd0tfSUgwc3lHelAyNDdZeS1HczM3UDBwcTIxM2paU2s5WTVMSW81M3Jwamg4bDY5b3hVMmotaHlySGE3UDNYM1F2NjhRNG1sQUdzSC1QczhMUDIxZE1zeE9MNV9V0gGmAUFVX3lxTFA0d0xHUEl1bGNLZDBxakdDZ0lOSXoxemFCVVM0aDRBMk5XenhaaDFIcWlRNHpIYUp5cUxFUTRReU5mOHhXTXFrYU93OGdzMlF2ZlE4amkwVUQtSHdReWtFMHhvdEtaLW1sRk0tTlpIdWI1aUN4Q1NDSTRkQ3EzS3NuNnBMZzlIQ1k5eGRpMHZ5S2tSc3A5RGNSd25kT1lPdXhDNkhYRWc?oc=5",
       "published": "2026-11-12T15:05:45+00:00",
@@ -808,48 +850,6 @@
       "tone": "teal",
       "dek": "Dirigente reforça lado do Palmeiras sobre convocados: \"Não fomos avisados\" CNN Brasil",
       "summary": "Dirigente reforça lado do Palmeiras sobre convocados: \"Não fomos avisados\" CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mariah-carey-no-brasil-datas-ingressos-e-repert-rio-dos-a258b5e6a4a08f",
-      "category": "Entretenimento",
-      "title": "Mariah Carey no Brasil: datas, ingressos e repertório dos shows de Natal - Jornal da Orla",
-      "snippet": "Mariah Carey no Brasil: datas, ingressos e repertório dos shows de Natal Jornal da Orla",
-      "source": "Jornal da Orla",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ub1F3dml0Wm1DMEIyNF9MYTFlUU1leFJBMV9Ldno5TGV4cW9TSGVBNWY3UjhwTks1aVNXb1JMbnJhelN0RUNJNzJTM1p0VVNUVGstaTJXUkI5X1BWUjdoSnpBeEZXOEpjLTlZcGJYYWdMbFM3N1NDRmRNZUIzczA?oc=5",
-      "published": "2026-11-11T02:00:00+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Mariah Carey no Brasil: datas, ingressos e repertório dos shows de Natal Jornal da Orla",
-      "summary": "Mariah Carey no Brasil: datas, ingressos e repertório dos shows de Natal Jornal da Orla",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "diretor-do-corinthians-abre-o-jogo-sobre-sal-rios-e-n-o-91a9ed7dbf38d3",
-      "category": "Esportes",
-      "title": "Diretor do Corinthians abre o jogo sobre salários e não dá prazo de acerto - CNN Brasil",
-      "snippet": "Diretor do Corinthians abre o jogo sobre salários e não dá prazo de acerto CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFY3b1N5ckxZLTlHbENkTzJKM0t2UDUzZktHYXg3Tnd5c2N2ZnVwN2VvdU1WOG5DRVJmQXA3dE01Z2s2UmNhaDFoLUxRNHJyZWFKbU4wdXpUMlRweFhDb2t3aWFQRHBLZDhhUnJrMkhZdnlBX1RBak5heE9ldnRWME10ZHNSMUpDcTM2VUhtWlN0Y0dFTE94NTF2cEV3bjZnUVZPMGI1aHMzUHo2WHdYOUQ4c3ZNZnpJWjVWMFVDQzVVNnlkWUZHV1lyRkJ5dw?oc=5",
-      "published": "2026-11-11T01:59:26+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Diretor do Corinthians abre o jogo sobre salários e não dá prazo de acerto CNN Brasil",
-      "summary": "Diretor do Corinthians abre o jogo sobre salários e não dá prazo de acerto CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "tse-multa-meta-em-r-7-5-milh-es-por-descumprir-decis-o--40d4c591771021",
-      "category": "Brasil",
-      "title": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições - Agência Brasil",
-      "snippet": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRmN2dEhPOVJvRUl4U1k5LU9HSGE5WHdNRUVrY1NTcUVBOWlKSHhNc19kZmExVElUQWdtUmpIclZfRXhPWWVfR0lieUwxSVFROUI3Qjh2Q2dqWXpBTG5fc0xfckVUVkV0WEx1c3V1WEV5QjZibDRoNGVFTFUtSE45NWFXMUxPNDFNeGcyYURNYXBZMTZ1dUZweDhJTUdVUEM3OE54ckFFSHhORU5tTU1HNzhmWXlibEdvYUJEa1VOWGo?oc=5",
-      "published": "2026-11-11T01:56:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições Agência Brasil",
-      "summary": "TSE multa Meta em R$ 7,5 milhões por descumprir decisão nas eleições Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
