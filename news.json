@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T17:16:13.507039+00:00",
+  "updated_at": "2026-11-12T19:11:49.555274+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "fiocruz-aumentam-casos-de-s-ndrome-respirat-ria-aguda-p-f68b82c011764e",
+      "category": "Brasil",
+      "title": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19 - Agência Brasil",
+      "snippet": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19 Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZy1seFVIRUdYeHNfbWg3SjVleXhPZEp0MWxxeUdzV3FFRV9SSDdSOFR1Q0l6bWtvd3pneEJHbk9Wa3hwTFZ3TVB1UmVPMEw2MlVYMEEtbVVsd05EM0lGdDZLVThqTjU0V29oUkM4a3B5U1VpWkpQVjlfUkFrR0Z5a1JBdTJla1NSTU5acDRoN1lvSEkzSC01ZGU2UjF6SDJrNjBGWFZHWmprVERBYW1idFd5MWxGS1hidlkwYkp3?oc=5",
+      "published": "2026-11-12T17:43:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19 Agência Brasil",
+      "summary": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19 Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "como-os-eua-se-voltaram-contra-trump-bbc-6461025e8cb66d",
+      "category": "Brasil",
+      "title": "Como os EUA se voltaram contra Trump - BBC",
+      "snippet": "Como os EUA se voltaram contra Trump BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM01leUxndm5qU1hrRE5YY2VKLS1ReWFRMmNGZ3Y0SVE4dDMzWXpLRXk4eTZKeHdUNVBILXJkX2R3aU04SklRRGFBUk83OWFwUFIycnhEMThBVDd4VFJreVB2RkIzcDRpVzJpWXFlc0MtQnFXbEpHejJJV3loaC1HdlMzLTRhcGlF?oc=5",
+      "published": "2026-11-12T17:01:50+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Como os EUA se voltaram contra Trump BBC",
+      "summary": "Como os EUA se voltaram contra Trump BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "congresso-muda-or-amento-em-favor-da-copa-do-mundo-de-f-b533a6b495be4c",
+      "category": "Brasil",
+      "title": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino - Agência Brasil",
+      "snippet": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzl3aWxmOXJNVGROaVNEN2RCTXc5S0Zmbjh4TWJ2RFpQdDk2UFUtUW11MEtzc1BuUm1zM1BXTHB1RFR2a3lPR3QxSDZrbEZ4Wk9mTkE1Wlc0SW5CZlZnRFZDNUJuMEJESHR2cXdtekVKTU1QVHY0bXMyZWZRNzV5UG9QMG85ckRrU3ZaSHlnMWFNZzRzeWlhOWtxb1RuMTF5V21TSDlQYzVZQ1UtSDdTVTJKcGRxcHlfcEFTSklHbnBjMDg?oc=5",
+      "published": "2026-11-12T16:47:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
+      "summary": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "banco-do-brasil-desaba-quase-10-na-bolsa-ap-s-lucro-des-eb0e9ef4b8c4c2",
       "category": "Brasil",
@@ -27,10 +69,10 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "bb-acusa-produtores-rurais-de-calote-deliberado-e-endur-6ea03cec835c0a",
+      "id": "bb-acusa-agroneg-cio-de-calote-deliberado-e-endurece-co-6ea03cec835c0a",
       "category": "Brasil",
-      "title": "BB acusa produtores rurais de calote deliberado e endurece cobrança - UOL Economia",
-      "snippet": "BB acusa produtores rurais de calote deliberado e endurece cobrança UOL Economia",
+      "title": "BB acusa agronegócio de calote deliberado e endurece cobrança - UOL Economia",
+      "snippet": "BB acusa agronegócio de calote deliberado e endurece cobrança UOL Economia",
       "source": "UOL Economia",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ2tsbUZXNlJOQUhqUjZxbWRkRjhvX0pGYU01VVp1R1NqdHVLemhBYzZPWnRTQWpZeF9TU09MbFVmakU5bnZNSjBmak9WQmxSQXM4eWg1b2ZwcHFNc2pWcFRVejVGR0ZnWWh2RnJPNHhyb1Rwb0V2N3A4UDhYaUtRRTU4UnIyOXNjM2RqUXFJa1RfWFlrQ2ZsUkZaTUJBYTNaRm5rLURZdkpVamJZWXJidXdhdGdCdE5MT2tCbnY1MU1tQkdhekRN?oc=5",
       "published": "2026-11-12T15:00:07+00:00",
@@ -66,6 +108,20 @@
       "tone": "teal",
       "dek": "Veja provável escalação da Seleção Brasileira para enfrentar o Japão CNN Brasil",
       "summary": "Veja provável escalação da Seleção Brasileira para enfrentar o Japão CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "alertas-de-suposto-apag-o-mundial-em-17-de-novembro-vej-24786a29f2b69c",
+      "category": "Brasil",
+      "title": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas - G1",
+      "snippet": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGxjb0NIWm1LZ0ZzN0RsMUtQT21qQlYzSUdTRVRJeHhvN1dWc3dZSzVCOWl3WlBuMGlvTnI3R3V1N1BkQmw5eDRMN0pETnBaNzZWNEliUERsV25IRjhSOW5CcVg3LW5BdTBOU2dtZjlYMnZ1UFV6cHJGT2tMQkZtN2JpLW1WZXB5Y0NVSXhqZVhYWG1fcmtTWDBkckZUWUNvcWJad0t6aVpXTlExb3hoMDR6MmZTRjZWMmdnakEta2V1TFhZQkFiT0Z30gHYAUFVX3lxTFA3VllsajJoZ1hmYk14SlA4WDN4MGZrY3JpSXNzdWxwT2gwTzhCbHBvR1gyekF2emdfNE9FNDYzWV9rdGlRZTRwN193ejVvYWlqcEU0NkU1LVZhbzAxNTZUenN0SDVEMkhzM09RN1NkTHR4bFIxbEtBbjhrOVN3WnJzbkt2N2ZqT0lYQTlKakg2Ukg2ZmVhVWsyaFdjTlYteEVyR2ZxUUdBRVpuYXFBaERXODJwTG9zQ29OcWw2MV9xNXVTNFZwY1U4RmhpLWxxMEZfOVptZHdsbw?oc=5",
+      "published": "2026-11-12T13:57:29+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas G1",
+      "summary": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "purple",
       "dek": "Guarapuava dá mais um passo para fortalecer a inovação com criação de sistema municipal Paraná Central",
       "summary": "Guarapuava dá mais um passo para fortalecer a inovação com criação de sistema municipal Paraná Central",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "fim-da-clt-para-pol-cias-municipais-decreta-moralidade--8f0d5165c8500d",
-      "category": "Polícia",
-      "title": "Fim da CLT para Polícias Municipais decreta moralidade administrativa - Consultor Jurídico",
-      "snippet": "Fim da CLT para Polícias Municipais decreta moralidade administrativa Consultor Jurídico",
-      "source": "Consultor Jurídico",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRXdCU0pZQ0tDYkY5TG1NOUNVRmZxZmM3MDYwSVYwTE4zRU9PWmE5TDJJdEdWR2JnRWdLRUYxQkxNUE5jMEdzMkdMZXpfWk9aeVZPZTV2ZFk5YzdEZVU4eGJkZ1JHRXNyZDNvRDVkVGd3cllBVGdhWHphcnRjSlV2aA?oc=5",
-      "published": "2026-11-10T23:31:05+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Fim da CLT para Polícias Municipais decreta moralidade administrativa Consultor Jurídico",
-      "summary": "Fim da CLT para Polícias Municipais decreta moralidade administrativa Consultor Jurídico",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "nova-plataforma-do-mdic-identificar-oportunidades-de-co-9a3e2d78d027c9",
-      "category": "Economia",
-      "title": "Nova plataforma do MDIC identificará oportunidades de comércio com UE - Agência Brasil",
-      "snippet": "Nova plataforma do MDIC identificará oportunidades de comércio com UE Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaGpLY2NZVVF4cHNHUGNoRmxVTjVKMk16YTNNMDNUbGNuVk42dkFIUDAza1ZqeHU1Yi1BRnFvbS1VX3JDSEVXRGtUcEdFR0xVNFdtajBVRGlGdHNwVkd5Wjh4VUY3X1I5eDdvS2picU1Fd0dRdkFVeWVjdGNCb0RHb0JNQ3VZdnRaSDJ5Rjl6a09CLUVIb09Oa2NYU0dOOGpITi1LU1JvSDNReXVobnRETG8tc0Q2U1kyalpJa253N2hzT3ZMTkE?oc=5",
-      "published": "2026-11-10T23:08:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Nova plataforma do MDIC identificará oportunidades de comércio com UE Agência Brasil",
-      "summary": "Nova plataforma do MDIC identificará oportunidades de comércio com UE Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mec-aprova-diretrizes-para-uso-de-ia-em-cada-etapa-da-e-48fb321a2640f9",
-      "category": "Brasil",
-      "title": "MEC aprova diretrizes para uso de IA em cada etapa da educação - Agência Brasil",
-      "snippet": "MEC aprova diretrizes para uso de IA em cada etapa da educação Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOclJKUEYydVQzUjJndzRBY0w5UGc3SVd1RDV4Q0tkRkJTVUs0ajB2LU40Y2h1N2JndVUyZTZ0MXdWRXBxT244RFVKSGFFRDNXdExmYmpkb2JCRnFZODZZLXNxNk1Tci1DazY1eVloVUdWRnR3cVc3RFEtMFc0N0N0YldpMVF6YU5WTWJEcDVMRXE5N0lIVHQxRVpYWlVKNUgxWkcyRE1RNER4aEJNT0YtSVJNOEJrTm9sYk5aSA?oc=5",
-      "published": "2026-11-10T22:26:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "MEC aprova diretrizes para uso de IA em cada etapa da educação Agência Brasil",
-      "summary": "MEC aprova diretrizes para uso de IA em cada etapa da educação Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "covid-19-casos-e-bitos-seguem-em-queda-no-brasil-minist-1a0a56e0743196",
-      "category": "Brasil",
-      "title": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde - Governo Federal",
-      "snippet": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjF4bC1CYzkzU1ppZUNMVkZ2NU1iaUprbEZGUUZFX2F6UDBBcGJ4MXdsUVM3YWlwckZsajZub2pQajBLcFdjOWpxekxTd2MxX2ZvNnMwTUw3LV82TDZVMkNXUDFlc2l0OGF5VWJ1SVk1cG5lMW5YbUY3dU1McDJZWTE2UVZPTEtzcTgyN2kxRUhodVlzcElfYVVoNHotYWNPOWdEb3ZsSl90c0pieFY5Mk5R?oc=5",
-      "published": "2026-11-10T21:21:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde Governo Federal",
-      "summary": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde Governo Federal",
       "summary_by": "descrição da fonte"
     }
   ],
