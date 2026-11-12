@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T15:09:09.908060+00:00",
+  "updated_at": "2026-11-12T17:16:13.507039+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "banco-do-brasil-desaba-quase-10-na-bolsa-ap-s-lucro-des-eb0e9ef4b8c4c2",
+      "category": "Brasil",
+      "title": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026 - G1",
+      "snippet": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026 G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlBiSEwxbm9mNHBFNWxEUkFSYXE5ZllvUHVKUEZhM01FRVkwLW1Jc1I5aV9GcTJ0Q0tJd0tfSUgwc3lHelAyNDdZeS1HczM3UDBwcTIxM2paU2s5WTVMSW81M3Jwamg4bDY5b3hVMmotaHlySGE3UDNYM1F2NjhRNG1sQUdzSC1QczhMUDIxZE1zeE9MNV9V0gGmAUFVX3lxTFA0d0xHUEl1bGNLZDBxakdDZ0lOSXoxemFCVVM0aDRBMk5XenhaaDFIcWlRNHpIYUp5cUxFUTRReU5mOHhXTXFrYU93OGdzMlF2ZlE4amkwVUQtSHdReWtFMHhvdEtaLW1sRk0tTlpIdWI1aUN4Q1NDSTRkQ3EzS3NuNnBMZzlIQ1k5eGRpMHZ5S2tSc3A5RGNSd25kT1lPdXhDNkhYRWc?oc=5",
+      "published": "2026-11-12T15:05:45+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026 G1",
+      "summary": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026 G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "bb-acusa-produtores-rurais-de-calote-deliberado-e-endur-6ea03cec835c0a",
+      "category": "Brasil",
+      "title": "BB acusa produtores rurais de calote deliberado e endurece cobrança - UOL Economia",
+      "snippet": "BB acusa produtores rurais de calote deliberado e endurece cobrança UOL Economia",
+      "source": "UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ2tsbUZXNlJOQUhqUjZxbWRkRjhvX0pGYU01VVp1R1NqdHVLemhBYzZPWnRTQWpZeF9TU09MbFVmakU5bnZNSjBmak9WQmxSQXM4eWg1b2ZwcHFNc2pWcFRVejVGR0ZnWWh2RnJPNHhyb1Rwb0V2N3A4UDhYaUtRRTU4UnIyOXNjM2RqUXFJa1RfWFlrQ2ZsUkZaTUJBYTNaRm5rLURZdkpVamJZWXJidXdhdGdCdE5MT2tCbnY1MU1tQkdhekRN?oc=5",
+      "published": "2026-11-12T15:00:07+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "BB acusa produtores rurais de calote deliberado e endurece cobrança UOL Economia",
+      "summary": "BB acusa produtores rurais de calote deliberado e endurece cobrança UOL Economia",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "livro-independ-ncias-do-brasil-golpe-ou-revolu-o-descob-b7b303f73753ac",
       "category": "Brasil",
@@ -27,6 +55,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "veja-prov-vel-escala-o-da-sele-o-brasileira-para-enfren-71230673427c3f",
+      "category": "Esportes",
+      "title": "Veja provável escalação da Seleção Brasileira para enfrentar o Japão - CNN Brasil",
+      "snippet": "Veja provável escalação da Seleção Brasileira para enfrentar o Japão CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNY1NoOFZNaVZucGdBS2tzQi1qUS1pNlpSMDczTXhNd1Y0dnpwczdGOXpDZ0dsZzdjZ1g4VnhkWjdRcUxwQ25GVXNfRGhNQURVUzI0djZaTVAtV1RvMXIzbDZHWlRvRDQ1NUxreU1WNl9EVEdBVW55azBRUUFhSHJQck9YMjQzTUNiQ284cG5zM2VXa2lUOG1kalRCem5GeXRLQmtEWlFUMlZkRmoycFFxcDBmaDJKWU9oeFZHd0hkLTR2c3dRUHVlank4Q2ZyVFk?oc=5",
+      "published": "2026-11-12T14:01:56+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Veja provável escalação da Seleção Brasileira para enfrentar o Japão CNN Brasil",
+      "summary": "Veja provável escalação da Seleção Brasileira para enfrentar o Japão CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "temporais-avan-am-pelo-brasil-e-colocam-centro-oeste-e--f624eca5192f7f",
       "category": "Brasil",
       "title": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta - Notícias Agrícolas",
@@ -38,6 +80,20 @@
       "tone": "",
       "dek": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
       "summary": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "clubes-criam-a-es-para-conciliar-maternidade-e-esporte--ecd5128af213e8",
+      "category": "Esportes",
+      "title": "Clubes criam ações para conciliar maternidade e esporte; entenda - CNN Brasil",
+      "snippet": "Clubes criam ações para conciliar maternidade e esporte; entenda CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWlIb0JiWVk2YXpibDlNMUdrWWducml0ZDUtNEp2VmdveHpSZG9nZWpwZEl5ZUNHNEpGeWF1YUJGVkFHQktVMVYwNXgzOG1TQTQ3ZklUSHdQZkVvN2wzMGczMDFGZzZRd3BEMzNuamVfWEpWdjRpWXoyZFluS2thaks2QzBsWFZWWkJuWEUtaW4yYTEtaGY1OGpxcldnTVhlU3ZKU1dqOWpWaG93QnIw?oc=5",
+      "published": "2026-11-12T12:49:32+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Clubes criam ações para conciliar maternidade e esporte; entenda CNN Brasil",
+      "summary": "Clubes criam ações para conciliar maternidade e esporte; entenda CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -223,6 +279,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "lucro-do-bb-cai-66-5-no-3-trimestre-com-inadimpl-ncia-d-b20300aaf39977",
+      "category": "Brasil",
+      "title": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro - Agência Brasil",
+      "snippet": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0xzb0syWWlraDBlQVlzcVhrSmhOOVk4V21WdXcyZWtJZnZsejZ3azRPTm9VMGxYNFNsOGhNMFhLc1p3X1oxR0FIazFLWlpKeHNmX2tpTVVLaHNzb0NHbkRZTVlMaHN5aEhkTEpFTjJQZ3pTcTNlcmxsdW11ZUc0eTdSc1lfcDZhclFMZ1hJZ29BMXpBSU1DSnVWUDVqVTF5OUdyaHpFUjg5QUduWU45YVdaM2pRdUwwenF3?oc=5",
+      "published": "2026-11-12T01:20:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro Agência Brasil",
+      "summary": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "marta-mostrou-o-que-era-poss-vel-a-mulheres-no-futebol--d908ca36020ea5",
       "category": "Esportes",
       "title": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça - CNN Brasil",
@@ -276,6 +346,20 @@
       "tone": "teal",
       "dek": "Seleção dos Estados Unidos mira Guardiola em caso de saída de Pochettino CNN Brasil",
       "summary": "Seleção dos Estados Unidos mira Guardiola em caso de saída de Pochettino CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "kit-de-emerg-ncia-o-que-colocar-na-mochila-e-por-que-vo-d900e6d0a41d11",
+      "category": "Brasil",
+      "title": "Kit de emergência, o que colocar na mochila e por que você deve ter uma - BBC",
+      "snippet": "Kit de emergência, o que colocar na mochila e por que você deve ter uma BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBneW8wc2pCSUV4SEE4OERPZV8xUWszRUtRbmx5VHRzYm9xandUYzV3OF9mWE9fY3RIRjB3SE1UcllUYXNhVTJ6eUxKZHpCM0JWZ21DaVFwOHZaVVBLbVdPbXNyd9IBaEFVX3lxTE5leW92TUhuWnhzN1pUMngxWEdQMEVRd01CazlzTVZuam9iV21tQmZpWGJYc2lfUmVWa0RNLWJCQXQ3LTlEbklESVdDRzBWR1JmdWx2aGtnYzBKbGdQQnh2eGpUVUxVVzBy?oc=5",
+      "published": "2026-11-11T21:01:26+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Kit de emergência, o que colocar na mochila e por que você deve ter uma BBC",
+      "summary": "Kit de emergência, o que colocar na mochila e por que você deve ter uma BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -766,90 +850,6 @@
       "tone": "",
       "dek": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde Governo Federal",
       "summary": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jornal-ingl-s-elege-maradona-como-maior-camisa-10-frent-1fb451a06b0b3f",
-      "category": "Esportes",
-      "title": "Jornal inglês elege Maradona como maior camisa 10, à frente de Pelé e Messi - CNN Brasil",
-      "snippet": "Jornal inglês elege Maradona como maior camisa 10, à frente de Pelé e Messi CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQTW9HLTB2am9NM084ZW1YTHNMb0VWUVU0R1BsamlOcVFNNmdBaExnbHgtcUpVWVRadnB4bkNCQXFJdER3VXhIQk9DcGd0ZHlkTDU5RUpXLUZwLXI1ZUNBVHFpanRKSjhVV3BsY19oa0swREdGeFdvMmVWQjFabG5IWWNCYkhsZThRaUJZVkgtVV96aXVIX3BzUnJqS2ctMll0NFlITnIyQjdoQ0o4MXVRNGxYZFRwbER1bW42MXUzb3lIU0kwT3NUMnozTDBrSEdPRDZXSkVGLU9rZTA?oc=5",
-      "published": "2026-11-10T20:44:34+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Jornal inglês elege Maradona como maior camisa 10, à frente de Pelé e Messi CNN Brasil",
-      "summary": "Jornal inglês elege Maradona como maior camisa 10, à frente de Pelé e Messi CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "policial-gay-e-petista-deputado-eleito-em-goi-s-quer-ap-a97eb0002b6899",
-      "category": "Polícia",
-      "title": "Policial, gay e petista: deputado eleito em Goiás quer aproximar segurança pública e esquerda - Brasil de Fato",
-      "snippet": "Policial, gay e petista: deputado eleito em Goiás quer aproximar segurança pública e esquerda Brasil de Fato",
-      "source": "Brasil de Fato",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNFAyaGJzalUtVlluOXFMVTFPUHBFekxuZUd5MFRPclhmazBmTXJLQmJ0eDNMcVFCOVVSYkx3YmR4QWRsNnV5N2s2d3RLeWtsOGhMVDlvcGZhMldlb3ZsaDhnRXc1RGtQUjBnWXp0MTVNUzVkZmt6U0c5cXltN0lnSXgtNW92aXhScF9KbkhEbkVfV1Z2aGZTYUdBY1BTSFNQMnZTNFl0NGwtRXVjNkY4R3ZiLVI2ODc2dDNkb1lrQVlHeHZmTnBlc19wY2FhOHUz?oc=5",
-      "published": "2026-11-10T20:31:00+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Policial, gay e petista: deputado eleito em Goiás quer aproximar segurança pública e esquerda Brasil de Fato",
-      "summary": "Policial, gay e petista: deputado eleito em Goiás quer aproximar segurança pública e esquerda Brasil de Fato",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "arthur-elias-convoca-sele-o-feminina-para-ltimos-amisto-acc0683b1c8e2e",
-      "category": "Brasil",
-      "title": "Arthur Elias convoca seleção feminina para últimos amistosos de 2026 - Agência Brasil",
-      "snippet": "Arthur Elias convoca seleção feminina para últimos amistosos de 2026 Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMDRRLXhqVnRZZjNWX2sya21hNnZnc1VrT1NSb1MyNXRkaHdMYjEtM0VHZzBrS3RFYVFRdktkbmJPUXBVWUJjWXd1bzNvdW9PT1lsZ1RFNXczTWMzUmVOVGlxamc4Ql91R0pxblNwMnk4Nm9KVEF4T210QUM3MG5WWFBrdDd2UGV5VGxGZHhTeTFvSUx5ODJqWUFndHhqWnlEdDBiRUwxNWM5Z1c4YkhCeVROZi12di1qbjhWcmdaRWh2aVdY?oc=5",
-      "published": "2026-11-10T20:16:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Arthur Elias convoca seleção feminina para últimos amistosos de 2026 Agência Brasil",
-      "summary": "Arthur Elias convoca seleção feminina para últimos amistosos de 2026 Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pre-os-da-soja-fecham-com-forte-alta-em-chicago-pelo-us-67d67abd9899cc",
-      "category": "Brasil",
-      "title": "Preços da soja fecham com forte alta em Chicago pelo USDA e, no Brasil, com disparada do dólar - Notícias Agrícolas",
-      "snippet": "Preços da soja fecham com forte alta em Chicago pelo USDA e, no Brasil, com disparada do dólar Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPOUtZV2NNb1k4dy1HUVRpLW4zNHgyakE5RnhXbjdaNDYwVUJ6YzE2XzI3bmlac28xM1cxc3JjR0pRM2NvRGZpUndwb3NvQnBmb1U5emdCTUNmZEpYTVBnRFVSV1VpbVBSLTJCeWJZVzJ0NEdrS3UxOFZEemZOek42cWVOY3ozS0FUTXBNX0pvdm16NVRhbEU4N2FDR2J1eGRLYnVoSkpnZWhmRnRqMjRIbjJwMFB6aDQwYWxiQ3pHWjlCV3M3OTNzYWp2LThtY0ZwTk5FVnFuRE96QTJjUzdnRmp2UEMtRmRBdklF0gHwAUFVX3lxTE1QZEd4dGxkS3RGWEd0d24xeGcxV09nRG54V0hKOF8wbzE2eTM5WWVkWW9sQUd1b3c0MzhnY0ZRUXJtR0d0MzMzOUszb0NTREtrMm1TWUVuenlVYV9tcmFjT21EMzQ4UjJjdFF5aGhYTjhEU3NRU21zQ2ZzNVQxME5RWXJ2UE4taHE4Z3lESzNUaFFwUnR0eHVGT2QtWTI4Y2wtY21uZ3RpZ0xrMVctS2Q4ZEFVQUh2eVRPV051dlpHdmtKSmRfdlYxdVM0RE9VT0JyaTNLSzRWVFFwN1JsSHpQYk9FcWZNb0s2dVJSM3lTYQ?oc=5",
-      "published": "2026-11-10T20:09:15+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Preços da soja fecham com forte alta em Chicago pelo USDA e, no Brasil, com disparada do dólar Notícias Agrícolas",
-      "summary": "Preços da soja fecham com forte alta em Chicago pelo USDA e, no Brasil, com disparada do dólar Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mcti-e-su-cia-avan-am-em-coopera-o-tecnol-gica-nas-reas-c14dd666867626",
-      "category": "Tecnologia",
-      "title": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade - Governo Federal",
-      "snippet": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQZXFaT2F6UU5sS1pjalpmc3Z6a1MzdnYwbl9xWE5RSTE0LVhScGFaYkhTUzVMTHNTRlAwTkJzaGFWLVNRRHFfc3dzMmFDRnpTOHYzX29ab2lBbUhIOXhObktreUpoYTlmUzRwZFk5SFVQdlZxT2g1VDVkdm5lY0liVWJ1aVFSOS12NmN1VkpkZmxRVTg5eUdtTzVkZk1NS3cyWk55V1JHRldqZEw4Z3dNd1VsTXA3cEQ3T2RTOWsyZDhEMHMyQVR4RjlEVFBzcG5YalhQSEtSRzFRUzVycS0tWnR2UjJPZ1ZSWFVRa1o3VVhnVjVGT3FLamJHRlY0YWhudlVrRXlXYUFYaVU?oc=5",
-      "published": "2026-11-10T20:08:14+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade Governo Federal",
-      "summary": "MCTI e Suécia avançam em cooperação tecnológica nas áreas de aeronáutica, inteligência artificial e sustentabilidade Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "veja-quais-empresas-mais-perderam-valor-de-mercado-ap-s-13e1cb8413f88a",
-      "category": "Economia",
-      "title": "Veja quais empresas mais perderam valor de mercado após as eleições - VEJA",
-      "snippet": "Veja quais empresas mais perderam valor de mercado após as eleições VEJA",
-      "source": "VEJA",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZW9rb1dva0tCNVhSa0k0TWRPTFpVbEdRRUt0UWhoeEhJY0FqREtwMURVWE9HSExvekMwenV6Y3FwQ3FiUDJabEJHT0o5cDlQSnBockc2LXZnTFZtTk1Oemcyb3V0eS1hS1ZndEg3N0hqWFkza1Y2NDJ0Q2RZX3Zfc2hEQ1dwVXM1Z3loSHA2ZlhWbmRUSEZCdEk0S2FXX1hVWC1iaUpn?oc=5",
-      "published": "2026-11-10T19:57:18+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Veja quais empresas mais perderam valor de mercado após as eleições VEJA",
-      "summary": "Veja quais empresas mais perderam valor de mercado após as eleições VEJA",
       "summary_by": "descrição da fonte"
     }
   ],
