@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T13:28:58.660404+00:00",
+  "updated_at": "2026-11-12T15:09:09.908060+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "livro-independ-ncias-do-brasil-golpe-ou-revolu-o-descob-b7b303f73753ac",
+      "category": "Brasil",
+      "title": "Livro 'Independências do Brasil': Golpe ou revolução? Descobrimento ou conquista? Existe certo ou errado para a História? - BBC",
+      "snippet": "Livro 'Independências do Brasil': Golpe ou revolução? Descobrimento ou conquista? Existe certo ou errado para a História? BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1Hd0Q2Unkwdml4ekZ5eGRSTUh0MnFuR0JWUG9jUERTMVFxVHY0V19iVnpqdmJXSlVMZlppQUt0MWJmalUzVzJjbUx4Ty1EcjhIMjRmc0FwYmZLeEpkNmJfTWk3RdIBaEFVX3lxTFAxMG5ES0VhLUFVWk1hR0xGd0RrUTFwWGV1dTdpWVZlLThEU2RNaEdGdVZKcTFadVpmZlRuVzNaYUhGSFZhcDNJR0k0ZjdFM0lGTTAyajkwTVN4ektGcVpWNFpSV0wzblUx?oc=5",
+      "published": "2026-11-12T14:58:07+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Livro 'Independências do Brasil': Golpe ou revolução? Descobrimento ou conquista? Existe certo ou errado para a História? BBC",
+      "summary": "Livro 'Independências do Brasil': Golpe ou revolução? Descobrimento ou conquista? Existe certo ou errado para a História? BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "temporais-avan-am-pelo-brasil-e-colocam-centro-oeste-e--f624eca5192f7f",
+      "category": "Brasil",
+      "title": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta - Notícias Agrícolas",
+      "snippet": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
+      "source": "Notícias Agrícolas",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNnRPVkF2NWhUdEhiakpaZlM0U1pRQXg4M0hzNlloYTNBYklxckt2MjRlMFpFZ2FfczRIQUJldnRnRDdScll5ZkJRMFZBa2ZDUkxCMzI3eldkSVRHWUFtR0dwQzEycXRMY0h5MGJqMEtlOHdZdHNCNF9tXzdBeHYySUcxc0hqLXpzXzhkYVd6YmxJTkxDRTFvT3I0dWtCaVFKRXI5ZHV1dXpkSUV6a1V0VHdjSnY2akZFbUtxQlVwTW1kNjdQbk9tbUJqRV9oVVpsZXFib0dlWHpfXzNq0gHiAUFVX3lxTFB0V3RWSDNVdmJ0aHNibFphbGpwQm1GVnU0X0lGeGZ0V1hLWkpaa2daX2FJeUItdC1RdjNDUzg5dWsxaXJNZTJWU01GajhYMDhjdGo1bEhEWlpLZ2R4TnBFQ25LX05TOXNCUV96Q0dObjNxc1NoV01VN0hzbnoyNVl0X3R4UmZiYUFCSGZXTEplUTZMUE04SEdKaFZ3RXhIQlJFRkNyY0Z6SjJBQU5HVk5WOHA0ZDBMbVZpbXJhUzk0N0JTbUFkajhDOTFLTEFHNnhmVHRNQUNQTnFxTGxPYmhCRGc?oc=5",
+      "published": "2026-11-12T13:42:56+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
+      "summary": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "mulher-em-trabalho-de-parto-colocada-em-audi-ncia-pelo--1d0dca8c8e9b37",
       "category": "Brasil",
@@ -150,6 +178,20 @@
       "tone": "teal",
       "dek": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
       "summary": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ao-vivo-jogo-aberto-analisa-convoca-o-de-ancelotti-para-95782bd29224d8",
+      "category": "Esportes",
+      "title": "AO VIVO: Jogo Aberto analisa convocação de Ancelotti para Brasil x Japão - Band",
+      "snippet": "AO VIVO: Jogo Aberto analisa convocação de Ancelotti para Brasil x Japão Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1RjT3luRU1tS1psX1JiZE5iLVVBSlQ1Q2RCa05jclpRUzdqQjhGS19DbW5WRzk2WFk4X3BWc2J5dkUwckhwcllDYm4wRW1sYkVZZDlXb1hNNllkU2xTcDYzNzFCRVJuRl9Ea0gyYk9kNXFJbE9NSkpjUWpndmd0NDhkTzNseXVZcXZFcjVtNklHaHYwa2xFNXFab25nZw?oc=5",
+      "published": "2026-11-12T03:01:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "AO VIVO: Jogo Aberto analisa convocação de Ancelotti para Brasil x Japão Band",
+      "summary": "AO VIVO: Jogo Aberto analisa convocação de Ancelotti para Brasil x Japão Band",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "gold",
       "dek": "Veja quais empresas mais perderam valor de mercado após as eleições VEJA",
       "summary": "Veja quais empresas mais perderam valor de mercado após as eleições VEJA",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "l-lia-gonzalez-origem-de-conceitos-para-compreender-a-s-0b25008215c886",
-      "category": "Tecnologia",
-      "title": "Lélia Gonzalez: origem de conceitos para compreender a sociedade brasileira - Governo Federal",
-      "snippet": "Lélia Gonzalez: origem de conceitos para compreender a sociedade brasileira Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOMzNpOUxaWEhqdGRCYWZDNGkyanZDQzAzdHRvc2lQTE1NRXhKaGpsdEJNSmtKTkY0aklZTjRjZWJ1bEg5Q0t4RmhSa2hyOGoxcHF3TE5WMlQyV29hMTRCN2hlVGlfSTRfZ04wdmRHUUxNM1lFUkk0WGN4dWViU1cyajdKRFlrNmlZdTkyVWFMZ3daZENLYkIwZXZsVFViRERyYmhEdGtCZEtyQlMwX3lzZTZhdGg4em42V29OOEV4V19sWUlyUnhqTDlsUk43N2Z3aGNTXw?oc=5",
-      "published": "2026-11-10T19:48:50+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Lélia Gonzalez: origem de conceitos para compreender a sociedade brasileira Governo Federal",
-      "summary": "Lélia Gonzalez: origem de conceitos para compreender a sociedade brasileira Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "encontro-em-sc-busca-aproximar-empresas-catarinenses-do-11d74dbaf6842b",
-      "category": "Economia",
-      "title": "Encontro em SC busca aproximar empresas catarinenses do mercado indiano - Rádio Centro Oeste",
-      "snippet": "Encontro em SC busca aproximar empresas catarinenses do mercado indiano Rádio Centro Oeste",
-      "source": "Rádio Centro Oeste",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbWM0emVfUnBCeDdGWl9wRGxocV84YnJWWG1xeTBmQlBoME90ZUs0T3N2cGlibDF2NlN0RHk1dFhFQUNWVXpNN09tZjUyRGoyR2k1bUtycm4zbF96RjVoc0tRNUpVaXpTbUNKTUVCOUJfWnUzRHpTMzZIQVU4U1B0dFlERDNTU0c4ZjlBSFJnVng0ZjJjenhzbjdkNzVFV3Y3dU40S2VGYjlWTFlq?oc=5",
-      "published": "2026-11-10T19:03:58+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Encontro em SC busca aproximar empresas catarinenses do mercado indiano Rádio Centro Oeste",
-      "summary": "Encontro em SC busca aproximar empresas catarinenses do mercado indiano Rádio Centro Oeste",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pec-abre-espa-o-para-pol-cia-municipal-no-brasil-mas-mu-11da87d44abc17",
-      "category": "Polícia",
-      "title": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais - Capital do Pantanal",
-      "snippet": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais Capital do Pantanal",
-      "source": "Capital do Pantanal",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQaUhVVEllZkh1UTFfRHlkS3lSUnFRN3lPRHE3TlJlVDh1OHNFdFBFaldRMGpPRGZVVjZGRGszVnBsem81Q2xNSTdiNFJtajNCajdZY0NHR3ltVlZHUVViMVU5OG9ZMVNTNU1iSTRjM2xUV04waEFCZkZSUWxDbE1SckVoQmg1amFlamswQ3lTTXY5TFZjVzRfSHc1WktlUVlZQTFyTHN3RUtmcjJpeDJMNVFVUXpqamdNckNaeWZxZEFzTDVtM05DT2Q5ekEyYWlpLVh5WW5nYjRlRjRDdGxEN1lvcVc5TDFFbXhn?oc=5",
-      "published": "2026-11-10T18:23:00+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais Gooning Simulator",
-      "summary": "PEC abre espaço para Polícia Municipal no Brasil, mas mudança nas ruas depende de regras locais Gooning Simulator",
       "summary_by": "descrição da fonte"
     }
   ],
