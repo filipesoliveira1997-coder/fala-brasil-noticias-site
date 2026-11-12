@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T05:14:46.588861+00:00",
+  "updated_at": "2026-11-12T07:34:56.154441+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "o-ministro-vu-hai-quan-responde-a-perguntas-sobre-ci-nc-c3097be8a6a08c",
+      "category": "Tecnologia",
+      "title": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. - Vietnam.vn",
+      "snippet": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUJuN2duLVE0c1lwWk41RVNaU0hMNVhWa3ZWTlNHSEw2bVcxTERmYUJJQXhrOG11dmZia3pBalBsb2JLZXBUOS1ic21EdzZvSVFJV1lzZ3ZCY3hCekd1blB4d1ZJa2U4cnFHa195Zkc2OWljZENFQjFySXNoY3JoQ2wtTFlQRUxKamFTbjA2bGtnV2l0anVwU0NJeHYwUnFkQzR5V2VfS1VGSDloMVBrY05mVjVpOGk2OURiWjI3aVc?oc=5",
+      "published": "2026-11-12T07:26:20+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. Vietnam.vn",
+      "summary": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "flamengo-x-internacional-ao-vivo-pela-final-da-copa-do--c309c6aeb5d645",
+      "category": "Esportes",
+      "title": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe - GZH",
+      "snippet": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "source": "GZH",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONWhZMkllMld4b1NKbXhrR181WUd3bDRMRnBwM2pqb291MEhNMlRDSDl0NS1PMzBvU3E0NmROMkR1dEZvM1J3RXBrUDZ1RkpPS3hvS0VKZGlvZHFFSHlCMHRhYkZQZ1dOOFoxM3RXWXFzWmIzSWdHbW9MNlBfd2hHM1ZGcnBUMVFqUUpRSkdVenBMaFJObjNIYzNkT0U5WUZqcG5DZ2lZMEI1di1NQkZCQUFTT1lWTkRlSHRsWm1BdGNGSV9VWHdLUTZJSGVPc0NfVWJXVHZjM04yOEE0cTA4YVpDbVZ3SXlGZldGXzRjNDRVN2MzeUZsU0FMbDc5anZMakxnYXpQRVA?oc=5",
+      "published": "2026-11-12T03:09:05+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "summary": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "inter-vence-o-flamengo-e-abre-vantagem-na-final-da-copa-57510c45e13d2c",
       "category": "Esportes",
@@ -27,17 +55,17 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "flamengo-x-internacional-ao-vivo-pela-final-da-copa-do--c309c6aeb5d645",
+      "id": "projeto-leva-futuras-jogadoras-brasileiras-para-imers-o-c7b2623b4ae64d",
       "category": "Esportes",
-      "title": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe - GZH",
-      "snippet": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
-      "source": "GZH",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONWhZMkllMld4b1NKbXhrR181WUd3bDRMRnBwM2pqb291MEhNMlRDSDl0NS1PMzBvU3E0NmROMkR1dEZvM1J3RXBrUDZ1RkpPS3hvS0VKZGlvZHFFSHlCMHRhYkZQZ1dOOFoxM3RXWXFzWmIzSWdHbW9MNlBfd2hHM1ZGcnBUMVFqUUpRSkdVenBMaFJObjNIYzNkT0U5WUZqcG5DZ2lZMEI1di1NQkZCQUFTT1lWTkRlSHRsWm1BdGNGSV9VWHdLUTZJSGVPc0NfVWJXVHZjM04yOEE0cTA4YVpDbVZ3SXlGZldGXzRjNDRVN2MzeUZsU0FMbDc5anZMakxnYXpQRVA?oc=5",
-      "published": "2026-11-12T02:09:03+00:00",
+      "title": "Projeto leva futuras jogadoras brasileiras para imersão no Wolfsburg - CNN Brasil",
+      "snippet": "Projeto leva futuras jogadoras brasileiras para imersão no Wolfsburg CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3RSZlBCUU44OVZDQm1nVWZab0o5RmZzR2RYRDFzUU1tdXVXaEI2ZUMtTk1mZllSaFVGRkRvTzR4M0xJVWFZbzNSX2xOSTJNbE9XdkVwN1FxazZxaDVSUG9jRUVuSWJGa1VCay0xaGU0Mm9kX0RZSGRKWll5NnBVQ1UyYlZla0o2cDdTaDg3RGJyVVJmYXZPd2RWMUhodUswcHZNZnFxbjVCWjE2T3NlOGk2SWstQQ?oc=5",
+      "published": "2026-11-12T01:20:05+00:00",
       "image": "",
       "tone": "teal",
-      "dek": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
-      "summary": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "dek": "Projeto leva futuras jogadoras brasileiras para imersão no Wolfsburg CNN Brasil",
+      "summary": "Projeto leva futuras jogadoras brasileiras para imersão no Wolfsburg CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -66,6 +94,20 @@
       "tone": "",
       "dek": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal Agência Brasil",
       "summary": "Dólar cai 0,42% e fecha a R$ 5,56 com foco em pacote fiscal Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "lucro-l-quido-do-banco-do-brasil-cai-65-6-no-3-trimestr-8baaf2062a6267",
+      "category": "Brasil",
+      "title": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi - UOL Economia",
+      "snippet": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi UOL Economia",
+      "source": "UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOE5vN18tTUYwcjBqTEVzUlZmcUxCeVEtN3NlcDlhajZ4U2J3dm9OaXlQdFBBdTFUWF9qNnVvWXN4T29VZjVzVmhnVzVlTFNQSlVMN0ZQY1FTSHhTeU5xVTlGYjJ3dDFtWlRwY1huOUtBRHNTSHh6VXZ2RVZFa1JfYnZVeG55blJsc3d3aDZFdlFYYmJCN0NSMFo1Z1hia3lnSlZ1NnJueGtzcUFkTHRPaThyQQ?oc=5",
+      "published": "2026-11-11T22:41:27+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi UOL Economia",
+      "summary": "Lucro líquido do Banco do Brasil cai 65,6% no 3º trimestre, para R$ 1,3 bi UOL Economia",
       "summary_by": "descrição da fonte"
     },
     {
@@ -220,6 +262,20 @@
       "tone": "",
       "dek": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
       "summary": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "metade-dos-munic-pios-sofreu-alagamentos-e-59-do-brasil-24b93b8f204f22",
+      "category": "Brasil",
+      "title": "Metade dos municípios sofreu alagamentos e 59% do Brasil enfrentou seca; consulte sua cidade - G1",
+      "snippet": "Metade dos municípios sofreu alagamentos e 59% do Brasil enfrentou seca; consulte sua cidade G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQWWpLamh3dmE5ampjZ0ctSDdVd21ZRHpXLTFoYzFWUURkemJFVG8yWFVNWEY4ZTQxcThMSmJ1ajh5T2pCcE5YaHQ4VV83OGJLX2l4Z3JvZW02Vk12WXhYSjZmYkhVcWhnQURKUDVsbTMxdWtCN3RLTUFSYV9VZEI5RVlNaTZUdDUxbGpEYkVn0gGcAUFVX3lxTE5CVjZuYWFDOHZMQUpaSzVzZ0lPTkJRdkR6LWhwMHZiSXJSZ0VGOTZlNkNWMG9jRnYzdE55WS14OTNiMENLbFdIUGxYd2tHVFNTdm1OMEVpMndJei16cnNISU9FUWdEZUtTTXk2eFU5SFpaYS1uVVVOOG50QjJLLXdkYjRWc2d1VF80SG5KcmVyX0xxNkljZjFvbEJwNw?oc=5",
+      "published": "2026-11-11T13:00:09+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Metade dos municípios sofreu alagamentos e 59% do Brasil enfrentou seca; consulte sua cidade G1",
+      "summary": "Metade dos municípios sofreu alagamentos e 59% do Brasil enfrentou seca; consulte sua cidade G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -491,9 +547,9 @@
     {
       "id": "covid-19-casos-e-bitos-seguem-em-queda-no-brasil-minist-1a0a56e0743196",
       "category": "Brasil",
-      "title": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde - GOV.BR",
-      "snippet": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde GOV.BR",
-      "source": "GOV.BR",
+      "title": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde - Governo Federal",
+      "snippet": "Covid-19: casos e óbitos seguem em queda no Brasil — Ministério da Saúde Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjF4bC1CYzkzU1ppZUNMVkZ2NU1iaUprbEZGUUZFX2F6UDBBcGJ4MXdsUVM3YWlwckZsajZub2pQajBLcFdjOWpxekxTd2MxX2ZvNnMwTUw3LV82TDZVMkNXUDFlc2l0OGF5VWJ1SVk1cG5lMW5YbUY3dU1McDJZWTE2UVZPTEtzcTgyN2kxRUhodVlzcElfYVVoNHotYWNPOWdEb3ZsSl90c0pieFY5Mk5R?oc=5",
       "published": "2026-11-10T21:21:00+00:00",
       "image": "",
@@ -794,62 +850,6 @@
       "tone": "",
       "dek": "O Grande Debate: Inquérito das fake news durou mais do que devia? CNN Brasil",
       "summary": "O Grande Debate: Inquérito das fake news durou mais do que devia? CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pf-eleva-n-vel-de-prote-o-no-maior-porto-do-brasil-ap-s-22142e5a2fa13b",
-      "category": "Brasil",
-      "title": "PF eleva nível de proteção no maior porto do Brasil após ataque cibernético - G1",
-      "snippet": "PF eleva nível de proteção no maior porto do Brasil após ataque cibernético G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOOFBrbkFKUnp5YzRMZVYtVzEtUlN4NWd1UVoyT0o4VkdCLWhOUVp2cXdjbC1XekZwdXZnTWFPMC1kYzR4ZUJWQ0hyNUJQMl8talNORElJREw1cFdjLTRqNk9aci0tZFFNa2NTZ2JlY3NZVVZRVFhra1VmaFpLWFMzcVNmYml3OTJsb2wxZWNNbE5TaVkzak1UU0Fxd0JiMm9TM3hiYUVEREVNNWllVm9IR2pTYnZhd2ptLWM0UXJPZ0JOaDByVHlhZ2M3a2g1M3FIQlVlSWVFS1Jjdm5YNHVQS19ndXhXNFdDMUk5UHNn0gH8AUFVX3lxTE1IUTVIUW16NE9NZVFUVk0zUHljTFhtWkc2VEFMaVUzM3plb1pnMDNiNWVLY0hUeFpBenBnTnNoVF9lalc0ejJGSWhuc1RGVWpsWVh3eE1WbmlCcWxMb2RXeGxZNXlCWC1zUWdYTTBsbWU1QmcyZG1TLUxOck5oajFfUC1oVWFKeWk0Ui1ZNDVyZVJzWXR6OURETF9xbEU4ZFV0aDkzLXljMHdDX3Vfa0dFa21lSFJVT0lHZ3h0WVB0aVd5R0RyeURUR014QmRKbVlUS2VWdngzbTFTSVM2OS1ORWp6c0Q1YmhoMnkxVW9sdzZnVmU4cm1OQUJGcQ?oc=5",
-      "published": "2026-11-10T13:04:13+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "PF eleva nível de proteção no maior porto do Brasil após possível ataque cibernético G1",
-      "summary": "PF eleva nível de proteção no maior porto do Brasil após possível ataque cibernético G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "governo-prorroga-at-9-de-dezembro-desonera-o-da-gasolin-a3c1200eec3202",
-      "category": "Brasil",
-      "title": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol - Agência Brasil",
-      "snippet": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlNVRTdXWktWc1lIMlR0c3JyR3F3UkItSWRnUWtPbmthYjNCUE8wWFhraFE4TnR0dF8wbGhMNkt5dlIxRzNBNm9jeUxuOEdxZXVRYkdTMEhKWGd5cnlGazZtRjgydmhZUk9VZU0yM3hzRFpRcUVZb0MtVld4bnphWUcyamNqUDJMMnJaMGJGYjI1NG9KVHMtN19Kd1JRb3E3S2VjYlhVeVJWNi1lTUxMSUEtX3FfWmRLODNoenVTXzFfRy1kV0Ew?oc=5",
-      "published": "2026-11-10T12:33:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol Agência Brasil",
-      "summary": "Governo prorroga até 9 de dezembro desoneração da gasolina e do etanol Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pesquisa-mostra-frequ-ncia-com-que-brasileiros-dizem-en-f88e916d945d22",
-      "category": "Brasil",
-      "title": "Pesquisa mostra frequência com que brasileiros dizem encontrar notícias falsas na internet - VEJA",
-      "snippet": "Pesquisa mostra frequência com que brasileiros dizem encontrar notícias falsas na internet VEJA",
-      "source": "VEJA",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdzM4al9UTndNNm5PVGIwY1JaNWZTM2F4TEZsNHg0clhoWUJmbHd3RVd0b29SWWhDQVpmN0pHSGxxa1AxV1ZFa2h0YWZLUmE0ejNXR2hVZWMzX2UwVGplcHFNRWR3QW1Jb25Xb0dOUDl4R2p4QkNLN0lxbUlPblBFYVhncjFCRXNDWHgxRDBjYnpwaDZDZS1XTXNfNXM1U2czWk5kUWgzUmgzalJ3M1lQMGVQR2o3RDBTenF0VlEzUEJfZw?oc=5",
-      "published": "2026-11-10T12:30:30+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Pesquisa mostra frequência com que brasileiros dizem encontrar notícias falsas na internet VEJA",
-      "summary": "Pesquisa mostra frequência com que brasileiros dizem encontrar notícias falsas na internet VEJA",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "v-deos-not-cias-internacionais-mundo-g1-a75f22a8f24d3e",
-      "category": "Mundo",
-      "title": "VÍDEOS: Notícias internacionais | Mundo - G1",
-      "snippet": "VÍDEOS: Notícias internacionais | Mundo G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNWhwRkJsWlRkRGlzWnhmYTVpTHdZQ2VsYUpDeHZHSi14cFpqZFphUW5Ncy1xbG5tX081eTJPLWh0T3dBc2dWSDdSZkNjUUVaSEhUSWdid3NGSzBwM3dmWVBkc2REOGlFYXM3NS1OMHh3Y2F3TnJVQ3BZV0lMWHBqd1lVdXNxSDh6OHI4V2NVVDZCN3JX?oc=5",
-      "published": "2026-11-10T11:52:00+00:00",
-      "image": "",
-      "tone": "blue",
-      "dek": "VÍDEOS: Notícias internacionais | Mundo G1",
-      "summary": "VÍDEOS: Notícias internacionais | Mundo G1",
       "summary_by": "descrição da fonte"
     }
   ],
