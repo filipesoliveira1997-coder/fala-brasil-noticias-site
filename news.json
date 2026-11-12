@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T01:28:09.841941+00:00",
+  "updated_at": "2026-11-12T03:02:58.732344+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,20 @@
   ],
   "articles": [
     {
+      "id": "flamengo-x-internacional-ao-vivo-pela-final-da-copa-do--c309c6aeb5d645",
+      "category": "Esportes",
+      "title": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe - GZH",
+      "snippet": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "source": "GZH",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONWhZMkllMld4b1NKbXhrR181WUd3bDRMRnBwM2pqb291MEhNMlRDSDl0NS1PMzBvU3E0NmROMkR1dEZvM1J3RXBrUDZ1RkpPS3hvS0VKZGlvZHFFSHlCMHRhYkZQZ1dOOFoxM3RXWXFzWmIzSWdHbW9MNlBfd2hHM1ZGcnBUMVFqUUpRSkdVenBMaFJObjNIYzNkT0U5WUZqcG5DZ2lZMEI1di1NQkZCQUFTT1lWTkRlSHRsWm1BdGNGSV9VWHdLUTZJSGVPc0NfVWJXVHZjM04yOEE0cTA4YVpDbVZ3SXlGZldGXzRjNDRVN2MzeUZsU0FMbDc5anZMakxnYXpQRVA?oc=5",
+      "published": "2026-11-12T02:09:03+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "summary": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "marta-mostrou-o-que-era-poss-vel-a-mulheres-no-futebol--d908ca36020ea5",
       "category": "Esportes",
       "title": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça - CNN Brasil",
@@ -24,20 +38,6 @@
       "tone": "teal",
       "dek": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça CNN Brasil",
       "summary": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "flamengo-x-internacional-ao-vivo-pela-final-da-copa-do--c309c6aeb5d645",
-      "category": "Esportes",
-      "title": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe - GZH",
-      "snippet": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
-      "source": "GZH",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONWhZMkllMld4b1NKbXhrR181WUd3bDRMRnBwM2pqb291MEhNMlRDSDl0NS1PMzBvU3E0NmROMkR1dEZvM1J3RXBrUDZ1RkpPS3hvS0VKZGlvZHFFSHlCMHRhYkZQZ1dOOFoxM3RXWXFzWmIzSWdHbW9MNlBfd2hHM1ZGcnBUMVFqUUpRSkdVenBMaFJObjNIYzNkT0U5WUZqcG5DZ2lZMEI1di1NQkZCQUFTT1lWTkRlSHRsWm1BdGNGSV9VWHdLUTZJSGVPc0NfVWJXVHZjM04yOEE0cTA4YVpDbVZ3SXlGZldGXzRjNDRVN2MzeUZsU0FMbDc5anZMakxnYXpQRVA?oc=5",
-      "published": "2026-11-11T22:53:27+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
-      "summary": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
       "summary_by": "descrição da fonte"
     },
     {
@@ -150,6 +150,20 @@
       "tone": "",
       "dek": "Rubio teria alertado Trump sobre suposta espiã em caso Nvidia, diz fonte CNN Brasil",
       "summary": "Rubio teria alertado Trump sobre suposta espiã em caso Nvidia, diz fonte CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "avenida-brasil-iguala-o-seu-maior-ibope-com-descoberta--33d08b4aadefb2",
+      "category": "Brasil",
+      "title": "Avenida Brasil iguala o seu maior ibope com descoberta de Tufão sobre Carminha - Notícias da TV",
+      "snippet": "Avenida Brasil iguala o seu maior ibope com descoberta de Tufão sobre Carminha Notícias da TV",
+      "source": "Notícias da TV",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNRm4tMkRQdjh2d0xhUkp5dUlYN1ltNXNhRGpuUTJoRWd0NVpDTXF4NExHTUx5NzBCMjhuZlg4UE1fQlpRdVh2V1YzQmstRkxlbjZ4UG5yRFdxWm5aTjZ0enNxMVQ4OUVyODVEdV93Z09JQXIxYmp4RG5jVVF3ZnlVTXRudVpPMm9RbC16SEE0c1JtQlZON0dCbkVhdXo3T3BrWTE0QUlhRFM5VXFYWF81VEYwZVkxUGdDZFl2VURvaDJ6dDA2SWpWM3FJRG9NYnA4cVHSAeABQVVfeXFMTW1fcjBlTTlmNGtpRkNBU2FVcmVpa1dlMmpvVU5VUFRtNFphT1hqb3JrLXB3dzNMMzdUZ2R6TUxOMEdHUkFQajZsT1U0T0lRem1zZ2xFUklJWURyZGRNVUUwZ3VLVGhZRC02Q1dmZTJUemZTRnh5anZHc2loUC0xMGxGZ2JRUWRGZkNMQ3o5OTd3c1F6Zk44OUw4SzJ2OEtscHlRR095bzA1QjFxbjhYZ2xZSm45YWJJVXQ3ZG1HNTZmQWo4dWdxanF5eW9hVmVwejJXQTd0cWgxV1RRVFpOcjA?oc=5",
+      "published": "2026-11-11T15:27:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Avenida Brasil iguala o seu maior ibope com descoberta de Tufão sobre Carminha Notícias da TV",
+      "summary": "Avenida Brasil iguala o seu maior ibope com descoberta de Tufão sobre Carminha Notícias da TV",
       "summary_by": "descrição da fonte"
     },
     {
@@ -836,20 +850,6 @@
       "tone": "purple",
       "dek": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec Universidade Estadual do Ceará",
       "summary": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec Universidade Estadual do Ceará",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pf-prende-ex-servidor-do-stj-suspeito-de-vazar-informa--632a831757a2f1",
-      "category": "Brasil",
-      "title": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas - Agência Brasil",
-      "snippet": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSXdscFZNMFdJdklvZDBHemF5T19tOXFITG05MHY4WFpvTkdqanBraE54NjB0bm1YM0ppVW9MZ0Z4ZGVvRkNhM0NRNlp5SThVeE4zbEYyT19NRlpnNC1VRmxzS0NncUFNOWxIeVYwT3hEWnFCS3ozV1ZiQkdaYm5KN3BJQWJsbDlORUNjMEo2bi1CaGlaMzRrU1lqaHpJenl1TFcyTUE3SkRLR2gzZ2wtTm5sc3FIdzJWRkhwR2l4a3I?oc=5",
-      "published": "2026-11-10T11:31:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas Agência Brasil",
-      "summary": "PF prende ex-servidor do STJ suspeito de vazar informações sigilosas Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
