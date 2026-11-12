@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T03:02:58.732344+00:00",
+  "updated_at": "2026-11-12T05:14:46.588861+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "inter-vence-o-flamengo-e-abre-vantagem-na-final-da-copa-57510c45e13d2c",
+      "category": "Esportes",
+      "title": "Inter vence o Flamengo e abre vantagem na final da Copa do Brasil Feminina - CNN Brasil",
+      "snippet": "Inter vence o Flamengo e abre vantagem na final da Copa do Brasil Feminina CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkhoTTIwLWtGaVREVnEtSTJwWm5rWldySWNKbURnT05MWThDSEhfTDVLMmlNa0NNaWFTN19UR0pfbnFlazdqQlJ5Qm0zbC1UV0RZRHdXRXJqNDJET01HeFBrRFpJVGZSSHJ2VWt0RnNMYXgxWHBHcWdZa1JkdEtlZUNlOVVfcUp4ampMTElwcUhKUlRFeUlRQk1JNFp0Z3RFVll1ZmdzWE5OaUNHaGZRTHlkSFZIbEtMcGpBUGd3d2xwS3ZrQzNDUWlJNFRhV3h5UWJwMlpqbkpXN0E?oc=5",
+      "published": "2026-11-12T02:28:30+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Inter vence o Flamengo e abre vantagem na final da Copa do Brasil Feminina CNN Brasil",
+      "summary": "Inter vence o Flamengo e abre vantagem na final da Copa do Brasil Feminina CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "flamengo-x-internacional-ao-vivo-pela-final-da-copa-do--c309c6aeb5d645",
       "category": "Esportes",
@@ -836,20 +850,6 @@
       "tone": "blue",
       "dek": "VÍDEOS: Notícias internacionais | Mundo G1",
       "summary": "VÍDEOS: Notícias internacionais | Mundo G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "uece-apresenta-atua-o-como-unidade-embrapii-em-sa-de-di-646c745c6a9918",
-      "category": "Tecnologia",
-      "title": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec - Universidade Estadual do Ceará",
-      "snippet": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec Universidade Estadual do Ceará",
-      "source": "Universidade Estadual do Ceará",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQa1NFMmFTNVAwbVBqMGQ3THR5MXZPaGJyS0F0N3hTX1JqdUJVbUktZ3VZSzZFN052cFNwUFp4cFhrSTd4QUVzS19xT1hpb0JLSThSVmNKUWpkQm9WZ1ZESUZNQTZBT291ZjU0eE9IMXdtZm9pWVhSSGZwTk4taXphdnRXMDhJajZzQ3ZaelUzaENDU0dLVVdvTnN2ZTlGaXR5LVRMVHJPTU9BaFRFczIyY0pnN1FkMDBiZGt5ZDZWdDQ?oc=5",
-      "published": "2026-11-10T11:48:00+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec Universidade Estadual do Ceará",
-      "summary": "Uece apresenta atuação como unidade Embrapii em Saúde Digital durante reunião na Fiec Universidade Estadual do Ceará",
       "summary_by": "descrição da fonte"
     }
   ],
