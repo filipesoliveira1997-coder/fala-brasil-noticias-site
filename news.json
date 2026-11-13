@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T17:08:00.001799+00:00",
+  "updated_at": "2026-11-13T19:10:00.105574+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "programa-de-qualifica-o-digital-no-esp-rito-santo-super-7b80e01821bc2c",
+      "category": "Tecnologia",
+      "title": "Programa de qualificação digital no Espírito Santo supera 14,5 mil capacitações - ConvergenciaDigital",
+      "snippet": "Programa de qualificação digital no Espírito Santo supera 14,5 mil capacitações ConvergenciaDigital",
+      "source": "ConvergenciaDigital",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN00zRHNsS1BqTzl4TEQzYlVqRUhOWWlmTDlKcGJhd0R5dWk5ZWpGYWxuYXZGVFp4Y21QQzU3YTlXZU9SU1AweGRwWDVxMmxzUHBpY2hNS1ZkeGNseHRld25zWVhBTkJBV25lLXpESE5FejVtZUNXUVI2ODhNd3gtM09XRDhfdy01bGhRQzJWdGNkemZIRW5VT1QyQ1MwRTdWRWNNZ2Zjbm9mOGZqaHdwblE0bXF5by1UNnNwMXFPb0Q?oc=5",
+      "published": "2026-11-13T17:16:08+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Programa de qualificação digital no Espírito Santo supera 14,5 mil capacitações ConvergenciaDigital",
+      "summary": "Programa de qualificação digital no Espírito Santo supera 14,5 mil capacitações ConvergenciaDigital",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "douglas-ruas-escolhe-delegado-de-s-o-gon-alo-para-coman-030a67d770fa80",
       "category": "Polícia",
@@ -94,6 +108,20 @@
       "tone": "",
       "dek": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean Agência Brasil",
       "summary": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "manchester-united-anuncia-a-chegada-do-t-cnico-mauricio-14d643da7a7643",
+      "category": "Esportes",
+      "title": "Manchester United anuncia a chegada do técnico Mauricio Pochettino - CNN Brasil",
+      "snippet": "Manchester United anuncia a chegada do técnico Mauricio Pochettino CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQNFhNVVNOUWZzU2YwenRvSlloT1phazU0Y0JpQ3ctSzN0RF9KbS15QS1sTDFoNTk3c21ic2ZLNW0wdzFZbU9FSDdrRHdoTjZ3OXctQ2tySV9pVENHNmc1ZmFuYTQ1Q1ZCOHlJaXhGV1NJVkp0RDlPNFRfNmRDWXJBaFJCR0hET3VVcEtVSFRZVVlWWE5aTzNyZXZyVFFSaGF3MjFNc21PaUF6OEM3QzFldVc3WGVHTWNXeEowZlYwRWVxaExvMnAzWUhHaHpWWFd0?oc=5",
+      "published": "2026-11-13T12:50:38+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Manchester United anuncia a chegada do técnico Mauricio Pochettino CNN Brasil",
+      "summary": "Manchester United anuncia a chegada do técnico Mauricio Pochettino CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -195,6 +223,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "el-ni-o-est-associado-a-42-mil-mortes-de-idosos-no-bras-47e34ecd15717b",
+      "category": "Brasil",
+      "title": "El Niño está associado a 42 mil mortes de idosos no Brasil, diz estudo - Folha de S.Paulo",
+      "snippet": "El Niño está associado a 42 mil mortes de idosos no Brasil, diz estudo Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ2Z2REpHT1JZZnN4bGF4RXJtaThvVkY2ZE5HbWoxWFJRM28tajkxZ2o1cXY0dE1NX1RMWnJaQml2cHh6WmY1VDJMMVZ2SmZEVkdvMG9fYXJNXzhuNUNmR3NWN2NQWW0xNUd5Y1NrWGFfQ3dJYXNXZGtZUmN5Z1BXMURjdFpUa3BFWHJmQm9rTE1KOE1KQWwwcnp1ZExGMHRnbnY5dElBaHhCVnVKcnlxSHJQLUNBUF85eFVZYlVuaWtoMUUxaWVzcTVR?oc=5",
+      "published": "2026-11-13T07:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "El Niño está associado a 42 mil mortes de idosos no Brasil, diz estudo Folha de S.Paulo",
+      "summary": "El Niño está associado a 42 mil mortes de idosos no Brasil, diz estudo Folha de S.Paulo",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "opini-o-br-ulio-borges-fiscal-pesa-mas-n-o-explica-tudo-6d42753d81107a",
       "category": "Brasil",
       "title": "Opinião - Bráulio Borges: Fiscal pesa, mas não explica tudo sobre juro alto no Brasil - Folha de S.Paulo",
@@ -248,6 +290,20 @@
       "tone": "",
       "dek": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
       "summary": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "di-logo-brasil-ndia-discute-descarboniza-o-como-vetor-d-fd025128c44107",
+      "category": "Brasil",
+      "title": "Diálogo Brasil-Índia discute descarbonização como vetor de competitividade - Agência de Notícias da Indústria",
+      "snippet": "Diálogo Brasil-Índia discute descarbonização como vetor de competitividade Agência de Notícias da Indústria",
+      "source": "Agência de Notícias da Indústria",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTG1zOWRGY0RYSW0tR1JrMmZkUENLUGdIX3F4a1dkT2dhcVZsc3J2RmlKRGlTdUhxbFEtQmtyV3dMZEc2a25YUmNhQXA5eHE5eUhmZlhscm90Z1ktZjBCcHJKRWdEWVlubU9ZbGljZU5SOWlVMElERHc1VEtLQktEakJBUlMxZVlBOGd3QW11WG5YMU8wWjY4VEhxdkViWGJZbnBJbHo0Y3lIQ2U5MG15VXJVemNPU0ZCUmFwblVzbjNZdjh5d3lfOHRCMHVQSFFzSXNGU20wemdwc00?oc=5",
+      "published": "2026-11-13T00:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Diálogo Brasil-Índia discute descarbonização como vetor de competitividade Agência de Notícias da Indústria",
+      "summary": "Diálogo Brasil-Índia discute descarbonização como vetor de competitividade Agência de Notícias da Indústria",
       "summary_by": "descrição da fonte"
     },
     {
@@ -500,6 +556,20 @@
       "tone": "",
       "dek": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19 Agência Brasil",
       "summary": "Fiocruz: aumentam casos de síndrome respiratória aguda por covid-19 Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "guia-cultural-agora-confira-as-op-es-de-lazer-e-entrete-31e5994287b8a9",
+      "category": "Entretenimento",
+      "title": "Guia Cultural AGORA: confira as opções de lazer e entretenimento na região neste fim de semana - agora na região",
+      "snippet": "Guia Cultural AGORA: confira as opções de lazer e entretenimento na região neste fim de semana agora na região",
+      "source": "agora na região",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPak1ZQjdTM1ViYks4dG9vbXhwZElPMU0xSW43MXVuUU9mQ1Nwd05fVWNTMXNGNFNKMWVMUkdPeUwxdVd1dkE5YmtZT1lxSHd3WWlKb19ycUcyZjVwZldrMGVfLXdJTWthMklNZjZGcUdIVmFRWkhzMVR5bjM0R0poaXRORTBmeXpDTHA0cWJEY2hyWEwyTVZIeUNLbDVNelI4WlZ1amZZMUgySXhwMGJQZmU1YTdWbmhURC02WWNSUmFucFN1aEpfNFhlSVRxOGNPanp3?oc=5",
+      "published": "2026-11-12T17:16:02+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Guia Cultural AGORA: confira as opções de lazer e entretenimento na região neste fim de semana agora na região",
+      "summary": "Guia Cultural AGORA: confira as opções de lazer e entretenimento na região neste fim de semana agora na região",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "teal",
       "dek": "Itália x França: horário e onde assistir ao jogo da Nations League CNN Brasil",
       "summary": "Itália x França: horário e onde assistir ao jogo da Nations League CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "flamengo-x-internacional-ao-vivo-pela-final-da-copa-do--c309c6aeb5d645",
-      "category": "Esportes",
-      "title": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe - GZH",
-      "snippet": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
-      "source": "GZH",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxONWhZMkllMld4b1NKbXhrR181WUd3bDRMRnBwM2pqb291MEhNMlRDSDl0NS1PMzBvU3E0NmROMkR1dEZvM1J3RXBrUDZ1RkpPS3hvS0VKZGlvZHFFSHlCMHRhYkZQZ1dOOFoxM3RXWXFzWmIzSWdHbW9MNlBfd2hHM1ZGcnBUMVFqUUpRSkdVenBMaFJObjNIYzNkT0U5WUZqcG5DZ2lZMEI1di1NQkZCQUFTT1lWTkRlSHRsWm1BdGNGSV9VWHdLUTZJSGVPc0NfVWJXVHZjM04yOEE0cTA4YVpDbVZ3SXlGZldGXzRjNDRVN2MzeUZsU0FMbDc5anZMakxnYXpQRVA?oc=5",
-      "published": "2026-11-12T03:09:05+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
-      "summary": "Flamengo x Internacional AO VIVO pela final da Copa do Brasil Feminina; acompanhe GZH",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ao-vivo-jogo-aberto-analisa-convoca-o-de-ancelotti-para-95782bd29224d8",
-      "category": "Esportes",
-      "title": "AO VIVO: Jogo Aberto analisa convocação de Ancelotti para Brasil x Japão - Band",
-      "snippet": "AO VIVO: Jogo Aberto analisa convocação de Ancelotti para Brasil x Japão Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ1RjT3luRU1tS1psX1JiZE5iLVVBSlQ1Q2RCa05jclpRUzdqQjhGS19DbW5WRzk2WFk4X3BWc2J5dkUwckhwcllDYm4wRW1sYkVZZDlXb1hNNllkU2xTcDYzNzFCRVJuRl9Ea0gyYk9kNXFJbE9NSkpjUWpndmd0NDhkTzNseXVZcXZFcjVtNklHaHYwa2xFNXFab25nZw?oc=5",
-      "published": "2026-11-12T03:01:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "AO VIVO: Jogo Aberto analisa convocação de Ancelotti para Brasil x Japão Band",
-      "summary": "AO VIVO: Jogo Aberto analisa convocação de Ancelotti para Brasil x Japão Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "inter-vence-o-flamengo-e-abre-vantagem-na-final-da-copa-57510c45e13d2c",
-      "category": "Esportes",
-      "title": "Inter vence o Flamengo e abre vantagem na final da Copa do Brasil Feminina - CNN Brasil",
-      "snippet": "Inter vence o Flamengo e abre vantagem na final da Copa do Brasil Feminina CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUkhoTTIwLWtGaVREVnEtSTJwWm5rWldySWNKbURnT05MWThDSEhfTDVLMmlNa0NNaWFTN19UR0pfbnFlazdqQlJ5Qm0zbC1UV0RZRHdXRXJqNDJET01HeFBrRFpJVGZSSHJ2VWt0RnNMYXgxWHBHcWdZa1JkdEtlZUNlOVVfcUp4ampMTElwcUhKUlRFeUlRQk1JNFp0Z3RFVll1ZmdzWE5OaUNHaGZRTHlkSFZIbEtMcGpBUGd3d2xwS3ZrQzNDUWlJNFRhV3h5UWJwMlpqbkpXN0E?oc=5",
-      "published": "2026-11-12T02:28:30+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Inter vence o Flamengo e abre vantagem na final da Copa do Brasil Feminina CNN Brasil",
-      "summary": "Inter vence o Flamengo e abre vantagem na final da Copa do Brasil Feminina CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "projeto-leva-futuras-jogadoras-brasileiras-para-imers-o-c7b2623b4ae64d",
-      "category": "Esportes",
-      "title": "Projeto leva futuras jogadoras brasileiras para imersão no Wolfsburg - CNN Brasil",
-      "snippet": "Projeto leva futuras jogadoras brasileiras para imersão no Wolfsburg CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQQ3RSZlBCUU44OVZDQm1nVWZab0o5RmZzR2RYRDFzUU1tdXVXaEI2ZUMtTk1mZllSaFVGRkRvTzR4M0xJVWFZbzNSX2xOSTJNbE9XdkVwN1FxazZxaDVSUG9jRUVuSWJGa1VCay0xaGU0Mm9kX0RZSGRKWll5NnBVQ1UyYlZla0o2cDdTaDg3RGJyVVJmYXZPd2RWMUhodUswcHZNZnFxbjVCWjE2T3NlOGk2SWstQQ?oc=5",
-      "published": "2026-11-12T01:20:05+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Projeto leva futuras jogadoras brasileiras para imersão no Wolfsburg CNN Brasil",
-      "summary": "Projeto leva futuras jogadoras brasileiras para imersão no Wolfsburg CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lucro-do-bb-cai-66-5-no-3-trimestre-com-inadimpl-ncia-d-b20300aaf39977",
-      "category": "Brasil",
-      "title": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro - Agência Brasil",
-      "snippet": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPR0xzb0syWWlraDBlQVlzcVhrSmhOOVk4V21WdXcyZWtJZnZsejZ3azRPTm9VMGxYNFNsOGhNMFhLc1p3X1oxR0FIazFLWlpKeHNmX2tpTVVLaHNzb0NHbkRZTVlMaHN5aEhkTEpFTjJQZ3pTcTNlcmxsdW11ZUc0eTdSc1lfcDZhclFMZ1hJZ29BMXpBSU1DSnVWUDVqVTF5OUdyaHpFUjg5QUduWU45YVdaM2pRdUwwenF3?oc=5",
-      "published": "2026-11-12T01:20:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro Agência Brasil",
-      "summary": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
