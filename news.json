@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T02:59:19.694709+00:00",
+  "updated_at": "2026-11-13T05:12:57.566434+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -38,6 +38,20 @@
       "tone": "",
       "dek": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
       "summary": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "leonardo-sakamoto-agrot-xicos-proibidos-aparecem-na-gua-c44bd6b559b09b",
+      "category": "Brasil",
+      "title": "Leonardo Sakamoto: Agrotóxicos proibidos aparecem na água de 1 em cada 7 municípios do país - UOL Notícias",
+      "snippet": "Leonardo Sakamoto: Agrotóxicos proibidos aparecem na água de 1 em cada 7 municípios do país UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVJWN0JXOTBVNDNhaUZQRmhMZFhmc25CN2l2eFZ4d1EtVVdVY0Q1N1QxYW1YcVp1eF9MZWJUUl9VTFZId1NIMnliUDJEakdIbVp4TmdoNUdFVnZfX0t6WnBiNy10ekphWW1QZEk0YkdwS2VpdkM1dmJTSDNKZTR6ZXVGdG91M1UzYmxWTVl1ajNlTW9wekcyd2w4N19xVDZ5NXNXcWs0NURBR1Vyb3E4czQzOEpUdUh5bTZYRmJxeFh3XzYxVkRSODhjNTZLcFlsaXZv?oc=5",
+      "published": "2026-11-12T22:58:02+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Leonardo Sakamoto: Agrotóxicos proibidos aparecem na água de 1 em cada 7 municípios do país UOL Notícias",
+      "summary": "Leonardo Sakamoto: Agrotóxicos proibidos aparecem na água de 1 em cada 7 municípios do país UOL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -164,6 +178,20 @@
       "tone": "",
       "dek": "Aprosoja Brasil repudia declarações de presidente do Banco do Brasil sobre produtor rural Notícias Agrícolas",
       "summary": "Aprosoja Brasil repudia declarações de presidente do Banco do Brasil sobre produtor rural Notícias Agrícolas",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "justi-a-pro-be-uber-de-cobrar-taxa-para-motoristas-acei-cf6aeacf923152",
+      "category": "Brasil",
+      "title": "Justiça proíbe Uber de cobrar taxa para motoristas aceitarem corridas no Brasil - G1",
+      "snippet": "Justiça proíbe Uber de cobrar taxa para motoristas aceitarem corridas no Brasil G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeGlNVzZmc1dlU19KM0gxR1ZNUHJDOGQ2Ny1MeXlJRzBGLUVXSW43Q1ZKNGVFNHhfOG5uU0lWR2dHdG9aOHBDZi04eUlQaXh0TmhDcERsc2xUYWhsM3FxM083ZXVRcmV1UUFNZFE5UDhRYS1ob1o3VzJBWmxuRnI2aXZ3YkpvMVFwRTVETVd5NWRfQzN5QTNYbm15Y0VUX1JXMm9CSmhISm0wQ21Qb0gtOFF5MUZzN2lRVUlEN2dBRljSAc8BQVVfeXFMUFJmSUFKby1TVTVOR2RRMlJkZ00tdXRZaFhJVThoeV9Rd3dxU0FhNFlsekp4eDhQMEliTmZZVzhKdGNoZ0hfS0xHSFpDT29DcWcyZUlkUmFyU2o4cVRlWldJZF9zenVzYlpzVlRDOXVQRFJodDlkN0xxM3BVUXZ0Ti0xSmJkX0J1QzNKd3VnMVoySXhlZzBBTDBWMTlJLV90MlpkMW5vQTJzTVc1ckpiZ2JMX3VvbW9hR0h4anctN0xjRkxSd0hyc0RIaUY1VmZj?oc=5",
+      "published": "2026-11-12T17:54:07+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Justiça proíbe Uber de cobrar taxa para motoristas aceitarem corridas no Brasil G1",
+      "summary": "Justiça proíbe Uber de cobrar taxa para motoristas aceitarem corridas no Brasil G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "purple",
       "dek": "Política de Inovação da AEB prevê apoio a pesquisas, empresas e inventores do setor espacial GOV.BR",
       "summary": "Política de Inovação da AEB prevê apoio a pesquisas, empresas e inventores do setor espacial GOV.BR",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "premier-league-reconhece-erro-de-arbitragem-em-derrota--1c8cca2cd4e4fd",
-      "category": "Esportes",
-      "title": "Premier League reconhece erro de arbitragem em derrota do Liverpool - CNN Brasil",
-      "snippet": "Premier League reconhece erro de arbitragem em derrota do Liverpool CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPcTlPZE16QkJzNU1ZU01uVVpDcXJfNDItUnp5eTN4ZXNYa0RNclNPUklzMmV1c0s2VWZWSnRSVWgxRlNKcXpBT0Q4bm5wT2RLQ2lQcmtCaUdaUFJmemdRNGN2NWhqbkRtQk9YTlZsbW1NQTI2TTRZWVpNQ0hweEZ2T0dMc1Vud2ktQW1HNW1yRlZXUXQ5SUVxUmpfX3QwMGJIYnpJdE1FWFlaRzhHako2SDNaZk9LY0ppdnVnOUd5U0poR3ZyY0ZlbXlIdVM2ci1Rb0E?oc=5",
-      "published": "2026-11-11T12:44:15+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Premier League reconhece erro de arbitragem em derrota do Liverpool CNN Brasil",
-      "summary": "Premier League reconhece erro de arbitragem em derrota do Liverpool CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "quem-poder-ser-o-pr-ximo-t-cnico-do-manchester-united-v-8fc7c4f75df3c1",
-      "category": "Esportes",
-      "title": "Quem poderá ser o próximo técnico do Manchester United? Veja opções - CNN Brasil",
-      "snippet": "Quem poderá ser o próximo técnico do Manchester United? Veja opções CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPenQ0YW5tTWl2SHNINTdoM0lqb2JPQUxBNVlFblBZenVEeGROaDlSS0N2V2xGQjRtX0s0VkU2MUVUQkhwSmFCRTVNS29IOFJTNmU2VG5MOGhWaTFpUWtqNmxrNE1PZUd3RVhtM0lLUkp0X0hYbWRUMnkxZ2RMSVJuTW1IWkxmS1NRdmpvVlF0ZXBkbk9NT2YtYlo5dWpHSlhtbUxKWU11NHRrSUlQNmZMekNCampKOEs2c1ljMXhqSEg3RFVHbUd0eF9CLU9TSlRT?oc=5",
-      "published": "2026-11-11T12:29:31+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Quem poderá ser o próximo técnico do Manchester United? Veja opções CNN Brasil",
-      "summary": "Quem poderá ser o próximo técnico do Manchester United? Veja opções CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
