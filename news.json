@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T07:32:01.434179+00:00",
+  "updated_at": "2026-11-13T09:12:36.759412+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "outlook-falha-na-microsoft-deixa-email-fora-do-ar-email-9b0af21fca4b6f",
+      "category": "Brasil",
+      "title": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe - BBC",
+      "snippet": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UeHJuZnpRUDlRQmZfQU9heTJFaFZjMlo2OW1YN0tZREY3RGtJVzZxQ1FFUkhzYlpkLTlTMTBKeU1wZ1IzakZPQzQ2ckJNbTNnQVhld2xaRkh6Y2hKZlZrUDlIONIBaEFVX3lxTE9ndkNIckJLMWZDeHFwV2ozMHpLdEcxczhaa1ZyUnRxYlcwN3pFTHBQSnBBSjAydzJ5bHd3dGZFQkxKVlN0MllDd3UzMV9TaTljVGd4VTdJa0tCamgwRm5mSEFUUVA2aVNr?oc=5",
+      "published": "2026-11-13T04:17:36+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
+      "summary": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "l-na-minha-terra-mostrar-na-novela-um-nordeste-do-atras-ec0a3a9fcdeaf7",
       "category": "Brasil",
@@ -83,6 +97,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "espanha-bate-a-tch-quia-fora-de-casa-e-mant-m-100-na-na-23229bc1558c41",
+      "category": "Esportes",
+      "title": "Espanha bate a Tchéquia fora de casa e mantém 100% na Nations League - CNN Brasil",
+      "snippet": "Espanha bate a Tchéquia fora de casa e mantém 100% na Nations League CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWtTNDhKSGNiSnNSNWRiak9wMXRScVZ3ZEJiLXB5empncHUtQjNTbklEaWFKYWs3anBXNUwwVlNXbHBSYTE5Mm5RQkdsbjNaSEFXMTFyODhGYmxfZ2M4U3JhR0hhbmM5d0lWU3NqYkJ4YmFKdFFHcTZfQmcyenBPQlpuUmd4dmlOZndmNzdjT05YVnlsRnA0WUNhYUFRRUNIYWU0M01PMnJVbDlLR3NoOVFtZ2tPaFl4UU84VFAwUGZyeGZwODBVRzdNb2ZHc083NVE?oc=5",
+      "published": "2026-11-12T21:52:58+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Espanha bate a Tchéquia fora de casa e mantém 100% na Nations League CNN Brasil",
+      "summary": "Espanha bate a Tchéquia fora de casa e mantém 100% na Nations League CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "meta-exibe-mais-de-700-an-ncios-de-bets-proibidas-revel-cbb5d4330ec9ae",
       "category": "Brasil",
       "title": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC - BBC",
@@ -94,20 +122,6 @@
       "tone": "",
       "dek": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC BBC",
       "summary": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "outlook-falha-na-microsoft-deixa-email-fora-do-ar-email-9b0af21fca4b6f",
-      "category": "Brasil",
-      "title": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe - BBC",
-      "snippet": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UeHJuZnpRUDlRQmZfQU9heTJFaFZjMlo2OW1YN0tZREY3RGtJVzZxQ1FFUkhzYlpkLTlTMTBKeU1wZ1IzakZPQzQ2ckJNbTNnQVhld2xaRkh6Y2hKZlZrUDlIONIBaEFVX3lxTE9ndkNIckJLMWZDeHFwV2ozMHpLdEcxczhaa1ZyUnRxYlcwN3pFTHBQSnBBSjAydzJ5bHd3dGZFQkxKVlN0MllDd3UzMV9TaTljVGd4VTdJa0tCamgwRm5mSEFUUVA2aVNr?oc=5",
-      "published": "2026-11-12T21:37:12+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
-      "summary": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -155,9 +169,9 @@
     {
       "id": "luciana-santos-destaca-import-ncia-da-intelig-ncia-arti-1db06c9093d8ff",
       "category": "Tecnologia",
-      "title": "Luciana Santos destaca importância da inteligência artificial para o serviço público durante fórum no TCU - Governo Federal",
-      "snippet": "Luciana Santos destaca importância da inteligência artificial para o serviço público durante fórum no TCU Governo Federal",
-      "source": "Governo Federal",
+      "title": "Luciana Santos destaca importância da inteligência artificial para o serviço público durante fórum no TCU - GOV.BR",
+      "snippet": "Luciana Santos destaca importância da inteligência artificial para o serviço público durante fórum no TCU GOV.BR",
+      "source": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWdNVmV3REJwaFF5YS1pSDBEZFJ1ZG9TZTZLdkJ2RzJoZG4wOFVkeFNTbzhpcEF2cV9abGFkbmJKY2ZweHFyZlBuZ21aNm9KaTRXMlFUWVpzUWhGM2E5YjNqcHFDU1BROGpQdWhFcHU1aWNDV1BvMXNPd2liSEl4RTg4bVpVdUhLcnV4SktkV0k5MkhzZnp1OTNHTlh0ZlM3XzdlMkx6WE14TC0wQ1FHQ3d5WVBiektlRlhtdkRmQ2Z5SUFQdm9sNmJQazNpTGlxR0dSZk54TGZfdm5vR1F0Nmp5RFhNYkgzS1V6elRlNGVzNjFOeHY0b3dEMDUyUQ?oc=5",
       "published": "2026-11-12T20:39:44+00:00",
       "image": "",
@@ -402,6 +416,20 @@
       "tone": "",
       "dek": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' BBC",
       "summary": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "a-dura-cr-tica-do-cfo-do-banco-do-brasil-a-parte-do-agr-f31b6b5620f545",
+      "category": "Economia",
+      "title": "A dura crítica do CFO do Banco do Brasil a parte do agronegócio - VEJA",
+      "snippet": "A dura crítica do CFO do Banco do Brasil a parte do agronegócio VEJA",
+      "source": "VEJA",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNb1FoeDRfY2RoQ3BpQktfWUo3WExpS3NZdXIzc2QyVWQyaGxZR0swODNJZ3RpT1lsQkhjeEhVd1R2eFk3YjI5N21QdG1qWnJPVlB0QU1pa3lxSmV5cVB1U09MenNNZXQwZUI0VVg5R040MUdreWhaOXhtV3R0WWVwUnlGMUZQdlRwUkl6dFZ4OWNGV1ZMdDJLZnhLcFFLZW1n?oc=5",
+      "published": "2026-11-12T11:20:17+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "A dura crítica do CFO do Banco do Brasil a parte do agronegócio VEJA",
+      "summary": "A dura crítica do CFO do Banco do Brasil a parte do agronegócio VEJA",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "red",
       "dek": "Senador Alessandro Vieira durante Reunião da Comissão de Segurança Pública do Senado Agência Brasil",
       "summary": "Senador Alessandro Vieira durante Reunião da Comissão de Segurança Pública do Senado Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "criminosos-usam-caminh-es-como-barricadas-na-av-brasil--5901a477897150",
-      "category": "Brasil",
-      "title": "Criminosos usam caminhões como barricadas na Av. Brasil, no Rio, durante operação da PM na Maré; aulas são suspensas em 15 escolas - G1",
-      "snippet": "Criminosos usam caminhões como barricadas na Av. Brasil, no Rio, durante operação da PM na Maré; aulas são suspensas em 15 escolas G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOenBVcVpldEZyYVRZUXdPenhQZVBqcENGb3lDb1pLQTRWUDJGNGszZTZ2MUo0a3dYUTQ3YVZ0VlJObnR1U1R0SG1YYjM2T3JlNGs1R20tWTEyUkpIaTJUd0t6cXB5QnpfSE9rMmFLZEd2Z2ZwMkdPR0t1Q1BadF9LLVNDWk92Q3RvOFRsbW50Q19TYV9yNENlLUdMd9IBqgFBVV95cUxOM1pMSkZSbVVVVU1yYjRvMXg5LVZoUVVQR29LVks1M1ozbG52azdYOWFfOHk3WTRxZkRhLXFxaTV3SU1fT0ZaZnR6SmJ6T0hqbWp5MHp2c2IzdzhMd2FYaTctRkhsSmI2dktocGFHTExFRE4yQnhibGJWV1NKOGg5Nm1LZU83Q05RWi1ocWNxOXhwUXExTFA4Z190ZE5GVnhNVnpwc3F0T1FPUQ?oc=5",
-      "published": "2026-11-11T14:13:23+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Criminosos usam caminhões como barricadas na Av. Brasil, no Rio, durante operação da PM na Maré; aulas são suspensas em 15 escolas G1",
-      "summary": "Criminosos usam caminhões como barricadas na Av. Brasil, no Rio, durante operação da PM na Maré; aulas são suspensas em 15 escolas G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "congresso-prorroga-por-60-dias-mp-que-pro-be-apostas-es-0eb44b4dec2def",
-      "category": "Brasil",
-      "title": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil - ICL Notícias",
-      "snippet": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
-      "source": "ICL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yREp6V3FLYXBhamhhaGltM2NNUTllQzZmMTJsRHU5anZJTEFoMzZhLXFDZDFqUkZBY2RnUFVLZzVhQUotZW9YeURrNnhLVGRyWkpWU0FBNVZXYV9yZGdJU2k1V2JSakMzM1ZfMjNn?oc=5",
-      "published": "2026-11-11T13:28:04+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
-      "summary": "Congresso prorroga por 60 dias MP que proíbe apostas esportivas no Brasil ICL Notícias",
       "summary_by": "descrição da fonte"
     }
   ],
