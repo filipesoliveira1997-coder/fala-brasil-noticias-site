@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T15:02:23.194005+00:00",
+  "updated_at": "2026-11-13T17:08:00.001799+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "douglas-ruas-escolhe-delegado-de-s-o-gon-alo-para-coman-030a67d770fa80",
+      "category": "Polícia",
+      "title": "Douglas Ruas escolhe delegado de São Gonçalo para comandar a segurança pública do Rio; veja nomes cotados para PM e Polícia Civil - Prensa Mercosur",
+      "snippet": "Douglas Ruas escolhe delegado de São Gonçalo para comandar a segurança pública do Rio; veja nomes cotados para PM e Polícia Civil Prensa Mercosur",
+      "source": "Prensa Mercosur",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQ2lFZ3h0cjVkY3NhNm8yam1GYktEMzh5WDdjT0lkQl95bUdxb281bUMxZHVPTXNrUloxbFhaTGpwbko5SzY3OEdraWk5dU9xRzh1TXEzNWNCVW9hWjQ5b2tpTHhOeWNvTjhwOEcxeTMxSXBYTTVHeHBNcThvR0dMaVA0TEQ1LUotSkhlRGRrM0dsN2Z0ZU1EM2ZkRW15cmdDMHRzNmtQY0ptMXJYY3hJVEhuREFldk84c1NCNzRhVlBLYVp0RndSY0JlTFJhclBYbDFjanZUUzhEXzE2RmJDcTFPd0pMbHFfS3ZnbnFhcFlOc2pDRHZELWZWQQ?oc=5",
+      "published": "2026-11-13T15:35:43+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Douglas Ruas escolhe delegado de São Gonçalo para comandar a segurança pública do Rio; veja nomes cotados para PM e Polícia Civil Prensa Mercosur",
+      "summary": "Douglas Ruas escolhe delegado de São Gonçalo para comandar a segurança pública do Rio; veja nomes cotados para PM e Polícia Civil Prensa Mercosur",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "pol-cia-penal-de-sp-estreia-no-veterans-day-brasil-agen-3ade480ac707aa",
       "category": "Polícia",
@@ -131,7 +145,7 @@
       "snippet": "Brasil x Peru: horário e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
       "source": "CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTBzT25RNjBzU2ZjdmUwbUlULUc2VlJodmU4Tlc3dUNXaWRIU29pdlFjYTRlV2hfYzJ4MllBT3JMZExpcUxnY3ZjeldTbmJfYzJ6amlscmpRY1BMYjhnaXZCZnBVaTJFZ0ZnRC03NzhUYU85Z3UtQ3BtM2lLbWJsdk5YM2l3bDRpejByYVNDSmRMSFQtNHhpdU95TWlfSV9sZ00wbmg2eDcxeDJvYkFfQkllaTBKbDY4UnlSNXN5QWptUkRGMnJRQ1pMU1BrQQ?oc=5",
-      "published": "2026-11-13T08:05:34+00:00",
+      "published": "2026-11-13T08:10:05+00:00",
       "image": "",
       "tone": "teal",
       "dek": "Brasil x Peru: horário e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
@@ -145,7 +159,7 @@
       "snippet": "Argentina x Uruguai: horário e onde assistir ao amistoso na Data Fifa CNN Brasil",
       "source": "CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQ2w4U1FkaU55ZzdEa09FZmxIT0NtSEtSMm5uWTRLcFRCLXNzLTVZcWVWR0xUM3FxRHJIR2Y1dEN3S0ZsWndZVHBPMDJwUi1jb0VDZnlGbmY0WkNWRlZMdVY5eFlLUjJ6UmF0M2pOd0pUVXBjcEhLeC1pX01xcV9sak9FUXd3aUNxazZYT3RkLXBTX2J5OUhXb2JoV0Q4UlpCZm1rVlM3Mk05OWlkUk5uUTQ2Y0J4QlhmNkwyUVB5VlgzYWx4ZjdHdUliT3JsaHliZkhn?oc=5",
-      "published": "2026-11-13T08:00:49+00:00",
+      "published": "2026-11-13T08:03:49+00:00",
       "image": "",
       "tone": "teal",
       "dek": "Argentina x Uruguai: horário e onde assistir ao amistoso na Data Fifa CNN Brasil",
@@ -321,13 +335,13 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "falha-da-microsoft-deixa-fora-do-ar-outlook-e-outros-se-9b0af21fca4b6f",
+      "id": "microsoft-diz-que-fila-de-e-mails-se-aproxima-do-normal-9b0af21fca4b6f",
       "category": "Brasil",
-      "title": "Falha da Microsoft deixa fora do ar Outlook e outros serviços em 70 países; o que se sabe - BBC",
-      "snippet": "Falha da Microsoft deixa fora do ar Outlook e outros serviços em 70 países; o que se sabe BBC",
+      "title": "Microsoft diz que fila de e-mails 'se aproxima do normal' após falha global no Outlook; o que se sabe - BBC",
+      "snippet": "Microsoft diz que fila de e-mails 'se aproxima do normal' após falha global no Outlook; o que se sabe BBC",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UeHJuZnpRUDlRQmZfQU9heTJFaFZjMlo2OW1YN0tZREY3RGtJVzZxQ1FFUkhzYlpkLTlTMTBKeU1wZ1IzakZPQzQ2ckJNbTNnQVhld2xaRkh6Y2hKZlZrUDlIONIBaEFVX3lxTE9ndkNIckJLMWZDeHFwV2ozMHpLdEcxczhaa1ZyUnRxYlcwN3pFTHBQSnBBSjAydzJ5bHd3dGZFQkxKVlN0MllDd3UzMV9TaTljVGd4VTdJa0tCamgwRm5mSEFUUVA2aVNr?oc=5",
-      "published": "2026-11-12T21:18:17+00:00",
+      "published": "2026-11-12T21:18:19+00:00",
       "image": "",
       "tone": "",
       "dek": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
@@ -836,20 +850,6 @@
       "tone": "",
       "dek": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro Agência Brasil",
       "summary": "Lucro do BB cai 66,5% no 3º trimestre com inadimplência do agro Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "marta-mostrou-o-que-era-poss-vel-a-mulheres-no-futebol--d908ca36020ea5",
-      "category": "Esportes",
-      "title": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça - CNN Brasil",
-      "snippet": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbFlMcmJKM0NNOGRWX0s1cXNKdmhTdWpJOGdsbTdOUHpmTllkcmItOVRkMXA2ZEtyVGJ6WGxhM3JISU01Y1JXZS1jQUxCY2tWellDbFBFcVRSeS02NWFmbldUb1BEQzRhUzlTR1RtRnAxOEdaZC0xN0VhZ1hIT2pUUE5sM2gxXzZpdElVLUpvaTlrbk1ob2JLcWMyQlpZbUxhUG1BcWx3WjVoYURtRnlic2lLUGlqRk4w?oc=5",
-      "published": "2026-11-12T01:11:53+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça CNN Brasil",
-      "summary": "Marta mostrou “o que era possível a mulheres no futebol”, diz lenda suíça CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
