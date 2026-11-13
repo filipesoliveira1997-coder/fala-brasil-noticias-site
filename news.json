@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T11:13:07.272864+00:00",
+  "updated_at": "2026-11-13T13:25:57.776469+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "lula-chega-s-filipinas-brasil-quer-ser-parceiro-de-di-l-0bd7a45880c23f",
+      "category": "Brasil",
+      "title": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean - Agência Brasil",
+      "snippet": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSl80dVFreUJ6NGduNmlrUXN0WTZwVTZyay11WDZOa2R5a2d2WjRqNUVidEMyWFRfWjRjZjRTQmpkWHEwQ3BnbWhTRFZmNm0ySkZ4SzJINHg0ZGllV2hybFZjRGs0cEFjWHVWSWpkdjZtdHhPaUZrQThrQ3JWQlB5M2lCVHhlam5TVVMyQWFQS2hGNVJONE11Qm9sd095ZmVZT2dRQy1EckEtQjdRc0pwOHBXWHN3MXhydUZEeDVxODA?oc=5",
+      "published": "2026-11-13T12:59:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean Agência Brasil",
+      "summary": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ex-rcito-realiza-semin-rio-sobre-participa-o-do-brasil--8a3e2cd587d6a0",
+      "category": "Brasil",
+      "title": "Exército realiza seminário sobre participação do Brasil na Segunda Guerra - Exército Brasileiro",
+      "snippet": "Exército realiza seminário sobre participação do Brasil na Segunda Guerra Exército Brasileiro",
+      "source": "Exército Brasileiro",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNE9KQzhPc1F3cFBmcGtPN0VaTHNfZ3p3LXlrSkZYNHJHcWlYUG1SM1FRdTFvc1NaWGdJbk84Y3hNaU4tdU0xVUF6SnduMHQ0aW95TVk4eVB6Y1FWcWxBYzVXT2JYcVdlbUdkYVlXaUR4bXVObWhIcXQxYUhVS1VKZjdQQWNoeVJOYWlaSGlaclFHTXRrTU1hS05pQXdjWEdhMUstZXdBU25ydkFqOUVR?oc=5",
+      "published": "2026-11-13T12:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Exército realiza seminário sobre participação do Brasil na Segunda Guerra Exército Brasileiro",
+      "summary": "Exército realiza seminário sobre participação do Brasil na Segunda Guerra Exército Brasileiro",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "outlook-falha-na-microsoft-deixa-email-fora-do-ar-email-9b0af21fca4b6f",
       "category": "Brasil",
@@ -41,6 +69,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "brasil-x-peru-hor-rio-e-onde-assistir-ao-amistoso-da-se-9b48d8e7b6bd68",
+      "category": "Esportes",
+      "title": "Brasil x Peru: horário e onde assistir ao amistoso da Seleção sub-20 - CNN Brasil",
+      "snippet": "Brasil x Peru: horário e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLTBzT25RNjBzU2ZjdmUwbUlULUc2VlJodmU4Tlc3dUNXaWRIU29pdlFjYTRlV2hfYzJ4MllBT3JMZExpcUxnY3ZjeldTbmJfYzJ6amlscmpRY1BMYjhnaXZCZnBVaTJFZ0ZnRC03NzhUYU85Z3UtQ3BtM2lLbWJsdk5YM2l3bDRpejByYVNDSmRMSFQtNHhpdU95TWlfSV9sZ00wbmg2eDcxeDJvYkFfQkllaTBKbDY4UnlSNXN5QWptUkRGMnJRQ1pMU1BrQQ?oc=5",
+      "published": "2026-11-13T08:05:34+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil x Peru: horário e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
+      "summary": "Brasil x Peru: horário e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "argentina-x-uruguai-hor-rio-e-onde-assistir-ao-amistoso-d7fff302ec7c03",
       "category": "Esportes",
       "title": "Argentina x Uruguai: horário e onde assistir ao amistoso na Data Fifa - CNN Brasil",
@@ -66,6 +108,20 @@
       "tone": "",
       "dek": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil G1",
       "summary": "‘Sobreviver ou pagar ao banco’: o que levou os produtores rurais à inadimplência recorde no Brasil G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "opini-o-br-ulio-borges-fiscal-pesa-mas-n-o-explica-tudo-6d42753d81107a",
+      "category": "Brasil",
+      "title": "Opinião - Bráulio Borges: Fiscal pesa, mas não explica tudo sobre juro alto no Brasil - Folha de S.Paulo",
+      "snippet": "Opinião - Bráulio Borges: Fiscal pesa, mas não explica tudo sobre juro alto no Brasil Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQREJTRjZaaGR2R0M5d3FSVHZKUUZtZEgzSkQ5cFJKSEhvbzhCYkdyS1h4VVhUeXV0MC01ckN0V1UzXzVIbjlFNWVIbllnTzFsQkE2MXhYTXk5UWV3ZVJZbnU4MkJwMzg5NDV1OWFBbl9DQjNQczhpNHU2aXZvU3VYdVlGaGI1aDZSeTZsaTJPZGd6WURTRnZKUFVfX1lBWFZaSXBTQkNNLW5yZ19ScTZzekdYNkZUS0U1MkhYVkVIYl9DUGM?oc=5",
+      "published": "2026-11-13T02:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Opinião - Bráulio Borges: Fiscal pesa, mas não explica tudo sobre juro alto no Brasil Folha de S.Paulo",
+      "summary": "Opinião - Bráulio Borges: Fiscal pesa, mas não explica tudo sobre juro alto no Brasil Folha de S.Paulo",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "red",
       "dek": "“Melhor secretário de Segurança Pública que temos”: Investigador da Polícia Civil, Douglas Pithon defende Marcelo Werner no comando da PF Política ao Ponto",
       "summary": "“Melhor secretário de Segurança Pública que temos”: Investigador da Polícia Civil, Douglas Pithon defende Marcelo Werner no comando da PF Política ao Ponto",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "d-lar-sobe-mais-de-10-frente-ao-real-ap-s-elei-es-no-br-275fc08b688652",
-      "category": "Brasil",
-      "title": "Dólar sobe mais de 10% frente ao real após eleições no Brasil, mas produtor segura vendas de soja à espera de novas altas - Notícias Agrícolas",
-      "snippet": "Dólar sobe mais de 10% frente ao real após eleições no Brasil, mas produtor segura vendas de soja à espera de novas altas Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNcW5MNDdUeTdtY0t0eVlmTFVvOW91VTJWalAyTnlfLXRhN09pbHZTd2MxM1ltZWNqTWd3UHJmYjlkdEJlRTE3eVRUbE9WdHluVWRkOWZNc0RsTFBNTkFxajdiNXlSaXFZYUxWdXQ3emhYYlZQTHUtUUxCYTR3SGFnUEY5V1dsdFkyWDh1THFkRzdsM1hIRnRtcFo4WXhneTFrazE5Tk4wdHlDUGpnT2FvWGRVR0puZ2dqcWwxMFlMdG1MMW80Q3J3Ql95V1ZhUFl5S2ZDNktBN0I4Y0RKeTJ4U2xVZmhJQjJZSTZkcjJB0gHzAUFVX3lxTE5MOVRZRWN1cGhGdF9jYjhud0JxUkk1QjdtSmNNZnQ3d2h3WXN1QUQzUVBobmwtV0hJMFVXT1NCSnJzVWJ1Tno2TFk1SVpSZGUtMC1udl8wQXhzNkJ0VjdNOVNtNkV1LUtGek9PMWlvcW52NlExcjJadUszVVgyUHk5SElxZ29zNDNZTEVERUlaalRSTHNvYnZSazFDdUJaU1ZhdnRvWmlhUy1KRllLeHVtWG1wVWEzaFVCeEtXdmNmeE51T1BybGxxQXNVejdqZk55UTFZZzRrcWFsdHRiMnhVRC04N3BmdDY3TUhRSDJrZ0ctVQ?oc=5",
-      "published": "2026-11-11T19:07:28+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Dólar sobe mais de 10% frente ao real após eleições no Brasil, mas produtor segura vendas de soja à espera de novas altas Notícias Agrícolas",
-      "summary": "Dólar sobe mais de 10% frente ao real após eleições no Brasil, mas produtor segura vendas de soja à espera de novas altas Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "palmeiras-inicia-prepara-o-para-enfrentar-o-cruzeiro-co-213717dc62ad07",
-      "category": "Esportes",
-      "title": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques - CNN Brasil",
-      "snippet": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSVdrd2hOYnBlNDd5TUozUkpDRDNWSk9jbXQ2WTA3d0tUN0hNd094b2dKcTkzZkNXcjVDU2NWRDI4R28ybHBtSHktX0hNQXFYdGtaREF1N29MdU95UHhLb0hKU3VTUUVvc0JhRWNXemNnVzU1TlNOQ0hjXzVkcHN0c2dJVkNpSGkzQjNCZEltdDFwSEppdnJRX29kd0tTc3dVdVBzcDBmRVhPRWE0T3BodjYzTXBDWXlyVU1BUXZrbWdLYnk0MjQw?oc=5",
-      "published": "2026-11-11T18:10:03+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques CNN Brasil",
-      "summary": "Palmeiras inicia preparação para enfrentar o Cruzeiro com 11 desfalques CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "proposta-que-facilita-transi-o-tribut-ria-ser-enviada-a-ef0f5843018d56",
-      "category": "Brasil",
-      "title": "Proposta que facilita transição tributária será enviada ao Congresso - Agência Brasil",
-      "snippet": "Proposta que facilita transição tributária será enviada ao Congresso Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcFpRaVNPRlVaYVU2SzF2ejRFbFVoaUZDa3J3b3NRRTZjbDM0bnMzaVlkclZ5ZW5OUXAwWkRNR3hsNU5iLVY3ODhHbndsdW1iUUNCQ1hYUWp0TlhNOWJyRXVObm1ta2FUc3NucGhWQlN1YjdwTG9tdlcxdUlLRnp6LW1fdGl4S3VoVmw1QmladWUxRmRRZVNVMjRFbE9LYnBiQ3RpczdzdGpTVlU4V1ViYnhnd3N6V2Uwd0gydzQza0VDMGpj?oc=5",
-      "published": "2026-11-11T16:32:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Proposta que facilita transição tributária será enviada ao Congresso Agência Brasil",
-      "summary": "Proposta que facilita transição tributária será enviada ao Congresso Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ju-ara-mar-al-homenageia-agn-s-varda-em-show-in-dito-no-26601d6eae0b1f",
-      "category": "Entretenimento",
-      "title": "Juçara Marçal homenageia Agnès Varda em show inédito no Cine Theatro Brasil, em BH - SouBH",
-      "snippet": "Juçara Marçal homenageia Agnès Varda em show inédito no Cine Theatro Brasil, em BH SouBH",
-      "source": "SouBH",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSHo1VVZCOHdhQW1IeC16YUt3RTJITmZVVHBqWFpIRTctRVVLR1ZHbWp1aDc1eFFtd3VxVk1mU0Z0aGdXUmNaTEEtVDhLNkxwWUxoZFZ6ZUxKWlBlYmwxeXVYM2RiUGVfeExfeEswSHdsT2UzQ0ZNVkVNbk41cTVmajVfTFAtUEFSSnIwTTkxLVZBSFdVenNQa2tDVnBnYlFZaDlCOVZtMFB1d0h4eFZn?oc=5",
-      "published": "2026-11-11T16:09:00+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Juçara Marçal homenageia Agnès Varda em show inédito no Cine Theatro Brasil, em BH SouBH",
-      "summary": "Juçara Marçal homenageia Agnès Varda em show inédito no Cine Theatro Brasil, em BH SouBH",
       "summary_by": "descrição da fonte"
     }
   ],
