@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T22:58:28.502047+00:00",
+  "updated_at": "2026-11-13T01:24:13.542179+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "pgr-contra-revisar-condena-o-de-jair-bolsonaro-ag-ncia--0582d454c77d97",
+      "category": "Brasil",
+      "title": "PGR é contra revisar condenação de Jair Bolsonaro - Agência Brasil",
+      "snippet": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkRwRXhYeDNvYktrakt2Ti1MZWFmUzM3MWd6UWNKZFpKVG9YLTdlMHNPTVJhbmg2T0Eta3hYYy02WnNQVUw4eTFIQ0JUYkNIQVVJNmJJTmxYR2tkWUVTOTRXQnc3OXgyRDR0VFNOU2NSeGFQU3NGeUZNVU1JZFJXdkl0Rm1nUHpzZGFibHdiSno5S0F3NDVGV0c0NGZSS3dIUlQ4YVZfTGhMQQ?oc=5",
+      "published": "2026-11-13T00:26:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
+      "summary": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "meta-exibe-mais-de-700-an-ncios-de-bets-proibidas-revel-cbb5d4330ec9ae",
       "category": "Brasil",
@@ -41,6 +55,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "o-futuro-da-economia-passa-por-pernambuco-destaca-raque-ea2950910e1ea8",
+      "category": "Tecnologia",
+      "title": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay - CBN Recife",
+      "snippet": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay CBN Recife",
+      "source": "CBN Recife",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbjEzdUlFZXJDSlN0c0hhS1N4VThNQksyUVNUSU5JbGV4R3h1ZnVnWXp6QVpTRzEySVZnX3lRb3hzVUdUaldLb180cnk3c25ZZDJaeF9UTllZUjJlcVcxcnUzWUVSRnlFVDhxNXVTNllmVjJQeUQ2OC1mRXFacjhkUlJwNjJfSm1IT2t4eVBHZkJVQm0wVHNONXhIRjZGanZnYm9hM1ZaeVo1ZzJrTkd6RXJrRHFOU0FyeEZGWndmem40dzRWUE5kc2lWRkxtQ01PNldvb1Vjbkh0QQ?oc=5",
+      "published": "2026-11-12T21:35:13+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay CBN Recife",
+      "summary": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay CBN Recife",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "raquel-lyra-participa-de-debate-sobre-inova-o-e-desenvo-735dd5112029fe",
       "category": "Tecnologia",
       "title": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play - Blog Cenário",
@@ -52,6 +80,20 @@
       "tone": "purple",
       "dek": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play Blog Cenário",
       "summary": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play Blog Cenário",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "viol-ncia-contra-a-mulher-associada-ao-v-cio-em-apostas-04101860f50542",
+      "category": "Brasil",
+      "title": "Violência contra a mulher associada ao vício em apostas cresce 75% em um ano no Brasil - Governo Federal",
+      "snippet": "Violência contra a mulher associada ao vício em apostas cresce 75% em um ano no Brasil Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUwyMHBtUVpfbWJUbHAzM2tGQ3diTWNpWElsZy1fbTJUbnBHMkNPVTNlcXJGSW1jQ0VkT1I3aVgtUUxRLWJ4RmJkSjZpTGtiZEphTGZMNHdNLWRWUXJmR3NuR0pmVG1mcUlESWNERlBOQUtVODB1UUZLVkxsTWF4eXE5TWs0ODJfU2RKUms4bExQTVZ3YWE4RG1uR1Q4ejVOZzdwbGhyc1d5WHVyeklTMy1BUUJRd3dEZW4xSThLZ0F1dkk?oc=5",
+      "published": "2026-11-12T20:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Violência contra a mulher associada ao vício em apostas cresce 75% em um ano no Brasil Governo Federal",
+      "summary": "Violência contra a mulher associada ao vício em apostas cresce 75% em um ano no Brasil Governo Federal",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "",
       "dek": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos; entenda o paradoxo G1",
       "summary": "Brasil nunca produziu tanta carne bovina, mas brasileiro come cada vez menos; entenda o paradoxo G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ala-da-pf-v-alckmin-com-perfil-ideal-para-minist-rio-da-a50b6ec314609e",
-      "category": "Polícia",
-      "title": "Ala da PF vê Alckmin com perfil ideal para Ministério da Segurança Pública - CNN Brasil",
-      "snippet": "Ala da PF vê Alckmin com perfil ideal para Ministério da Segurança Pública CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUnpPc3p0RnNRMk1uN3VwV19pOGNxT3g3T0FrV3NnODE2Zy1nenNER3JFempRSlpBUVZKc2xYaHg2dk1XVlItQ19ZdW9TNHFkb3pHLXNVdHF6U1A5R3BxWk1nbFVqSTBNamc3SjAwZTVfQlZZb2lvS1k5bWxtaUZsR1JJeG9UOWpsNmNPck9OMFg0c2dHOS1kcFVxVkMxQUJwSTZrYkdBaXZ3cmoxVTFaaVhBYVhIR2xQYlMwQUtQeGVxaFZlOUE2SUNjazZTTzg?oc=5",
-      "published": "2026-11-11T06:50:34+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Ala da PF vê Alckmin com perfil ideal para Ministério da Segurança Pública CNN Brasil",
-      "summary": "Ala da PF vê Alckmin com perfil ideal para Ministério da Segurança Pública CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "guarapuava-ganha-pr-mio-gestor-p-blico-paran-com-projet-61a7421604231b",
-      "category": "Tecnologia",
-      "title": "Guarapuava ganha Prêmio Gestor Público Paraná com projeto de inovação e inclusão digital - Paraná Central",
-      "snippet": "Guarapuava ganha Prêmio Gestor Público Paraná com projeto de inovação e inclusão digital Paraná Central",
-      "source": "Paraná Central",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOalpHUWRaMlZmeWJDQmhRYnlaNk1adndtMmhUZXdUNENWQTgzZDRwal9mRXVVLTlNd1ZrQzNVV01saXN3Rm51Q3JWU2NLcnlTdnhIaWk1eENFM0xmMVpFazJoWjJJVUplMjNodUtETnlaLU9wQy01SDZXSEhhVGhKTWdUd3BZNlk2aGcxWG1XTVZUYVkyd3RxQ1p5emRrSC13OXdUNlppRnVVUk1sUldHNFpoMTlzRFpO?oc=5",
-      "published": "2026-11-11T02:31:56+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Guarapuava ganha Prêmio Gestor Público Paraná com projeto de inovação e inclusão digital Paraná Central",
-      "summary": "Guarapuava ganha Prêmio Gestor Público Paraná com projeto de inovação e inclusão digital Paraná Central",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "dirigente-refor-a-lado-do-palmeiras-sobre-convocados-n--df13d853f761a1",
-      "category": "Esportes",
-      "title": "Dirigente reforça lado do Palmeiras sobre convocados: \"Não fomos avisados\" - CNN Brasil",
-      "snippet": "Dirigente reforça lado do Palmeiras sobre convocados: \"Não fomos avisados\" CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOazlhUWlyZ0JUUzUyVkw4WVJpSHZ5T2c4Wk01MmhucDZTNnFLa2JlY1VjbTVGdERCdkw3Mmp5dHRFbFY2eVRHN0FEb2FqZ0YxY3FqaXdLRWgyZE9JS0xTazI3V2lhOTFjSkxCM3hyUEJ4WGcxSjhYd2NsWnAxUHQtYWszYVhUNDlVZVNBVnhZN1Iwbnpkc292X3JRRElmbWlweWxVQzFja0tQVFhIVGRnWjBtRFExUXpqU0R0amVseUg0U1puZ1JJ?oc=5",
-      "published": "2026-11-11T02:22:33+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Dirigente reforça lado do Palmeiras sobre convocados: \"Não fomos avisados\" CNN Brasil",
-      "summary": "Dirigente reforça lado do Palmeiras sobre convocados: \"Não fomos avisados\" CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
