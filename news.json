@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T21:03:53.724240+00:00",
+  "updated_at": "2026-11-13T22:55:37.146971+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "fifa-abre-venda-de-ingressos-para-copa-feminina-2027-em-ef2f9ae72ca740",
+      "category": "Brasil",
+      "title": "Fifa abre venda de ingressos para Copa Feminina 2027 em 1º de dezembro - Agência Brasil",
+      "snippet": "Fifa abre venda de ingressos para Copa Feminina 2027 em 1º de dezembro Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZnFzU3VxN25SLU9OUERBOWdLSGJUN0JNYkhPZlJiaG1CM3k3emxGbkNaTHBpTFhNTzFNYjBsbUJ0WkRPeElzSUFXalBFN3VvdTJLbzJybUlOc25Hb28xVVdvOG9KT1FJUHFSN2FDTXBwUkgzM2ppNG9oYlNhRUpYZ1Z3Rkd4SldWQldlVFZqRU84ajBOMFVwaVdCRkRjaU5fczFBY29fSW5fRFJ1WGlkM0RTb2VHM0ZyZ0FDb0lUZHpHeHoxMGZj?oc=5",
+      "published": "2026-11-13T21:18:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Fifa abre venda de ingressos para Copa Feminina 2027 em 1º de dezembro Agência Brasil",
+      "summary": "Fifa abre venda de ingressos para Copa Feminina 2027 em 1º de dezembro Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "garro-d-passo-importante-em-recupera-o-de-les-o-no-joel-ae17d85d9556fc",
       "category": "Esportes",
@@ -41,6 +55,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "al-m-do-agro-entenda-por-que-o-lucro-do-banco-do-brasil-d966f66b341a53",
+      "category": "Brasil",
+      "title": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações - G1",
+      "snippet": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOZFpNemFZLUZuaUpOMHp0ZlRocW5SdXh6aFh5cUhkZlJNaXBicUItQ0pBMGVqLWxqUURtczdzb2JwUDNiN1hrSDdNM01qZGpYTGNfU2dZZmV2bHd4T1RnbEhqM2Z5cjlpLVpJVU1GNHVla1FwakltVmtNZDliN3h2NnZ1TFNxLXYzd3NUbHVfbjBPMnFTeGpoUUxRcWNkdG90NXhVSkkyZ05lbkIyS2Y4Q2JtT1hMSFhhYjdwaDh0ZEpIMWZZLTJBQzJ5QkhmcURJMUk0NEpTRdIB5gFBVV95cUxPcHpBZFpFdlc0RVFWVXNaZTRuVjZjV054dUxEWnB5SDlFeU8xci1fSWNKQlpTRlNTTHczWEFmYzRuVjFyV0R0Rnh4YnhBNFB0OF9QZTk1WnBETDNyS3g3QnZVUThKWlZyckxWbGhRV3dTTGg3N25fRXNHZ1h5MG50RllpRnhtWUJybUl5T0JjcklubmtFdTJzSmVsWWU0MFZSOGozaGs2ZkNZaVN3RHkxTEhqNElRUzVCT0FyNmJ5Sm9NTzZDZndRWWx0VUJnT2JyT2I5aGp2WXBwZ0tVeHM3dUJuX3pvZw?oc=5",
+      "published": "2026-11-13T16:15:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações G1",
+      "summary": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "douglas-ruas-escolhe-delegado-de-s-o-gon-alo-para-coman-030a67d770fa80",
       "category": "Polícia",
       "title": "Douglas Ruas escolhe delegado de São Gonçalo para comandar a segurança pública do Rio; veja nomes cotados para PM e Polícia Civil - Prensa Mercosur",
@@ -52,6 +80,20 @@
       "tone": "red",
       "dek": "Douglas Ruas escolhe delegado de São Gonçalo para comandar a segurança pública do Rio; veja nomes cotados para PM e Polícia Civil Prensa Mercosur",
       "summary": "Douglas Ruas escolhe delegado de São Gonçalo para comandar a segurança pública do Rio; veja nomes cotados para PM e Polícia Civil Prensa Mercosur",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ruas-fala-em-reestrutura-o-e-confirma-lauro-rangel-na-s-47268a2562c1be",
+      "category": "Polícia",
+      "title": "Ruas fala em reestruturação e confirma Lauro Rangel na Segurança Pública - CNN Brasil",
+      "snippet": "Ruas fala em reestruturação e confirma Lauro Rangel na Segurança Pública CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVlVmZm9mX2xVaWEwNDlmWDR3VS1jUHhSX2w3akVyenNXQm5IVVZfQ0VrUGN4djNTSHlIMUx2RUdycnIwT3dGUU1DVUtnOE40OGZYUVN2UDV3bmlCRGIzV2hRRnhPMTVvUGxFNFZRTzFrcjlHVEIyYkJTSExPWHB0bURDYkJQeEJYOVdwMXFSM3h0NFQ0MFBFUG82Y0hKanhJT0hhN1lwbFRMUUxfM0pMMA?oc=5",
+      "published": "2026-11-13T15:02:50+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Ruas fala em reestruturação e confirma Lauro Rangel na Segurança Pública CNN Brasil",
+      "summary": "Ruas fala em reestruturação e confirma Lauro Rangel na Segurança Pública CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -416,6 +458,20 @@
       "tone": "purple",
       "dek": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay CBN Recife",
       "summary": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay CBN Recife",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "copa-do-mundo-feminina-ta-a-est-em-exposi-o-na-sede-da--a403251a322ef1",
+      "category": "Esportes",
+      "title": "Copa do Mundo Feminina: taça está em exposição na sede da CBF - Agência Brasil",
+      "snippet": "Copa do Mundo Feminina: taça está em exposição na sede da CBF Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM2blFWbEZ4bGwtcFY5OWFzYVdxMlZOa0JlLU82a3ZYLVdBSm5IVE5OSGxqMFR2bW5NVl9NMjFRWFBaVkZGUTQzbGVoNlRvSlZsVHpKaGpqdm45NVlCSlo4UklXUkdab3FDdDBXVklMSTVFVUdiMFBwUlFtc1F6TmdUYi11Y09VaXMyLTZISml5bkZQRW90dXVjVUhVYmFpd0tScXlqR1FTTFZoN0xWRDRNTWcxYnZzcUE?oc=5",
+      "published": "2026-11-12T21:21:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Copa do Mundo Feminina: taça está em exposição na sede da CBF Agência Brasil",
+      "summary": "Copa do Mundo Feminina: taça está em exposição na sede da CBF Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "purple",
       "dek": "Medir a contribuição da ciência e tecnologia, da inovação e da transformação digital para o crescimento. Vietnam.vn",
       "summary": "Medir a contribuição da ciência e tecnologia, da inovação e da transformação digital para o crescimento. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ci-ncia-tecnologia-e-inova-o-tornaram-se-a-nova-for-a-m-a7c5a7e67438c2",
-      "category": "Tecnologia",
-      "title": "Ciência, tecnologia e inovação tornaram-se a nova força motriz do desenvolvimento. - Vietnam.vn",
-      "snippet": "Ciência, tecnologia e inovação tornaram-se a nova força motriz do desenvolvimento. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPczBqcWd1dVlCYzF3QW9ZdGpCVUtNOXBUNVFwenZUTXNicFFjQm43N3ZGemZ2cm1WZTVjSW1zbXEwWDhRTFNVME5XUkZtWUR1NDJkTExrdi1ubktmQzFpTGJOS3JfNUN4NWUtdWJrRnVwemRtSmVJRWowNzJaUkJwRnVhaVBHQmtsbC1fWkNfZUFnbUs4eDZicWprSQ?oc=5",
-      "published": "2026-11-12T08:50:14+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Ciência, tecnologia e inovação tornaram-se a nova força motriz do desenvolvimento. Vietnam.vn",
-      "summary": "Ciência, tecnologia e inovação tornaram-se a nova força motriz do desenvolvimento. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "os-brasileiros-que-decidiram-morar-nas-grandes-metr-pol-0f5c78bee5d0d6",
-      "category": "Brasil",
-      "title": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver' - BBC",
-      "snippet": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver' BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1qcm5pNmV2OEVuZm5DRlI5U3h4bDUtcWVzYjFQXzYzTXItcXN1ZDN5NXIxbm5pUm5uVXZkeURFTXhBMU9lc2xUdW9sUDc0aGtTcnBOMmNfZTFJaG0wSExxZDJn0gFnQVVfeXFMT05Pbjg0R3dSZDF1MkYwUWlSSFdXT1lUa0ktcjEzSm9GSzhOdlpNMHdSWkNQN29FOHdDUUtqOGRIaTRfSzNHTXJNTE9LcFRmd28tckpJTDdBelItV2FaYXllVGx0V2Zhdw?oc=5",
-      "published": "2026-11-12T08:37:13+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver' BBC",
-      "summary": "Os brasileiros que decidiram morar nas grandes metrópoles da China: 'A liberdade muda nossa forma de viver' BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "nenhum-munic-pio-cumpre-requisitos-para-gcm-virar-pol-c-263604334cad72",
-      "category": "Polícia",
-      "title": "Nenhum município cumpre requisitos para GCM virar Polícia Municipal, diz Associação das Guardas - Estadão",
-      "snippet": "Nenhum município cumpre requisitos para GCM virar Polícia Municipal, diz Associação das Guardas Estadão",
-      "source": "Estadão",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNDdoOHBWaGJ2Y1ZpYjlmUHhvNmM0SVdjdmNuYVVlaDlhWlZJTXpQcm5vaHA2LUYxN2VHM1dXb0xqS3JMX3lOUW9yRHdjeW1yNktETWFtLUFGUGU4Ykd1Zkc1cldUVURYd2tQUTJMcnRnejFBMHRhMVFxNV9FUzM0QUE1UGNCY1hMN25oU05rNlNFU2NiNV9BR3BCbkFaSGsxaXBaem9SNFJSSE9TM19oelRxOC1mdTE2QXBpWDRzWDlSVVZmVldZVtIBzgFBVV95cUxPQ05PdFRXTWxQbTdSNE41aWZheXBndVcwQ3Y4ZlV3SUREb3BmX2lHR3QtU0t5X2lfNWp4RjBjWDZxX01RRlFXRjFNRUZWSDFzOVJWSjVHaFFhSHpLR2hXbDRfSFZXX05idDlucGt5WE1tLWkxUE8zeFJ4Z1MzNDI0ekJSd2pTM2pTcmRSLWRoTk5NNTR1WlZ6dVBkUmtXcUplaTFybWlYangyOGlYY0s0UFdpdVI1U0h6bmFlNXltb3p6OUhCU3pRd2RQNTVzdw?oc=5",
-      "published": "2026-11-12T08:30:00+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Nenhum município cumpre requisitos para GCM virar Polícia Municipal, diz Associação das Guardas Estadão",
-      "summary": "Nenhum município cumpre requisitos para GCM virar Polícia Municipal, diz Associação das Guardas Estadão",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-ministro-vu-hai-quan-responde-a-perguntas-sobre-ci-nc-c3097be8a6a08c",
-      "category": "Tecnologia",
-      "title": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. - Vietnam.vn",
-      "snippet": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQUJuN2duLVE0c1lwWk41RVNaU0hMNVhWa3ZWTlNHSEw2bVcxTERmYUJJQXhrOG11dmZia3pBalBsb2JLZXBUOS1ic21EdzZvSVFJV1lzZ3ZCY3hCekd1blB4d1ZJa2U4cnFHa195Zkc2OWljZENFQjFySXNoY3JoQ2wtTFlQRUxKamFTbjA2bGtnV2l0anVwU0NJeHYwUnFkQzR5V2VfS1VGSDloMVBrY05mVjVpOGk2OURiWjI3aVc?oc=5",
-      "published": "2026-11-12T07:26:20+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. Vietnam.vn",
-      "summary": "O Ministro Vu Hai Quan responde a perguntas sobre ciência e tecnologia, inovação, transformação digital e inteligência artificial. Vietnam.vn",
       "summary_by": "descrição da fonte"
     }
   ],
