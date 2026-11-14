@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T09:00:24.406125+00:00",
+  "updated_at": "2026-11-14T10:55:17.945646+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "brasil-x-jap-o-escala-es-e-onde-assistir-ao-amistoso-da-edb16d2a0874ee",
+      "category": "Esportes",
+      "title": "Brasil x Japão: escalações e onde assistir ao amistoso da Seleção - CNN Brasil",
+      "snippet": "Brasil x Japão: escalações e onde assistir ao amistoso da Seleção CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOSHRadklZUDU0bkxuR2JYVlJhSE5sWjdxbjRnS3NieXZabnVZZDl3TFZtLU44YTFyV29CNTVncTVkbjNBclFYUzh1QUNsV0ZHYmFGVzdrSHBVbFFKX3drdGkzVDNBNGt2Y19LeWh5WVQ1Ym80bHBndFQtcEZwZHJwUTNtenFMSktQZmlOLU51QWhWd2dqTm80aDFvV3N4YXNkSk5lU2pCX0JzNGdFclRCcWQ3aXRfbnljSkNySktuNnRVaE9tcFNCOEFn?oc=5",
+      "published": "2026-11-14T09:20:05+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil x Japão: escalações e onde assistir ao amistoso da Seleção CNN Brasil",
+      "summary": "Brasil x Japão: escalações e onde assistir ao amistoso da Seleção CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "destaques-business-bahia-os-principais-fatos-econ-micos-358ab27e5c1e98",
       "category": "Economia",
@@ -155,9 +169,9 @@
     {
       "id": "ci-ncia-para-descobrir-snct-2026-ter-minerais-microscop-d3cac0d70f494b",
       "category": "Tecnologia",
-      "title": "Ciência para descobrir: SNCT 2026 terá minerais, microscopia, biocombustíveis e jogos contra a desinformação - GOV.BR",
-      "snippet": "Ciência para descobrir: SNCT 2026 terá minerais, microscopia, biocombustíveis e jogos contra a desinformação GOV.BR",
-      "source": "GOV.BR",
+      "title": "Ciência para descobrir: SNCT 2026 terá minerais, microscopia, biocombustíveis e jogos contra a desinformação - Governo Federal",
+      "snippet": "Ciência para descobrir: SNCT 2026 terá minerais, microscopia, biocombustíveis e jogos contra a desinformação Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNNnB4SU44NFdVTFZMR2tFeVlkeHRlNjFjd3J2d185NU1zWnJBamhQNGF2WXlxRWw0SUYtNWdEV25oVE14ZC0yQ3A4bnZtYlBBQjVQWWlPdzM2TmZ2MV9aZS1CX01ma0tjOGZCdDY1LWhXS3VxbTFQZGdwX0YwOU56ckRtUlREZXFMVldITUNYZlBuVVRsRURQV3hlNFN4bWI3ZlRIZHh4dlJBalQ3dkxhWVU0VWR3T1pEODFDalUzcGdlNlcyYkI5bjI1NWhFWmJuMDFPOHptNnhKTUdicVFRVERSaTlKdUVCbDZ4SVF0Q0ZKVm4zVTU0OEpHU2RsZw?oc=5",
       "published": "2026-11-13T20:23:00+00:00",
       "image": "",
@@ -178,6 +192,20 @@
       "tone": "teal",
       "dek": "Garro dá passo importante em recuperação de lesão no joelho no Corinthians CNN Brasil",
       "summary": "Garro dá passo importante em recuperação de lesão no joelho no Corinthians CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "associa-es-do-agro-rebatem-bb-sobre-alta-da-inadimpl-nc-dd40661dd8725c",
+      "category": "Brasil",
+      "title": "Associações do agro rebatem BB sobre alta da inadimplência - Agência Brasil",
+      "snippet": "Associações do agro rebatem BB sobre alta da inadimplência Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ3ltNUh6MDFVSkJrRFBoUDdQQlNGSHhINEtNQkJyLTI4em03TjZSVjB4M2FhN3hHRG16eHg3UHplcVhxazI0MlJ1b1FSaWlLTkdsN0Z2eENiWlM2clJhM2owdVo5aUZtY1VVR19PWlgxOHRIQ2w4MlpzTzZJRmF5RjUyMVJJNFRFX1NZT0duUFRFaFB0TXRnNDJLOTJOdlVlYXYteXhGTk1UZXdaUWNmYzBEeU51b2c?oc=5",
+      "published": "2026-11-13T18:25:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Associações do agro rebatem BB sobre alta da inadimplência Agência Brasil",
+      "summary": "Associações do agro rebatem BB sobre alta da inadimplência Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "purple",
       "dek": "Guia Cultural AGORA: confira as opções de lazer e entretenimento na região neste fim de semana agora na região",
       "summary": "Guia Cultural AGORA: confira as opções de lazer e entretenimento na região neste fim de semana agora na região",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "como-os-eua-se-voltaram-contra-trump-bbc-6461025e8cb66d",
-      "category": "Brasil",
-      "title": "Como os EUA se voltaram contra Trump - BBC",
-      "snippet": "Como os EUA se voltaram contra Trump BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNM01leUxndm5qU1hrRE5YY2VKLS1ReWFRMmNGZ3Y0SVE4dDMzWXpLRXk4eTZKeHdUNVBILXJkX2R3aU04SklRRGFBUk83OWFwUFIycnhEMThBVDd4VFJreVB2RkIzcDRpVzJpWXFlc0MtQnFXbEpHejJJV3loaC1HdlMzLTRhcGlF?oc=5",
-      "published": "2026-11-12T17:01:50+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Como os EUA se voltaram contra Trump BBC",
-      "summary": "Como os EUA se voltaram contra Trump BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "congresso-muda-or-amento-em-favor-da-copa-do-mundo-de-f-b533a6b495be4c",
-      "category": "Esportes",
-      "title": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino - Agência Brasil",
-      "snippet": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSzl3aWxmOXJNVGROaVNEN2RCTXc5S0Zmbjh4TWJ2RFpQdDk2UFUtUW11MEtzc1BuUm1zM1BXTHB1RFR2a3lPR3QxSDZrbEZ4Wk9mTkE1Wlc0SW5CZlZnRFZDNUJuMEJESHR2cXdtekVKTU1QVHY0bXMyZWZRNzV5UG9QMG85ckRrU3ZaSHlnMWFNZzRzeWlhOWtxb1RuMTF5V21TSDlQYzVZQ1UtSDdTVTJKcGRxcHlfcEFTSklHbnBjMDg?oc=5",
-      "published": "2026-11-12T16:47:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
-      "summary": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
