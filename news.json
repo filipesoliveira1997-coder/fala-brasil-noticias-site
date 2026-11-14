@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T03:00:46.318525+00:00",
+  "updated_at": "2026-11-14T05:05:03.943767+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "eua-voltam-a-autorizar-decolagens-ap-s-horas-de-suspens-aa8c2b6399681f",
+      "category": "Brasil",
+      "title": "EUA voltam a autorizar decolagens após horas de suspensão por problema em sistema de comunicação: o que se sabe - BBC",
+      "snippet": "EUA voltam a autorizar decolagens após horas de suspensão por problema em sistema de comunicação: o que se sabe BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56YVlrdm14cGsxOVBRNUdFZmpQbHo3UWp2blZZTWR5dGJ5dFhkMVVIUW1XZ1lBSExKcUliYzdUSWJleVdlZTMtT1FQd0liMXVlSzgxNThVT0d6ZzNHQndfVVFDVdIBaEFVX3lxTE5CZE93UWJWTmhCeW1uWTViTzBQLXJkWWpBVXFtbjd2OWRvTnNMM1V2Q1RjMTlHRXlTRHplaEtDMWc0TjhxM1BoUnVWbHNsbWs5Q1FfSi1Jc2tsS1A4c0RSUWl1QzMtcWdQ?oc=5",
+      "published": "2026-11-14T04:18:45+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe BBC",
+      "summary": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "brasil-desencanta-no-segundo-tempo-e-vence-peru-em-amis-c7b11a8e68fcd5",
       "category": "Esportes",
@@ -55,31 +69,31 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "eua-suspendem-todos-os-voos-do-pa-s-por-problema-em-sis-aa8c2b6399681f",
-      "category": "Brasil",
-      "title": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe - BBC",
-      "snippet": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56YVlrdm14cGsxOVBRNUdFZmpQbHo3UWp2blZZTWR5dGJ5dFhkMVVIUW1XZ1lBSExKcUliYzdUSWJleVdlZTMtT1FQd0liMXVlSzgxNThVT0d6ZzNHQndfVVFDVdIBaEFVX3lxTE5CZE93UWJWTmhCeW1uWTViTzBQLXJkWWpBVXFtbjd2OWRvTnNMM1V2Q1RjMTlHRXlTRHplaEtDMWc0TjhxM1BoUnVWbHNsbWs5Q1FfSi1Jc2tsS1A4c0RSUWl1QzMtcWdQ?oc=5",
-      "published": "2026-11-13T23:42:49+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe BBC",
-      "summary": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
       "id": "brasil-contra-o-crime-organizado-completa-200-dias-e-ch-1b8a61c46914ca",
       "category": "Brasil",
-      "title": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos - Governo Federal",
-      "snippet": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos Governo Federal",
-      "source": "Governo Federal",
+      "title": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos - GOV.BR",
+      "snippet": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos GOV.BR",
+      "source": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXZFOWx6cWN0ZGh1VFE2STJ6emRCa3BxQnBMQ2lQLVVHODdaRW5zQ21LVVlwdGZuWTc2ZUwzeWswOURjNmJUOEVYMUZ6NS12cDcxbjd2OUZyZXlRSERPUnJKNVNjNDJkS3FKRUVMdUYwX0xrTFVQMnpCeGxtMXh4ODd4Z1BkTDh4Y2NZNkkyelJvNUFKVkZFUjJ3Uk14WWVuNGliVmZkV21hRFUzb0FzN1V0N0JvMU9TQzBPdzdaSlZMM25ZVGc?oc=5",
       "published": "2026-11-13T21:44:30+00:00",
       "image": "",
       "tone": "",
       "dek": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos Governo Federal",
       "summary": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos Governo Federal",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-x-jap-o-onde-assistir-hor-rio-do-jogo-e-escala-e-a865966bb9854c",
+      "category": "Esportes",
+      "title": "Brasil x Japão: onde assistir, horário do jogo e escalações - Esporte",
+      "snippet": "Brasil x Japão: onde assistir, horário do jogo e escalações Esporte",
+      "source": "Esporte",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMlhTaWQtQl9VcHN0WHlLRFFvRWROVTJ0UHlCUzRaUW1zcHU0MlR3a0lYbnNHUVpxTEQ4VUV1TjI4MHZDTUV6czR5N1R2bENDcmFiVTM0UnNCTlJlM0V0RGo1QmVoUHVqTFVIV1lXZnp0TWVnUm95RjMyUjdHSVBBY2t5clo5RjRNOE9DalRocVc0eDE5SnRhWDhXVXlwakt6UXNQQVliRFBsbXdwZ2lnZGh2ck9mSXZ5?oc=5",
+      "published": "2026-11-13T21:30:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil x Japão: onde assistir, horário do jogo e escalações Esporte",
+      "summary": "Brasil x Japão: onde assistir, horário do jogo e escalações Esporte",
       "summary_by": "descrição da fonte"
     },
     {
@@ -402,6 +416,20 @@
       "tone": "",
       "dek": "'Lá na Minha Terra': Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador BBC",
       "summary": "'Lá na Minha Terra': Mostrar na novela um Nordeste do atraso e a Faria Lima pulsante é vender que só um Brasil 'dá certo', diz pesquisador BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "empresas-adotam-cautela-e-priorizam-pagar-d-vida-e-adia-155ddfe8993b8b",
+      "category": "Economia",
+      "title": "Empresas adotam cautela e priorizam pagar dívida e adiar projetos - Estadão",
+      "snippet": "Empresas adotam cautela e priorizam pagar dívida e adiar projetos Estadão",
+      "source": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNekxna0FaOVBnZkd6ZjhzUUJVSlgxZFdYNWZjeUlSS21UREhFQ1ZZTXdaUlpkNkZqY2VCX18weWZvRTVTcmt3c3F2M08zODZDMHAyU28tLVBjUktPWlU3NHNLRHpOZU5ZRHMwYy1kQ0ltaWJQQkhUWWwzQ29yTWpqUm9FN1Bkdy01RDBkSm9YSW9NNTZUVFJ6OU5zWlpCeGdRSE41WnVTdmh1SUpVQlhTRTNlUUtFUDFodFHSAb8BQVVfeXFMT3pTMGc0YVktLU1vT1lwT0htbEZMZlNvSS1iNmdRTDJDTTRmR1MwZTV0WDlBRG9ZQWU5NDdOT2wwUXBSaEZMSU5SVWU3UWRTWnlXQ1ktcmFEM2U5NjRNcDBmVzJXQ280QjNqanFJTXhuT2txTVFrS0k0Q2RmYkdlRmdEcTFYd01HbW12dk1GdTNFZkZhTFRBaXZ6MFE5cEtUaEtINlBYNXNlRGlnYm9nczQzLVQ5eWxGOUd4NS05bW8?oc=5",
+      "published": "2026-11-13T01:00:00+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Empresas adotam cautela e priorizam pagar dívida e adiar projetos Estadão",
+      "summary": "Empresas adotam cautela e priorizam pagar dívida e adiar projetos Estadão",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "teal",
       "dek": "Veja provável escalação da Seleção Brasileira para enfrentar o Japão CNN Brasil",
       "summary": "Veja provável escalação da Seleção Brasileira para enfrentar o Japão CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "alertas-de-suposto-apag-o-mundial-em-17-de-novembro-vej-24786a29f2b69c",
-      "category": "Brasil",
-      "title": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas - G1",
-      "snippet": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGxjb0NIWm1LZ0ZzN0RsMUtQT21qQlYzSUdTRVRJeHhvN1dWc3dZSzVCOWl3WlBuMGlvTnI3R3V1N1BkQmw5eDRMN0pETnBaNzZWNEliUERsV25IRjhSOW5CcVg3LW5BdTBOU2dtZjlYMnZ1UFV6cHJGT2tMQkZtN2JpLW1WZXB5Y0NVSXhqZVhYWG1fcmtTWDBkckZUWUNvcWJad0t6aVpXTlExb3hoMDR6MmZTRjZWMmdnakEta2V1TFhZQkFiT0Z30gHYAUFVX3lxTFA3VllsajJoZ1hmYk14SlA4WDN4MGZrY3JpSXNzdWxwT2gwTzhCbHBvR1gyekF2emdfNE9FNDYzWV9rdGlRZTRwN193ejVvYWlqcEU0NkU1LVZhbzAxNTZUenN0SDVEMkhzM09RN1NkTHR4bFIxbEtBbjhrOVN3WnJzbkt2N2ZqT0lYQTlKakg2Ukg2ZmVhVWsyaFdjTlYteEVyR2ZxUUdBRVpuYXFBaERXODJwTG9zQ29OcWw2MV9xNXVTNFZwY1U4RmhpLWxxMEZfOVptZHdsbw?oc=5",
-      "published": "2026-11-12T13:57:29+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas G1",
-      "summary": "Alertas de suposto 'apagão mundial' em 17 de novembro: veja perguntas e respostas G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "temporais-avan-am-pelo-brasil-e-colocam-centro-oeste-e--f624eca5192f7f",
-      "category": "Brasil",
-      "title": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta - Notícias Agrícolas",
-      "snippet": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNnRPVkF2NWhUdEhiakpaZlM0U1pRQXg4M0hzNlloYTNBYklxckt2MjRlMFpFZ2FfczRIQUJldnRnRDdScll5ZkJRMFZBa2ZDUkxCMzI3eldkSVRHWUFtR0dwQzEycXRMY0h5MGJqMEtlOHdZdHNCNF9tXzdBeHYySUcxc0hqLXpzXzhkYVd6YmxJTkxDRTFvT3I0dWtCaVFKRXI5ZHV1dXpkSUV6a1V0VHdjSnY2akZFbUtxQlVwTW1kNjdQbk9tbUJqRV9oVVpsZXFib0dlWHpfXzNq0gHiAUFVX3lxTFB0V3RWSDNVdmJ0aHNibFphbGpwQm1GVnU0X0lGeGZ0V1hLWkpaa2daX2FJeUItdC1RdjNDUzg5dWsxaXJNZTJWU01GajhYMDhjdGo1bEhEWlpLZ2R4TnBFQ25LX05TOXNCUV96Q0dObjNxc1NoV01VN0hzbnoyNVl0X3R4UmZiYUFCSGZXTEplUTZMUE04SEdKaFZ3RXhIQlJFRkNyY0Z6SjJBQU5HVk5WOHA0ZDBMbVZpbXJhUzk0N0JTbUFkajhDOTFLTEFHNnhmVHRNQUNQTnFxTGxPYmhCRGc?oc=5",
-      "published": "2026-11-12T13:42:56+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
-      "summary": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
       "summary_by": "descrição da fonte"
     }
   ],
