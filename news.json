@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T14:54:37.620678+00:00",
+  "updated_at": "2026-11-14T16:53:23.401169+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "brasil-perde-para-o-jap-o-com-gol-nos-acr-scimos-3-a-2--c298547dac9158",
+      "category": "Brasil",
+      "title": "Brasil perde para o Japão com gol nos acréscimos: 3 a 2 - Agência Brasil",
+      "snippet": "Brasil perde para o Japão com gol nos acréscimos: 3 a 2 Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjNJZURWWWY3a3lhYjBwelprd2cxNWd2Wk81V0dDai1ZSGZHRzExMjBYZUpzeE4xcFF6Z0FTeTFuNmF3OTBuLW1Ga2hvaFV2bDNKcTgxUkdUU183cm1nWDU5S2h3clF1TExxc09aeXBUd1JIbFkwTC15b2NCdkJMRE4wS21MRWRNSGV2S3p5ZkhpZExNbDdHT3BYZjdrdlJxYS1lOFFVMmloZXU3NXlB?oc=5",
+      "published": "2026-11-14T14:44:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil perde para o Japão com gol nos acréscimos: 3 a 2 Agência Brasil",
+      "summary": "Brasil perde para o Japão com gol nos acréscimos: 3 a 2 Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "paran-registra-segunda-maior-alta-do-com-rcio-varejista-b112f83014a526",
       "category": "Economia",
@@ -108,6 +122,20 @@
       "tone": "",
       "dek": "Uma nova nação brasileira está sendo imaginada com avanço dos evangélicos, diz filósofo Paulo Arantes BBC",
       "summary": "Uma nova nação brasileira está sendo imaginada com avanço dos evangélicos, diz filósofo Paulo Arantes BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "bpfron-e-pol-cia-federal-recebem-comitiva-antim-fia-ita-d7f71fd1c80c61",
+      "category": "Polícia",
+      "title": "BPFRON e Polícia Federal recebem comitiva antimáfia italiana em agenda institucional no Brasil - Canal 38",
+      "snippet": "BPFRON e Polícia Federal recebem comitiva antimáfia italiana em agenda institucional no Brasil Canal 38",
+      "source": "Canal 38",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeXM0Z1NNcHVqTlVRNTU4NkdOb2Vid0VxaUswYzhTc3BBdXB4M1kzWHhtQXBLWkg5RnY4Ulk2WUEtMnJfejBrYjJ1b1RQMldPY2pOLXlqSER3MDRLeUtuSmhCa25zRjBqWjZ2dDVfSkJSWmJpTnhrQ08wNGNYcThRTnZCWVFCWEYyZ3dwRERMLU9VMVhvX0E2QVNTNlVnVFNiR3l2a3JxTEV4U2R6SGhOU3JJeFkyWllnVXc?oc=5",
+      "published": "2026-11-14T11:35:55+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "BPFRON e Polícia Federal recebem comitiva antimáfia italiana em agenda institucional no Brasil Canal 38",
+      "summary": "BPFRON e Polícia Federal recebem comitiva antimáfia italiana em agenda institucional no Brasil Canal 38",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "teal",
       "dek": "Copa do Mundo Feminina: taça está em exposição na sede da CBF Agência Brasil",
       "summary": "Copa do Mundo Feminina: taça está em exposição na sede da CBF Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "microsoft-diz-que-fila-de-e-mails-se-aproxima-do-normal-9b0af21fca4b6f",
-      "category": "Brasil",
-      "title": "Microsoft diz que fila de e-mails 'se aproxima do normal' após falha global no Outlook; o que se sabe - BBC",
-      "snippet": "Microsoft diz que fila de e-mails 'se aproxima do normal' após falha global no Outlook; o que se sabe BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5UeHJuZnpRUDlRQmZfQU9heTJFaFZjMlo2OW1YN0tZREY3RGtJVzZxQ1FFUkhzYlpkLTlTMTBKeU1wZ1IzakZPQzQ2ckJNbTNnQVhld2xaRkh6Y2hKZlZrUDlIONIBaEFVX3lxTE9ndkNIckJLMWZDeHFwV2ozMHpLdEcxczhaa1ZyUnRxYlcwN3pFTHBQSnBBSjAydzJ5bHd3dGZFQkxKVlN0MllDd3UzMV9TaTljVGd4VTdJa0tCamgwRm5mSEFUUVA2aVNr?oc=5",
-      "published": "2026-11-12T21:18:19+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
-      "summary": "Outlook: falha na Microsoft deixa email fora do ar email e afeta Teams, Microsoft 365 e outras plataformas; o que se sabe BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "produtor-n-o-quer-pagar-entidades-do-agro-rebatem-banco-027facacea2c9d",
-      "category": "Brasil",
-      "title": "\"Produtor não quer pagar\": entidades do agro rebatem Banco do Brasil, contestam acusações e questionam gestão da instituição - Notícias Agrícolas",
-      "snippet": "\"Produtor não quer pagar\": entidades do agro rebatem Banco do Brasil, contestam acusações e questionam gestão da instituição Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOUkQ4Nzk1RExVb1pSMWRpRzVFQ3FwcXN6aUs3VkZUNjNKZndzcldybEROM1NxZjRVbXVXbzlSaC15c00xZENmalRpcjgxS2VEWlEzbXJTQlE2MERuMzVScGxXOWFEZ04xcEhNWlk1dS1ON0tQQk9qZ1gwcjh3dWNYQ1pXMjFSVHRtLWZTN01zVWwyQVcySzg4VVAzZE1xUHktZDRLTHo0QmVyTlM4d3VnU2hHOV9yeFl6R0t6UXNld3FGZHFKc003Xzl2ZVRyUHFiMUFqcm8wU3h6TUdfT2VPZjluaUVBSXkwUlBUMFpRV2V4X1ZHZ2Jqd0dOMFR6bGpCbzU5UlhrQUl2UnJTbTdGeHN0ZTZtUEFSaFHSAZ8CQVVfeXFMUGgyTWV0c3ZIMm9YeWRjTFJOdEN2WXRmWnVZRV85WGExeml4dUowenRTblEtZEFTVEtveGJFdmZZMVN3bUlJQjZkWThVTFU3OVd0VGRITzAxcXlWTnllWU5uTndmTUo0dTJpNnpJamMyWlFZTUFhRFN1Qm9wdVRqZU9TbGd5UTBTRnV2ZHZ6VnVXNUZySEF6akRLRVVtWmxMUWRxWVRvaWNKck9aeHJSSVU0NnpjckhyQ3U3VFFNa2lMT3Z5SFE4YmtncTgzS0NIMG91U3otV1lrSHpTNnJpdk5kYUJ5ZGxOUkIwZWtoY0VrQnNtYVlYeWx2bjV2dC01X3BPNUNZYTJKSmRrcl9WYjRtSDZxOGtGdnFhcWdIYnc?oc=5",
-      "published": "2026-11-12T21:14:33+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "\"Produtor não quer pagar\": entidades do agro rebatem Banco do Brasil, contestam acusações e questionam gestão da instituição Notícias Agrícolas",
-      "summary": "\"Produtor não quer pagar\": entidades do agro rebatem Banco do Brasil, contestam acusações e questionam gestão da instituição Notícias Agrícolas",
       "summary_by": "descrição da fonte"
     }
   ],
