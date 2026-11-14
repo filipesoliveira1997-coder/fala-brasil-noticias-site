@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T07:18:10.449176+00:00",
+  "updated_at": "2026-11-14T09:00:24.406125+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "destaques-business-bahia-os-principais-fatos-econ-micos-358ab27e5c1e98",
+      "category": "Economia",
+      "title": "Destaques Business Bahia – Os principais fatos econômicos da semana - Anota Bahia",
+      "snippet": "Destaques Business Bahia – Os principais fatos econômicos da semana Anota Bahia",
+      "source": "Anota Bahia",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZmh1Y1plMEFnam9DWmZyNDNFNDNfSk0wZlhiNDd6QXpjdnU3dHI3Zk5MNER0WnJYekZ4cHNwM3JzenlhaU5TZFc4N1g4TE0ybUpMckRldWJuY0dGTDYteHdaUjdfeUlZSVVJQk5UVnl3YWNTaE82Z0tCdUZRcjhZcmhjUW1WT3JzWmJiTDAxRXdhbS1pQnMwOQ?oc=5",
+      "published": "2026-11-14T08:34:29+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Destaques Business Bahia – Os principais fatos econômicos da semana Anota Bahia",
+      "summary": "Destaques Business Bahia – Os principais fatos econômicos da semana Anota Bahia",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "a-sele-o-brasileira-reencontra-o-jap-o-neste-s-bado-13--978142ac41bc2b",
       "category": "Esportes",
@@ -83,11 +97,25 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "brasil-sem-camisa-10-escolha-t-tica-inexplic-vel-critic-5d9254c0b1f4b7",
+      "category": "Brasil",
+      "title": "Brasil sem camisa 10? 'Escolha tática inexplicável', critica Alicia - UOL",
+      "snippet": "Brasil sem camisa 10? 'Escolha tática inexplicável', critica Alicia UOL",
+      "source": "UOL",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOU19OMWRncmk3MGxsLWZ5U2JjTXgtODg2VHlhQkhCbE9Cb0RrX3VCVGRabm0yYkxwUzRKSVBYUERTdlJwbmtIYUQ0U09BWVZzQ19YMVEzY2xhS1pDNHoyRXByTzIwVVQtdlpHdjRkZ3Rnenc3Q2Vxc1RuWDl3ZnJYT1ZQd3lzNVFwZjJtUjhXTW5VNHg2V01qRDlpdTVrbUhWRl8zLXlYUjdZRVkycHVwSHc3SkVNRks0ZHBMT2picmdCUFpBclg1cDlPbzRaYnhK?oc=5",
+      "published": "2026-11-13T22:25:13+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil sem camisa 10? 'Escolha tática inexplicável', critica Alicia UOL",
+      "summary": "Brasil sem camisa 10? 'Escolha tática inexplicável', critica Alicia UOL",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "brasil-contra-o-crime-organizado-completa-200-dias-e-ch-1b8a61c46914ca",
       "category": "Brasil",
-      "title": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos - GOV.BR",
-      "snippet": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos GOV.BR",
-      "source": "GOV.BR",
+      "title": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos - Governo Federal",
+      "snippet": "Brasil Contra o Crime Organizado completa 200 dias e chega a quase 100 mil presos Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOOXZFOWx6cWN0ZGh1VFE2STJ6emRCa3BxQnBMQ2lQLVVHODdaRW5zQ21LVVlwdGZuWTc2ZUwzeWswOURjNmJUOEVYMUZ6NS12cDcxbjd2OUZyZXlRSERPUnJKNVNjNDJkS3FKRUVMdUYwX0xrTFVQMnpCeGxtMXh4ODd4Z1BkTDh4Y2NZNkkyelJvNUFKVkZFUjJ3Uk14WWVuNGliVmZkV21hRFUzb0FzN1V0N0JvMU9TQzBPdzdaSlZMM25ZVGc?oc=5",
       "published": "2026-11-13T21:44:30+00:00",
       "image": "",
@@ -178,6 +206,20 @@
       "tone": "",
       "dek": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações G1",
       "summary": "Além do agro: entenda por que o lucro do Banco do Brasil despencou 66,5% e derrubou as ações G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "outlook-voltou-por-que-demorou-para-microsoft-resolver--5b583c3a5c6192",
+      "category": "Brasil",
+      "title": "Outlook voltou: por que demorou para Microsoft resolver o problema? - BBC",
+      "snippet": "Outlook voltou: por que demorou para Microsoft resolver o problema? BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6RTJUdkNuLXRaRHFjc2RSNzhmandjbHlYWjVDV2tXMUljWUtrWEg5V3ROakh3SjJzTDRWSHJiY0hIVXlVVUFYTTVQalByR3g4dWJYYW85UFVVTjZ6ZlNsNlFXQdIBaEFVX3lxTE9janZNa0VVVlpQSWV4YWpoblBkU24zM2ljTUJZa0N2b1pqZ05MbzlXbzVwLTBzYmtPX1JqUFpsZ3ZKcGJ6VU1ndENPSXBqaEloV0lUNHhBVGdUVUUzM3pPOHEyZzN5ektZ?oc=5",
+      "published": "2026-11-13T15:39:19+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Outlook voltou: por que demorou para Microsoft resolver o problema? BBC",
+      "summary": "Outlook voltou: por que demorou para Microsoft resolver o problema? BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "teal",
       "dek": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
       "summary": "Congresso muda orçamento em favor da Copa do Mundo de futebol feminino Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "congresso-aprova-reestrutura-o-de-carreiras-na-receita--35511308acb635",
-      "category": "Brasil",
-      "title": "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS - Agência Brasil",
-      "snippet": "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYmdVWEhOOEIyNF93ZzcxZ0FsNk52UFNzLWVXMjBWRjZQZXRraExrR2dBQnZTZlMwbWhxMjlDcnQtWGNjaWZjcEl4VUZTcUhBU1ZnVmdTd0N4SGVBMjRwR1RUOVBDZ3Z6T3daOFVhb2V5ZmtVLXR2djNvUWhlb1hYUjBmZUl2UHhZVUpqY2tmUjJneFFRdnF1MkJ5dDd5Q1hvdnh4WW9vWDh1RHBzVUxucG8xVmx3REMxS1dpUTN4MHBjTU1J?oc=5",
-      "published": "2026-11-12T16:18:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS Agência Brasil",
-      "summary": "Congresso aprova reestruturação de carreiras na Receita, Ibama e INSS Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pior-n-vel-em-quase-5-anos-por-que-as-a-es-do-banco-do--eb0e9ef4b8c4c2",
-      "category": "Brasil",
-      "title": "'Pior nível em quase 5 anos': por que as ações do Banco do Brasil derretem quase 9% na bolsa - G1",
-      "snippet": "'Pior nível em quase 5 anos': por que as ações do Banco do Brasil derretem quase 9% na bolsa G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRlBiSEwxbm9mNHBFNWxEUkFSYXE5ZllvUHVKUEZhM01FRVkwLW1Jc1I5aV9GcTJ0Q0tJd0tfSUgwc3lHelAyNDdZeS1HczM3UDBwcTIxM2paU2s5WTVMSW81M3Jwamg4bDY5b3hVMmotaHlySGE3UDNYM1F2NjhRNG1sQUdzSC1QczhMUDIxZE1zeE9MNV9V0gGmAUFVX3lxTFA0d0xHUEl1bGNLZDBxakdDZ0lOSXoxemFCVVM0aDRBMk5XenhaaDFIcWlRNHpIYUp5cUxFUTRReU5mOHhXTXFrYU93OGdzMlF2ZlE4amkwVUQtSHdReWtFMHhvdEtaLW1sRk0tTlpIdWI1aUN4Q1NDSTRkQ3EzS3NuNnBMZzlIQ1k5eGRpMHZ5S2tSc3A5RGNSd25kT1lPdXhDNkhYRWc?oc=5",
-      "published": "2026-11-12T15:05:45+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026 G1",
-      "summary": "Banco do Brasil desaba quase 10% na Bolsa após lucro despencar e banco cortar previsão para 2026 G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "bb-acusa-agroneg-cio-de-calote-deliberado-e-endurece-co-6ea03cec835c0a",
-      "category": "Brasil",
-      "title": "BB acusa agronegócio de calote deliberado e endurece cobrança - UOL Economia",
-      "snippet": "BB acusa agronegócio de calote deliberado e endurece cobrança UOL Economia",
-      "source": "UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZ2tsbUZXNlJOQUhqUjZxbWRkRjhvX0pGYU01VVp1R1NqdHVLemhBYzZPWnRTQWpZeF9TU09MbFVmakU5bnZNSjBmak9WQmxSQXM4eWg1b2ZwcHFNc2pWcFRVejVGR0ZnWWh2RnJPNHhyb1Rwb0V2N3A4UDhYaUtRRTU4UnIyOXNjM2RqUXFJa1RfWFlrQ2ZsUkZaTUJBYTNaRm5rLURZdkpVamJZWXJidXdhdGdCdE5MT2tCbnY1MU1tQkdhekRN?oc=5",
-      "published": "2026-11-12T15:00:07+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "BB acusa produtores rurais de calote deliberado e endurece cobrança UOL Economia",
-      "summary": "BB acusa produtores rurais de calote deliberado e endurece cobrança UOL Economia",
       "summary_by": "descrição da fonte"
     }
   ],
