@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T13:07:12.053593+00:00",
+  "updated_at": "2026-11-14T14:54:37.620678+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "paran-registra-segunda-maior-alta-do-com-rcio-varejista-b112f83014a526",
+      "category": "Economia",
+      "title": "Paraná registra segunda maior alta do comércio varejista do Brasil em setembro - Banda B",
+      "snippet": "Paraná registra segunda maior alta do comércio varejista do Brasil em setembro Banda B",
+      "source": "Banda B",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmhpLTI3U2Y1d2VqU3YzN3ZYMTRzd0IzZlNaQTNYR19Sc2tVTWRlWk5WMVY2SElWSk5jaFZ0a2owZktMUkQ1aTFYWGI4anNPX2htajRPWlpreGFmdFJHdFV2Qk5lTHk3UjFqd3hfQWNVSllzbXlyTjZTRzI0U2JVNE1tM0RhRjJiTmVXVHpnVkZkajRTek9uTUtFTWxadzhjOGZlcWxUSDlnalJKUUZ4a19GWGvSAboBQVVfeXFMUE1HRDRYYjZVcGRQMDdPd1RGTVplX01nVGtDX3BVdHREMTFKN1hadHdMVjR3aEFST0FLZDZ5Q0dhbUhLTlpkazhWYl81ajY5Q2xRQzhuRjhxekVCMGp3YjEzSDgxV245QU9RMlVReHpSQTBtdkRJUHVlNkZzX1BJeW4zLV9rWVdJTm1nU3pmc2hVcTJ4djZYTTVOUGJvUVA0bE96bkttcDlySW1vVlVJSVFseUh5SnNDVWdn?oc=5",
+      "published": "2026-11-14T14:21:00+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Paraná registra segunda maior alta do comércio varejista do Brasil em setembro Banda B",
+      "summary": "Paraná registra segunda maior alta do comércio varejista do Brasil em setembro Banda B",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "mega-sena-sorteia-pr-mio-de-r-27-milh-es-neste-domingo--f757b272803687",
+      "category": "Brasil",
+      "title": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo - Agência Brasil",
+      "snippet": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc3VUV2ZaVkl3RlYyNmNsX3RPdEVNRDdmNktjM3Y3WW54dllyQzJfanJwWFk3alpnUklfbXpXQTNMQWJVQk9VUDNOUG90U3dOUl9qazVGR2ZVemRoa00zLTFQTE1YU1lidFhOUUU0d0Y5X2wycWFtN25VelNwLWo2QjVlbmI3VW4yazFlNlVGazRpSXRiQ2djUDk1NVBqQ1lRX3JqcmkxZXJLamktMnc?oc=5",
+      "published": "2026-11-14T13:04:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo Agência Brasil",
+      "summary": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-superado-pelo-jap-o-em-singapura-cbf-4d76d9c3780af3",
+      "category": "Brasil",
+      "title": "Brasil é superado pelo Japão em Singapura - CBF",
+      "snippet": "Brasil é superado pelo Japão em Singapura CBF",
+      "source": "CBF",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkRwc3V6YTBsRDNMc0JjblhWZ0FCSV9PRVRDdXdrN0Y0TUNUYjN4ZWtwWWc4bEhsQVRES24tNnk5NS1kTXBpbXlvM25sZWJObzllRzBTX0FQNkdFNDdyWDBMUUJYOGcwMFdmbTFKejhiaWUxUWRoM1VxcDVyS1ZZWk9QYWZCREF2RkFoX3JwUnhLN05QN0taMzViSnBDR0lxY2s2TnZ6cFpFSFFIdTladEJB?oc=5",
+      "published": "2026-11-14T12:42:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil é superado pelo Japão em Singapura CBF",
+      "summary": "Brasil é superado pelo Japão em Singapura CBF",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "expulso-em-jap-o-x-brasil-raphinha-detona-arbitragem-co-0d3dd11817998e",
       "category": "Brasil",
@@ -80,6 +122,34 @@
       "tone": "teal",
       "dek": "A Seleção Brasileira reencontra o Japão neste sábado (13), às 7h15 (horário de Brasília), em Singapura, no penúltimo amistoso de 2026. O último confronto ocorreu na Copa do Mu",
       "summary": "A Seleção Brasileira reencontra o Japão neste sábado (13), às 7h15 (horário de Brasília), em Singapura, no penúltimo amistoso de 2026. O último confronto ocorreu na Copa do Mundo deste ano, quando a Amarelinha venceu de virada a equipe asiática (2 a Instagram",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "not-cias-do-dia-no-brasil-e-no-mundo-uol-not-cias-8d2222dab33e13",
+      "category": "Mundo",
+      "title": "Notícias do Dia no Brasil e no Mundo - UOL Notícias",
+      "snippet": "Notícias do Dia no Brasil e no Mundo UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBaWkd0cXJyQ25idTUwdk9CZW9MMU5oVkxjcXhUbTd6SjMtODBSMzVSMEpha2VnX2JGV2lHVFRHTmVTcTU0Zm8zb1hCQzF4WG9mVFVLUGpsZ3E?oc=5",
+      "published": "2026-11-14T11:23:00+00:00",
+      "image": "",
+      "tone": "blue",
+      "dek": "Notícias do Dia no Brasil e no Mundo UOL Notícias",
+      "summary": "Notícias do Dia no Brasil e no Mundo UOL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-x-jap-o-escala-es-confirmadas-para-o-amistoso-ba-30f457f57a1967",
+      "category": "Esportes",
+      "title": "Brasil x Japão: escalações confirmadas para o amistoso - Band",
+      "snippet": "Brasil x Japão: escalações confirmadas para o amistoso Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNM005U0tDTHBYdUtUcUxWRmplNU84alFDa09xTkxnWEEwQW9iOVJaT1ZwM3ZDeUMtY1NVR0RkMmtJNkx1RVg4YzVVN2RwenRUcV9lUjNHVDF3aW1vNEtwaXl1ZkhSSnpsczEwaVl2OGdXRVFyOXl0YzkzSS1qYk1EYWwwLS1Bd0U1bmc1STVrVW9mek5xUHIyT1FDZkdvZTczZ3VsYW5pc2lSSnVHUmZENFZEOA?oc=5",
+      "published": "2026-11-14T09:30:14+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil x Japão: escalações confirmadas para o amistoso Band",
+      "summary": "Brasil x Japão: escalações confirmadas para o amistoso Band",
       "summary_by": "descrição da fonte"
     },
     {
@@ -248,6 +318,20 @@
       "tone": "teal",
       "dek": "Garro dá passo importante em recuperação de lesão no joelho no Corinthians CNN Brasil",
       "summary": "Garro dá passo importante em recuperação de lesão no joelho no Corinthians CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "capitais-avan-am-na-cria-o-das-pol-cias-municipais-ap-s-3df6758579a3c7",
+      "category": "Polícia",
+      "title": "Capitais avançam na criação das polícias municipais após aprovação de PEC - CNN Brasil",
+      "snippet": "Capitais avançam na criação das polícias municipais após aprovação de PEC CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNFg3LS1mMDAtaWFJVmI1dW8yekFCWjlISHU3UEI3Vi1ZeE9rMnpkVnBRUVpjRmR2YWhVX2c0NW11VDJuRTVDVElQRjU5TWo3Tlp4X28wRUNlTEszNEJtX2ZhQjVnMDY5NU5HYnRRenFFME1pUlBDak1DcFdlN0RISnhneDI0bTlWNEpWMXZwUDdkQ3M5MHhUN1YxbmtON2VBSmFNNlFuUTlwRlBiLWxKYl9mWDhZeTBlZDQ4?oc=5",
+      "published": "2026-11-13T18:29:52+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Capitais avançam na criação das polícias municipais após aprovação de PEC CNN Brasil",
+      "summary": "Capitais avançam na criação das polícias municipais após aprovação de PEC CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -766,90 +850,6 @@
       "tone": "",
       "dek": "\"Produtor não quer pagar\": entidades do agro rebatem Banco do Brasil, contestam acusações e questionam gestão da instituição Notícias Agrícolas",
       "summary": "\"Produtor não quer pagar\": entidades do agro rebatem Banco do Brasil, contestam acusações e questionam gestão da instituição Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "raquel-lyra-participa-de-debate-sobre-inova-o-e-desenvo-735dd5112029fe",
-      "category": "Tecnologia",
-      "title": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play - Blog Cenário",
-      "snippet": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play Blog Cenário",
-      "source": "Blog Cenário",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNlpjQTZMZjdSbjVZajEzcUxsZENiaWozbFRtLV9uWUFGNVVjcTNlTWttZTZESVhUcy1mLTE4ZlNiUVliUThiQmVVa0x4cVVHTzM4RjRsRldEb0dsSXBBTFVLakNQZzRBSW5UVGNxc1JETDM3VXBjWVE2czRsN0RDWUNPOUNNNTdjZ3EyRFFsTDBQX2ZNUWRmbjJKak9ZWW8zQ2ttZlJscjlLdm1rdnBDdWg5dzI?oc=5",
-      "published": "2026-11-12T20:50:00+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play Blog Cenário",
-      "summary": "Raquel Lyra participa de debate sobre inovação e desenvolvimento no REC’n’Play Blog Cenário",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "luciana-santos-destaca-import-ncia-da-intelig-ncia-arti-1db06c9093d8ff",
-      "category": "Tecnologia",
-      "title": "Luciana Santos destaca importância da inteligência artificial para o serviço público durante fórum no TCU - GOV.BR",
-      "snippet": "Luciana Santos destaca importância da inteligência artificial para o serviço público durante fórum no TCU GOV.BR",
-      "source": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaWdNVmV3REJwaFF5YS1pSDBEZFJ1ZG9TZTZLdkJ2RzJoZG4wOFVkeFNTbzhpcEF2cV9abGFkbmJKY2ZweHFyZlBuZ21aNm9KaTRXMlFUWVpzUWhGM2E5YjNqcHFDU1BROGpQdWhFcHU1aWNDV1BvMXNPd2liSEl4RTg4bVpVdUhLcnV4SktkV0k5MkhzZnp1OTNHTlh0ZlM3XzdlMkx6WE14TC0wQ1FHQ3d5WVBiektlRlhtdkRmQ2Z5SUFQdm9sNmJQazNpTGlxR0dSZk54TGZfdm5vR1F0Nmp5RFhNYkgzS1V6elRlNGVzNjFOeHY0b3dEMDUyUQ?oc=5",
-      "published": "2026-11-12T20:39:44+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Luciana Santos destaca importância da inteligência artificial para o serviço público durante fórum no TCU Governo Federal",
-      "summary": "Luciana Santos destaca importância da inteligência artificial para o serviço público durante fórum no TCU Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "viol-ncia-contra-a-mulher-associada-ao-v-cio-em-apostas-04101860f50542",
-      "category": "Brasil",
-      "title": "Violência contra a mulher associada ao vício em apostas cresce 75% em um ano no Brasil - Governo Federal",
-      "snippet": "Violência contra a mulher associada ao vício em apostas cresce 75% em um ano no Brasil Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVUwyMHBtUVpfbWJUbHAzM2tGQ3diTWNpWElsZy1fbTJUbnBHMkNPVTNlcXJGSW1jQ0VkT1I3aVgtUUxRLWJ4RmJkSjZpTGtiZEphTGZMNHdNLWRWUXJmR3NuR0pmVG1mcUlESWNERlBOQUtVODB1UUZLVkxsTWF4eXE5TWs0ODJfU2RKUms4bExQTVZ3YWE4RG1uR1Q4ejVOZzdwbGhyc1d5WHVyeklTMy1BUUJRd3dEZW4xSThLZ0F1dkk?oc=5",
-      "published": "2026-11-12T20:00:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Violência contra a mulher associada ao vício em apostas cresce 75% em um ano no Brasil Governo Federal",
-      "summary": "Violência contra a mulher associada ao vício em apostas cresce 75% em um ano no Brasil Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-diz-que-brasil-tem-mais-autoridade-para-discutir-c-075fda8c50ce0c",
-      "category": "Brasil",
-      "title": "Lula diz que Brasil tem mais autoridade para discutir clima - Vero Notícias",
-      "snippet": "Lula diz que Brasil tem mais autoridade para discutir clima Vero Notícias",
-      "source": "Vero Notícias",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTFMycnhoTzNncTJXcmNjTjd1RVlPcFg5Z3E3RVhDYnVvbHUwbjlHMkxUMU13NDRaZGctS2hkMzY0a0JqdGZoUVE1TUVzYThGemdSLU5fUzJCdEpWUEtSUVhOUWthUVg1cXZ5S1pjWURaLWFYWkE3NW9LSVI4b0JPNnhNQjdnT2FySEo0ZGFhLWd1ZE85S2YxS3Rn?oc=5",
-      "published": "2026-11-12T19:20:04+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula diz que Brasil tem mais autoridade para discutir clima Vero Notícias",
-      "summary": "Lula diz que Brasil tem mais autoridade para discutir clima Vero Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "aprosoja-brasil-repudia-declara-es-de-presidente-do-ban-be175fdcc04b7e",
-      "category": "Brasil",
-      "title": "Aprosoja Brasil repudia declarações de presidente do Banco do Brasil sobre produtor rural - Notícias Agrícolas",
-      "snippet": "Aprosoja Brasil repudia declarações de presidente do Banco do Brasil sobre produtor rural Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNd192czF3ZndwREdoeFlGSWRwaTBiWHNuRUtvSGx2WGJPSjVzN2xYRVBkeFJWOVFVcjBoN1prenN5WVBSZFQ5VlhIb0VaVlJ0NWNiZUc2MnJrZVZRaG9EYUhOV3p2aXRJZGxjZjEzOFRfVGFIcElNeGNQcXRMVmt0bHB2Mm9PQjdvMGxObEVNWTYweDdYbm1BNHpqQ1h5Unh2LVRYb2tTVU05X2xzaU1maG9ERk41dERCYWV5VnExakl3QndCelprQTh0ZVE4QW1aWTV6SS11VHJPZ25jX01LRl9qemF6dVdzNjVpNWdkUWvSAfYBQVVfeXFMTkVRRUVOZTVxSDlUV1Y5MGRMYTBBNmFDVWM3U3V4TWFUMFdMWnN6ZTFxRDM3UXJmd0dDNVFzZ096V3g1OUdlbmpDcVg1TWZjUXBqOTd3a0g1RWVUdFdWX085MkJjTEVpTFNZQ2Z1Nm8yaHh1d1drSzZpSFIycHRlb0JKR1ZwR1JxOV9QMWExMEo5eHRlUjlsQ1JnaWFXMUtfX05DcUstR1Qxb0prQ1l3UXlneUlQc1J1VXpjLUVHMFRUcHE5azNSMTJiVWZHdE96azhFbXJkN3RBejN1ZmlGRk1OTnhMdVJzUklWMnhLTFZlNXdSWjN3?oc=5",
-      "published": "2026-11-12T19:10:56+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Aprosoja Brasil repudia declarações de presidente do Banco do Brasil sobre produtor rural Notícias Agrícolas",
-      "summary": "Aprosoja Brasil repudia declarações de presidente do Banco do Brasil sobre produtor rural Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "banco-do-brasil-como-a-companhia-pretende-sair-do-pior--fb7dc996763151",
-      "category": "Economia",
-      "title": "Banco do Brasil: como a companhia pretende sair do pior ciclo de sua história - VEJA",
-      "snippet": "Banco do Brasil: como a companhia pretende sair do pior ciclo de sua história VEJA",
-      "source": "VEJA",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWjhMSU5rd1ZyM1F2MHU1X0FHeHZTWk5FcVV2ZFZUZUM0WFJmTmR2cXdlM3JTUEZpYlVlcHQ2ekxxVkJlbDBONTlXY1I5eWs4akQ5UUJBOWxjZHBmb0ljaTNUcE5CTVh5dFpyTm5tTERWX3VaaTE2LU8wdzcwQnQzVTdlN3hQMW1TNWsxZW1WeDAybEtSN01NTHZwemlRZmhFM19QN0pXaFdhazQyakk1NGh3?oc=5",
-      "published": "2026-11-12T18:11:50+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Banco do Brasil: como a companhia pretende sair do pior ciclo de sua história VEJA",
-      "summary": "Banco do Brasil: como a companhia pretende sair do pior ciclo de sua história VEJA",
       "summary_by": "descrição da fonte"
     }
   ],
