@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T01:18:27.427425+00:00",
+  "updated_at": "2026-11-14T03:00:46.318525+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "brasil-desencanta-no-segundo-tempo-e-vence-peru-em-amis-c7b11a8e68fcd5",
+      "category": "Esportes",
+      "title": "Brasil desencanta no segundo tempo e vence Peru em amistoso no sub-20 - CNN Brasil",
+      "snippet": "Brasil desencanta no segundo tempo e vence Peru em amistoso no sub-20 CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUkdUZktmSUFDZXQ4R2NyYWtad2dxc1JNN21RRFhlWHpLcGhtRG5mMkg1ZWZSWE95TGpUd19GdmRCdE1FSUxGOWpMSlVMblZ5bFh0SUowLXNuYWw2c2puTk5nNjFxeDVRZEpxQ1BmZTRFZjVoYjBDSTFraTZsVENMWlhabmVtMmhQdTQ0TkstT2VFN3NmZ3ExN05YenJvc1dlNlM4bklOT2RuOE1hNjV1V2dpNjNkVGZrWXFNQUNjNEp5UVo3SmZEZ3pCZGFocXJz?oc=5",
+      "published": "2026-11-14T01:22:09+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil desencanta no segundo tempo e vence Peru em amistoso no sub-20 CNN Brasil",
+      "summary": "Brasil desencanta no segundo tempo e vence Peru em amistoso no sub-20 CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "brasil-ter-tr-s-meio-campistas-em-amistoso-contra-jap-o-2948e244650292",
       "category": "Brasil",
@@ -27,13 +41,27 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "jap-o-enfrenta-brasil-com-meta-de-conquistar-copa-at-20-9b4cdd67bf1083",
+      "category": "Esportes",
+      "title": "Japão enfrenta Brasil com meta de conquistar Copa até 2050 e maioria dos convocados na Europa - Estadão",
+      "snippet": "Japão enfrenta Brasil com meta de conquistar Copa até 2050 e maioria dos convocados na Europa Estadão",
+      "source": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNNFo4NkI5WWNXRzhfSnF3VGU0UnpBRlY5OVliSENlYkVab0VLbkZlRncxa3NhQ0lkQmRyd01XSVQ1OEhCV1UyTTdyYWlvX0pON3dVTDdpRmRJSFZTdUdLQnJDXzYzQ2cwbnh4dHFHNE5lVWU2VjNZbHpxMzhuTzZqNjRjWV9iSlVfQVlGTWdTNHd4c3ZJbzdYVHNzZ043UXdnT2dWdW5iM1ZmVzRTTWRfS3VMSlNlV2Z5MTIwTmRTWThHd3pldUJIRDZaYWw1STZGZ2hLcUJNaXlPU3R40gHiAUFVX3lxTFBiNzNDNk5ZelJqcjNIRnRLTlRiM0l6a2JtNDVESkpGbFFoMXU5U3ktdXpfU0NDOE9vY1d6OC02MnZOdFFVRDdZX3ZtSk54VW02RF83UU9aUXd2eXpHdlpsQ08zN05ULWVkZlpDVW53WUdGNXl1ZXlzX3J4X0FMSExjTEhEbXN4aENHQk4tQk1HYXJXVGVULW82WURBY2tNMU9GRkE5NUJfcm5sMlJrSW8xdkxQdlRZd1RuaEJ3c1c2anBMcHBFdTBIR0lyWFVNTWdmbTRWV0tDX0NoUFF1UkxNMVE?oc=5",
+      "published": "2026-11-14T00:52:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Japão enfrenta Brasil com meta de conquistar Copa até 2050 e maioria dos convocados na Europa Estadão",
+      "summary": "Japão enfrenta Brasil com meta de conquistar Copa até 2050 e maioria dos convocados na Europa Estadão",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "eua-suspendem-todos-os-voos-do-pa-s-por-problema-em-sis-aa8c2b6399681f",
       "category": "Brasil",
       "title": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe - BBC",
       "snippet": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe BBC",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE56YVlrdm14cGsxOVBRNUdFZmpQbHo3UWp2blZZTWR5dGJ5dFhkMVVIUW1XZ1lBSExKcUliYzdUSWJleVdlZTMtT1FQd0liMXVlSzgxNThVT0d6ZzNHQndfVVFDVdIBaEFVX3lxTE5CZE93UWJWTmhCeW1uWTViTzBQLXJkWWpBVXFtbjd2OWRvTnNMM1V2Q1RjMTlHRXlTRHplaEtDMWc0TjhxM1BoUnVWbHNsbWs5Q1FfSi1Jc2tsS1A4c0RSUWl1QzMtcWdQ?oc=5",
-      "published": "2026-11-13T22:07:09+00:00",
+      "published": "2026-11-13T23:42:49+00:00",
       "image": "",
       "tone": "",
       "dek": "EUA suspendem todos os voos do país por problema em sistemas de comunicação: o que se sabe BBC",
@@ -822,34 +850,6 @@
       "tone": "",
       "dek": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
       "summary": "Temporais avançam pelo Brasil e colocam Centro-Oeste e Sudeste em alerta Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "clubes-criam-a-es-para-conciliar-maternidade-e-esporte--ecd5128af213e8",
-      "category": "Esportes",
-      "title": "Clubes criam ações para conciliar maternidade e esporte; entenda - CNN Brasil",
-      "snippet": "Clubes criam ações para conciliar maternidade e esporte; entenda CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYWlIb0JiWVk2YXpibDlNMUdrWWducml0ZDUtNEp2VmdveHpSZG9nZWpwZEl5ZUNHNEpGeWF1YUJGVkFHQktVMVYwNXgzOG1TQTQ3ZklUSHdQZkVvN2wzMGczMDFGZzZRd3BEMzNuamVfWEpWdjRpWXoyZFluS2thaks2QzBsWFZWWkJuWEUtaW4yYTEtaGY1OGpxcldnTVhlU3ZKU1dqOWpWaG93QnIw?oc=5",
-      "published": "2026-11-12T12:49:32+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Clubes criam ações para conciliar maternidade e esporte; entenda CNN Brasil",
-      "summary": "Clubes criam ações para conciliar maternidade e esporte; entenda CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mulher-em-trabalho-de-parto-colocada-em-audi-ncia-pelo--1d0dca8c8e9b37",
-      "category": "Brasil",
-      "title": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' - BBC",
-      "snippet": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBsM2NDYTU3RTE5OXlsWjVoamN4Y0dpZU1GYkF5RlpMbDVxc1JIN2phd0J0Z3Vka2F2WWk1X0dhRmdpT1hXUExGZzMwd2d4Zm1lN2k2LTFUcXhrNjNVN2M4Zk8xONIBaEFVX3lxTE1aSkRwbV9CbmZOb3YwaXhTN29ZVERXSjZmZk1SWGZGR3k2c0dibkgyMmZsNzcxa1pPd19UWFZETGNHZ09rNWlUSEt3RTFIdnBsLWRkRG42ZElLNW9nVDA0amh1Z3Y1Q3RV?oc=5",
-      "published": "2026-11-12T11:32:43+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' BBC",
-      "summary": "Mulher em trabalho de parto é colocada em audiência pelo Zoom para decidir sobre cesárea: 'A coisa mais absurda que já vi' BBC",
       "summary_by": "descrição da fonte"
     }
   ],
