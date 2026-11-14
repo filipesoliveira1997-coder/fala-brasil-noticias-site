@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T16:53:23.401169+00:00",
+  "updated_at": "2026-11-14T18:58:46.937877+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "governo-abre-consulta-p-blica-sobre-enfrentamento-ao-ca-37d877c6b98d03",
+      "category": "Brasil",
+      "title": "Governo abre consulta pública sobre enfrentamento ao calor extremo - Agência Brasil",
+      "snippet": "Governo abre consulta pública sobre enfrentamento ao calor extremo Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPbG5QS1BMUllTMHl2QldieGphd192azBBWlBVTTR0S0Q1LVRzMWRuQkpEQW5fQ1E5cms1LWdUalRyMVI3TDg0Rm1wbmJaMXFRYnd2MlViMzdwQnk2Ukw3MFoyMHBTYXoyOVFSbUJhUTQwVTdfT1ZsLUFrNU91cHZiS2tvdGtPRldWaUhJRlprNDdYVHVnU0xOVUtDZG1pUjVkbXpuSEFiY2lqXy1SS3FJd2o4dnRyTWhDMTVGMi1rb1JGREUwSlhJSQ?oc=5",
+      "published": "2026-11-14T17:48:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Governo abre consulta pública sobre enfrentamento ao calor extremo Agência Brasil",
+      "summary": "Governo abre consulta pública sobre enfrentamento ao calor extremo Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-tem-seis-times-no-top-30-mundial-de-s-cios-torce-9291e3662e80a0",
+      "category": "Esportes",
+      "title": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking - Esporte",
+      "snippet": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking Esporte",
+      "source": "Esporte",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPemtmN1hodXctbmZaVUxERmlVaGh4V0hSQ0VueXRCeGVFME5kT0JSSzEzR0Y0ckFFckxvZ2s1OW5VRU5iSXZRUzJuNXJERVdzWGd5c1V1MHo2MXczVE1XLUxWZEVNVTAxOUhHX08yckdETmRMcU9jWGgzVHhvZy1EMG5pRjR4bW5IZU56SjRUdFM1S1lVdHJmRzZVQmJYMTQwQVRNcjhwb2RFbE1wRmtoX3FBTHQ?oc=5",
+      "published": "2026-11-14T16:30:06+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking Esporte",
+      "summary": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking Esporte",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "brasil-perde-para-o-jap-o-com-gol-nos-acr-scimos-3-a-2--c298547dac9158",
       "category": "Brasil",
@@ -206,6 +234,20 @@
       "tone": "gold",
       "dek": "Destaques Business Bahia – Os principais fatos econômicos da semana Anota Bahia",
       "summary": "Destaques Business Bahia – Os principais fatos econômicos da semana Anota Bahia",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "not-cias-da-floresta-venda-de-r-pteis-ex-ticos-no-brasi-3ca8c0260e3905",
+      "category": "Brasil",
+      "title": "Notícias da Floresta: Venda de répteis exóticos no Brasil cresce e pode causar danos irreparáveis - UOL",
+      "snippet": "Notícias da Floresta: Venda de répteis exóticos no Brasil cresce e pode causar danos irreparáveis UOL",
+      "source": "UOL",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOMjBJSllPeXVVYzJINHl2ZGFDbVYtZk93QXFJOFpJSHZ5dTNTN1plZEVzTktOX29wLUdqSjlUQ3NrV2xwNU5lRE9WUGV3V2wzLUJLdWc2NHZIRDhISkotNml5QUJ3cHF2UzFvMGp1WHhLdFVQT1NvY3hhZjdwWDlWTWdoZDFfVGJjaXRGLVVQbnBhZFRFWVg2WkRqTHhRS0dEcS14MjZlT1h6R21jQWM2YmtUb2lCemJUeFk1RVhMLS1hMW1nZUhHVTBrSUQ4dGFxamozOWM5UTVQbXM3aDhYZw?oc=5",
+      "published": "2026-11-14T08:30:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Notícias da Floresta: Venda de répteis exóticos no Brasil cresce e pode causar danos irreparáveis UOL",
+      "summary": "Notícias da Floresta: Venda de répteis exóticos no Brasil cresce e pode causar danos irreparáveis UOL",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "teal",
       "dek": "Espanha bate a Tchéquia fora de casa e mantém 100% na Nations League CNN Brasil",
       "summary": "Espanha bate a Tchéquia fora de casa e mantém 100% na Nations League CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "meta-exibe-mais-de-700-an-ncios-de-bets-proibidas-revel-cbb5d4330ec9ae",
-      "category": "Brasil",
-      "title": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC - BBC",
-      "snippet": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTkhael9tdzNWdkRIQWszcFR5R1B6OWhmcG5LRWR5dS1WbDBqeGpaVWRLVEdYMV8zRFVNT3NkTV84bTc0Ylp3SjRNb2hnU1JKeHc5bzZiYmNRVEZRMnpxV3JuSQ?oc=5",
-      "published": "2026-11-12T21:45:26+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC BBC",
-      "summary": "Meta exibe mais de 700 anúncios de bets proibidas, revela levantamento da BBC BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-futuro-da-economia-passa-por-pernambuco-destaca-raque-ea2950910e1ea8",
-      "category": "Tecnologia",
-      "title": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay - CBN Recife",
-      "snippet": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay CBN Recife",
-      "source": "CBN Recife",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQbjEzdUlFZXJDSlN0c0hhS1N4VThNQksyUVNUSU5JbGV4R3h1ZnVnWXp6QVpTRzEySVZnX3lRb3hzVUdUaldLb180cnk3c25ZZDJaeF9UTllZUjJlcVcxcnUzWUVSRnlFVDhxNXVTNllmVjJQeUQ2OC1mRXFacjhkUlJwNjJfSm1IT2t4eVBHZkJVQm0wVHNONXhIRjZGanZnYm9hM1ZaeVo1ZzJrTkd6RXJrRHFOU0FyeEZGWndmem40dzRWUE5kc2lWRkxtQ01PNldvb1Vjbkh0QQ?oc=5",
-      "published": "2026-11-12T21:35:13+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay CBN Recife",
-      "summary": "“O futuro da economia passa por Pernambuco”, destaca Raquel durante participação no REC’nPlay CBN Recife",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "copa-do-mundo-feminina-ta-a-est-em-exposi-o-na-sede-da--a403251a322ef1",
-      "category": "Esportes",
-      "title": "Copa do Mundo Feminina: taça está em exposição na sede da CBF - Agência Brasil",
-      "snippet": "Copa do Mundo Feminina: taça está em exposição na sede da CBF Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNMHM2blFWbEZ4bGwtcFY5OWFzYVdxMlZOa0JlLU82a3ZYLVdBSm5IVE5OSGxqMFR2bW5NVl9NMjFRWFBaVkZGUTQzbGVoNlRvSlZsVHpKaGpqdm45NVlCSlo4UklXUkdab3FDdDBXVklMSTVFVUdiMFBwUlFtc1F6TmdUYi11Y09VaXMyLTZISml5bkZQRW90dXVjVUhVYmFpd0tScXlqR1FTTFZoN0xWRDRNTWcxYnZzcUE?oc=5",
-      "published": "2026-11-12T21:21:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Copa do Mundo Feminina: taça está em exposição na sede da CBF Agência Brasil",
-      "summary": "Copa do Mundo Feminina: taça está em exposição na sede da CBF Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
