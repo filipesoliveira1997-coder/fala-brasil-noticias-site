@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-14T20:51:38.382332+00:00",
+  "updated_at": "2026-11-14T22:50:16.584151+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,34 @@
   ],
   "articles": [
     {
+      "id": "brasil-e-filipinas-assinam-acordos-sobre-agro-e-livre-c-3c9492b231390e",
+      "category": "Brasil",
+      "title": "Brasil e Filipinas assinam acordos sobre agro e livre concorrência - Agência Brasil",
+      "snippet": "Brasil e Filipinas assinam acordos sobre agro e livre concorrência Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOc1JBaFJ2MXFpcWgtekVMaFhnODdhU3Y0aTRyVEY2ZGhDeVFaaDNjazdRVW9fM3RRYlhtakxYdVpEMEtTNWRQQ1l4VUNiRWFXeHoyX0EtY3ZUSmVzZzZKU1lfN3pRTGY0S092X094Wm9IejRIQmxycGZUSEtRZTBFOTFBZlUwbEhUTFUwUHoyRjFjUVgzbF9zaG1COF9Ob2wtVUZ5bEtZOE94eGlfMDhSaTBSa0VqOVhQNHg1TkhZbjNIakF4akV4Zg?oc=5",
+      "published": "2026-11-14T21:53:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil e Filipinas assinam acordos sobre agro e livre concorrência Agência Brasil",
+      "summary": "Brasil e Filipinas assinam acordos sobre agro e livre concorrência Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "falha-a-rea-nos-eua-cancela-sete-voos-e-atrasa-outros-1-f917cfa966cf18",
+      "category": "Brasil",
+      "title": "Falha aérea nos EUA cancela sete voos e atrasa outros 14 no Brasil - Agência Brasil",
+      "snippet": "Falha aérea nos EUA cancela sete voos e atrasa outros 14 no Brasil Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSjNyWFoyQWxLVXB1SkEyU3FOei1vR2pTQzA0VHktQmZ1UFBUZ0diZ3NzeE5tSGcxYmgzZ0JaZ0ZCZk5TTTJNTGpBZ0xsR2dpODVxSEM0eXk0VExTV1dZNVhPTE5LN1UwNk5yV3U4M1BqMThVYkdIUXpqU2dEcnlsaHRqQUZMNGg5WElIZzhvZHBfWWVQMGl3enptVGdOcDhTVlBLb0lXeGN5NE5FZlExYTdBaHJsRDhhVWFvc3Rn?oc=5",
+      "published": "2026-11-14T21:43:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Falha aérea nos EUA cancela sete voos e atrasa outros 14 no Brasil Agência Brasil",
+      "summary": "Falha aérea nos EUA cancela sete voos e atrasa outros 14 no Brasil Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "governo-abre-consulta-p-blica-sobre-enfrentamento-ao-ca-37d877c6b98d03",
       "category": "Brasil",
       "title": "Governo abre consulta pública sobre enfrentamento ao calor extremo - Agência Brasil",
@@ -24,6 +52,20 @@
       "tone": "",
       "dek": "Governo abre consulta pública sobre enfrentamento ao calor extremo Agência Brasil",
       "summary": "Governo abre consulta pública sobre enfrentamento ao calor extremo Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "tv-brasil-apresenta-show-do-bossacucanova-no-cena-music-33d2049689e81d",
+      "category": "Entretenimento",
+      "title": "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado - Agência Brasil",
+      "snippet": "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVFl1T1FZZTVqRFhiR1lockV2bDJISE1RS2YtTllDMEhaN2FQaUN6ZGpaX1k1VjMzWUxXcXNSM2h1eDZyOVVWLUp4Q2xXamJxTnQ1VlljTENKeGZkSXhTMmRPRHV4NWliaEIxeTZmUm9pTTJlNUc4VnRmLTlpR3RiR3MwdzVGN1dBY3FEMzgzY2toVjR1aHlUMU9yYU8ybjVETGRKY21waU11STBHMG5IUGU0dWRTRE5LR1RzelluVG1oQ3djQWc?oc=5",
+      "published": "2026-11-14T17:10:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado Agência Brasil",
+      "summary": "TV Brasil apresenta show do Bossacucanova no Cena Musical deste sábado Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -43,15 +85,29 @@
     {
       "id": "brasil-tem-seis-times-no-top-30-mundial-de-s-cios-torce-9291e3662e80a0",
       "category": "Esportes",
-      "title": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking - Esporte",
-      "snippet": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking Esporte",
-      "source": "Esporte",
+      "title": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking - Band",
+      "snippet": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking Band",
+      "source": "Band",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPemtmN1hodXctbmZaVUxERmlVaGh4V0hSQ0VueXRCeGVFME5kT0JSSzEzR0Y0ckFFckxvZ2s1OW5VRU5iSXZRUzJuNXJERVdzWGd5c1V1MHo2MXczVE1XLUxWZEVNVTAxOUhHX08yckdETmRMcU9jWGgzVHhvZy1EMG5pRjR4bW5IZU56SjRUdFM1S1lVdHJmRzZVQmJYMTQwQVRNcjhwb2RFbE1wRmtoX3FBTHQ?oc=5",
       "published": "2026-11-14T16:30:06+00:00",
       "image": "",
       "tone": "teal",
       "dek": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking Esporte",
       "summary": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking Esporte",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "rom-rio-detona-ancelotti-ap-s-derrota-do-brasil-e-faz-a-0979737e4d76be",
+      "category": "Esportes",
+      "title": "Romário detona Ancelotti após derrota do Brasil e faz apelo: \"Mete o pé\" - CNN Brasil",
+      "snippet": "Romário detona Ancelotti após derrota do Brasil e faz apelo: \"Mete o pé\" CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc2tzSEctNzVjc0tZZ1BJYVBsdkJTdnZhREFySWFSamlER1BZNTA5RzNGWUdlTUlDU0RBeFpGeXVhVW1iXzZEVU1BSThUbmNBYzZyeUU4QzBHNDQ3VDRaYVhUS04yQmVSYm45eUVxMWRTWjZkckdMTWFiakZfZEFudVdaQXlVbG5fOEIzb1ZQVG1mamlaZU1oNU9ReGZRckR3VnUtZ2N1RmVhMWk5UWk1dE1qMDR6bmFRaHBmQjlhc2xtMzNrbG4yYWZ6Z21COExD?oc=5",
+      "published": "2026-11-14T15:47:39+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Romário detona Ancelotti após derrota do Brasil e faz apelo: \"Mete o pé\" CNN Brasil",
+      "summary": "Romário detona Ancelotti após derrota do Brasil e faz apelo: \"Mete o pé\" CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "gold",
       "dek": "Empresas adotam cautela e priorizam pagar dívida e adiar projetos Estadão",
       "summary": "Empresas adotam cautela e priorizam pagar dívida e adiar projetos Estadão",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "senado-aprova-texto-base-de-pacote-que-prev-economia-de-df4393a58f9dbd",
-      "category": "Brasil",
-      "title": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi - Agência Brasil",
-      "snippet": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcXZqUUo4LUlxeWRIbXNjVmx6YUFVcmxyUmJiVjhleFVNY181M3M1bHh0TUdnTks2dHRqTW5WMlJHbFhlZUFlRVlZRzBpbGs3aEU0MEpMRTNsejVlTXZlS2xQODVwQnc3TEI0NkhzUElkVjVZbXpGRmdPajhwaWJlX1NNX2xyQ1VGX2dLaDhBRnhIUVRyOGs4d2xtRGVMeW9EWG1VME1yR2JlLU1fZVFkZU5NRXNRRXl6VHNiVTludXFqenBq?oc=5",
-      "published": "2026-11-13T00:54:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi Agência Brasil",
-      "summary": "Senado aprova texto-base de pacote que prevê economia de até R$ 60 bi Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pgr-contra-revisar-condena-o-de-jair-bolsonaro-ag-ncia--0582d454c77d97",
-      "category": "Brasil",
-      "title": "PGR é contra revisar condenação de Jair Bolsonaro - Agência Brasil",
-      "snippet": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkRwRXhYeDNvYktrakt2Ti1MZWFmUzM3MWd6UWNKZFpKVG9YLTdlMHNPTVJhbmg2T0Eta3hYYy02WnNQVUw4eTFIQ0JUYkNIQVVJNmJJTmxYR2tkWUVTOTRXQnc3OXgyRDR0VFNOU2NSeGFQU3NGeUZNVU1JZFJXdkl0Rm1nUHpzZGFibHdiSno5S0F3NDVGV0c0NGZSS3dIUlQ4YVZfTGhMQQ?oc=5",
-      "published": "2026-11-13T00:26:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
-      "summary": "PGR é contra revisar condenação de Jair Bolsonaro Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "di-logo-brasil-ndia-discute-descarboniza-o-como-vetor-d-fd025128c44107",
-      "category": "Brasil",
-      "title": "Diálogo Brasil-Índia discute descarbonização como vetor de competitividade - Agência de Notícias da Indústria",
-      "snippet": "Diálogo Brasil-Índia discute descarbonização como vetor de competitividade Agência de Notícias da Indústria",
-      "source": "Agência de Notícias da Indústria",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTG1zOWRGY0RYSW0tR1JrMmZkUENLUGdIX3F4a1dkT2dhcVZsc3J2RmlKRGlTdUhxbFEtQmtyV3dMZEc2a25YUmNhQXA5eHE5eUhmZlhscm90Z1ktZjBCcHJKRWdEWVlubU9ZbGljZU5SOWlVMElERHc1VEtLQktEakJBUlMxZVlBOGd3QW11WG5YMU8wWjY4VEhxdkViWGJZbnBJbHo0Y3lIQ2U5MG15VXJVemNPU0ZCUmFwblVzbjNZdjh5d3lfOHRCMHVQSFFzSXNGU20wemdwc00?oc=5",
-      "published": "2026-11-13T00:00:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Diálogo Brasil-Índia discute descarbonização como vetor de competitividade Agência de Notícias da Indústria",
-      "summary": "Diálogo Brasil-Índia discute descarbonização como vetor de competitividade Agência de Notícias da Indústria",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "leonardo-sakamoto-agrot-xicos-proibidos-aparecem-na-gua-c44bd6b559b09b",
-      "category": "Brasil",
-      "title": "Leonardo Sakamoto: Agrotóxicos proibidos aparecem na água de 1 em cada 7 municípios do país - UOL Notícias",
-      "snippet": "Leonardo Sakamoto: Agrotóxicos proibidos aparecem na água de 1 em cada 7 municípios do país UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOMVJWN0JXOTBVNDNhaUZQRmhMZFhmc25CN2l2eFZ4d1EtVVdVY0Q1N1QxYW1YcVp1eF9MZWJUUl9VTFZId1NIMnliUDJEakdIbVp4TmdoNUdFVnZfX0t6WnBiNy10ekphWW1QZEk0YkdwS2VpdkM1dmJTSDNKZTR6ZXVGdG91M1UzYmxWTVl1ajNlTW9wekcyd2w4N19xVDZ5NXNXcWs0NURBR1Vyb3E4czQzOEpUdUh5bTZYRmJxeFh3XzYxVkRSODhjNTZLcFlsaXZv?oc=5",
-      "published": "2026-11-12T22:58:02+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Leonardo Sakamoto: Agrotóxicos proibidos aparecem na água de 1 em cada 7 municípios do país UOL Notícias",
-      "summary": "Leonardo Sakamoto: Agrotóxicos proibidos aparecem na água de 1 em cada 7 municípios do país UOL Notícias",
       "summary_by": "descrição da fonte"
     }
   ],
