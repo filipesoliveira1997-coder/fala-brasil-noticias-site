@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T13:09:03.993880+00:00",
+  "updated_at": "2026-11-15T14:56:10.530107+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -41,6 +41,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "lula-provoca-trump-e-faz-convite-a-pa-ses-a-investirem--a94aec0b808faf",
+      "category": "Brasil",
+      "title": "Lula provoca Trump e faz convite a países a investirem em terras raras no Brasil - ICL Notícias",
+      "snippet": "Lula provoca Trump e faz convite a países a investirem em terras raras no Brasil ICL Notícias",
+      "source": "ICL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yYzFiUVBqazRXUmlDVC0yV0VGTEY4Z1dfQzVSQzhvZG04X0t3Y1BRV1plRDk5Q25zQlV6dWs1SVlyVkM0TkFjeEEtUjlmTkZReEc4aEtrS3paQy15UHpjQjVidEU3VlF0MUcwbUdOdFduS2xUM0VJZA?oc=5",
+      "published": "2026-11-15T08:04:24+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lula provoca Trump e faz convite a países a investirem em terras raras no Brasil ICL Notícias",
+      "summary": "Lula provoca Trump e faz convite a países a investirem em terras raras no Brasil ICL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "ronaldinho-de-volta-relembre-ltimo-jogo-profissional-do-f89d7c098c23ff",
       "category": "Esportes",
       "title": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos - CNN Brasil",
@@ -52,6 +66,20 @@
       "tone": "teal",
       "dek": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos CNN Brasil",
       "summary": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "lula-quer-salto-industrial-e-retirada-do-r-tulo-de-pa-s-4283623a40e8a4",
+      "category": "Brasil",
+      "title": "Lula quer salto industrial e retirada do rótulo de país em desenvolvimento no quarto mandato - Folha de S.Paulo",
+      "snippet": "Lula quer salto industrial e retirada do rótulo de país em desenvolvimento no quarto mandato Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNX0pJVFVCcG02OEFRNU1lR1ctOWhXOVFiNXdlVklkaGgzTWtDR0t6RGQzYTZPQXNueHVtS3hkeU1hT3BEWVl3ZGdlSUd3U1NJQ2Z1c2R4VEFhcGgwbGc2eWlOb25xdngxb1pRa284Smd4UElsSGp1RF9ZMVhydEpud0t0M2NULUdqV1YteXdnYVFLYkNicGRBTXd6bFVLX3c3eC1takZ2dlUtYzJhMnBCa3JKd2ZTVzVfNmpmNjBjRnRCWmtrRFpaWTE0X2lpbWJIXy13YlRSa0NvdnZ0?oc=5",
+      "published": "2026-11-15T06:54:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lula quer salto industrial e retirada do rótulo de país em desenvolvimento no quarto mandato Folha de S.Paulo",
+      "summary": "Lula quer salto industrial e retirada do rótulo de país em desenvolvimento no quarto mandato Folha de S.Paulo",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "red",
       "dek": "Polícia Penal de SP estreia no Veterans Day Brasil agenciasp.sp.gov.br",
       "summary": "Polícia Penal de SP estreia no Veterans Day Brasil agenciasp.sp.gov.br",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-reencontra-jap-o-neste-s-bado-em-singapura-cbf-705a735585a05e",
-      "category": "Brasil",
-      "title": "Brasil reencontra Japão neste sábado, em Singapura - CBF",
-      "snippet": "Brasil reencontra Japão neste sábado, em Singapura CBF",
-      "source": "CBF",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeWcwc2JDbXA1TGNoQ21hd0lSUkRoQ3BXY2tWemJkWHhWMFpVVlh1Z2NxV0k3elhfLWdFRXlHeUtpZk96eW9nMnhTeVZIT0dGcmNoR0VNMVluVjU3akJDSzlndlFlZWEta1FicER3VFlWbldZYTVRNEJUSGsyaFQxZmxaaTU1VDFJVUJoNUtQNmVwSjM3U0Voc3FrTlFjTWtEaXBWU3VhZzN3bk54dnNyN3NGZGlWSG1jZERRcA?oc=5",
-      "published": "2026-11-13T14:18:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil reencontra Japão neste sábado, em Singapura CBF",
-      "summary": "Brasil reencontra Japão neste sábado, em Singapura CBF",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "vendas-no-com-rcio-variam-0-2-em-setembro-ibge-mostra-e-ed29d6f862bc1c",
-      "category": "Brasil",
-      "title": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade - Agência Brasil",
-      "snippet": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUDVNVGJKdWhnU2F5ajFoR0EyRHpIbzAtUFpsSERFeVhfZkxtbmlFRGF2ZkRkTHVmOURlbUZ5RlVnY0hRakZWRVNZWldyNDhQLXoyN2p6RkFIbWQtVG42a1kyb1kxRkhCTTNFWGZSQnVteU1uMTJHVjJIZVBiNzlJWW4zaFdZdkExVFFKTEZMVnJsSTZFMVdXTk5ZcWt5NkFSNVVBUGVENHFRemFGT1NMVWlCTzdQRTRKTEMwMHNLNjg?oc=5",
-      "published": "2026-11-13T13:26:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade Agência Brasil",
-      "summary": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
