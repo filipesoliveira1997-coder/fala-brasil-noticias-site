@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T05:07:25.493573+00:00",
+  "updated_at": "2026-11-15T07:20:42.371160+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "vasco-renova-com-admar-lopes-at-2027-ap-s-acerto-com-la-6d11beb05df26f",
+      "category": "Esportes",
+      "title": "Vasco renova com Admar Lopes até 2027 após acerto com Lamacchia - TV Sim Brasil",
+      "snippet": "Vasco renova com Admar Lopes até 2027 após acerto com Lamacchia TV Sim Brasil",
+      "source": "TV Sim Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRWg1VjNLYVAzbm1saE1Md1dpSUIza082NDlVbGdBWkttTzJsQ09lRFExM1NWdG5TVTN0VFdSVDVMWWQ3bmp1bjdhTnBLclVtT0NPVVZ3dkFOV3d0TjFyUEhNWmRnRmNLTWFvcnY1Q0M5cUVFTm9wWTNPdWxkYnJmRDl4ajhCTGZEV1Z5ZGxnYnpDQUE5WUVaR0gzYXlrY1J0WEVUbm51d0xBc2k0UmFmMW10UThGT1k?oc=5",
+      "published": "2026-11-15T06:32:29+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Vasco renova com Admar Lopes até 2027 após acerto com Lamacchia TV Sim Brasil",
+      "summary": "Vasco renova com Admar Lopes até 2027 após acerto com Lamacchia TV Sim Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "aprimorar-as-institui-es-e-desbloquear-recursos-para-a--09b2b00f15873b",
       "category": "Tecnologia",
@@ -836,20 +850,6 @@
       "tone": "",
       "dek": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados Agência Brasil",
       "summary": "Casos de mpox ultrapassam mil em 2026 e se concentram em seis estados Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mundo-not-cias-rtp-not-cias-rtp-d8a2e9d0ab7021",
-      "category": "Mundo",
-      "title": "Mundo | Notícias | RTP Notícias - RTP",
-      "snippet": "Mundo | Notícias | RTP Notícias RTP",
-      "source": "RTP",
-      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5KMk1sa2FHVXRmTHluaExmYmtENzJSTWd3eDBUQ0RJRW42THV2SHM0SXVpX0k5cTJFRm41VG9hcjJhbGVfVG5YNQ?oc=5",
-      "published": "2026-11-13T08:11:48+00:00",
-      "image": "",
-      "tone": "blue",
-      "dek": "Mundo | Notícias | RTP Notícias RTP",
-      "summary": "Mundo | Notícias | RTP Notícias RTP",
       "summary_by": "descrição da fonte"
     }
   ],
