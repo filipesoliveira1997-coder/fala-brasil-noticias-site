@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-15T10:56:52.325235+00:00",
+  "updated_at": "2026-11-15T13:09:03.993880+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,20 @@
   ],
   "articles": [
     {
+      "id": "pr-mio-tv-brasil-petrobras-para-elas-celebra-futebol-fe-c1c7e057fe625c",
+      "category": "Esportes",
+      "title": "Prêmio TV Brasil Petrobras Para Elas celebra futebol feminino do país - Agência Brasil",
+      "snippet": "Prêmio TV Brasil Petrobras Para Elas celebra futebol feminino do país Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZndPcUN3R2g2RVFKMU9zZzBkdWhLYkhxbkpZeW5ielRTdkNxR1dUbWRHSjY3TUM4bVl3clo5ZlZaT1BkMGpPalFZa1FVWTdub2FXZ2o3YXI0eG5fVDFMUllvTld0c0xlMFBTMWVhcUdNc0tDdFA5OHVWcnUwc1MzSks2a1g0ZWtvM19sMmN3LTRsN2pjdTFDSEFMakRoQnBGNnAySGRZSXQwd3hSQW1ER0dWNWkxNVZYNk1rM2Y1dk51WEJ0QUE?oc=5",
+      "published": "2026-11-15T11:01:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Prêmio TV Brasil Petrobras Para Elas celebra futebol feminino do país Agência Brasil",
+      "summary": "Prêmio TV Brasil Petrobras Para Elas celebra futebol feminino do país Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "cro-cia-x-tch-quia-hor-rio-e-onde-assistir-ao-jogo-da-n-d877f8c100e35f",
       "category": "Esportes",
       "title": "Croácia x Tchéquia: horário e onde assistir ao jogo da Nations League - CNN Brasil",
@@ -24,6 +38,20 @@
       "tone": "teal",
       "dek": "Croácia x Tchéquia: horário e onde assistir ao jogo da Nations League CNN Brasil",
       "summary": "Croácia x Tchéquia: horário e onde assistir ao jogo da Nations League CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ronaldinho-de-volta-relembre-ltimo-jogo-profissional-do-f89d7c098c23ff",
+      "category": "Esportes",
+      "title": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos - CNN Brasil",
+      "snippet": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTN0RDVrTG51TW1GRDZwODlDY2wxVXVWMmxoVkNRSGlUam9NSm1zZnctbFNNS3U5MHVaTG9mOHZqVjBTaUdUNXZ3d0VJT3FjQlVwM2VZZ3VsXzJ5STVudXJFSXBWdXhHazVQMmNUb0ZkN1JrWmN1cEdzd0VCbmg3Z1FQQVEwX2RCZWc4X0s0ZnloQnh0NEh3TGZ0VUN4dFc1NThsaXB5cWtCZGQwZEh3aEpiX3puNzJqd1ZHNg?oc=5",
+      "published": "2026-11-15T08:01:59+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos CNN Brasil",
+      "summary": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -108,6 +136,34 @@
       "tone": "",
       "dek": "Ministério da Saúde confirma a primeira morte por Mpox no Brasil; saiba os sintomas da doença G1",
       "summary": "Ministério da Saúde confirma a primeira morte por Mpox no Brasil; saiba os sintomas da doença G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "estado-de-sp-lidera-casos-de-mpox-no-brasil-com-398-reg-1c4e488bae7bf6",
+      "category": "Brasil",
+      "title": "Estado de SP lidera casos de Mpox no Brasil com 398 registros, aponta Ministério da Saúde - G1",
+      "snippet": "Estado de SP lidera casos de Mpox no Brasil com 398 registros, aponta Ministério da Saúde G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMjcyckF4SHM4NWRiQnUtYnBIbUNZZy1PWTFIMzY1ZVJEWWhmM0twbGt4bW1mUUlBc2FzZ1hHQTVZMkZ2V3d6TVVXTHlid0d1NTFjT3RiT21TTnpKRFhoNWxhcVIyTXJyaEdxQzZ4d2swbW53Z0k2N25HZlZuN2FQTTQ2blZRLTVvc09VQzlFODl6eDJLUk9TWG55Z3RrdkhTU1lRUmhRZDBBd1NJUWdIRlVnb2JPdXlzM2lTRE85ZXlxRm05SnREdm9fMFUyZm95T2QwZDR3UXhoS251c3phTtIB7wFBVV95cUxPMjJyYUZYcnFTYTg5b0pzYUFtNXdCU0pyb0d0dklaMUFqSGJwSHcxMFVHWUdzdC11OWExY2ZWTVZDOWV6ZWdVeWFhWE9sUy16WG91bjNITFh5SFlOeFBGY0E4VWN6d1prY1dZNFF3cmItQWdyenRTZkF3VGZvOFJDYVdGa1JBNHoxaGlxT1hZS1RJWDRuME45WFlnbEtGVldVa21NSVBLRnoxVWVRWmVFSmlISk41dnBBTERMNmlIemVxT1pMc1BId2tXSVJYSG0zaXc2MW42NDlmZ2g3eURiNy1fWnMyNERZYzYtc1BBdw?oc=5",
+      "published": "2026-11-14T22:44:08+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Estado de SP lidera casos de Mpox no Brasil com 398 registros, aponta Ministério da Saúde G1",
+      "summary": "Estado de SP lidera casos de Mpox no Brasil com 398 registros, aponta Ministério da Saúde G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ao-vivo-internacional-x-flamengo-final-copa-do-brasil-f-833616dd3c45ff",
+      "category": "Esportes",
+      "title": "Ao vivo: Internacional x Flamengo | Final | Copa do Brasil Feminina - ge",
+      "snippet": "Ao vivo: Internacional x Flamengo | Final | Copa do Brasil Feminina ge",
+      "source": "ge",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWUpxMFF1OFhlUzNRTHVVQ1BCamFIVjFucDRxclBnWnZBOHFHamdFdW5hSlRWbW9pUjhLMTVHaV9HVmRuODI4OHFKcFl5NUo3dkZnVVZPalVVZkZ0VUl2elByQWcxWS1FRWd4NUpCcG5kUDk5NWhxNnZtWmJocHc1TTNGejFNTzVuMU0zcXZIcThwYzR3OGxoTWJhTFptT3RUZzNLN2c3NnplVEt2LVoyWHMtYmJfcXdkd3ZRSldfUlhNMm93?oc=5",
+      "published": "2026-11-14T22:21:09+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Ao vivo: Internacional x Flamengo | Final | Copa do Brasil Feminina ge",
+      "summary": "Ao vivo: Internacional x Flamengo | Final | Copa do Brasil Feminina ge",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "",
       "dek": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade Agência Brasil",
       "summary": "Vendas no comércio variam 0,2% em setembro; IBGE mostra estabilidade Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "calor-de-at-39-c-e-avan-o-de-instabilidades-colocam-reg-5fb94ecfd39a32",
-      "category": "Brasil",
-      "title": "Calor de até 39°C e avanço de instabilidades colocam regiões do Brasil em alerta para temporais - Notícias Agrícolas",
-      "snippet": "Calor de até 39°C e avanço de instabilidades colocam regiões do Brasil em alerta para temporais Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQd0p1N21BNERVQjFlWnBna3paNS1KRmkySm1ZZkUxdURvY0c5S3ZMWkFMc0VWTjN5MldzNGhtZDRONTJvS3JSYjBjcjlQSkh5YWpzeGFDb3dOLXVpSnNPbjZ1Uy05TVRfeVZBWUdtU3VEaU9qb1JkcUhsajBkbW9CM3Zxb3lRd3dMQWJCMWVtZUtNQTRubFZaTGJHRHFDSlFoVGJwWFhVRFJESlhBMHBxWjM1XzVIYUc1QjNoSkUteXFmZ21nSWktRDFjaWpJUTFfeVhZdWVaQ1FDY0NjRTNMc2NHcFJOVkdWYjk2R1AxcTN0dzdXUDR4SWphMNIBgAJBVV95cUxPSHlweERHakd4LThBWmYxRldFRWhSRDFLWEVQbFF1QmozdWR2TWs1bkZuTVZ3REN5RHRZMVZvYTVOcEZ1YjlYbW5FSXR6YWVwYjR6U3BPc3VXQm1SZTFwMVF4SG9HRGt0TXhEaXA0ek1yLWVGZzUwSHB2YVk2WjRXbENZTVVydDFXSVMyQzVNblJjbFZnaXR5dTZpa0RMTllPU0dNRHdpdUZlX01BYzJSWmh6LTZaLS1acU44aUd1RXBvMjI5SE9nRm5GOUNhY2ttVmhmOFp5XzZ6aUhCTl9ld05ONkRzVDJSQ2s2T0ExanhaQVJsUnpWLXJiYXNyb29D?oc=5",
-      "published": "2026-11-13T13:22:36+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Calor de até 39°C e avanço de instabilidades colocam regiões do Brasil em alerta para temporais Notícias Agrícolas",
-      "summary": "Calor de até 39°C e avanço de instabilidades colocam regiões do Brasil em alerta para temporais Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "governo-da-bahia-paga-r-47-milh-es-em-b-nus-a-policiais-9e2cc3a61f00f1",
-      "category": "Polícia",
-      "title": "Governo da Bahia paga R$ 47 milhões em bônus a policiais por desempenho na segurança pública - Brasil 247",
-      "snippet": "Governo da Bahia paga R$ 47 milhões em bônus a policiais por desempenho na segurança pública Brasil 247",
-      "source": "Brasil 247",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTnNzb2lGcU5XQjBSVzRCM3BWNXhmZGtfb0huSXhIOFVIcGNRbnZaSzRmd3pzMHRlRTJfbi1KQmhBQ01xOHdWLXk1a0VTZWF1eVJScnhHaTdqZF9ZV2UyU2pBRkhkTXphRno4dzdJZXE1aGF6TnZPRmg1WnhUZm14MHREZG5kS3RGYXMycURCMml6cHJnLVRzR1A2bnVzYV81SmZMeTBLVk43a0tONU9yZ2RTLTczOExhZl8zVG1TZUxaYzZBb2c?oc=5",
-      "published": "2026-11-13T13:15:49+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Governo da Bahia paga R$ 47 milhões em bônus a policiais por desempenho na segurança pública Brasil 247",
-      "summary": "Governo da Bahia paga R$ 47 milhões em bônus a policiais por desempenho na segurança pública Brasil 247",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "diferen-as-regionais-influenciam-uso-de-g-s-no-preparo--1433134bc7916f",
-      "category": "Brasil",
-      "title": "Diferenças regionais influenciam uso de gás no preparo de alimentos - Agência Brasil",
-      "snippet": "Diferenças regionais influenciam uso de gás no preparo de alimentos Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOXNsS0o0em15Y09rZzdRdHNlcVJ1c2dLeGh6Zk9FOHlxUU9NMGl1bjhMZHNlVkwxTDJ1dTBIWjlZVDVkcW1XZDN2Mk95TExvMVlJeWphUkJfV0k5bllZbzBxdGJWZW55cGJjeUUwM0llRldUaUttdXVKMExmMEJva0FIM0NqcGZ6WjhnWlF4Y3pScmFYMHV3ODdHeGgxWHVUUVlfaGVaU2gyeWZOX3VrZEM3NUdZVUliWVF3eUJRdjcza1Vfd3FKMGdDYWVCUQ?oc=5",
-      "published": "2026-11-13T13:09:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Diferenças regionais influenciam uso de gás no preparo de alimentos Agência Brasil",
-      "summary": "Diferenças regionais influenciam uso de gás no preparo de alimentos Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-chega-s-filipinas-brasil-quer-ser-parceiro-de-di-l-0bd7a45880c23f",
-      "category": "Brasil",
-      "title": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean - Agência Brasil",
-      "snippet": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSl80dVFreUJ6NGduNmlrUXN0WTZwVTZyay11WDZOa2R5a2d2WjRqNUVidEMyWFRfWjRjZjRTQmpkWHEwQ3BnbWhTRFZmNm0ySkZ4SzJINHg0ZGllV2hybFZjRGs0cEFjWHVWSWpkdjZtdHhPaUZrQThrQ3JWQlB5M2lCVHhlam5TVVMyQWFQS2hGNVJONE11Qm9sd095ZmVZT2dRQy1EckEtQjdRc0pwOHBXWHN3MXhydUZEeDVxODA?oc=5",
-      "published": "2026-11-13T12:59:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean Agência Brasil",
-      "summary": "Lula chega às Filipinas; Brasil quer ser Parceiro de Diálogo da Asean Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
