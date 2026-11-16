@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T08:59:43.495758+00:00",
+  "updated_at": "2026-11-16T11:35:15.339498+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "ci-ncia-tecnologia-e-inova-o-devem-se-tornar-a-principa-ddc4e33de69261",
+      "category": "Tecnologia",
+      "title": "Ciência, tecnologia e inovação devem se tornar a principal força motriz no desenvolvimento da indústria da construção. - Vietnam.vn",
+      "snippet": "Ciência, tecnologia e inovação devem se tornar a principal força motriz no desenvolvimento da indústria da construção. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenAtQ2N0ODdyNHhLZFctdHhQZWhZNkxxcHRfQUpKaVRNMzFJQWRsQmE3MnU5aHVJc01fbUxyY3UzeHlSU0NIMnFVSTdnN29MMnBHN0M3Y1ZIYlFaT3RkUW1Oald5YkFNSmNKeHZ5aDBpdjNsazd6bzBvRVhDNjB5QzBHbmZjdFhreHZ3cXpOVHBuZW9UU1lfT21LWUNFZmpwa2xLYXVIMXhfSmU4cWxvX2ZlZ2Y4T282WFZMR2Z2eVpDUE0?oc=5",
+      "published": "2026-11-16T11:14:11+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Ciência, tecnologia e inovação devem se tornar a principal força motriz no desenvolvimento da indústria da construção. Vietnam.vn",
+      "summary": "Ciência, tecnologia e inovação devem se tornar a principal força motriz no desenvolvimento da indústria da construção. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "seis-grupos-de-trabalho-de-transforma-o-digital-com-o-o-617253501ef58b",
+      "category": "Tecnologia",
+      "title": "Seis grupos de trabalho de transformação digital com o objetivo de impulsionar o crescimento da indústria da construção. - Vietnam.vn",
+      "snippet": "Seis grupos de trabalho de transformação digital com o objetivo de impulsionar o crescimento da indústria da construção. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkU3RVJOZUpCVnFHMno5Uk1tQy1zRkFDRUJtbnk5am5SS1E2b0RNNlF3d3JJUTI4YVlFMU1xZjlJUGZOaGhHTGpGQkRZV3gwXzBVb1B6SThBTndEMGpKTU5RUDlBcmQyb3EzNll2TFpvcXJPeklsN3UyeG5uTVowdmVBZktLdlA0b2IzTWpyS1gwaEM3SHh4aUU4aFg?oc=5",
+      "published": "2026-11-16T11:12:08+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Seis grupos de trabalho de transformação digital com o objetivo de impulsionar o crescimento da indústria da construção. Vietnam.vn",
+      "summary": "Seis grupos de trabalho de transformação digital com o objetivo de impulsionar o crescimento da indústria da construção. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "o-setor-da-constru-o-civil-est-acelerando-o-desenvolvim-dbed3f9de48a01",
+      "category": "Tecnologia",
+      "title": "O setor da construção civil está acelerando o desenvolvimento de tecnologias estratégicas e a transformação digital. - Vietnam.vn",
+      "snippet": "O setor da construção civil está acelerando o desenvolvimento de tecnologias estratégicas e a transformação digital. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ3U2dzRUb2Y1alB1Y1J4bWROTFhPMjduLXVhV2RNNGJRc3BWaE9Rbjl0S25MR0JUX0NNcHNycW8zQnlSNkxoRzJiRlB6VzZIcUZOLXFrRTlyWWhPT3ZLSW5XSTBLZlctekd6dFRITU5sTUdVMnlKSFRfTDltN2NhZnpKQ0xDaFZ0bWZtekRnamJHUmkyTUt0a3l5MA?oc=5",
+      "published": "2026-11-16T11:12:06+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "O setor da construção civil está acelerando o desenvolvimento de tecnologias estratégicas e a transformação digital. Vietnam.vn",
+      "summary": "O setor da construção civil está acelerando o desenvolvimento de tecnologias estratégicas e a transformação digital. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-avan-a-em-pol-ticas-de-alimenta-o-e-clima-diz-es-259479079ed044",
+      "category": "Brasil",
+      "title": "Brasil avança em políticas de alimentação e clima, diz estudo - Agência Brasil",
+      "snippet": "Brasil avança em políticas de alimentação e clima, diz estudo Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQM3VaR0ZobEd0NWRkRlBuSTZSZWgtOVZBYU9CRm9VMkE0cXlYWURieUxqakQyRklMRXp3YVZ6cEN5ajNtZ1lrNTk3cUdZeExVTDhiRlhkYWlJelhKa1ZYaGNqZUNaYXNCMTVVdDVIMDJ1eVpjQUdMWWtabUh6enVKZVNBZDRJTjdjSVdUb2tzWVFESEZ5c0JnT2JJNFhIdWE5OWNXUVdrOWxBNk41ZTZYUW9hMmxwRktaT29rTmsxd2Q?oc=5",
+      "published": "2026-11-16T10:11:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil avança em políticas de alimentação e clima, diz estudo Agência Brasil",
+      "summary": "Brasil avança em políticas de alimentação e clima, diz estudo Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "cerim-nia-de-abertura-da-exposi-o-de-produtos-e-inova-e-edcb1f0555d960",
       "category": "Tecnologia",
@@ -66,6 +122,20 @@
       "tone": "",
       "dek": "Chuvas atípicas e El Niño fazem preço do tomate disparar e atingir maior patamar histórico no Brasil G1",
       "summary": "Chuvas atípicas e El Niño fazem preço do tomate disparar e atingir maior patamar histórico no Brasil G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "mans-es-carros-de-luxo-a-vida-de-ostenta-o-de-ricardo-m-73de5db7fbb06a",
+      "category": "Brasil",
+      "title": "Mansões, carros de luxo: a vida de ostentação de Ricardo Magro nos EUA - G1",
+      "snippet": "Mansões, carros de luxo: a vida de ostentação de Ricardo Magro nos EUA G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPcTZfalhJT0JhX09PZk92c0NtekluOUZTWTN3VFVKNkZFZW1jc1g1WUtNaXJHR1BSRjZtRGdmME9FYXNXOWxlQXBPN2Q4Q2lxX0E2bXJZem9YLXNyNVRId2wybXlqZU1ZZ2xZY3d0dF95NlBXdEVnZFl1YWMyenRUX1hkWnRDNGlhLUtLMDcwTkpSRm05ZERxOXA2ZUt5aXpsQWxySURkaGNnM0VDRDA2LTh1SEhvSHpJM1hHODZobkhTUTE5X0FacjVhWVRncU42LWF2cVRiQlMwSlJ5UHNaZEpvTE81QjRQdTlyekJCSTVkTlhfLVBaLWZpcnBhMmZ1Q1ZWU2Z2aUYwLTNR?oc=5",
+      "published": "2026-11-15T23:57:27+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Mansões, carros de luxo: a vida de ostentação de Ricardo Magro nos EUA G1",
+      "summary": "Mansões, carros de luxo: a vida de ostentação de Ricardo Magro nos EUA G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "teal",
       "dek": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking Esporte",
       "summary": "Brasil tem seis times no top-30 mundial de sócios-torcedores; veja ranking Esporte",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "rom-rio-detona-ancelotti-ap-s-derrota-do-brasil-e-faz-a-0979737e4d76be",
-      "category": "Esportes",
-      "title": "Romário detona Ancelotti após derrota do Brasil e faz apelo: \"Mete o pé\" - CNN Brasil",
-      "snippet": "Romário detona Ancelotti após derrota do Brasil e faz apelo: \"Mete o pé\" CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPc2tzSEctNzVjc0tZZ1BJYVBsdkJTdnZhREFySWFSamlER1BZNTA5RzNGWUdlTUlDU0RBeFpGeXVhVW1iXzZEVU1BSThUbmNBYzZyeUU4QzBHNDQ3VDRaYVhUS04yQmVSYm45eUVxMWRTWjZkckdMTWFiakZfZEFudVdaQXlVbG5fOEIzb1ZQVG1mamlaZU1oNU9ReGZRckR3VnUtZ2N1RmVhMWk5UWk1dE1qMDR6bmFRaHBmQjlhc2xtMzNrbG4yYWZ6Z21COExD?oc=5",
-      "published": "2026-11-14T15:47:39+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Romário detona Ancelotti após derrota do Brasil e faz apelo: \"Mete o pé\" CNN Brasil",
-      "summary": "Romário detona Ancelotti após derrota do Brasil e faz apelo: \"Mete o pé\" CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-perde-para-o-jap-o-com-gol-nos-acr-scimos-3-a-2--c298547dac9158",
-      "category": "Brasil",
-      "title": "Brasil perde para o Japão com gol nos acréscimos: 3 a 2 - Agência Brasil",
-      "snippet": "Brasil perde para o Japão com gol nos acréscimos: 3 a 2 Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQjNJZURWWWY3a3lhYjBwelprd2cxNWd2Wk81V0dDai1ZSGZHRzExMjBYZUpzeE4xcFF6Z0FTeTFuNmF3OTBuLW1Ga2hvaFV2bDNKcTgxUkdUU183cm1nWDU5S2h3clF1TExxc09aeXBUd1JIbFkwTC15b2NCdkJMRE4wS21MRWRNSGV2S3p5ZkhpZExNbDdHT3BYZjdrdlJxYS1lOFFVMmloZXU3NXlB?oc=5",
-      "published": "2026-11-14T14:44:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil perde para o Japão com gol nos acréscimos: 3 a 2 Agência Brasil",
-      "summary": "Brasil perde para o Japão com gol nos acréscimos: 3 a 2 Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "paran-registra-segunda-maior-alta-do-com-rcio-varejista-b112f83014a526",
-      "category": "Economia",
-      "title": "Paraná registra segunda maior alta do comércio varejista do Brasil em setembro - Banda B",
-      "snippet": "Paraná registra segunda maior alta do comércio varejista do Brasil em setembro Banda B",
-      "source": "Banda B",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSmhpLTI3U2Y1d2VqU3YzN3ZYMTRzd0IzZlNaQTNYR19Sc2tVTWRlWk5WMVY2SElWSk5jaFZ0a2owZktMUkQ1aTFYWGI4anNPX2htajRPWlpreGFmdFJHdFV2Qk5lTHk3UjFqd3hfQWNVSllzbXlyTjZTRzI0U2JVNE1tM0RhRjJiTmVXVHpnVkZkajRTek9uTUtFTWxadzhjOGZlcWxUSDlnalJKUUZ4a19GWGvSAboBQVVfeXFMUE1HRDRYYjZVcGRQMDdPd1RGTVplX01nVGtDX3BVdHREMTFKN1hadHdMVjR3aEFST0FLZDZ5Q0dhbUhLTlpkazhWYl81ajY5Q2xRQzhuRjhxekVCMGp3YjEzSDgxV245QU9RMlVReHpSQTBtdkRJUHVlNkZzX1BJeW4zLV9rWVdJTm1nU3pmc2hVcTJ4djZYTTVOUGJvUVA0bE96bkttcDlySW1vVlVJSVFseUh5SnNDVWdn?oc=5",
-      "published": "2026-11-14T14:21:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Paraná registra segunda maior alta do comércio varejista do Brasil em setembro Banda B",
-      "summary": "Paraná registra segunda maior alta do comércio varejista do Brasil em setembro Banda B",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mega-sena-sorteia-pr-mio-de-r-27-milh-es-neste-domingo--f757b272803687",
-      "category": "Brasil",
-      "title": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo - Agência Brasil",
-      "snippet": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOc3VUV2ZaVkl3RlYyNmNsX3RPdEVNRDdmNktjM3Y3WW54dllyQzJfanJwWFk3alpnUklfbXpXQTNMQWJVQk9VUDNOUG90U3dOUl9qazVGR2ZVemRoa00zLTFQTE1YU1lidFhOUUU0d0Y5X2wycWFtN25VelNwLWo2QjVlbmI3VW4yazFlNlVGazRpSXRiQ2djUDk1NVBqQ1lRX3JqcmkxZXJLamktMnc?oc=5",
-      "published": "2026-11-14T13:04:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo Agência Brasil",
-      "summary": "Mega-Sena sorteia prêmio de R$ 27 milhões neste domingo Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-superado-pelo-jap-o-em-singapura-cbf-4d76d9c3780af3",
-      "category": "Brasil",
-      "title": "Brasil é superado pelo Japão em Singapura - CBF",
-      "snippet": "Brasil é superado pelo Japão em Singapura CBF",
-      "source": "CBF",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTkRwc3V6YTBsRDNMc0JjblhWZ0FCSV9PRVRDdXdrN0Y0TUNUYjN4ZWtwWWc4bEhsQVRES24tNnk5NS1kTXBpbXlvM25sZWJObzllRzBTX0FQNkdFNDdyWDBMUUJYOGcwMFdmbTFKejhiaWUxUWRoM1VxcDVyS1ZZWk9QYWZCREF2RkFoX3JwUnhLN05QN0taMzViSnBDR0lxY2s2TnZ6cFpFSFFIdTladEJB?oc=5",
-      "published": "2026-11-14T12:42:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil é superado pelo Japão em Singapura CBF",
-      "summary": "Brasil é superado pelo Japão em Singapura CBF",
       "summary_by": "descrição da fonte"
     }
   ],
