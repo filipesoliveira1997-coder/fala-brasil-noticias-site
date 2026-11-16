@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T15:21:16.061223+00:00",
+  "updated_at": "2026-11-16T17:26:24.631960+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "morgan-stanley-rebaixa-brasil-para-underweight-em-portf-637f19938372ea",
+      "category": "Brasil",
+      "title": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina - Notícias Agrícolas",
+      "snippet": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina Notícias Agrícolas",
+      "source": "Notícias Agrícolas",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUDdpa3hFNS1PUXdLclliVFRlZUhCbHZIYVJVT2ZmUjFPYTRmdUJUOTlKdk51ck8zSUVycUpXTDJERmRRVDk2dE90TTdwNkE3MHc1YXd5bERPbXBfSFFWbnRmWDRDWUZobzB4S1dpekFTWmdOU0RlbGdyX3NzWmFuYmw3b1Jrb2lJZmJBV1doemtWRHBEZ1JoaXJnNmtsZlQzSFUzUDJMYlZTbzd5WWg1blUzRXV1U2tfUkN4SzhZZGVXQ1B0S3g2R3RWRlByLXlGcmhzbUgzQ2JSZWpCVHhkYnY4Q2pldWFmT3NXTzhPZXZOQy1OUnN4aHh30gH_AUFVX3lxTE0tVjkwTXJfSEdyejRYU3hHdC15M1VtRWdsVV9WUTBzSmgxZFNvb0RQbGh3X3VZQk92U0Y5MzZfbmtOQ0tpZTVpdWh3aXpfRUoyaml4QlpqVmJNR0NsazNENWtCaE52bnZoN0pDNjNYeE0wX1ZYY1hSWXVFYUhSMlo5QjlOTG5BTS1TOXFoSmdROUZwU0FOeDVaTDVOWjJZa2c0Mm1DUXhmY2tqT3VrOFI5MUtaeUlkMlhEeENlcUE4eTg4OEZMaF9IbjNoUm1PcDB5NEpxTWZqdFkyNXNVcnpmN1BmUDZXXzlRcU5vLXYwaXFBRDl0X1R4S3ZBdU56WQ?oc=5",
+      "published": "2026-11-16T15:47:32+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina Notícias Agrícolas",
+      "summary": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina Notícias Agrícolas",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "o-brasil-ganha-mais-uma-chance-jota-info-a5f2f4ced88890",
       "category": "Brasil",
@@ -836,20 +850,6 @@
       "tone": "",
       "dek": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais) BBC",
       "summary": "Por que o México arrecada tão poucos impostos (e como financia seus crescentes benefícios sociais) BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "banco-central-tira-institui-es-do-mercado-banco-do-bras-bbcbd52a175a7b",
-      "category": "Economia",
-      "title": "Banco Central tira instituições do mercado, Banco do Brasil (BBAS3) decepciona no 3T26 e renda fixa volta a brilhar: veja o que bombou na semana - Seu Dinheiro",
-      "snippet": "Banco Central tira instituições do mercado, Banco do Brasil (BBAS3) decepciona no 3T26 e renda fixa volta a brilhar: veja o que bombou na semana Seu Dinheiro",
-      "source": "Seu Dinheiro",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVlVSWnBpZHFkLUtMLXA2UEU5N1B3QlFnSGh6aEt2RHc1Mk9wZ3lneHRuVzlpeHIzanpyWVhpSGQtUkVEV3JkU3ZMNU8yUjF5TC1pTzNJYTZoRGtCMF90eEhWX1ZOV0tTbUV3Sk9ZQ1RQdWdUeTUtWEIxdVpHeEUwMjZmN3Roc1JGeWJWSlkwcE4tRnZ3T1pZeHJhWmV6SHptN29sTldwek9xV1g5Y1dCbkRjWDBhM3paenRzZGxxYjRKM3g3bEhXNVU0YVFFLU9jbmgyWnMxblZ3UDRPeldRblEySWtpSW5tTVpWUHZLa3M4SkVLeFZfUHBFQmdGZU1mUVFqclRaZkFpdXlaZUFjWGM1elprQ1E?oc=5",
-      "published": "2026-11-14T18:16:49+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Banco Central tira instituições do mercado, Banco do Brasil (BBAS3) decepciona no 3T26 e renda fixa volta a brilhar: veja o que bombou na semana Seu Dinheiro",
-      "summary": "Banco Central tira instituições do mercado, Banco do Brasil (BBAS3) decepciona no 3T26 e renda fixa volta a brilhar: veja o que bombou na semana Seu Dinheiro",
       "summary_by": "descrição da fonte"
     }
   ],
