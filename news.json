@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16T21:01:11.308360+00:00",
+  "updated_at": "2026-11-16T22:59:22.680564+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "cinema-literatura-e-m-sica-movimentam-a-programa-o-do-c-753cc2f43bc789",
+      "category": "Entretenimento",
+      "title": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus - Portal Edilene Mafra",
+      "snippet": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus Portal Edilene Mafra",
+      "source": "Portal Edilene Mafra",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaE51U2R0bkZPNGJ1QnoyRGNyUDlJS0lXdVVtZ1JoMzhwaktDdXkwVjRDNHpDRU5wLXdsM2NoWGM4Qk4yWTNfZFRRWHcxeW5vYW5QeXdZTWV4ZDVuc1ZkeFZGbzdvaWd4ZDJTLTJjbW1WdmJRcHJYQlhEMldaQVh5NU84QkdRS1RxYk05bW9vOUN5NjFMaW1pNnI4eWNFT3hrX3BQbGdYSzVyZ1cxVFRxTnROUEFPSmJFR3E4dGYyWDU?oc=5",
+      "published": "2026-11-16T22:52:58+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus Portal Edilene Mafra",
+      "summary": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus Portal Edilene Mafra",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-x-peru-escala-es-e-onde-assistir-ao-amistoso-da--601acc1a5f3511",
+      "category": "Esportes",
+      "title": "Brasil x Peru: escalações e onde assistir ao amistoso da Seleção sub-20 - CNN Brasil",
+      "snippet": "Brasil x Peru: escalações e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdjNvckxZYlp2MGExYU9sd2VlTFYtNW8zZlBsNENHMjJqWk1qMkZGTHE1bGJUdVpFemdoQU8yaVRDMWZLWTFkTmpRcVFOUzVYR2ZQc24tVTJvX2gyUFpERXR4a3RwdXVmaWZiQUU4cE1yZjVGc2JmZThpWGg3X2tOQk93cFZCaXhiWERTRUJYUUtmOTdLNjF0UHRaMkc0VnM1X1JjMmxZNXA0RXVKZWtPNEYwYUxsNUxYT0RpeUYzcGs5N2dFYm9yNDJBdjNaazc0SFZwUw?oc=5",
+      "published": "2026-11-16T22:19:56+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil x Peru: escalações e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
+      "summary": "Brasil x Peru: escalações e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "secitece-e-prefeitura-de-sobral-discutem-neg-cios-do-fu-337bf768705779",
+      "category": "Economia",
+      "title": "Secitece e Prefeitura de Sobral discutem negócios do futuro e oportunidades de inovação - O POVO",
+      "snippet": "Secitece e Prefeitura de Sobral discutem negócios do futuro e oportunidades de inovação O POVO",
+      "source": "O POVO",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONEhMcllTRmZfaUcyRklaS2NUdjlzMDFxYldrcHRMcGRGSi03bm5tNVhVQ3dqT3BJaTM2MzF4UHp1Q2pkVmN1VWVCc0U1VGNWS2p3MGFEb0NPSmgzYkhqOGZZVWlTVnFTeUUzU3NkMWpwTkVYNHVzVEVmTlJmM3BDTTFQcTgxNWUtTUhieFZIdERUdGFBc0VzMkMwQTdyMlFzMzJpMGQ4SmFVQ1Q0My0wd1RIVE15bVNfbU9iWFNVd2plcElURHVpYjVTNDNXeGFPRzdReUM4R3UxNHdSejdJ?oc=5",
+      "published": "2026-11-16T21:09:49+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Secitece e Prefeitura de Sobral discutem negócios do futuro e oportunidades de inovação O POVO",
+      "summary": "Secitece e Prefeitura de Sobral discutem negócios do futuro e oportunidades de inovação O POVO",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ap-s-seis-anos-e-um-bilh-o-de-chaves-pix-ter-novas-ferr-3cf7d24a9fcf0c",
+      "category": "Brasil",
+      "title": "Após seis anos e um bilhão de chaves, Pix terá novas ferramentas em 2027 - CNN Brasil",
+      "snippet": "Após seis anos e um bilhão de chaves, Pix terá novas ferramentas em 2027 CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPc24wU2otckIwaG5KbEZXeG9pemZPc0YxMjlLUGNOZWpzOEcwbjVOcEl0UlRFVVBXdUlraFJlSFlDTmlTLS0wZWlrY2JpSXZaV0FjMEJxZmJvSlQtbzB1R2U1Q1kwUXp2TmFHYVdldmpUX1hKbVQ0WHhyRmRaYVpRM25kSks3Njk0cXZUbkRRYkkyaGVKc3Itcl9jUWd1U1djWC1pcjhDYm5nSFVlMTBsOFFjV1g2ZTR2OGZLZElTb0tRaTFjVTVLeXpn?oc=5",
+      "published": "2026-11-16T21:02:18+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Após seis anos e um bilhão de chaves, Pix terá novas ferramentas em 2027 CNN Brasil",
+      "summary": "Após seis anos e um bilhão de chaves, Pix terá novas ferramentas em 2027 CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "tiny-desk-brasil-prepara-show-em-din-mica-in-dita-rolli-23a0494b8d4b4e",
       "category": "Entretenimento",
@@ -38,6 +94,20 @@
       "tone": "",
       "dek": "As 'cidades perdidas' da Amazônia que ficaram ocultas por séculos BBC",
       "summary": "As 'cidades perdidas' da Amazônia que ficaram ocultas por séculos BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "anitta-indicada-ao-grammy-internacional-para-melhor-lbu-7381c28dedf093",
+      "category": "Brasil",
+      "title": "Anitta é indicada ao Grammy Internacional para melhor álbum global - Agência Brasil",
+      "snippet": "Anitta é indicada ao Grammy Internacional para melhor álbum global Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzk5M0Q5TFU2RTBpMHV3X2tSQTBnVkZLYzc2V2IzcXQtb1ByQTRnQXRjdzU2XzdZMVhHejJ4ZVNzeDF5QW5VaEdDWmotRzE2c1lTRExYS1hJeXcxaS1yaVhOclNrenpKRl9TV0lIa2w4ZjFnRFFqQXZtT3pPNkY3dHJ6dUhpdk9DaW1Va2tUODNuSFd1Z0t6UXUzWV9IRmVtNVhEUktGVG1PMk1wdTc1c2w4QUp2NDVlVW5EUUNTWTM?oc=5",
+      "published": "2026-11-16T19:59:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Anitta é indicada ao Grammy Internacional para melhor álbum global Agência Brasil",
+      "summary": "Anitta é indicada ao Grammy Internacional para melhor álbum global Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -192,6 +262,20 @@
       "tone": "",
       "dek": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina Notícias Agrícolas",
       "summary": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina Notícias Agrícolas",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "equipe-sergipana-vence-hackaton-de-combate-desinforma-o-19bf47ce444426",
+      "category": "Tecnologia",
+      "title": "Equipe sergipana vence Hackaton de combate à desinformação contra meninas e mulheres no ambiente digital - Secretaria de Estado da Educação de Sergipe",
+      "snippet": "Equipe sergipana vence Hackaton de combate à desinformação contra meninas e mulheres no ambiente digital Secretaria de Estado da Educação de Sergipe",
+      "source": "Secretaria de Estado da Educação de Sergipe",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLW1qS3NRMWtESEp0V2lYcVdfbXlEQU04bDQzV2lzSXc1bWJrMS1UeVUtNFR4eVpYZVJPQzZLckU4N3FOWmlSYlRBNEFpWGhOeDhuU1lqcGNIX2N6Vk9zZVlUNzh4ejlMNmQxNVI5Ry1OODJKSVZ5NWVUSEROMVZqX1RXT0VpMFhJMUpKWk5zejFEOTRIMDZJNy1fOTdaUHdvWTRROU81ZnBwTDZKem9VcGpNMXJWeXFWcmkwUGJEWDI0em1KS3dJaw?oc=5",
+      "published": "2026-11-16T15:40:35+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Equipe sergipana vence Hackaton de combate à desinformação contra meninas e mulheres no ambiente digital Secretaria de Estado da Educação de Sergipe",
+      "summary": "Equipe sergipana vence Hackaton de combate à desinformação contra meninas e mulheres no ambiente digital Secretaria de Estado da Educação de Sergipe",
       "summary_by": "descrição da fonte"
     },
     {
@@ -766,90 +850,6 @@
       "tone": "purple",
       "dek": "Fazer da ciência e da tecnologia a força motriz para aproveitar as vantagens das minorias étnicas e das regiões montanhosas. Vietnam.vn",
       "summary": "Fazer da ciência e da tecnologia a força motriz para aproveitar as vantagens das minorias étnicas e das regiões montanhosas. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "internacional-e-flamengo-se-enfrentam-para-decidir-copa-e8fef9f82ae740",
-      "category": "Esportes",
-      "title": "Internacional e Flamengo se enfrentam para decidir Copa do Brasil Feminina - CNN Brasil",
-      "snippet": "Internacional e Flamengo se enfrentam para decidir Copa do Brasil Feminina CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcWYxSkZGdHZ1RXF0SXlzLUFyWnY2VEZqTWJmb1g4SFNpM1h2eUFKZ292UUJOV3pNT0RpUEhxWVZkcG1UakRIcW9fM21qaGpaRFIzNncyTzR4Y2dFUVdpSzYwOU5fMXJBS3owYVJUTjkyVndVS21KMncxYS13QVRCdXk2dUk5MGlHQ1NodEpRYWhkQUpkb2NkSFJMLXhiMTFuX1JTRmZRanZZNDZCaXlkUWVIbkU5MS1qMklqTkc5Q2FEMVR6ak5STXg4UEgyU1ZhSkE?oc=5",
-      "published": "2026-11-15T11:46:12+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Internacional e Flamengo se enfrentam para decidir Copa do Brasil Feminina CNN Brasil",
-      "summary": "Internacional e Flamengo se enfrentam para decidir Copa do Brasil Feminina CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pr-mio-tv-brasil-petrobras-para-elas-celebra-futebol-fe-c1c7e057fe625c",
-      "category": "Esportes",
-      "title": "Prêmio TV Brasil Petrobras Para Elas celebra futebol feminino do país - Agência Brasil",
-      "snippet": "Prêmio TV Brasil Petrobras Para Elas celebra futebol feminino do país Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZndPcUN3R2g2RVFKMU9zZzBkdWhLYkhxbkpZeW5ielRTdkNxR1dUbWRHSjY3TUM4bVl3clo5ZlZaT1BkMGpPalFZa1FVWTdub2FXZ2o3YXI0eG5fVDFMUllvTld0c0xlMFBTMWVhcUdNc0tDdFA5OHVWcnUwc1MzSks2a1g0ZWtvM19sMmN3LTRsN2pjdTFDSEFMakRoQnBGNnAySGRZSXQwd3hSQW1ER0dWNWkxNVZYNk1rM2Y1dk51WEJ0QUE?oc=5",
-      "published": "2026-11-15T11:01:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Prêmio TV Brasil Petrobras Para Elas celebra futebol feminino do país Agência Brasil",
-      "summary": "Prêmio TV Brasil Petrobras Para Elas celebra futebol feminino do país Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cro-cia-x-tch-quia-hor-rio-e-onde-assistir-ao-jogo-da-n-d877f8c100e35f",
-      "category": "Esportes",
-      "title": "Croácia x Tchéquia: horário e onde assistir ao jogo da Nations League - CNN Brasil",
-      "snippet": "Croácia x Tchéquia: horário e onde assistir ao jogo da Nations League CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQYlNLUXFSUXdBYTFLYmZTWXVqY1M5c3Rpak5EbDdROXJ5NkVzSFRfMVE0UkJpVTRLaTROUjVvYWxtSmJYZ3pwN2FscUY5YnR1REtNNTl5bFd6WWhQMF81N01GSXN5OE9GSndqWFg1aXBjWnNra1QtZUprV0RGQVgzRWFYMzJxamppUV9ocmQtTVJzazhkX3BYcTdDTXNxSmlYRmJCVWJLcGN3N1dsM2hfMlh1dEx0c2tUNmRnei16YWgwLWRyZ1dpN3Y3em0xUlhiQ3VJ?oc=5",
-      "published": "2026-11-15T09:45:57+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Croácia x Tchéquia: horário e onde assistir ao jogo da Nations League CNN Brasil",
-      "summary": "Croácia x Tchéquia: horário e onde assistir ao jogo da Nations League CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-diz-que-brasil-buscou-parceiros-em-vez-de-chorar-c-9a2f06125e501d",
-      "category": "Brasil",
-      "title": "Lula diz que Brasil buscou parceiros em vez de chorar com tarifaço de Trump - UOL Notícias",
-      "snippet": "Lula diz que Brasil buscou parceiros em vez de chorar com tarifaço de Trump UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTkR6QmRMQlVXTWo5aDVvVlpoOVlBQ2VucnJ0OW5sb0o4SWtXY3ZHS29pLWpoSUxhUE1aaGZSRUh1eVpneW4zMThySXZhTXRSVVVySFlLM3hBWXRaeWZmdk8wZlVBcHVSR1ZYQ3p4SFV4RXNRbDUxaGxSeHRxNzNsUmg0d2ZoX1lfeEZiNEplNG1MbEk4M2pNczViN3RveGVHYk9qMTlTbWk0WHFENUZSb2w5cUltQQ?oc=5",
-      "published": "2026-11-15T08:25:35+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula diz que Brasil buscou parceiros em vez de chorar com tarifaço de Trump UOL Notícias",
-      "summary": "Lula diz que Brasil buscou parceiros em vez de chorar com tarifaço de Trump UOL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-provoca-trump-e-faz-convite-a-pa-ses-a-investirem--a94aec0b808faf",
-      "category": "Brasil",
-      "title": "Lula provoca Trump e faz convite a países a investirem em terras raras no Brasil - ICL Notícias",
-      "snippet": "Lula provoca Trump e faz convite a países a investirem em terras raras no Brasil ICL Notícias",
-      "source": "ICL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0yYzFiUVBqazRXUmlDVC0yV0VGTEY4Z1dfQzVSQzhvZG04X0t3Y1BRV1plRDk5Q25zQlV6dWs1SVlyVkM0TkFjeEEtUjlmTkZReEc4aEtrS3paQy15UHpjQjVidEU3VlF0MUcwbUdOdFduS2xUM0VJZA?oc=5",
-      "published": "2026-11-15T08:04:24+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula provoca Trump e faz convite a países a investirem em terras raras no Brasil ICL Notícias",
-      "summary": "Lula provoca Trump e faz convite a países a investirem em terras raras no Brasil ICL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ronaldinho-de-volta-relembre-ltimo-jogo-profissional-do-f89d7c098c23ff",
-      "category": "Esportes",
-      "title": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos - CNN Brasil",
-      "snippet": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOQTN0RDVrTG51TW1GRDZwODlDY2wxVXVWMmxoVkNRSGlUam9NSm1zZnctbFNNS3U5MHVaTG9mOHZqVjBTaUdUNXZ3d0VJT3FjQlVwM2VZZ3VsXzJ5STVudXJFSXBWdXhHazVQMmNUb0ZkN1JrWmN1cEdzd0VCbmg3Z1FQQVEwX2RCZWc4X0s0ZnloQnh0NEh3TGZ0VUN4dFc1NThsaXB5cWtCZGQwZEh3aEpiX3puNzJqd1ZHNg?oc=5",
-      "published": "2026-11-15T08:01:59+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos CNN Brasil",
-      "summary": "Ronaldinho de volta: relembre último jogo profissional do astro, há 11 anos CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
