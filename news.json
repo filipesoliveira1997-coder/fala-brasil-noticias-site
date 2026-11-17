@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T07:35:02.819254+00:00",
+  "updated_at": "2026-11-17T09:17:16.228059+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "workshop-sobre-o-desenvolvimento-de-recursos-humanos-em-725da1a5d5156c",
+      "category": "Tecnologia",
+      "title": "Workshop sobre o desenvolvimento de recursos humanos em ciência, tecnologia, inovação e transformação digital. - Vietnam.vn",
+      "snippet": "Workshop sobre o desenvolvimento de recursos humanos em ciência, tecnologia, inovação e transformação digital. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNEdBamFXZjRXc1pQcnJKeTVseWtvQTNUbnpxcml2V216RWo0R0FwczRQemU3bmwtdWdST2x0UkRlNVpId0hjbjNybW45QWhGcmN5ajRfckZMcEVJV3Z6QWc3QXNWYU8wbEkxZGNjRnFFYkEwVmhKSmFiaG9Mdml5S0lPVzU0cnR0dElnZnpWNWIwRy1tVXZNSmRhX2wtUm16YmlhUFQ4NS1qeERuNnB3RmRoNA?oc=5",
+      "published": "2026-11-17T08:05:41+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Workshop sobre o desenvolvimento de recursos humanos em ciência, tecnologia, inovação e transformação digital. Vietnam.vn",
+      "summary": "Workshop sobre o desenvolvimento de recursos humanos em ciência, tecnologia, inovação e transformação digital. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "a-bsr-est-moldando-o-futuro-por-meio-da-ci-ncia-e-tecno-2e5a6c9af39162",
       "category": "Tecnologia",
@@ -178,6 +192,20 @@
       "tone": "",
       "dek": "Após seis anos e um bilhão de chaves, Pix terá novas ferramentas em 2027 CNN Brasil",
       "summary": "Após seis anos e um bilhão de chaves, Pix terá novas ferramentas em 2027 CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "como-era-o-mundo-no-ltimo-singapura-x-brasil-relembre-b-150ccf619a03f2",
+      "category": "Esportes",
+      "title": "Como era o mundo no último Singapura x Brasil? Relembre - Band",
+      "snippet": "Como era o mundo no último Singapura x Brasil? Relembre Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGxOWjBQSTZrNzVzaUYtTkRRN21vVE9wR21wclNGeFZPaWhsVG9wSkxsZUh4eC1mTTg5akQtcmFtQ2hlWjhHSkJXOHY3M2ZMUmY1Z3dueXZsMFcyWENMcDhFSkdFRzZNd3J1TGZ3ek9sUTVocmNTQjlvSUFGZ2lyT2REUWNXXzVBaWhRTVY5MGhaQlpHeFdlTzB0WFViWG9Sal9mZWl4ZVdkMkpoWWZYb3hqQTM?oc=5",
+      "published": "2026-11-16T21:01:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Como era o mundo no último Singapura x Brasil? Relembre Band",
+      "summary": "Como era o mundo no último Singapura x Brasil? Relembre Band",
       "summary_by": "descrição da fonte"
     },
     {
@@ -823,41 +851,7 @@
       "dek": "Space Today Experience traz tecnologia e cultura geek para Brasília Agita Brasília",
       "summary": "Space Today Experience traz tecnologia e cultura geek para Brasília Agita Brasília",
       "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cop31-negocia-es-avan-am-mas-financiamento-desafio-para-19438d0b3487f0",
-      "category": "Brasil",
-      "title": "COP31: negociações avançam, mas financiamento é desafio para 2ª semana - Agência Brasil",
-      "snippet": "COP31: negociações avançam, mas financiamento é desafio para 2ª semana Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNLXIwLVYwa2JURlFEVjA5U1lsc2dxSkVOd1hLS1BBWjQtSnFTY0p0aDZVNG9LV0ZBYV9iM0dqZmRwekxJamJLNHFzUndlaWtDVkN5UHlqVlJqVkVhNV82akpBZk1EMHFOaWZrN1FJeHFxZlU3QndxQWVpcnFhRTNkb01IWl80aVVDbUVkQkdidVJVakFPODY0Z1BFYmtaZDh0dE9sX3RmbVZnek5tWDJMakJUSjV1Q0ZpcFktZWJRM0tkRFFESU1JSmw5MA?oc=5",
-      "published": "2026-11-15T19:09:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "COP31: negociações avançam, mas financiamento é desafio para 2ª semana Agência Brasil",
-      "summary": "COP31: negociações avançam, mas financiamento é desafio para 2ª semana Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "rayan-treina-normalmente-e-deve-refor-ar-o-brasil-contr-5303183821126a",
-      "category": "Esportes",
-      "title": "Rayan treina normalmente e deve reforçar o Brasil contra Singapura - CNN Brasil",
-      "snippet": "Rayan treina normalmente e deve reforçar o Brasil contra Singapura CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWm8tNHN0OG5jcVAzNUhIdlpwZFByemtFak8wX1QxNUhuNWFqQ1Y3SGRIZU5qLWNRSlZFODlYMjlXTFFQWGZGYy1IVjVlb1dUa2VKNmxsaWtkTnB5WUpCMlppUVRxMUpNd2hLVHRucUZ4aGhDRTZrYUxRYlNnWTh6azUzdXZ2ZzBiNUF0S0IxdHUxUGRsUFR6bVlVT2RSQWZvc1lyTDlxVHpFZEpHT2pCOHpJSVhYb3kxNEdjaG9iSFYxVVpjM1NzckVmYzU?oc=5",
-      "published": "2026-11-15T18:53:08+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Rayan treina normalmente e deve reforçar o Brasil contra Singapura CNN Brasil",
-      "summary": "Rayan treina normalmente e deve reforçar o Brasil contra Singapura CNN Brasil",
-      "summary_by": "descrição da fonte"
     }
   ],
-  "feed_warnings": [
-    "Brasil: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Brasil+not%C3%ADcias&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
-    "Mundo: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=not%C3%ADcias+internacionais+mundo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
-    "Polícia: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=seguran%C3%A7a+p%C3%BAblica+pol%C3%ADcia+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
-    "Entretenimento: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=entretenimento+cultura+m%C3%BAsica+cinema+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
-    "Saúde e bem-estar: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=sa%C3%BAde+ci%C3%AAncia+bem+estar+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
-  ]
+  "feed_warnings": []
 }
