@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T09:17:16.228059+00:00",
+  "updated_at": "2026-11-17T11:14:25.777081+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "lula-volta-ao-brasil-com-desafio-de-destravar-agenda-po-56d8c38bd069ad",
+      "category": "Brasil",
+      "title": "Lula volta ao Brasil com desafio de destravar agenda política e ajuste fiscal - UOL Notícias",
+      "snippet": "Lula volta ao Brasil com desafio de destravar agenda política e ajuste fiscal UOL Notícias",
+      "source": "UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNV192dzE2WGtJN1hxUUhLcDZYS1I0c01xcUhwR1Z5RE52dVFXenB4UktLcGR1eVRmZi15SFZwVU83VVphZ2ZnSTRZaFkteDlwbXhNVGN5czVieS1nS0hreG5zZGFNOVl3NlduTEZWRDNpd3dnMnk3TXQ3Z3lyQndvWTJ3dWVKRmlsbGpRMnpBZG9zOFEtWmVhRlNnT0ZHeHRQSzZrc00xZ2NBNlhkM1dIa0ZqcFFLTFB3eUFSbjNmb2tmVDFMSEVaVERWdDBjQVp3bWpUN1AwMWJFXzFLSlJR?oc=5",
+      "published": "2026-11-17T09:54:31+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lula volta ao Brasil com desafio de destravar agenda política e ajuste fiscal UOL Notícias",
+      "summary": "Lula volta ao Brasil com desafio de destravar agenda política e ajuste fiscal UOL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pectus-excavatum-tenho-uma-deformidade-f-sica-cong-nita-c1561eb27acc43",
+      "category": "Brasil",
+      "title": "Pectus excavatum: 'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola' - BBC",
+      "snippet": "Pectus excavatum: 'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola' BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OekpOU0JPZUticnF4WUIyODBJQk1XTGxRei1HeVc4a19sLUxqVWxpaDBBcXpFRUl6X1ByaGJlWGtYMFRmWU81V2ljM1RibkZZLXgtV2wycm4zbGRRMFR3Skp0d9IBaEFVX3lxTE1heWU5MVBXZ2xvTXc3dlNieER0SDMzTEtubjE4U1VQdmtDOVloTVhneUtuRklPWlU4SFk2MzZWWWNNdFpfZFlaVm4zNjlXODVtZ19OMURyUXlYRV9QYWJnUFRwYWVFNGdU?oc=5",
+      "published": "2026-11-17T09:26:57+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Pectus excavatum: 'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola' BBC",
+      "summary": "Pectus excavatum: 'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola' BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-x-singapura-escala-o-e-onde-assistir-ao-amistoso-ee36339ac2ef6b",
+      "category": "Esportes",
+      "title": "Brasil x Singapura: escalação e onde assistir ao amistoso da Seleção - CNN Brasil",
+      "snippet": "Brasil x Singapura: escalação e onde assistir ao amistoso da Seleção CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNbGtLdWo5TjdCMmFpbFBraktZcmVBbGFLWEk0TDhhNU1WQW12QlE4THR6OS12RTBrZmlaWm5DbkZ2Y2lVS1dNQnJWSHdXMDh2cXQ0V0lzR3RNaWN4Y0ZQUmdCcWs3SElKUTNQenFCQndQQ0F5TmlLNTZnNEF4ZVF1ZWxXWnBlVkhsaTNRckZRa3lCVTVjelBpZWxrVXBHdHU5dzdvVTNOOW5CWVNYQk01RXR4Qko1bEZ5ZUhkQmlLczdLS1dRN1pZY0gyS2ZMcFE?oc=5",
+      "published": "2026-11-17T09:18:44+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil x Singapura: escalação e onde assistir ao amistoso da Seleção CNN Brasil",
+      "summary": "Brasil x Singapura: escalação e onde assistir ao amistoso da Seleção CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "singapura-x-brasil-confira-escala-es-para-o-ltimo-amist-0603a638edff59",
+      "category": "Esportes",
+      "title": "Singapura x Brasil: confira escalações para o último amistoso da Seleção - Band",
+      "snippet": "Singapura x Brasil: confira escalações para o último amistoso da Seleção Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE5BZmZTdDEwdUpLTFpyTFlIcUNuemNBZXpvTlB1TXRXdm1rMmVZTVh3ekRkS1hSVDFXZVh3SGtRSFF4b3hpVUhVd3J4b09lYmltLS1qcVhDWExUdFlnaE9taEo0TkNMeEhDcjF5NFBzanVKSkdQWEM5QkxEa1BYZW5QQkMtd2ZJcTNqV3VuVmN0QVlOVy1CaTJkb1dtYTVGQnNwN1VaNnV5S2RyZlo3VnVBRVBTVHZNdjJMR2RZTHFOZmpiMG5taXFoMA?oc=5",
+      "published": "2026-11-17T09:13:04+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Singapura x Brasil: confira escalações para o último amistoso da Seleção Band",
+      "summary": "Singapura x Brasil: confira escalações para o último amistoso da Seleção Band",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "workshop-sobre-o-desenvolvimento-de-recursos-humanos-em-725da1a5d5156c",
       "category": "Tecnologia",
@@ -794,62 +850,6 @@
       "tone": "teal",
       "dek": "Ao vivo: Internacional x Flamengo | Final | Copa do Brasil Feminina ge",
       "summary": "Ao vivo: Internacional x Flamengo | Final | Copa do Brasil Feminina ge",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-encerra-grand-prix-de-jud-em-1-lugar-no-quadro-d-e403de5073992d",
-      "category": "Brasil",
-      "title": "Brasil encerra Grand Prix de Judô em 1º lugar no quadro de medalhas - Agência Brasil",
-      "snippet": "Brasil encerra Grand Prix de Judô em 1º lugar no quadro de medalhas Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWUdFc1dXZ3p6SGdUSEh2Ykk2blZxa2VISUZieVFNV3JMSU1RVnpUQktyQmRvVkE2ME5Pek0zV0tIX1dRZ0hMSmNUYzE4S1VxZFNlUDRfOVF1SkpKcExhNjUtb0hkLU5fbVJMMTN5cmRhMGJNTTFzMkFzNUFPNG9Kd0tnd25hSGpfRXBIbzZmeEY0eG1xWVIzQV9ySmZRTWZTRmJ2aEtiXy0yRmxaYi0xOVE1YUJQQTc2d2psaHFNRnFTUFU?oc=5",
-      "published": "2026-11-15T21:55:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil encerra Grand Prix de Judô em 1º lugar no quadro de medalhas Agência Brasil",
-      "summary": "Brasil encerra Grand Prix de Judô em 1º lugar no quadro de medalhas Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "inter-conquista-copa-do-brasil-de-futebol-feminino-sobr-1a2fe8798708e0",
-      "category": "Esportes",
-      "title": "Inter conquista Copa do Brasil de futebol feminino sobre o Flamengo - Agência Brasil",
-      "snippet": "Inter conquista Copa do Brasil de futebol feminino sobre o Flamengo Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeWplRzloREw3YThOU2ZmU0hzZGxyVEYxUDZlWGxZNnVMWmE0UXlrV0dsMHhSYktNUHhqb2QxVDlocXRsSk4tMkdkdGNRLUk1b2plSjlyekhvb051WWtZX3E4eUxmVGllaURmczRlLW1lSkZna2FZSnZubVgwMGwtVHlzX0F1c3hldHNpWjZUSDloam1iak9lTEFmSTR5X3ZJNEZabXlXMHlMTEdtVU1QNXpqRDkxem9EaFJQSHZxYVlBRTg?oc=5",
-      "published": "2026-11-15T21:42:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Inter conquista Copa do Brasil de futebol feminino sobre o Flamengo Agência Brasil",
-      "summary": "Inter conquista Copa do Brasil de futebol feminino sobre o Flamengo Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "internacional-vence-flamengo-de-novo-e-conquista-a-copa-f5db8d082340e7",
-      "category": "Esportes",
-      "title": "Internacional vence Flamengo de novo e conquista a Copa do Brasil Feminina - Band",
-      "snippet": "Internacional vence Flamengo de novo e conquista a Copa do Brasil Feminina Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdHQwR01WZkNINzRQZDNiczdRMC03T3d0UThMc1FDbmV3b1hyU3dra3ZTTER5YURraEYyQ2NPX2lzZEZxVm1FNklEMEMtbUZNLW0zQmdUbG5ucjJMV0Q0OHB4ZTh0ODZtYzFTZGhxMkExYVNlblZKamdGeExJdkZQYXE5RmFvckVMYnFpSFFKaGlHZzY5N3hjYzhpcGJUY05hYTZMMWd0NDBZXzJkVVp2R01XMFVhaE1VbWFCRUl2M0xvVGFwbmU4WEVOS28?oc=5",
-      "published": "2026-11-15T21:22:50+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Internacional vence Flamengo de novo e conquista a Copa do Brasil Feminina www.band.com.br",
-      "summary": "Internacional vence Flamengo de novo e conquista a Copa do Brasil Feminina www.band.com.br",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "space-today-experience-traz-tecnologia-e-cultura-geek-p-e08b22c653ba0a",
-      "category": "Tecnologia",
-      "title": "Space Today Experience traz tecnologia e cultura geek para Brasília - Agita Brasília",
-      "snippet": "Space Today Experience traz tecnologia e cultura geek para Brasília Agita Brasília",
-      "source": "Agita Brasília",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOR21GbV92Y25NOHFvV1QxelhYSVUzUUVEWHotNXdVQk8ybV80VlpUbEpTTk8xczc2RS1sUnZkMmZFNk02RWY2RmxFR1dNOGd4ZjByV1oxd2pIQnRVcGVvUW5pWGQ4Y0RIMTRUb29ORDBzN3Q1S201ZVk4bGlGQ3l6RGc3WElUZVZ0dzVqYTFmYUNHcnM5SlQ3YnNxZWdLSjJuRjcyTk0xQQ?oc=5",
-      "published": "2026-11-15T21:10:24+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Space Today Experience traz tecnologia e cultura geek para Brasília Agita Brasília",
-      "summary": "Space Today Experience traz tecnologia e cultura geek para Brasília Agita Brasília",
       "summary_by": "descrição da fonte"
     }
   ],
