@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T17:18:44.725271+00:00",
+  "updated_at": "2026-11-17T19:17:25.006003+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "durigan-prev-impacto-inicial-da-reforma-tribut-ria-sobr-25c67b82c22009",
+      "category": "Brasil",
+      "title": "Durigan prevê impacto inicial da reforma tributária sobre inflação - Agência Brasil",
+      "snippet": "Durigan prevê impacto inicial da reforma tributária sobre inflação Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPUGRSVEtpSmk5bTNLaEZQR29VbVlsV1lEcmFIcHpjX0E1cHJqcjhxSVU1azhTZ1NIVWpjQU1fQk1hM2VLam1VSW1BYU1ZOWYyeDNPdk1pM3paM09jZVg1UmUwTnFEblVOXzhzcktaendhZUJnTlRDanRoMllmNTN5TE9TSlV2ZlZDN0w3c0lTanI3YXlnYnltRjM2WUlIUkFpRUJUMC03WGd6eWh2Y0ZvRW5IZUxiTzJlM2dmc25MUVF0UQ?oc=5",
+      "published": "2026-11-17T18:56:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Durigan prevê impacto inicial da reforma tributária sobre inflação Agência Brasil",
+      "summary": "Durigan prevê impacto inicial da reforma tributária sobre inflação Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "durigan-defende-al-quota-da-reforma-e-estima-m-dia-efet-eff613cb2d1124",
+      "category": "Brasil",
+      "title": "Durigan defende alíquota da reforma e estima média efetiva de 8,5% - Agência Brasil",
+      "snippet": "Durigan defende alíquota da reforma e estima média efetiva de 8,5% Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFRGaTRMYk83UEVfSWJwS045SVhrUXBNMVZSZUQ2dE5EaTVzOF85czVINHhpT2llVWMtRnpOZUZXTDd5SHdaMWFpeW1LSkFhYXY4aTI5dkg5VjUtc3FmelZZVEVlcTdMZ2dVRkVlNktvOW9seG5tRzdZRzBCVEJwb1pxM1JaNndPSTBzWXY4Z0h0dlVUU05tX1ZoRTlHcVFGLWsyTjlRSjJOZ3hjS2FwVUc1NEJ5NzVjSUFjNEtkcw?oc=5",
+      "published": "2026-11-17T17:26:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Durigan defende alíquota da reforma e estima média efetiva de 8,5% Agência Brasil",
+      "summary": "Durigan defende alíquota da reforma e estima média efetiva de 8,5% Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "o-ex-rcito-das-av-s-os-n-meros-que-mostram-as-respons-v-fcda608aaa6dea",
       "category": "Brasil",
@@ -80,6 +108,34 @@
       "tone": "teal",
       "dek": "Só em 2027: saiba quando será o próximo jogo da Seleção Brasileira CNN Brasil",
       "summary": "Só em 2027: saiba quando será o próximo jogo da Seleção Brasileira CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "inova-o-na-serra-ganha-destaque-em-projeto-de-mapeament-840cc5f82a95e6",
+      "category": "Tecnologia",
+      "title": "Inovação na Serra ganha destaque em projeto de mapeamento estadual - Prefeitura da Serra",
+      "snippet": "Inovação na Serra ganha destaque em projeto de mapeamento estadual Prefeitura da Serra",
+      "source": "Prefeitura da Serra",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDZNWjcyOTRpWEhYWFEzMmtNcVlXOU1OaEd6clM4cnY4MWJzbWNyR1RRNEJmTk9nWS02Z3VmNFhhRTVUd25nVzZhcGlUNFZQVDJVZ0RWLW4tSzhadklibUVSYlRFaWl0V2lDVmpHb2lLWnZpRzVqLXZXbHQtWlpSOEdCQnJCMnA1cWhwNXNJb0s2cnBEdVVoNWR3ZF9CNzl2dVBERTBB?oc=5",
+      "published": "2026-11-17T12:00:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Inovação na Serra ganha destaque em projeto de mapeamento estadual Prefeitura da Serra",
+      "summary": "Inovação na Serra ganha destaque em projeto de mapeamento estadual Prefeitura da Serra",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "com-tr-s-de-vini-jr-brasil-encerra-temporada-com-golead-11fb123b63985d",
+      "category": "Brasil",
+      "title": "Com três de Vini Jr., Brasil encerra temporada com goleada de 7 a 0 sobre frágil Singapura - Folha de S.Paulo",
+      "snippet": "Com três de Vini Jr., Brasil encerra temporada com goleada de 7 a 0 sobre frágil Singapura Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMzlFOWViYnhKTzRWSDczMXNpekp3LTZxSXdXUXVxMm1GeGVrX0Nub2R4MC1QY1B4eXRlZWZIc2F0QmhQZEpwbG9BR0hOR2NUYVc2MDM4TjJsYkdJWnY0WGZPeUVJcUtfYXRyYnJXTm13QllORGZHUmd4eXF1UG5QUFdQT0F3dnZFbkYzZkozMkNwSkp0TGpvbHN5eHBLdjBsUnBaRTN1d1VZQjY4TkJUa3N0Vnhsak9ieTF2WkZNV2ZIc1pRUW5ZV051dw?oc=5",
+      "published": "2026-11-17T11:52:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Com três de Vini Jr., Brasil encerra temporada com goleada de 7 a 0 sobre frágil Singapura Folha de S.Paulo",
+      "summary": "Com três de Vini Jr., Brasil encerra temporada com goleada de 7 a 0 sobre frágil Singapura Folha de S.Paulo",
       "summary_by": "descrição da fonte"
     },
     {
@@ -323,9 +379,9 @@
     {
       "id": "com-apoio-do-mcti-computadores-qu-nticos-chegam-a-jo-o--3b301d78b6469d",
       "category": "Tecnologia",
-      "title": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança - GOV.BR",
-      "snippet": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança GOV.BR",
-      "source": "GOV.BR",
+      "title": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança - Governo Federal",
+      "snippet": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc2EzVEZ2S2FjM2F6QWlRVTRUT2x6UjRhdUdINzBZNmZHOU5uU2ZEbEREUkk4U1Y5SmxLXzVxS3Q5MW9fRENIV0ZrRllZOGtoSVh6bXZ3ay1qdVBldlE0bDFVZkJqTnl6dVBkVGttempEYWJxSDJpamdza0UzMGFwcUJDTWV2OWE2Y0d1ZzZuN3hoNXpZZmNiR3BDOWlidUNBeGNRNU5Pdk9KWXNYWEQtSEhqUzFxQVpsbUY1Mkh5ODZTRlB3VTFQeFBJYk5ONzUzaTI5U3hIYTU4Rk91b3R6TklvYUtKYXB6c3ZwQWhrVUtaQQ?oc=5",
       "published": "2026-11-16T22:28:19+00:00",
       "image": "",
@@ -617,9 +673,9 @@
     {
       "id": "mjsp-participa-de-cerim-nia-do-dia-do-policial-federal--adb1e8b0b8bbcf",
       "category": "Polícia",
-      "title": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública - GOV.BR",
-      "snippet": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública GOV.BR",
-      "source": "GOV.BR",
+      "title": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública - Governo Federal",
+      "snippet": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmpxQWU1Q01MMkhVdEowc2xtallZWDdBaVhpaHlsaEptNWNrYVczMFRGRGVCb2RZYWotNEU5VWZMLWdNeE5YRXBEUkt0TEdPVTc4aFo4RjZqcEw1YlQ4Mm9pWWFsZjNDMVBFdU1LeUZJQXA0d3FjOUNlWnVHWjlnSGswcFhKVGcwWmtmZFV4UnJsUUU3eFNoSnk5SmVObm5qQ0E?oc=5",
       "published": "2026-11-16T17:11:08+00:00",
       "image": "",
@@ -794,62 +850,6 @@
       "tone": "",
       "dek": "PANROTAS e PUBLITURIS estabelecem parceria editorial exclusiva entre Brasil e Portugal Panrotas",
       "summary": "PANROTAS e PUBLITURIS estabelecem parceria editorial exclusiva entre Brasil e Portugal Panrotas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mercado-reduz-proje-es-para-infla-o-e-crescimento-da-ec-3b74971a3373dc",
-      "category": "Economia",
-      "title": "Mercado reduz projeções para inflação e crescimento da economia em 202 - Aracaju Magazine",
-      "snippet": "Mercado reduz projeções para inflação e crescimento da economia em 202 Aracaju Magazine",
-      "source": "Aracaju Magazine",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMzZUR3Zpek9oYjJBSVdUQ3hEUkJ1UlVaY0NPLWctNE5qZk1DUnA5dlNxZG92aThRdW5BUWpWbU5aVzlibjIzdUZUdG4wRkgwQlBtMVdFa29lbEY3YVY5LTJtRFZ6d1NGUkJtcWxiUGlpVk5LaVRVRjFoOWhhSHJHWnBGMGpjTUZiVjdUNk9CNV9XZnZTQUFDR2Q1RFItQjJzVUh6Rg?oc=5",
-      "published": "2026-11-16T12:56:19+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Mercado reduz projeções para inflação e crescimento da economia em 202 Aracaju Magazine",
-      "summary": "Mercado reduz projeções para inflação e crescimento da economia em 202 Aracaju Magazine",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-x-singapura-hor-rio-e-onde-assistir-ao-amistoso--5bf86c60187a7e",
-      "category": "Esportes",
-      "title": "Brasil x Singapura: horário e onde assistir ao amistoso da Seleção - CNN Brasil",
-      "snippet": "Brasil x Singapura: horário e onde assistir ao amistoso da Seleção CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdUUtOXZweF9uMkhkdDdFdlFwYUVCc29TZTVFSkIxdnFEeEM1akI5azlYTWVvTXJrT0xTcU50Tk9PRnV2LW15Qno0V19KMzVqR3ZRR1JwakhsYjhvNG95ZDNzUjB5bWFHYXZxMmF5VERWa1ZCVUpNaHF1Qlo1X1dEOTBpM0Rjd0lkQUk4OVNuaXFzTU9lam0xWkFQeEdXT2hYOTZEWDJqUHBIdDNBdC0zeU9mWmZhV2pDZXA1Z3EtMi0ySkZGRkVwQ3NOWQ?oc=5",
-      "published": "2026-11-16T11:15:09+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Brasil x Singapura: horário e onde assistir ao amistoso da Seleção CNN Brasil",
-      "summary": "Brasil x Singapura: horário e onde assistir ao amistoso da Seleção CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ci-ncia-tecnologia-e-inova-o-devem-se-tornar-a-principa-ddc4e33de69261",
-      "category": "Tecnologia",
-      "title": "Ciência, tecnologia e inovação devem se tornar a principal força motriz no desenvolvimento da indústria da construção. - Vietnam.vn",
-      "snippet": "Ciência, tecnologia e inovação devem se tornar a principal força motriz no desenvolvimento da indústria da construção. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQenAtQ2N0ODdyNHhLZFctdHhQZWhZNkxxcHRfQUpKaVRNMzFJQWRsQmE3MnU5aHVJc01fbUxyY3UzeHlSU0NIMnFVSTdnN29MMnBHN0M3Y1ZIYlFaT3RkUW1Oald5YkFNSmNKeHZ5aDBpdjNsazd6bzBvRVhDNjB5QzBHbmZjdFhreHZ3cXpOVHBuZW9UU1lfT21LWUNFZmpwa2xLYXVIMXhfSmU4cWxvX2ZlZ2Y4T282WFZMR2Z2eVpDUE0?oc=5",
-      "published": "2026-11-16T11:14:11+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Ciência, tecnologia e inovação devem se tornar a principal força motriz no desenvolvimento da indústria da construção. Vietnam.vn",
-      "summary": "Ciência, tecnologia e inovação devem se tornar a principal força motriz no desenvolvimento da indústria da construção. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "seis-grupos-de-trabalho-de-transforma-o-digital-com-o-o-617253501ef58b",
-      "category": "Tecnologia",
-      "title": "Seis grupos de trabalho de transformação digital com o objetivo de impulsionar o crescimento da indústria da construção. - Vietnam.vn",
-      "snippet": "Seis grupos de trabalho de transformação digital com o objetivo de impulsionar o crescimento da indústria da construção. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkU3RVJOZUpCVnFHMno5Uk1tQy1zRkFDRUJtbnk5am5SS1E2b0RNNlF3d3JJUTI4YVlFMU1xZjlJUGZOaGhHTGpGQkRZV3gwXzBVb1B6SThBTndEMGpKTU5RUDlBcmQyb3EzNll2TFpvcXJPeklsN3UyeG5uTVowdmVBZktLdlA0b2IzTWpyS1gwaEM3SHh4aUU4aFg?oc=5",
-      "published": "2026-11-16T11:12:08+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Seis grupos de trabalho de transformação digital com o objetivo de impulsionar o crescimento da indústria da construção. Vietnam.vn",
-      "summary": "Seis grupos de trabalho de transformação digital com o objetivo de impulsionar o crescimento da indústria da construção. Vietnam.vn",
       "summary_by": "descrição da fonte"
     }
   ],
