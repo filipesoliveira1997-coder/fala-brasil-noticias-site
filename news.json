@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T21:04:24.981223+00:00",
+  "updated_at": "2026-11-17T23:06:38.850837+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "brasil-avan-a-2-semifinais-do-mundial-de-t-nis-de-mesa--424cfa443a4429",
+      "category": "Brasil",
+      "title": "Brasil avança à 2 semifinais do Mundial de tênis de mesa paralímpico - Agência Brasil",
+      "snippet": "Brasil avança à 2 semifinais do Mundial de tênis de mesa paralímpico Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSW1iQnNqWGVHRi1kMXJ0blZrMTJsOFpQNG5yei1fUXlKQmowZTJLNG5pUHQ3S01EWXlmbklKcDNrWTBfOHg0YWsweTNYUTlpVklXcHNDVWRFVHFaaXJxWXUyS2xZbTc1STlOQmJLRVhRS2FqMy1PZzJWc0xMTWg2cnlvbVNUWTlHWjgtS0VwaWt6V2JjQVdSbUYyMGhPY3pwZWdWUWxuUm9TeXpaQXpVak9ENGpsa1Y1bXR2S0lteGRUZw?oc=5",
+      "published": "2026-11-17T22:34:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil avança à 2 semifinais do Mundial de tênis de mesa paralímpico Agência Brasil",
+      "summary": "Brasil avança à 2 semifinais do Mundial de tênis de mesa paralímpico Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "jornalistas-de-diferentes-regi-es-do-brasil-visitam-hos-5afe3f341c517a",
+      "category": "Saúde e bem-estar",
+      "title": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho - Prefeitura de São Paulo",
+      "snippet": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
+      "source": "Prefeitura de São Paulo",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR0R4Tjh3WWM4RG40YVFuMzhQTnNsb19EMUtfYVNNUVAyT1J5WGFqcUZlZThrbWVEYU5TT2dNZEYwbjdaRmhjdWJ3aTFZRF9US2JuTUxhcEU5YmpmZHNnLUVtT0JTVnR4Vk02c2NMNk1DbTR5RFhUNVBYR1RPTE1PLXVoczZuVGZFZFNqb0p5WjFJdmprTU5XaThjMU1BRTZNWFVVc3h1UEx5Mk9heTRQZVlDRFRCekN4YnlSelVNc2pTNWVaQlJfSTYwS2FhZw?oc=5",
+      "published": "2026-11-17T22:04:43+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
+      "summary": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "mercado-com-700-milh-es-de-clientes-abre-avenida-para-i-3143c81c3db917",
       "category": "Economia",
@@ -28,16 +56,30 @@
     },
     {
       "id": "brasil-simplifica-exporta-o-de-cosm-ticos-para-am-rica--2637a600ee2a17",
-      "category": "Brasil",
+      "category": "Economia",
       "title": "Brasil simplifica exportação de cosméticos para América Latina - Agência Brasil",
       "snippet": "Brasil simplifica exportação de cosméticos para América Latina Agência Brasil",
       "source": "Agência Brasil",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOS2dNZURtQnRlNlpqOXVPOU9OaHF3VWZLY0ZuRzcyVjQtNXZPLUpRT3B0VjdDSFdtdG9BUWhBSmhZRjE4SG9OUzBEWnBZaGk5b3psdW44dUVUOXlHTnFUYjJvQnRFUVJXbE9CNWhnRmRzYXBxUXJaSzNROGVnallwTjBreVMzV0M2X2h5X2h6X0xVV3h4U1dZc3N2QWJEUnlmalRWdF9VT2FBUTdaM1ByWng0WXNkZHFEWjhHcw?oc=5",
       "published": "2026-11-17T20:48:00+00:00",
       "image": "",
-      "tone": "",
+      "tone": "gold",
       "dek": "Brasil simplifica exportação de cosméticos para América Latina Agência Brasil",
       "summary": "Brasil simplifica exportação de cosméticos para América Latina Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "clima-afeta-produ-o-e-eleva-pre-o-do-tomate-em-diversas-5b8155de9a676c",
+      "category": "Brasil",
+      "title": "Clima afeta produção e eleva preço do tomate em diversas capitais - Agência Brasil",
+      "snippet": "Clima afeta produção e eleva preço do tomate em diversas capitais Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOT1lJX2J2bmU0WGxUcy1RYlZKYTQwWVhFWnhGWmlYbXVBOGxGNDlvTDh5UllCbGI1M0plS3daaDROMG4tMGtvaG9QeXhSR2NDRWZkaU5TUzVNLTRZOHlUX21iLVAtdlEtVVEzS3ZSLVVucDA3dmZta1pjQ2JHdmp3RXl0cFk1VlgxeHg1VG4ydm9vS3FhOU9mWEhsQ3ZHQzVYSlVtZklUS2pqbnJFTjNiLTZiSzc0d3pYbnF2dW9QbEQ?oc=5",
+      "published": "2026-11-17T20:12:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Clima afeta produção e eleva preço do tomate em diversas capitais Agência Brasil",
+      "summary": "Clima afeta produção e eleva preço do tomate em diversas capitais Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -178,6 +220,20 @@
       "tone": "teal",
       "dek": "Só em 2027: saiba quando será o próximo jogo da Seleção Brasileira CNN Brasil",
       "summary": "Só em 2027: saiba quando será o próximo jogo da Seleção Brasileira CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-goleia-singapura-por-7-a-0-e-encerra-temporada-d-5bbf294d7d42e5",
+      "category": "Esportes",
+      "title": "Brasil goleia Singapura por 7 a 0 e encerra temporada de 2026 - Jovem Pan",
+      "snippet": "Brasil goleia Singapura por 7 a 0 e encerra temporada de 2026 Jovem Pan",
+      "source": "Jovem Pan",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeUxNUmVKUmRvS2hnRFA4Ql8xTkdjT183bE9yb1FfQ1VnN1Z1ampyeWgzR3BKRVNac3p2ZU11VWRhSi1NaVlUdE51WmtBQ1VMdVdvekNzN0pmTjZBX3lxNWNzTG92OUIzclhNc0FsMGs1S2Y5Y0FKNHhEcEJfZUgzcmhPYnRVaEFRdHdHN254V0NBb0dGa1lJSU5JcDhYeG5hY2t1NGNRZHhROGRNX0RWcThtRUZnTXFJQ0hIOG5hNEgwQWs?oc=5",
+      "published": "2026-11-17T12:16:35+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil goleia Singapura por 7 a 0 e encerra temporada de 2026 Jovem Pan",
+      "summary": "Brasil goleia Singapura por 7 a 0 e encerra temporada de 2026 Jovem Pan",
       "summary_by": "descrição da fonte"
     },
     {
@@ -388,6 +444,20 @@
       "tone": "blue",
       "dek": "Série de falhas alimenta teoria de 'apagão mundial' no dia 17: saiba por que é improvável que aconteça G1",
       "summary": "Série de falhas alimenta teoria de 'apagão mundial' no dia 17: saiba por que é improvável que aconteça G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "17-de-novembro-ter-apag-o-mundial-bbc-95a83cd75a7d51",
+      "category": "Brasil",
+      "title": "17 de novembro terá apagão mundial? - BBC",
+      "snippet": "17 de novembro terá apagão mundial? BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jbnNuSkRFenVWS19IQnhNRktNOGNua3pFUU85a1JRdjNfdW1EOWFlQjNybk1KMU5OUnZNT3hkYldlZzVxbFZKODBZelFnVEVWYkhzS0pGM0RXYk9wSDFj?oc=5",
+      "published": "2026-11-17T02:55:37+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "17 de novembro terá apagão mundial? BBC",
+      "summary": "17 de novembro terá apagão mundial? BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "",
       "dek": "Brasil alcança meta de turismo internacional de 2026 Agência Brasil",
       "summary": "Brasil alcança meta de turismo internacional de 2026 Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mjsp-participa-de-cerim-nia-do-dia-do-policial-federal--adb1e8b0b8bbcf",
-      "category": "Polícia",
-      "title": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública - Governo Federal",
-      "snippet": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmpxQWU1Q01MMkhVdEowc2xtallZWDdBaVhpaHlsaEptNWNrYVczMFRGRGVCb2RZYWotNEU5VWZMLWdNeE5YRXBEUkt0TEdPVTc4aFo4RjZqcEw1YlQ4Mm9pWWFsZjNDMVBFdU1LeUZJQXA0d3FjOUNlWnVHWjlnSGswcFhKVGcwWmtmZFV4UnJsUUU3eFNoSnk5SmVObm5qQ0E?oc=5",
-      "published": "2026-11-16T17:11:08+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública Governo Federal",
-      "summary": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-que-aprendi-ao-passar-14-anos-acompanhando-fam-lias-q-f492ab08b7bc4a",
-      "category": "Brasil",
-      "title": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais' - BBC",
-      "snippet": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais' BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fX19JZEhkaXZKckp0SHJsSDVub0o4ZVJSZmdwSXE0eVQ4M3dhb2NqdDg0TFJOQ1p4dlpDbGFjaWN5RENLOFZHRUlmeFBmQlI1TTB6bjdZTm1nRGtaSkRRdWY0ONIBaEFVX3lxTE9CZmRlTlBhRWw5aDlmWEhSMi05UUtxMC1fbk1pWHVuVV9IcjdDNFNhZW8zR0lfd3Jzb1NzbmJubi0zenVSTF9ibHdkQVJOUk1fS2JTY0g3ZWV6NXRNZllCa0JEeUE1eWtl?oc=5",
-      "published": "2026-11-16T16:34:10+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais' BBC",
-      "summary": "O que aprendi ao passar 14 anos acompanhando famílias que não saem da pobreza: 'Muito além de decisões pessoais' BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "morgan-stanley-rebaixa-brasil-para-underweight-em-portf-637f19938372ea",
-      "category": "Brasil",
-      "title": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina - Notícias Agrícolas",
-      "snippet": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUDdpa3hFNS1PUXdLclliVFRlZUhCbHZIYVJVT2ZmUjFPYTRmdUJUOTlKdk51ck8zSUVycUpXTDJERmRRVDk2dE90TTdwNkE3MHc1YXd5bERPbXBfSFFWbnRmWDRDWUZobzB4S1dpekFTWmdOU0RlbGdyX3NzWmFuYmw3b1Jrb2lJZmJBV1doemtWRHBEZ1JoaXJnNmtsZlQzSFUzUDJMYlZTbzd5WWg1blUzRXV1U2tfUkN4SzhZZGVXQ1B0S3g2R3RWRlByLXlGcmhzbUgzQ2JSZWpCVHhkYnY4Q2pldWFmT3NXTzhPZXZOQy1OUnN4aHh30gH_AUFVX3lxTE0tVjkwTXJfSEdyejRYU3hHdC15M1VtRWdsVV9WUTBzSmgxZFNvb0RQbGh3X3VZQk92U0Y5MzZfbmtOQ0tpZTVpdWh3aXpfRUoyaml4QlpqVmJNR0NsazNENWtCaE52bnZoN0pDNjNYeE0wX1ZYY1hSWXVFYUhSMlo5QjlOTG5BTS1TOXFoSmdROUZwU0FOeDVaTDVOWjJZa2c0Mm1DUXhmY2tqT3VrOFI5MUtaeUlkMlhEeENlcUE4eTg4OEZMaF9IbjNoUm1PcDB5NEpxTWZqdFkyNXNVcnpmN1BmUDZXXzlRcU5vLXYwaXFBRDl0X1R4S3ZBdU56WQ?oc=5",
-      "published": "2026-11-16T15:47:32+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina Notícias Agrícolas",
-      "summary": "Morgan Stanley rebaixa Brasil para \"underweight\" em portfólio de ações para a América Latina Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "equipe-sergipana-vence-hackaton-de-combate-desinforma-o-19bf47ce444426",
-      "category": "Tecnologia",
-      "title": "Equipe sergipana vence Hackaton de combate à desinformação contra meninas e mulheres no ambiente digital - Secretaria de Estado da Educação de Sergipe",
-      "snippet": "Equipe sergipana vence Hackaton de combate à desinformação contra meninas e mulheres no ambiente digital Secretaria de Estado da Educação de Sergipe",
-      "source": "Secretaria de Estado da Educação de Sergipe",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLW1qS3NRMWtESEp0V2lYcVdfbXlEQU04bDQzV2lzSXc1bWJrMS1UeVUtNFR4eVpYZVJPQzZLckU4N3FOWmlSYlRBNEFpWGhOeDhuU1lqcGNIX2N6Vk9zZVlUNzh4ejlMNmQxNVI5Ry1OODJKSVZ5NWVUSEROMVZqX1RXT0VpMFhJMUpKWk5zejFEOTRIMDZJNy1fOTdaUHdvWTRROU81ZnBwTDZKem9VcGpNMXJWeXFWcmkwUGJEWDI0em1KS3dJaw?oc=5",
-      "published": "2026-11-16T15:40:35+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Equipe sergipana vence Hackaton de combate à desinformação contra meninas e mulheres no ambiente digital Secretaria de Estado da Educação de Sergipe",
-      "summary": "Equipe sergipana vence Hackaton de combate à desinformação contra meninas e mulheres no ambiente digital Secretaria de Estado da Educação de Sergipe",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-brasil-ganha-mais-uma-chance-jota-info-a5f2f4ced88890",
-      "category": "Brasil",
-      "title": "O Brasil ganha mais uma chance - JOTA Info",
-      "snippet": "O Brasil ganha mais uma chance JOTA Info",
-      "source": "JOTA Info",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbk1tWmRQR1ZxNERzS0tKWk5TRnZrSU9yb21CR1QyS2VUcTYxS2xKZGxxc2NxZVZScjMxSDEycnRlWVlWOUlqTUZGX01xSTloenVWbVBERDF0QVRZNUFCbjZIdEpqYlpBY29SN3ZUcm8wNUFlVXREbUhmS2R3THpOcGN3T0lFNEZQaUowU2lBS0tHTFR5WTZsTzB3bndGREZuYXFqT3BYWQ?oc=5",
-      "published": "2026-11-16T15:16:13+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "O Brasil ganha mais uma chance JOTA Info",
-      "summary": "O Brasil ganha mais uma chance JOTA Info",
       "summary_by": "descrição da fonte"
     }
   ],
