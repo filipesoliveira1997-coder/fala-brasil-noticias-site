@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T01:28:09.062912+00:00",
+  "updated_at": "2026-11-17T03:01:43.086154+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,20 @@
   ],
   "articles": [
     {
+      "id": "internacional-vira-sobre-o-flamengo-e-campe-o-da-copa-d-f80b8ce33286c1",
+      "category": "Esportes",
+      "title": "Internacional vira sobre o Flamengo e é campeão da Copa do Brasil - TV Sim Brasil",
+      "snippet": "Internacional vira sobre o Flamengo e é campeão da Copa do Brasil TV Sim Brasil",
+      "source": "TV Sim Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdE1uR0xFbDRBcW8yNVZraWRrYWRjcG04TEdOMjdsWlVWeEtwM29nSEo0UXJwVFZnR3FlazVCZEhOb0NFOFNCdjAxTHRwZnJhdThtVE44NVZGT1lGQVNNUXlvWGRkb0hYVDUyM01HM3NSMGZ0ZUt4bE05bmlSZUk0NXN4cWJhNF9lSnZmMHVJbU0tMWxPb0NDYWRTVDA4aGRJeFpsSjVmZmhfSnZTT3A2bkNCanZGZVN3aFFSbkhn?oc=5",
+      "published": "2026-11-17T02:51:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Internacional vira sobre o Flamengo e é campeão da Copa do Brasil TV Sim Brasil",
+      "summary": "Internacional vira sobre o Flamengo e é campeão da Copa do Brasil TV Sim Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "o-minist-rio-da-constru-o-lan-a-o-portal-de-informa-o-s-a9b810f20b6b1b",
       "category": "Tecnologia",
       "title": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. - Vietnam.vn",
@@ -24,6 +38,20 @@
       "tone": "purple",
       "dek": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. Vietnam.vn",
       "summary": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "regula-o-de-big-techs-pode-reduzir-custos-em-at-r-50-bi-7df99990a72d98",
+      "category": "Brasil",
+      "title": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões - Agência Brasil",
+      "snippet": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUVJZHNfSFpnYmJBYlVHOGJKS1pWV3dtemMyUmdBbkp3N3AtVGF5cjF5dWlvd2NVazJzMHlRbjlDYnR4ZVFDb092NnVzQnZVOEZKZDFPZTBrdk5PV0U5bVJSbEgtOGEyeEJ3OTdWeEFZbU9HS204eDdXNEJTSmNvQXZ0XzZTQXgwVHY2NnhSZDhIQU9YXzNoZ0RENU04Q053eFFFdTVNVmh4X1JNMjRPSnZ6MnctckxKWi16cA?oc=5",
+      "published": "2026-11-16T22:59:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões Agência Brasil",
+      "summary": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -66,6 +94,20 @@
       "tone": "teal",
       "dek": "Brasil x Peru: escalações e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
       "summary": "Brasil x Peru: escalações e onde assistir ao amistoso da Seleção sub-20 CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "singapura-x-brasil-escala-es-hor-rio-e-onde-assistir-am-fd89cc021233fd",
+      "category": "Esportes",
+      "title": "Singapura x Brasil: escalações, horário e onde assistir amistoso - Band",
+      "snippet": "Singapura x Brasil: escalações, horário e onde assistir amistoso Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOYml5T0cxX2J2VjVEdG4xTElMMTFJU0RVQkNEdl9acXJXdktiTEFXYXM4QjRRSHFOUEZNaGVjYXpZektwQUF0aGhuek1IOXREZjkzZW9odHFjVFF2Qm44bEloSW5mYzZlYkhKZGhqYS02aUVNU1hiZldYdmxlLWVYUWJlR0xRMk0wYVB0NmtNbEZtazU0U3lMSG80VHlZMkFGQmszVUZWNHlvcWlFUWFoMWc1cmlJY1h2elNjLTlSdw?oc=5",
+      "published": "2026-11-16T21:30:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Singapura x Brasil: escalações, horário e onde assistir amistoso Band",
+      "summary": "Singapura x Brasil: escalações, horário e onde assistir amistoso Band",
       "summary_by": "descrição da fonte"
     },
     {
@@ -220,6 +262,20 @@
       "tone": "",
       "dek": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI Agência Brasil",
       "summary": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "escola-nacional-de-seguran-a-p-blica-e-academia-naciona-e90e0ca5e0dd91",
+      "category": "Polícia",
+      "title": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital - GOV.BR",
+      "snippet": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQXFieXFuV3R4VTlZSzdSeTVkOFU5VVVBUEZQTFRNS1NqMTd2eFpSUHc2TnRrcldrUGt3dGhROGZNQkhLNlZ0UWFPaTd5ckt5eGtDOUF3MTRYMjRTXzFKMVp2SmdNMVZpQXIxbGMwTWE1SllOTHZveWZ3Tm1lRGlkbjRsSTduT0g3T2N0LU10YkVjdk1MMjdLLTB5eUhBR3B1NVRiaHhqWmc1QVlsdE43ZWVaNW01cXZ6d2dCNGRzOXhsanc4TFFhb25nZTgyQ1hPTFk2Qm5WOGJLQzB1ZTd6QjlveHpPOEZDWER4R2pHM1VkUkYxNkE?oc=5",
+      "published": "2026-11-16T18:07:46+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital GOV.BR",
+      "summary": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital GOV.BR",
       "summary_by": "descrição da fonte"
     },
     {
@@ -379,9 +435,9 @@
     {
       "id": "brasil-reeleito-para-o-conselho-da-uni-o-internacional--5f039ef95a4644",
       "category": "Brasil",
-      "title": "Brasil é reeleito para o Conselho da União Internacional de Telecomunicações e para a Junta de Regulação de Rádio - Governo Federal",
-      "snippet": "Brasil é reeleito para o Conselho da União Internacional de Telecomunicações e para a Junta de Regulação de Rádio Governo Federal",
-      "source": "Governo Federal",
+      "title": "Brasil é reeleito para o Conselho da União Internacional de Telecomunicações e para a Junta de Regulação de Rádio - GOV.BR",
+      "snippet": "Brasil é reeleito para o Conselho da União Internacional de Telecomunicações e para a Junta de Regulação de Rádio GOV.BR",
+      "source": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQY0tudFpXOGxDTmoteUs0blRuTUh4RHFvbV9RMEx5OFp6SFNlLVRFd1R5VHlUcjF0RVBjeUlRZElPOFZrTW9sMDNOcUx5d3VKNFFQMzdHQmNBNnF1Y2hjVlFhMEV1dW5zVVB1LUg1NzNTY2g4Y2M0eDQyeVVjUEdVNlF1Z2QtTjRqTUVELUF6czliRHJzVFpQS2ZjZUFjS3lFU3FjcDVHZEpmanIydGlMRzRoVjVfbU41YmZ6WHJGUTBHc21oYTRObkliWkU3NURIaHlxSXp5ejdyQ2Y0a05kTmZLMzBCZjJVN19BZjBKN0dyTWticnY0UmNB?oc=5",
       "published": "2026-11-16T14:42:40+00:00",
       "image": "",
@@ -795,66 +851,10 @@
       "dek": "Lula vê oportunidades na Ásia para explorar minerais críticos Agência Brasil",
       "summary": "Lula vê oportunidades na Ásia para explorar minerais críticos Agência Brasil",
       "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "festival-de-futebol-feminino-de-v-rzea-re-ne-1-5-mil-at-5146f2fdfc61f7",
-      "category": "Esportes",
-      "title": "Festival de futebol feminino de várzea reúne 1,5 mil atletas em SP - Agência Brasil",
-      "snippet": "Festival de futebol feminino de várzea reúne 1,5 mil atletas em SP Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRjBLc0FtU3N3MjEtWkprX1MyNTlTT0dQaE5kRHJoLWFnNFV3U0M4aTZDWnV4YzVaeFFjQl92d3JnVHdXZDJpeWlIZjFNRFQ0ZFc4enZ1ay1DcVVaUFlDc2ZuNHkzaVRIQUhzZTA0S1J6MGJ2ZF9WcllmZTBaUDlYY3pwRC1sVDZqRXBRRkQwUklFM3h2OHROdVpOYlBwT19kbkl6S2RESXRNRUpnTV94MFhibG1tT3ZrQ3d6bG5vMFI?oc=5",
-      "published": "2026-11-15T16:17:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Festival de futebol feminino de várzea reúne 1,5 mil atletas em SP Agência Brasil",
-      "summary": "Festival de futebol feminino de várzea reúne 1,5 mil atletas em SP Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "rio-de-janeiro-tem-primeira-morte-confirmada-por-mpox-n-1b46238f6e8012",
-      "category": "Brasil",
-      "title": "Rio de Janeiro tem primeira morte confirmada por mpox no país - Agência Brasil",
-      "snippet": "Rio de Janeiro tem primeira morte confirmada por mpox no país Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQkw4dU8xcm9GWDVpZlVPN3FuRU9CcTRmR0U3WUtkTVBjVVhYaTYyVkw1RjlRNERKNlFSallaSVBqNGdfeVFiSmh5VG1RYngzQlhQU19zWFhEQV9vU1pIdGU2TUdlTHJqbFVjS1JtYm12WTJnYnlILWFPZEcySmhMVzI1VXVrOHRHU1FnTVlBWjJrd1hFTk5JQVFORy1HRldsc1JmSFlYZVBhazl5VnBZR0VCYXBpUGM?oc=5",
-      "published": "2026-11-15T16:07:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Rio de Janeiro tem primeira morte confirmada por mpox no país Agência Brasil",
-      "summary": "Rio de Janeiro tem primeira morte confirmada por mpox no país Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ronaldinho-titular-veja-escala-es-e-onde-assistir-raven-68a76d2b974e46",
-      "category": "Esportes",
-      "title": "Ronaldinho titular? Veja escalações e onde assistir à Ravenna x Forlì - CNN Brasil",
-      "snippet": "Ronaldinho titular? Veja escalações e onde assistir à Ravenna x Forlì CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQOVcybThDUjd0cWZmZXFYbG5lUUx0ZDBVN3VPV2pHa1hmZm84dnBvMDdWV1RINEFxXzZzb3JkY0s5Nl9OcHE1dWtLd3lNRXV0UVk1cjlweHVlTG83SVdzSVJSNXNfMURrcXNWR2hOb19wVnVtbXlxb2pVRHVUN2VRTnQyZFhsdlhNZXdYaHl3YlZVLUNxVzBERC14d1BRaWQyaWdhc0FwR0o4Um00WkRDTF9pUGpVWFU5RExjVDRZTkhOVk1HdFNmVm54QWQwb1hsWk9QZC1Gd0JpZ3lEWFRmaGdEalBVVVlSNXc?oc=5",
-      "published": "2026-11-15T16:05:53+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Ronaldinho titular? Veja escalações e onde assistir à Ravenna x Forlì CNN Brasil",
-      "summary": "Ronaldinho titular? Veja escalações e onde assistir à Ravenna x Forlì CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "a-mulher-que-est-h-anos-presa-em-uma-ilha-paradis-aca-p-2e0ee248deb475",
-      "category": "Brasil",
-      "title": "A mulher que está há anos presa em uma ilha paradisíaca por problema com visto: 'Viajaria até algemada, amarrada e amordaçada' - BBC",
-      "snippet": "A mulher que está há anos presa em uma ilha paradisíaca por problema com visto: 'Viajaria até algemada, amarrada e amordaçada' BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1MX09GQ3NQaC1TeV8xd2VZMlNtU1FRY2N4NXdMRjNrbml4WXRnMS1rRHh0VUljZTA1NFd4WHNINmJpT1NpeDYtTnRNcVlteGVfOU9jQ2hTZTVvVUFrelVES1IzQdIBaEFVX3lxTE5oQmV6enE2cEI0RHZHTTV3emF0X3d0ZXY3QXZZT1BSSk52aXE1OE1hV2lTOHVLVXFpN0RfcEltNWRSa24yck9UUVpLdEVEeVQyRG1HUGxNb0ZCM3U3ZTdISHlidnhJRzJF?oc=5",
-      "published": "2026-11-15T15:43:42+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "A mulher que está há anos presa em uma ilha paradisíaca por problema com visto: 'Viajaria até algemada, amarrada e amordaçada' BBC",
-      "summary": "A mulher que está há anos presa em uma ilha paradisíaca por problema com visto: 'Viajaria até algemada, amarrada e amordaçada' BBC",
-      "summary_by": "descrição da fonte"
     }
   ],
   "feed_warnings": [
-    "Economia: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=economia+Brasil+neg%C3%B3cios+mercado&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
-    "Esportes: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=esportes+futebol+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+    "Mundo: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=not%C3%ADcias+internacionais+mundo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Entretenimento: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=entretenimento+cultura+m%C3%BAsica+cinema+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
   ]
 }
