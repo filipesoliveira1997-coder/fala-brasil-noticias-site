@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T03:01:43.086154+00:00",
+  "updated_at": "2026-11-17T05:12:57.307756+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "a-bsr-est-moldando-o-futuro-por-meio-da-ci-ncia-e-tecno-2e5a6c9af39162",
+      "category": "Tecnologia",
+      "title": "A BSR está moldando o futuro por meio da ciência e tecnologia, inovação e transformação digital. - Vietnam.vn",
+      "snippet": "A BSR está moldando o futuro por meio da ciência e tecnologia, inovação e transformação digital. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHM4ZFEzUEV4MXVUSzAyUVpHUlN4aTUxSnlIcnVTeHphTXBUNl9UWEVXeHBGdzNZUFJRcU5qZjBMcFhQUnZtSFB3VEhxT3hLVndyNVpQeXF3MmdhSDZscmYwXy15bl9nTld0bmU2Qm5hMWZ5VU5KQlZFaW5GcXdZT1NEVGdFbHkyVDREVDFtenhKQjNIdVZCMGRjWER6SVZtUTVESk05Wk9XQQ?oc=5",
+      "published": "2026-11-17T04:03:18+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "A BSR está moldando o futuro por meio da ciência e tecnologia, inovação e transformação digital. Vietnam.vn",
+      "summary": "A BSR está moldando o futuro por meio da ciência e tecnologia, inovação e transformação digital. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "internacional-vira-sobre-o-flamengo-e-campe-o-da-copa-d-f80b8ce33286c1",
       "category": "Esportes",
@@ -41,6 +55,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "brasil-sub-20-crava-9-a-0-no-peru-com-show-de-ingl-s-an-76001cd06bf8a7",
+      "category": "Brasil",
+      "title": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr - UOL",
+      "snippet": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr UOL",
+      "source": "UOL",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGZBd3JadWFLTjVYTTROVkdsb0tMMGc2dzhEV05sLXMydTBpWTQ3YUI4REREdjRzell2NjJHcE40Y082Y3A1S0NhR0hwY3d3cFA4TUNIcG9KdndJOVlqajVWcDVEby0tbnVsY2cyNWxjblQydGM4VG1QWnROOWZoYXRselh3OWs0TWZteFc2SEZucWdILWJJcGVJSDRGc0w0LTE4?oc=5",
+      "published": "2026-11-17T00:53:26+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr UOL",
+      "summary": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr UOL",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "regula-o-de-big-techs-pode-reduzir-custos-em-at-r-50-bi-7df99990a72d98",
       "category": "Brasil",
       "title": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões - Agência Brasil",
@@ -61,7 +89,7 @@
       "snippet": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus Portal Edilene Mafra",
       "source": "Portal Edilene Mafra",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaE51U2R0bkZPNGJ1QnoyRGNyUDlJS0lXdVVtZ1JoMzhwaktDdXkwVjRDNHpDRU5wLXdsM2NoWGM4Qk4yWTNfZFRRWHcxeW5vYW5QeXdZTWV4ZDVuc1ZkeFZGbzdvaWd4ZDJTLTJjbW1WdmJRcHJYQlhEMldaQVh5NU84QkdRS1RxYk05bW9vOUN5NjFMaW1pNnI4eWNFT3hrX3BQbGdYSzVyZ1cxVFRxTnROUEFPSmJFR3E4dGYyWDU?oc=5",
-      "published": "2026-11-16T22:52:58+00:00",
+      "published": "2026-11-16T22:55:43+00:00",
       "image": "",
       "tone": "purple",
       "dek": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus Portal Edilene Mafra",
@@ -71,9 +99,9 @@
     {
       "id": "com-apoio-do-mcti-computadores-qu-nticos-chegam-a-jo-o--3b301d78b6469d",
       "category": "Tecnologia",
-      "title": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança - Governo Federal",
-      "snippet": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança Governo Federal",
-      "source": "Governo Federal",
+      "title": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança - GOV.BR",
+      "snippet": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança GOV.BR",
+      "source": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc2EzVEZ2S2FjM2F6QWlRVTRUT2x6UjRhdUdINzBZNmZHOU5uU2ZEbEREUkk4U1Y5SmxLXzVxS3Q5MW9fRENIV0ZrRllZOGtoSVh6bXZ3ay1qdVBldlE0bDFVZkJqTnl6dVBkVGttempEYWJxSDJpamdza0UzMGFwcUJDTWV2OWE2Y0d1ZzZuN3hoNXpZZmNiR3BDOWlidUNBeGNRNU5Pdk9KWXNYWEQtSEhqUzFxQVpsbUY1Mkh5ODZTRlB3VTFQeFBJYk5ONzUzaTI5U3hIYTU4Rk91b3R6TklvYUtKYXB6c3ZwQWhrVUtaQQ?oc=5",
       "published": "2026-11-16T22:28:19+00:00",
       "image": "",
@@ -337,9 +365,9 @@
     {
       "id": "mjsp-participa-de-cerim-nia-do-dia-do-policial-federal--adb1e8b0b8bbcf",
       "category": "Polícia",
-      "title": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública - Governo Federal",
-      "snippet": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública Governo Federal",
-      "source": "Governo Federal",
+      "title": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública - GOV.BR",
+      "snippet": "MJSP participa de cerimônia do Dia do Policial Federal — Ministério da Justiça e Segurança Pública GOV.BR",
+      "source": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmpxQWU1Q01MMkhVdEowc2xtallZWDdBaVhpaHlsaEptNWNrYVczMFRGRGVCb2RZYWotNEU5VWZMLWdNeE5YRXBEUkt0TEdPVTc4aFo4RjZqcEw1YlQ4Mm9pWWFsZjNDMVBFdU1LeUZJQXA0d3FjOUNlWnVHWjlnSGswcFhKVGcwWmtmZFV4UnJsUUU3eFNoSnk5SmVObm5qQ0E?oc=5",
       "published": "2026-11-16T17:11:08+00:00",
       "image": "",
@@ -486,6 +514,20 @@
       "tone": "purple",
       "dek": "A VIGLACERA PARTICIPA DA SÉRIE DE EVENTOS DE CIÊNCIA E TECNOLOGIA - INOVAÇÃO E TRANSFORMAÇÃO DIGITAL NA INDÚSTRIA DA CONSTRUÇÃO Vietnam.vn",
       "summary": "A VIGLACERA PARTICIPA DA SÉRIE DE EVENTOS DE CIÊNCIA E TECNOLOGIA - INOVAÇÃO E TRANSFORMAÇÃO DIGITAL NA INDÚSTRIA DA CONSTRUÇÃO Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "temporais-avan-am-pelo-brasil-e-atingem-reas-produtoras-2d2e32731e7d31",
+      "category": "Brasil",
+      "title": "Temporais avançam pelo Brasil e atingem áreas produtoras nesta semana - Notícias Agrícolas",
+      "snippet": "Temporais avançam pelo Brasil e atingem áreas produtoras nesta semana Notícias Agrícolas",
+      "source": "Notícias Agrícolas",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcU01MEdBcWVtZVpSUS0wWG1tSUtHTmg2UUFzbVUybktwQU9WSHlZQzVZQVBhMUpJRm1DazhwMURnUnptMVg4bjFtYWE3QlE3NVdHa2t3QXdpM1d6NnBRN2hoUVBGZENJY0IxektiYnotMGdCYjUtcTdSc2tFMUk5aXpnZW1PR0FfVkdJdjRvanlLV1dzVEpZVHhNczVTOFBVVlNvWndhU3hXUWNJVjVoWENnV3RleDUwNFBkMDROWF8xVGoxTHpJOEE5Y3JUc3EwUXZhdWxvMnLSAd4BQVVfeXFMT2FLaTgzWjhYWWxxckdrMmpSMWd0VFBzSmVwTC1UMUdmTUpjcGs4d0tNWjg1OENYZkZDb3NuUUlHRExKbWR4X2hvRXNpUjRLdzdfenY4UHdoMnkyblI5dDF1aURiNFJPcnlKam0wS25Gb0V0VS05eWw5SDFxTlVibFIwLWtxdUhsdzE5eEF4emJCX3J5ZGNEMnlxdnhDZFBHU2hINkk0WXZOS041eUNPdEQyd042blNTbjc2ajM5Z2d2aWd6TGw4eEtaemI2dHhPQWlVMXYyVkN3TllTZzFR?oc=5",
+      "published": "2026-11-16T13:54:02+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Temporais avançam pelo Brasil e atingem áreas produtoras nesta semana Notícias Agrícolas",
+      "summary": "Temporais avançam pelo Brasil e atingem áreas produtoras nesta semana Notícias Agrícolas",
       "summary_by": "descrição da fonte"
     },
     {
@@ -809,52 +851,9 @@
       "dek": "Ronaldinho volta aos gramados após 11 anos em empate do Ravenna TV Sim Brasil",
       "summary": "Ronaldinho volta aos gramados após 11 anos em empate do Ravenna TV Sim Brasil",
       "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "opini-o-ronaldo-lemos-brasil-n-o-tem-plano-b-na-crise-d-0eafc4eeb63c84",
-      "category": "Brasil",
-      "title": "Opinião - Ronaldo Lemos: Brasil não tem plano B na crise de cibersegurança - Folha de S.Paulo",
-      "snippet": "Opinião - Ronaldo Lemos: Brasil não tem plano B na crise de cibersegurança Folha de S.Paulo",
-      "source": "Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOY2NFb2RReGhxR3hwRHdVSmZsVU9uNE96VlhmOGVneWwxSUtPc3NNXzVtLVhSSUhpRm5XV05tTnlJMnloZzdNcUIyckJkOEZHdlRfWDBEZ0VuNmNMeUJ6SlNpRHF6OXJIQXpQV2FKR0s3bHBDVlBkUVZrbEhsSmJFMmVEblR2Z2NrUXhYblQ4Qlh2ZXpMVDZyWkMyMTFJeWZmUHlrN0JMaVZoMzBLWUU2M3BOcW0?oc=5",
-      "published": "2026-11-15T17:00:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Opinião - Ronaldo Lemos: Brasil não tem plano B na crise de cibersegurança Folha de S.Paulo",
-      "summary": "Opinião - Ronaldo Lemos: Brasil não tem plano B na crise de cibersegurança Folha de S.Paulo",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-busca-investimentos-da-sia-para-explora-o-de-miner-b5b59e8e47468a",
-      "category": "Brasil",
-      "title": "Lula busca investimentos da Ásia para exploração de minerais críticos - Agência Brasil",
-      "snippet": "Lula busca investimentos da Ásia para exploração de minerais críticos Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSV9TRnRKWHZNU003bU51WVY4Um8yaDdBdllDTFZxeUVzcW5QSUVRWW41ajVZMjBjYjUxRExqcHY3NURDNEhLbGdhZXFXcGMwQ0FqSVJhRXBOMjBubGc3aHNzSmlQclh6Qy13TU9ZVmROcnZyZ09jemhySlpmUjdCU01oYjlDdUhxMURkMTBjZ2xZYWxKXzE4NjJnNEpwNEFCZDJnZkVCVlRNSjlKa28yVkxueU5YbHh1N3hfeDZkaw?oc=5",
-      "published": "2026-11-15T16:30:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula busca investimentos da Ásia para exploração de minerais críticos Agência Brasil",
-      "summary": "Lula busca investimentos da Ásia para exploração de minerais críticos Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "lula-v-oportunidades-na-sia-para-explorar-minerais-cr-t-3e9005976cd846",
-      "category": "Brasil",
-      "title": "Lula vê oportunidades na Ásia para explorar minerais críticos - Agência Brasil",
-      "snippet": "Lula vê oportunidades na Ásia para explorar minerais críticos Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeUxLb2FCQ2lvbHJlRGlldnVSM3FUZWdVdUZjYjExSmhqeThPd2dxVm1GSjhJeWdpNElBanh5MmZLVnBQY29Hd2dBaUxUWFBfSHZ1R1Z3TlpIemcyR0VXZEd2Yzk0d05EbW8yZlpuMkhRRVhXb2dEaTJTWDd5V1I1NnJCSVcybDVpNXlWNFlpUmN0M2I3MXkyUUhTd2M5bVZMek4wcmpRQUZzYTFFcHFNUzB1VXhoYm1WX2M0?oc=5",
-      "published": "2026-11-15T16:30:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Lula vê oportunidades na Ásia para explorar minerais críticos Agência Brasil",
-      "summary": "Lula vê oportunidades na Ásia para explorar minerais críticos Agência Brasil",
-      "summary_by": "descrição da fonte"
     }
   ],
   "feed_warnings": [
-    "Mundo: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=not%C3%ADcias+internacionais+mundo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
-    "Entretenimento: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=entretenimento+cultura+m%C3%BAsica+cinema+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+    "Mundo: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=not%C3%ADcias+internacionais+mundo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
   ]
 }
