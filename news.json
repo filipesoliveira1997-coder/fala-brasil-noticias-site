@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T05:12:57.307756+00:00",
+  "updated_at": "2026-11-17T07:35:02.819254+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -66,6 +66,20 @@
       "tone": "",
       "dek": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr UOL",
       "summary": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr UOL",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "economia-prateada-ebem-promove-encontro-sobre-oportunid-c9854b1f45750b",
+      "category": "Economia",
+      "title": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ - ABC da Comunicação",
+      "snippet": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ ABC da Comunicação",
+      "source": "ABC da Comunicação",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUpZc29kVV9JdjhoVnc1WUt3NFpyemlNbGNXOVR4ZDJCb2kxdk5RQzFEbHRDTXJSRXZZWFlJMVZDSmpHR1RmQTRiZV83b1BHYzFxMUw1c0h3cDNEVFVNaE8yQmlTRkRMaGZSSlZTcVI0RXVha3Rhc1o3OFltWk9tQmNmaVFtVU11Mk1qdllyNzhDekFRRUQ3djhDeVhyTm5hbUUwdlp6MWt6U1hFWC1nT2xPSVdiMGhmVzRtY3BPaw?oc=5",
+      "published": "2026-11-17T00:15:38+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ ABC da Comunicação",
+      "summary": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ ABC da Comunicação",
       "summary_by": "descrição da fonte"
     },
     {
@@ -837,23 +851,13 @@
       "dek": "Rayan treina normalmente e deve reforçar o Brasil contra Singapura CNN Brasil",
       "summary": "Rayan treina normalmente e deve reforçar o Brasil contra Singapura CNN Brasil",
       "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ronaldinho-volta-aos-gramados-ap-s-11-anos-em-empate-do-877018ee6c469e",
-      "category": "Esportes",
-      "title": "Ronaldinho volta aos gramados após 11 anos em empate do Ravenna - TV Sim Brasil",
-      "snippet": "Ronaldinho volta aos gramados após 11 anos em empate do Ravenna TV Sim Brasil",
-      "source": "TV Sim Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOSFpraGxyR1l0ZnBzMHBXOWpLaFhtckZqRExDRnVkaXhFNEZpbF9peENOWlpmSWNIS3Y1OGlyQV90RHR2LUtaeTZ0cDUwNlkyZTRJT0JmM0NIZEwyVngweUFqNUlHemFIUFZhWmxETno1LWxNV2tSMjlTOXlubmlRakM5dW9TaXZURllXaEliSjNkZDZ4alQ0QUFQYzdid210Qm9yN2RVdG4wNWRBZGkw?oc=5",
-      "published": "2026-11-15T17:13:56+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Ronaldinho volta aos gramados após 11 anos em empate do Ravenna TV Sim Brasil",
-      "summary": "Ronaldinho volta aos gramados após 11 anos em empate do Ravenna TV Sim Brasil",
-      "summary_by": "descrição da fonte"
     }
   ],
   "feed_warnings": [
-    "Mundo: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=not%C3%ADcias+internacionais+mundo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
+    "Brasil: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=Brasil+not%C3%ADcias&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Mundo: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=not%C3%ADcias+internacionais+mundo&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Polícia: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=seguran%C3%A7a+p%C3%BAblica+pol%C3%ADcia+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Entretenimento: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=entretenimento+cultura+m%C3%BAsica+cinema+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419",
+    "Saúde e bem-estar: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=sa%C3%BAde+ci%C3%AAncia+bem+estar+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
   ]
 }
