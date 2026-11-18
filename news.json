@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T01:32:31.349619+00:00",
+  "updated_at": "2026-11-18T03:04:16.626298+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "maracan-vence-cear-nos-p-naltis-e-campe-o-in-dito-do-ce-846990c3232135",
+      "category": "Esportes",
+      "title": "Maracanã vence Ceará nos pênaltis e é campeão inédito do Cearense Feminino - TV Sim Brasil",
+      "snippet": "Maracanã vence Ceará nos pênaltis e é campeão inédito do Cearense Feminino TV Sim Brasil",
+      "source": "TV Sim Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTc4eUhPMS1GRktGa0RiUjNETjFIUmVWOVNFQTFlU1FadklVVmI0RXJJVVZuQmh4WVJWRzFRWWZKVFJVdkRLcFRfM08wNS04RnNWSnc0cnlkVHhocllIajBSU2RwdXdlYnpWVE9KS09uRV9PVjhJQzgzbkF1cFktSU5Jak1lazJyaC0zaVF0WV9JZ0dhVlZLVFUwZ1FGR0E1Wno1dzdiazdKYi1KdXpfWXBmS0tKblNsbF9z?oc=5",
+      "published": "2026-11-18T02:32:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Maracanã vence Ceará nos pênaltis e é campeão inédito do Cearense Feminino TV Sim Brasil",
+      "summary": "Maracanã vence Ceará nos pênaltis e é campeão inédito do Cearense Feminino TV Sim Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "ju-ara-mar-al-transforma-cinema-de-agn-s-varda-em-m-sic-9f4c9ee77f6bb0",
       "category": "Entretenimento",
@@ -38,6 +52,34 @@
       "tone": "",
       "dek": "Brasil avança à 2 semifinais do Mundial de tênis de mesa paralímpico Agência Brasil",
       "summary": "Brasil avança à 2 semifinais do Mundial de tênis de mesa paralímpico Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "senado-adia-vota-o-de-destaques-do-projeto-de-ajuste-fi-e35a234e108094",
+      "category": "Brasil",
+      "title": "Senado adia votação de destaques do projeto de ajuste fiscal - Agência Brasil",
+      "snippet": "Senado adia votação de destaques do projeto de ajuste fiscal Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlVPMnZEVkFjWE9VN2VDYjBOQmpGN240NU5MejNjWlZXaUQ2R2dBQ0JsN0l1N3lueXlaSGE0VUJEZTQ4Qms0R08xdzRDdzd1M3V0RTVNUlh6Y0Z5d2hZcXlTZDdZWl9nS0Z3NXlpTDdlanBOVFduZDYyaVdrWkhMbDZ0OTBxakhmLWdvd2M2a2xTM210eEp0Y19reUxiYVZIVWFydUJRZHBqWWVVa1c2dTViSjhQeW10eGc?oc=5",
+      "published": "2026-11-17T22:23:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Senado adia votação de destaques do projeto de ajuste fiscal Agência Brasil",
+      "summary": "Senado adia votação de destaques do projeto de ajuste fiscal Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-mant-m-elimina-o-do-sarampo-ap-s-avan-o-da-doen--dcda626265af7d",
+      "category": "Brasil",
+      "title": "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas — Ministério da Saúde - Governo Federal",
+      "snippet": "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas — Ministério da Saúde Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd3dCemFROWhNREF4ZF9Oa21mSkkzYmRtYWdib2d3M2NPZndiXzNUVFVVV1BWbVd5RHlmSmFtbjhfT2ZQNlM5TmJCbXNJRWdVamFoMElkQXJ5b0lQcWpwZC12cWxpRFFwVWt0N3R2M1c1a1gxeXZsT0IyWndEakNldENvRjYzSi1meW9ud1ktcWFrcXU5cG5PbGV0el9rblZtV2ttREVSRDZ4aXVFSFZ4bVJxMm1OLWVreldmWEItYWZFcTRKQXhsMURqSFhTN25idFM2d3BBM0ViSmc?oc=5",
+      "published": "2026-11-17T22:15:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas — Ministério da Saúde Governo Federal",
+      "summary": "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas — Ministério da Saúde Governo Federal",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "teal",
       "dek": "Jogo Brasil x Singapura: horário e como assistir ao vivo online e na TV grátis Hora Brasil",
       "summary": "Jogo Brasil x Singapura: horário e como assistir ao vivo online e na TV grátis Hora Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "apag-o-mundial-em-17-de-novembro-especialista-explica-p-4ea2f083c5b3db",
-      "category": "Brasil",
-      "title": "'Apagão mundial' em 17 de novembro: especialista explica por que um colapso elétrico global é improvável - G1",
-      "snippet": "'Apagão mundial' em 17 de novembro: especialista explica por que um colapso elétrico global é improvável G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNVHh1eDRpZ3Rjb2M1RWpEVjJHbXdjTjVCQjV0VDljVXVwUEgzdGdIQkhhN3N3UXBYOW0tMEVCbGt0RVhVTDNPcUxBY3NPNGplYUQxLVluTVNNbzl5SmxRZ0RGckpNQzJPRVBOYW5LVDJBSkFqcG9JRElrSUpWVlljQWNsLVFNZFdCeEJudTNaYkM5Ul9UOXMxcjhoajIzamt5TXg1VnJ3dUJpTGhya1hadWdNWThTOTQ3czBIeTk1ZWo4dFJwM1RsTThJZzltTFg1dlo0RndCVjBsU0kxTExLUFBfWWZDOWRn0gH3AUFVX3lxTFAyYVFpZ2E3MUpnY1NqbHZwZUV0LXZLN3p2WE5pSDRFTnZWUjE4X1hReDRWdzBsRHBGNEY0dTRXNEQyVG5ZMmt6V3NyQkdYU2JvdE5MbXJUdUx1clF4U29BMVJfZTZTcjFPN1pZS0ctdU9zN09BRkxLNGNFS3dhSllDVXJ3RzhRTUt1R3VVOVI5WXZoWTgyM2wxRU9INWhfbXZPNFFBSHVoNVNMcGVBYjgzTTNGYnR0eG94Rm1QX0ZDTVg0dzVPSGdnMlVzZUxWaHJvd09Vc3M3UHZfOWRZYjRub0tIWHJva0xMZlNUWHdvdEpjTFJqNWs?oc=5",
-      "published": "2026-11-16T18:31:13+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "'Apagão mundial' em 17 de novembro: especialista explica por que um colapso elétrico global é improvável G1",
-      "summary": "'Apagão mundial' em 17 de novembro: especialista explica por que um colapso elétrico global é improvável G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "economia-circular-movimenta-at-r-90-7-bilh-es-no-brasil-40b42e06aa378e",
-      "category": "Brasil",
-      "title": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI - Agência Brasil",
-      "snippet": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPODducmhQcGFBMVduSUdwVmtqTGhpWDlMYldxY0VWUWNhZU9zenZMRG1WNjl0aXltcEJVNVk1SzVpS21zWEZOWmJFVUlNcmwyM0dSZG5ZSmVPZ1JGQno3TjRHVU53WFVGdG9SZ3FmMUstWmRPRTN2bHFYTTZkM3JKYUcwUklvUDA1UlNPMTJEc3FSd3V5djdvWGU2eEdJdWlNQW42QVRLbHNaaVk3aTVJR0xQTFB1a29SRW5XMzJSVjM5UQ?oc=5",
-      "published": "2026-11-16T18:25:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI Agência Brasil",
-      "summary": "Economia circular movimenta até R$ 90,7 bilhões no Brasil, aponta CNI Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "escola-nacional-de-seguran-a-p-blica-e-academia-naciona-e90e0ca5e0dd91",
-      "category": "Polícia",
-      "title": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital - GOV.BR",
-      "snippet": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital GOV.BR",
-      "source": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQXFieXFuV3R4VTlZSzdSeTVkOFU5VVVBUEZQTFRNS1NqMTd2eFpSUHc2TnRrcldrUGt3dGhROGZNQkhLNlZ0UWFPaTd5ckt5eGtDOUF3MTRYMjRTXzFKMVp2SmdNMVZpQXIxbGMwTWE1SllOTHZveWZ3Tm1lRGlkbjRsSTduT0g3T2N0LU10YkVjdk1MMjdLLTB5eUhBR3B1NVRiaHhqWmc1QVlsdE43ZWVaNW01cXZ6d2dCNGRzOXhsanc4TFFhb25nZTgyQ1hPTFk2Qm5WOGJLQzB1ZTd6QjlveHpPOEZDWER4R2pHM1VkUkYxNkE?oc=5",
-      "published": "2026-11-16T18:07:46+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital GOV.BR",
-      "summary": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital GOV.BR",
       "summary_by": "descrição da fonte"
     }
   ],
