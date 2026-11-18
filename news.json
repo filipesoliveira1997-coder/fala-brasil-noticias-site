@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T11:17:06.365671+00:00",
+  "updated_at": "2026-11-18T13:29:40.382335+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "com-flamengo-e-cruzeiro-brasil-tem-10-indica-es-no-glob-e24ebdbb09df5d",
+      "category": "Esportes",
+      "title": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards - Band",
+      "snippet": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVhiOUVaRE1LdTZjVU8xT0xpOExGa3BWMHEtOFJESGRHOGEwZ2R6ZWRwZVFTNHV4VFpHcEpIQjBKNEhELWpzbWFxNzFQc3ZCeWFFeTQzMDFBbGNCSWhKYjBoN3ZmcnhUeWNBaHpvVjFjajZuZFpfMXhEM3ZBZ044R3luNDJvcHkzbG4zZmE4ZmtZWFFmYzVXNTMxYWdLcmwwUWVOb2MteVRQdGdFWm1uSA?oc=5",
+      "published": "2026-11-18T11:56:48+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards Band",
+      "summary": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards Band",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "alemanha-e-peru-fazem-amistoso-feminino-com-entrada-gr--a909f51a297c4b",
+      "category": "Esportes",
+      "title": "Alemanha e Peru fazem amistoso feminino com entrada grátis no Rio - TV Sim Brasil",
+      "snippet": "Alemanha e Peru fazem amistoso feminino com entrada grátis no Rio TV Sim Brasil",
+      "source": "TV Sim Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcDhxMDNCMFZaa1RWcXNJSU5YMHdwUm1YQ0JTZDcwNU01WjFVSk1HU1UxcHNaZklxbnk2U1ppOEdlLUNoM1o1V0RCMzRKY29rYlc4TVB0YzJFVi03ajVBdEVzczF0UXhBZmlJSnB1QWxsT0YxYWctR3hFc0hmZ243MFRHZ1R3RXZ3Y3Z5a3FfcEhCWDhpMWxwdUdUd2FlOGFjVW9ucFFnWUVTTnFtSXdOam01RkFnLUNiZy12a2VzY1M?oc=5",
+      "published": "2026-11-18T08:53:17+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Alemanha e Peru fazem amistoso feminino com entrada grátis no Rio TV Sim Brasil",
+      "summary": "Alemanha e Peru fazem amistoso feminino com entrada grátis no Rio TV Sim Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "exclusivo-brasil-negocia-investimento-da-china-para-imp-123657dee80683",
       "category": "Brasil",
@@ -136,6 +164,20 @@
       "tone": "",
       "dek": "Baixa cobertura vacinal contra sarampo e meningite preocupa autoridades de saúde no Brasil G1",
       "summary": "Baixa cobertura vacinal contra sarampo e meningite preocupa autoridades de saúde no Brasil G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "for-a-nacional-do-sus-completa-15-anos-com-mais-de-10-m-1e80169b53f187",
+      "category": "Brasil",
+      "title": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil - GOV.BR",
+      "snippet": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOTnVveUNUSTBobWJkUDdyU0RrRlBoQ3R1Qnh3U21fMXYyaktQdVY3TnYxZmx2dVBhVTVWVVJhcG5Nc2NTeVJFMkxRcG1XOER6M1ZCYnRvMHY2REdmNk5fejlOMkE1M2ttRC1FVFV5NlpjQ1FDOWVrTFRiZEplVjdiZlg0dkJ4U1FmUnVTZnUyc09FWWJId3EzaUoxVUg0ZVV3Y0s1Q2IybEJOQkJGM3hyVEpJellwVFNuZnBTbllQMm9jTDJYZTY0WnJiTlk2OEVRTFRRVFh4Y0dRZ2praG1xcVZCaElQa0tzWC1FamxfUktsMldoN2pxVw?oc=5",
+      "published": "2026-11-17T22:50:13+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil GOV.BR",
+      "summary": "Força Nacional do SUS completa 15 anos com mais de 10 milhões de pessoas beneficiadas em todo o Brasil GOV.BR",
       "summary_by": "descrição da fonte"
     },
     {
@@ -808,48 +850,6 @@
       "tone": "gold",
       "dek": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ ABC da Comunicação",
       "summary": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ ABC da Comunicação",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "regula-o-de-big-techs-pode-reduzir-custos-em-at-r-50-bi-7df99990a72d98",
-      "category": "Brasil",
-      "title": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões - Agência Brasil",
-      "snippet": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPVUVJZHNfSFpnYmJBYlVHOGJKS1pWV3dtemMyUmdBbkp3N3AtVGF5cjF5dWlvd2NVazJzMHlRbjlDYnR4ZVFDb092NnVzQnZVOEZKZDFPZTBrdk5PV0U5bVJSbEgtOGEyeEJ3OTdWeEFZbU9HS204eDdXNEJTSmNvQXZ0XzZTQXgwVHY2NnhSZDhIQU9YXzNoZ0RENU04Q053eFFFdTVNVmh4X1JNMjRPSnZ6MnctckxKWi16cA?oc=5",
-      "published": "2026-11-16T22:59:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões Agência Brasil",
-      "summary": "Regulação de big techs pode reduzir custos em até R$ 50 bilhões Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cinema-literatura-e-m-sica-movimentam-a-programa-o-do-c-753cc2f43bc789",
-      "category": "Entretenimento",
-      "title": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus - Portal Edilene Mafra",
-      "snippet": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus Portal Edilene Mafra",
-      "source": "Portal Edilene Mafra",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaE51U2R0bkZPNGJ1QnoyRGNyUDlJS0lXdVVtZ1JoMzhwaktDdXkwVjRDNHpDRU5wLXdsM2NoWGM4Qk4yWTNfZFRRWHcxeW5vYW5QeXdZTWV4ZDVuc1ZkeFZGbzdvaWd4ZDJTLTJjbW1WdmJRcHJYQlhEMldaQVh5NU84QkdRS1RxYk05bW9vOUN5NjFMaW1pNnI4eWNFT3hrX3BQbGdYSzVyZ1cxVFRxTnROUEFPSmJFR3E4dGYyWDU?oc=5",
-      "published": "2026-11-16T22:55:43+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus Portal Edilene Mafra",
-      "summary": "Cinema, literatura e música movimentam a programação do Casarão de Ideias em Manaus Portal Edilene Mafra",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "com-apoio-do-mcti-computadores-qu-nticos-chegam-a-jo-o--3b301d78b6469d",
-      "category": "Tecnologia",
-      "title": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança - Governo Federal",
-      "snippet": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQc2EzVEZ2S2FjM2F6QWlRVTRUT2x6UjRhdUdINzBZNmZHOU5uU2ZEbEREUkk4U1Y5SmxLXzVxS3Q5MW9fRENIV0ZrRllZOGtoSVh6bXZ3ay1qdVBldlE0bDFVZkJqTnl6dVBkVGttempEYWJxSDJpamdza0UzMGFwcUJDTWV2OWE2Y0d1ZzZuN3hoNXpZZmNiR3BDOWlidUNBeGNRNU5Pdk9KWXNYWEQtSEhqUzFxQVpsbUY1Mkh5ODZTRlB3VTFQeFBJYk5ONzUzaTI5U3hIYTU4Rk91b3R6TklvYUtKYXB6c3ZwQWhrVUtaQQ?oc=5",
-      "published": "2026-11-16T22:28:19+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança Governo Federal",
-      "summary": "Com apoio do MCTI, computadores quânticos chegam a João Pessoa e implementação do Ciquanta avança Governo Federal",
       "summary_by": "descrição da fonte"
     }
   ],
