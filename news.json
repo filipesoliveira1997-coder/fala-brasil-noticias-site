@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T05:16:30.013305+00:00",
+  "updated_at": "2026-11-18T07:32:03.705235+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -47,7 +47,7 @@
       "snippet": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
       "source": "Culturadoria",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNVNKbU16akpIX1Q1THpXMmJhWWNzRmh3ejk3MnhJYWtfcFNHTU1lUFRsV1hWM0ZuaHJyZ1hfZkRGaDU5SThSSWpQV011T1JhMldoMGVONHpGRi1wZWlDWkV2b0NTMldkbXBLdzRmakZRSVVsdW90VTFwZzBzd3Vrb3ZPdw?oc=5",
-      "published": "2026-11-18T01:07:30+00:00",
+      "published": "2026-11-18T01:14:26+00:00",
       "image": "",
       "tone": "purple",
       "dek": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
@@ -332,6 +332,20 @@
       "tone": "",
       "dek": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições BBC",
       "summary": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "drones-carros-aut-nomos-e-rob-s-o-que-a-china-vai-mostr-14b08bedd2b614",
+      "category": "Brasil",
+      "title": "Drones, carros autônomos e robôs: o que a China vai mostrar a Trump e Putin — e a vida difícil dos trabalhadores fora da 'cidade das maravilhas' - BBC",
+      "snippet": "Drones, carros autônomos e robôs: o que a China vai mostrar a Trump e Putin — e a vida difícil dos trabalhadores fora da 'cidade das maravilhas' BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9rWDN6ZlhnaE45eFlDVHZoOXpCei0xMWNHR1NqYmF5U0tCRG0wMUZ3elhSVk9GS0toeUEySm0xSU85dm9ZRzlTcHEzeHB3cGNFZ0RKSENtemRBVEluMWdLZzFyY9IBaEFVX3lxTE1LUDQtQnB2THRtLXI0emowa3ZOMW5Ia0hYNTVSLUY0SF96NVFiWmdOT1FKZnZTYlk4b29qaXNRY2J0WlNRZEowejlsQk1BbjNMTjFBNmNVMEtHTW5sdV9xMVVDSjhxVWdo?oc=5",
+      "published": "2026-11-17T16:36:02+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Drones, carros autônomos e robôs: o que a China vai mostrar a Trump e Putin — e a vida difícil dos trabalhadores fora da 'cidade das maravilhas' BBC",
+      "summary": "Drones, carros autônomos e robôs: o que a China vai mostrar a Trump e Putin — e a vida difícil dos trabalhadores fora da 'cidade das maravilhas' BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -657,6 +671,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "elei-es-no-brasil-e-nos-eua-mostram-for-a-do-eleitorado-bcea4909d96ecb",
+      "category": "Brasil",
+      "title": "Eleições no Brasil e nos EUA mostram força do eleitorado que não se identifica com extremos, diz Tim Dixon - Folha de S.Paulo",
+      "snippet": "Eleições no Brasil e nos EUA mostram força do eleitorado que não se identifica com extremos, diz Tim Dixon Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTNob1g5OTFaMGZGcEtZaThnbVZvdFhOYmRRemlnWnZYaF9URVBKTUZ6Z1lnYzNTTlUyLVo3d0ktSmVNMnBuRkoyYWdtNlhUV1ZJakY0V083SGRDQ3lEZ18wR0xrWE9UbDNkQ3RZdEtOaGw5czBVM25BTjlEVzM3S0JRUEFuWS1uM3B1c2ROZFBwSU1jbHpmM2l5NVAzUU5oLUtnajlENG0yYmRrZ3ZEUHIwSFQ5NkhGbkdXdnpOVGhnU0R3ZUpVTHhxLWl0Nm43Zm5aVC1FbHhCSHY4Y0otdk96MkJjbUR4SGJZ?oc=5",
+      "published": "2026-11-17T02:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Eleições no Brasil e nos EUA mostram força do eleitorado que não se identifica com extremos, diz Tim Dixon Folha de S.Paulo",
+      "summary": "Eleições no Brasil e nos EUA mostram força do eleitorado que não se identifica com extremos, diz Tim Dixon Folha de S.Paulo",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "o-minist-rio-da-constru-o-lan-a-o-portal-de-informa-o-s-a9b810f20b6b1b",
       "category": "Tecnologia",
       "title": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. - Vietnam.vn",
@@ -822,34 +850,6 @@
       "tone": "",
       "dek": "Após seis anos e um bilhão de chaves, Pix terá novas ferramentas em 2027 CNN Brasil",
       "summary": "Após seis anos e um bilhão de chaves, Pix terá novas ferramentas em 2027 CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "como-era-o-mundo-no-ltimo-singapura-x-brasil-relembre-b-150ccf619a03f2",
-      "category": "Esportes",
-      "title": "Como era o mundo no último Singapura x Brasil? Relembre - Band",
-      "snippet": "Como era o mundo no último Singapura x Brasil? Relembre Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGxOWjBQSTZrNzVzaUYtTkRRN21vVE9wR21wclNGeFZPaWhsVG9wSkxsZUh4eC1mTTg5akQtcmFtQ2hlWjhHSkJXOHY3M2ZMUmY1Z3dueXZsMFcyWENMcDhFSkdFRzZNd3J1TGZ3ek9sUTVocmNTQjlvSUFGZ2lyT2REUWNXXzVBaWhRTVY5MGhaQlpHeFdlTzB0WFViWG9Sal9mZWl4ZVdkMkpoWWZYb3hqQTM?oc=5",
-      "published": "2026-11-16T21:01:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Como era o mundo no último Singapura x Brasil? Relembre Band",
-      "summary": "Como era o mundo no último Singapura x Brasil? Relembre Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "tiny-desk-brasil-prepara-show-em-din-mica-in-dita-rolli-23a0494b8d4b4e",
-      "category": "Entretenimento",
-      "title": "Tiny Desk Brasil prepara show em dinâmica inédita - Rolling Stone Brasil",
-      "snippet": "Tiny Desk Brasil prepara show em dinâmica inédita Rolling Stone Brasil",
-      "source": "Rolling Stone Brasil",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOODJmM3NDY0h6N1VUX1o5SlliOTB2Yks2RDZoVU9kNjAybjF3aFh5RG9fY3djTFlhNkdUWnBWZzB3RlpfakRXTjlsUWN5Y1A2ZnhlNVQ2NHMzQTViNXU1bXhFUUJ6YVFhbEFnSDNNeVhLelY4U3BtVWdPUUxxQjdScDdqcnZhMkRHcjI3S1ZB?oc=5",
-      "published": "2026-11-16T20:43:41+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Tiny Desk Brasil prepara show em dinâmica inédita Rolling Stone Brasil",
-      "summary": "Tiny Desk Brasil prepara show em dinâmica inédita Rolling Stone Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
