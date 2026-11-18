@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T13:29:40.382335+00:00",
+  "updated_at": "2026-11-18T15:11:33.320170+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,6 +13,34 @@
   ],
   "articles": [
     {
+      "id": "mapa-do-caminho-ind-gena-proteger-territ-rios-destaca-e-fa89fe42b7dd77",
+      "category": "Brasil",
+      "title": "Mapa do Caminho Indígena protegerá territórios, destaca Eloy Terena - Agência Brasil",
+      "snippet": "Mapa do Caminho Indígena protegerá territórios, destaca Eloy Terena Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWUxcHE3azdKT2ZPSFBBRDRJa3p2VWstb1BVM3pWYXd1eDJfcFkwTmhHbmFoaXBDQkVUZjBsdUF4V2dhX1BBRHNKZmVqT3JHcnBJZHZnamYtMFp0RE1sQno1eFAxN2hNRHRMdGRfMG4xV3NCb2U2V1djUGJHclY2TkdIaVFJclJHeXJ6R2ZKVEdWM3NMYVhVeGxrYVZxVE9kLS1xNTIwQzE4SVU0TS1rcHlFNWtkV2pkN2JYOHlzZ00yQU1ZZlZKRTNfUHE?oc=5",
+      "published": "2026-11-18T14:13:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Mapa do Caminho Indígena protegerá territórios, destaca Eloy Terena Agência Brasil",
+      "summary": "Mapa do Caminho Indígena protegerá territórios, destaca Eloy Terena Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-lc-49a7d88ccfca47",
+      "category": "Brasil",
+      "title": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas - Agência Brasil",
+      "snippet": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUkRqZ0JPQ3pSV245c3ZRMFQ4ZVhLSTdzX1dZLWM1U0VQX0VWdF9xSDh0emJrbmhEU1VfRHRZYk9paXhXS05aeVJLMDU0SlA0MmNHS3g1TjBBcHBhaDBhRkNHbTBnTG5PWlVGbGRYNlI5ZlNzNmJua1RUaHlMOTZrZnJRV0xvM3B5LVlTdlhBb2NfZXltZGlpbnd0SEtBUnBnbXB1WWpKSlQxVVBIejBXMjd4bTFFZmZuQ3NwXzVTTzRrZ19ic0E?oc=5",
+      "published": "2026-11-18T14:12:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas Agência Brasil",
+      "summary": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "com-flamengo-e-cruzeiro-brasil-tem-10-indica-es-no-glob-e24ebdbb09df5d",
       "category": "Esportes",
       "title": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards - Band",
@@ -24,6 +52,20 @@
       "tone": "teal",
       "dek": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards Band",
       "summary": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards Band",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "sociedade-se-sente-tra-da-por-suzane-von-richthofen-por-58456296daad4e",
+      "category": "Brasil",
+      "title": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy, consultora de documentário da Netflix - BBC",
+      "snippet": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy, consultora de documentário da Netflix BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZ3ZMUl9kcjB3M05YRTFKSGNKaDNzUU00ZFphQ0p6NzJYRU5uWUhUWkZNcE5YY1Y1Sk9ZTGllVmRxamFMbWlDYW5KNTBRc1dwVXUtM21VNnhqcFlpOGs4VDExY9IBaEFVX3lxTFBVVDFKQjFuSlRoTWhtOEJZNjViQjNwMnJDX0RPWERmX1JjNmJWLTJCQ096MnV3c1BFclpXcWM4cjc2b1lBbEFubUQ4ZllVSHU5QkdjdDg3MEZjb2loRUdlX3NEaFBwSlNP?oc=5",
+      "published": "2026-11-18T10:31:03+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy, consultora de documentário da Netflix BBC",
+      "summary": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy, consultora de documentário da Netflix BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -225,9 +267,9 @@
     {
       "id": "jornalistas-de-diferentes-regi-es-do-brasil-visitam-hos-5afe3f341c517a",
       "category": "Saúde e bem-estar",
-      "title": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho - Prefeitura de São Paulo",
-      "snippet": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
-      "source": "Prefeitura de São Paulo",
+      "title": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho - Prefeitura",
+      "snippet": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura",
+      "source": "Prefeitura",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR0R4Tjh3WWM4RG40YVFuMzhQTnNsb19EMUtfYVNNUVAyT1J5WGFqcUZlZThrbWVEYU5TT2dNZEYwbjdaRmhjdWJ3aTFZRF9US2JuTUxhcEU5YmpmZHNnLUVtT0JTVnR4Vk02c2NMNk1DbTR5RFhUNVBYR1RPTE1PLXVoczZuVGZFZFNqb0p5WjFJdmprTU5XaThjMU1BRTZNWFVVc3h1UEx5Mk9heTRQZVlDRFRCekN4YnlSelVNc2pTNWVaQlJfSTYwS2FhZw?oc=5",
       "published": "2026-11-17T22:04:43+00:00",
       "image": "",
@@ -393,9 +435,9 @@
     {
       "id": "brasil-campe-o-do-1-mundial-militar-de-v-lei-sentado-mi-5d6996abe6cd81",
       "category": "Brasil",
-      "title": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa - Governo Federal",
-      "snippet": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa Governo Federal",
-      "source": "Governo Federal",
+      "title": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa - GOV.BR",
+      "snippet": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa GOV.BR",
+      "source": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTlrUkxvUkNfdkF1eWI2dm5Ea3M5RzNHR0Fndk1xMmhHR09BYi13UmhheFZfaUpZMXBoSjhoczcwWURsX3RPa0hKbGlRM0lkQzF5eG9XdEN0WU9MWWhFNFMwMlpOV2ZscTdJSzRJYjVTTUVPRlp2MGZQUE1Eb2daMVcwRnZSNUFDNE1OYk5ISlpqWUI1UUJfTDRXUFRMaGVuOGFmS25iRUpwVWdIODF1X2ZKMGVkOU5O?oc=5",
       "published": "2026-11-17T17:50:13+00:00",
       "image": "",
@@ -808,48 +850,6 @@
       "tone": "purple",
       "dek": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. Vietnam.vn",
       "summary": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "sob-a-alega-o-de-risco-de-a-tecnologia-ser-desviada-par-385abc594cead5",
-      "category": "Brasil",
-      "title": "Sob a alegação de risco de a tecnologia ser desviada para a China, EUA restringem acesso do Brasil a chips avançados de IA - G1",
-      "snippet": "Sob a alegação de risco de a tecnologia ser desviada para a China, EUA restringem acesso do Brasil a chips avançados de IA G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOTGJqV3pnbUgtcV9aVXhFWjBxZDBrc1FxQ21PbGliX2pQZ2NQTGpvcEsya2FpaWIwcnRyNVZ4U21mSU9oRVY2NU13Qml6NV9HWFNCQzNQVWthSnFNWkJ5NERuYmxGazBNSGp5QVIzR2VqbHVlMjdENnhPSmxmcXZPQ1VPS3JpdkxYS3h2LWpPcmxFVEZXZjFZNDM2bnlzY2hsOTlDUGdGUDlYaXk0OG1nMUR4SjNJY1lzTlJtVW1uX08wYmF0THpLd2haQ3VTang4QjlxZGY5OWNGQVkxaUs2cVRNdjB2Q1hUUkRNWkJBS3VnUEp5OFpicGFDbXlRNXUzeDhMYlV1R1ZKLWRCNk5ocNIBnwJBVV95cUxPdWRkXzZmZUtiSlJNN2lSakQzLVlxRmhJbF9GckxCNkpoWU9WZmpBekJDVWlWZVd0b0VpQThGVzJVQWxZNC1acG02eFlnNXFPOW90Y01iZVIzTENhSmZ3Nzh4QzUzMzdWclJjNHNXSUxVNXA5UVVIcXExamtwOVF5SHlCQzNvTmFVUmlKZU01cjBnZWY2THZnY2VIU0N0YTRBQ2x6R3NwaUlvWEZ3R3pWWTZ5QVZvTk53TE9WaWVEYjVoMFNvZkZzQ1plNVRnaGVjUnJWZ2xfUlNRVDctNTlubnpZSEQzUEc4eXdSUGlYN04yV1lpSjF5anNBRmY5RFhWTVpzaDVJblJmel9zTUg4NGNQR0JkVXN4bmpDMWVoZw?oc=5",
-      "published": "2026-11-17T00:55:43+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Sob a alegação de risco de a tecnologia ser desviada para a China, EUA restringem acesso do Brasil a chips avançados de IA G1",
-      "summary": "Sob a alegação de risco de a tecnologia ser desviada para a China, EUA restringem acesso do Brasil a chips avançados de IA G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-sub-20-crava-9-a-0-no-peru-com-show-de-ingl-s-an-76001cd06bf8a7",
-      "category": "Brasil",
-      "title": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr - UOL",
-      "snippet": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr UOL",
-      "source": "UOL",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGZBd3JadWFLTjVYTTROVkdsb0tMMGc2dzhEV05sLXMydTBpWTQ3YUI4REREdjRzell2NjJHcE40Y082Y3A1S0NhR0hwY3d3cFA4TUNIcG9KdndJOVlqajVWcDVEby0tbnVsY2cyNWxjblQydGM4VG1QWnROOWZoYXRselh3OWs0TWZteFc2SEZucWdILWJJcGVJSDRGc0w0LTE4?oc=5",
-      "published": "2026-11-17T00:53:26+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr UOL",
-      "summary": "Brasil sub-20 crava 9 a 0 no Peru com show de 'inglês', Andrey e Robinho Jr UOL",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "economia-prateada-ebem-promove-encontro-sobre-oportunid-c9854b1f45750b",
-      "category": "Economia",
-      "title": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ - ABC da Comunicação",
-      "snippet": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ ABC da Comunicação",
-      "source": "ABC da Comunicação",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONUpZc29kVV9JdjhoVnc1WUt3NFpyemlNbGNXOVR4ZDJCb2kxdk5RQzFEbHRDTXJSRXZZWFlJMVZDSmpHR1RmQTRiZV83b1BHYzFxMUw1c0h3cDNEVFVNaE8yQmlTRkRMaGZSSlZTcVI0RXVha3Rhc1o3OFltWk9tQmNmaVFtVU11Mk1qdllyNzhDekFRRUQ3djhDeVhyTm5hbUUwdlp6MWt6U1hFWC1nT2xPSVdiMGhmVzRtY3BPaw?oc=5",
-      "published": "2026-11-17T00:15:38+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ ABC da Comunicação",
-      "summary": "Economia Prateada: EBEM promove encontro sobre oportunidades de negócios no mercado 50+ ABC da Comunicação",
       "summary_by": "descrição da fonte"
     }
   ],
