@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T17:19:11.078279+00:00",
+  "updated_at": "2026-11-18T19:12:10.018576+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "na-fao-wellington-dias-celebra-avan-os-no-combate-fome--474f4009c7bb5c",
+      "category": "Brasil",
+      "title": "Na FAO, Wellington Dias celebra avanços no combate à fome - Agência Brasil",
+      "snippet": "Na FAO, Wellington Dias celebra avanços no combate à fome Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcEFyeEFfWEpuQzc0eU5tdFN4LVBUb0NMZG1PMEFsNEJVRkR6Nm1zZXZiRlFRN1g1Z3RqZXFQekhZUEZDZUMtSlN0QUk1VkhOZVNSbDQzY0hDaW1sZlhacnRVTVB6UzVqREdmclprTFBmQWFUQXpETDM3VUtJZTBKblI3YzItdHRtcEF2THIxZ253RDFUQXhoU0w1OEhhMUlMWC1TNE9nSjhfWVRtT0Z6c3JB?oc=5",
+      "published": "2026-11-18T18:40:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Na FAO, Wellington Dias celebra avanços no combate à fome Agência Brasil",
+      "summary": "Na FAO, Wellington Dias celebra avanços no combate à fome Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "usinas-solares-avan-am-sobre-a-vegeta-o-nativa-da-caati-3b59940110bace",
+      "category": "Brasil",
+      "title": "Usinas solares avançam sobre a vegetação nativa da Caatinga - Agência Brasil",
+      "snippet": "Usinas solares avançam sobre a vegetação nativa da Caatinga Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc3NBQW9wWUI0NURNTk9FZmhUN0hlRUJXRTE0ekJSNDdMR2Z3RmRYempEanFyWnFGa3RDY0FDM25uelRQemp4MWV3S0gxX0p4dExNbnBjcTNjcHZBYUpMNjIyUXJHT0J5anlENmFPeXM3VVI5X1dMSWRNUnZBUDZ1cVo5eDNCeTZkbVYxal9hOHZzNWE3M1hCRk5MWVdmMEZSeDdLOFd2bHgtWWE1bm12bVlEc00yQ2ZPc0lVXw?oc=5",
+      "published": "2026-11-18T18:23:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Usinas solares avançam sobre a vegetação nativa da Caatinga Agência Brasil",
+      "summary": "Usinas solares avançam sobre a vegetação nativa da Caatinga Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-cai-no-ranking-da-fifa-ap-s-goleada-sobre-singap-e2e8c9213d6647",
+      "category": "Esportes",
+      "title": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda - Band",
+      "snippet": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREhsT1dISGlwZHlVdnNsdTRzUkdMZjJlYVZsOG1FUUp3SkNjRVE4andOZlpsNkszcmR6U1Z4WkdQT3hzQTczcDJfSTVrcmlQQ2xXaklWZ3NhdFZ2OWNaTmhsZ09BSEpEQnYwY1ZiNVNBeGxHV1ZmN1dBZG1fRm5OOE9FVmRaRXE3eHU3VDFlSzlDS3BBMF9OZTIyemxRQW5jenE5bzFybkRVREVnbXlrZXd4N08yZkZzZHdqNXV0YXRiVkJs?oc=5",
+      "published": "2026-11-18T17:18:37+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda Band",
+      "summary": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda Band",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "ag-ncia-brasil-conquista-1-lugar-no-pr-mio-einstein-adm-b41277fc3f7650",
       "category": "Saúde e bem-estar",
@@ -83,6 +125,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "desigualdade-racial-ainda-marca-acesso-a-emprego-educa--c5d4dcbd7d7539",
+      "category": "Brasil",
+      "title": "Desigualdade racial ainda marca acesso a emprego, educação, segurança e saneamento - Agência de Notícias - IBGE",
+      "snippet": "Desigualdade racial ainda marca acesso a emprego, educação, segurança e saneamento Agência de Notícias - IBGE",
+      "source": "Agência de Notícias - IBGE",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNWgzeDFxUTg4NmtKM2tUTy02dVNLNnRPZ21xbHVfLTlJYzFOcm5QdG9lTHN0VnJPelNQV28xRU1RSDN6QWpWSkQ0dUE4bElrWWJXZFhrMUc0ZjRJTC11R0JyblNxajFWdkpWMUY0cUdsUHV3WC0wNWtzT0dKbGdrdzY2MjctcjhqQ2JSSU9iYlk5aC1fdnRBZGxRdnN6LWc4Y0RUdnJCQnFLbHdScWZJMDZPVExfRDVyUHlaNmM2YzNXaXNrQ2IyWmFoX01idURqN2p5YjhtbEpnY21ISGF6ZHA4dFBOVDNESFZUWmJ6MnE2ZDR1Skt5MHFNNU4xTzV2aEJnTDFn?oc=5",
+      "published": "2026-11-18T13:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Desigualdade racial ainda marca acesso a emprego, educação, segurança e saneamento Agência de Notícias - IBGE",
+      "summary": "Desigualdade racial ainda marca acesso a emprego, educação, segurança e saneamento Agência de Notícias - IBGE",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "com-flamengo-e-cruzeiro-brasil-tem-10-indica-es-no-glob-e24ebdbb09df5d",
       "category": "Esportes",
       "title": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards - Band",
@@ -150,6 +206,20 @@
       "tone": "",
       "dek": "Exclusivo: Brasil negocia investimento da China para impulsionar indústria naval nacional ICL Notícias",
       "summary": "Exclusivo: Brasil negocia investimento da China para impulsionar indústria naval nacional ICL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "n-o-me-preocupa-a-queda-da-aten-o-mas-sim-a-queda-da-cu-6645d06e5a2e90",
+      "category": "Brasil",
+      "title": "Não me preocupa a queda da atenção, mas sim a queda da curiosidade, afirma Starnone - Folha de S.Paulo",
+      "snippet": "Não me preocupa a queda da atenção, mas sim a queda da curiosidade, afirma Starnone Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPTUktSFdWU0dTeURDS2FEd3pFbWJSYW5MVEdyWUEyNUtoZWlUbjMxNy0ybWs0Z005dXB6MU92Ty1IQ3NSV3N4dVh4RVhJWGc1QkVwdTZXSGdsejFVV3otQ2pXOXVHX2tENk9VRHNpTFl6dHZhV0o1TmJROUY1T1RmM2hnTmx3eWZKTWI3X2ZtcmJYc3hDazl4UnJVaUs3cmRqekFBb092QlVWTENObjBtRGhMWFdZWU9iTUlfWWh3RGFSenNNa2c3YWE5RjVDUk5s?oc=5",
+      "published": "2026-11-18T07:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Não me preocupa a queda da atenção, mas sim a queda da curiosidade, afirma Starnone Folha de S.Paulo",
+      "summary": "Não me preocupa a queda da atenção, mas sim a queda da curiosidade, afirma Starnone Folha de S.Paulo",
       "summary_by": "descrição da fonte"
     },
     {
@@ -416,6 +486,20 @@
       "tone": "purple",
       "dek": "Brasil entrega documento sobre mudanças climáticas à Convenção do Clima durante a COP31 www.gov.br",
       "summary": "Brasil entrega documento sobre mudanças climáticas à Convenção do Clima durante a COP31 www.gov.br",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "chuva-de-meteoros-leon-deas-fen-meno-poder-ser-visto-em-5da70ad097d0ec",
+      "category": "Tecnologia",
+      "title": "Chuva de meteoros Leonídeas: fenômeno poderá ser visto em todo o Brasil - www.gov.br",
+      "snippet": "Chuva de meteoros Leonídeas: fenômeno poderá ser visto em todo o Brasil www.gov.br",
+      "source": "www.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVzRiV0ZwZWlOYmd5T3NoWHRLSnB2TjRWd1NqcjZaTmoxNHZoM0RRNC0zZDFkVzRSdzZuR2FqbDg1QU9TclhJN3pYcjh4NmZYZ3NaMy1ZZGNBS05YWHVKcFl4YndjeTNUUnE5S0FrS1c2S3RmUlY0T2NYamdycXh4TVJ6aFFESkNXTjlaV1VYR0VWRE91cmgyMjhqQmw2M2tpU3FkMzNqV2FLdzNJNWozR0YzWWtBOGhiY2RBZlc2OXdOT1hIdlVPaUt1dGtDaFE?oc=5",
+      "published": "2026-11-17T20:17:52+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Chuva de meteoros Leonídeas: fenômeno poderá ser visto em todo o Brasil www.gov.br",
+      "summary": "Chuva de meteoros Leonídeas: fenômeno poderá ser visto em todo o Brasil www.gov.br",
       "summary_by": "descrição da fonte"
     },
     {
@@ -766,90 +850,6 @@
       "tone": "teal",
       "dek": "Brasil x Singapura: escalação e onde assistir ao amistoso da Seleção CNN Brasil",
       "summary": "Brasil x Singapura: escalação e onde assistir ao amistoso da Seleção CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "singapura-x-brasil-confira-escala-es-para-o-ltimo-amist-0603a638edff59",
-      "category": "Esportes",
-      "title": "Singapura x Brasil: confira escalações para o último amistoso da Seleção - Band",
-      "snippet": "Singapura x Brasil: confira escalações para o último amistoso da Seleção Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNWE5BZmZTdDEwdUpLTFpyTFlIcUNuemNBZXpvTlB1TXRXdm1rMmVZTVh3ekRkS1hSVDFXZVh3SGtRSFF4b3hpVUhVd3J4b09lYmltLS1qcVhDWExUdFlnaE9taEo0TkNMeEhDcjF5NFBzanVKSkdQWEM5QkxEa1BYZW5QQkMtd2ZJcTNqV3VuVmN0QVlOVy1CaTJkb1dtYTVGQnNwN1VaNnV5S2RyZlo3VnVBRVBTVHZNdjJMR2RZTHFOZmpiMG5taXFoMA?oc=5",
-      "published": "2026-11-17T09:13:04+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Singapura x Brasil: confira escalações para o último amistoso da Seleção Band",
-      "summary": "Singapura x Brasil: confira escalações para o último amistoso da Seleção Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "por-que-a-europa-pediu-a-seus-cidad-os-para-fazerem-kit-76b138e57c3a81",
-      "category": "Brasil",
-      "title": "Por que a Europa pediu a seus cidadãos para fazerem kits de emergência? - BBC",
-      "snippet": "Por que a Europa pediu a seus cidadãos para fazerem kits de emergência? BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBWZ01mSk10ZFlhQ1A2UVlZSXJqVUVSRVRIaG5DWHg3aUVjdWV2Sm9aNFR1X0FEd3JIbjFtWHdRUWxDMnZSeEZEQy1wZGk4WjF2dTl4SUZLZzdOSmVJWFRNZnlSSdIBaEFVX3lxTE9xRWhxMURZT01mR3g2U2VrZWtTTDJEQzEzM3UtaGtkQlZkUHgyVkR1dkljSmtfcThMcU91RnJkZEtiaXJIMlI2VkVaeVdQY1piLTBZbmVWYXJ4RlQ3X2VYS3l5aDZWVnNl?oc=5",
-      "published": "2026-11-17T08:21:56+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Por que a Europa pediu a seus cidadãos para fazerem kits de emergência? BBC",
-      "summary": "Por que a Europa pediu a seus cidadãos para fazerem kits de emergência? BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "workshop-sobre-o-desenvolvimento-de-recursos-humanos-em-725da1a5d5156c",
-      "category": "Tecnologia",
-      "title": "Workshop sobre o desenvolvimento de recursos humanos em ciência, tecnologia, inovação e transformação digital. - Vietnam.vn",
-      "snippet": "Workshop sobre o desenvolvimento de recursos humanos em ciência, tecnologia, inovação e transformação digital. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNEdBamFXZjRXc1pQcnJKeTVseWtvQTNUbnpxcml2V216RWo0R0FwczRQemU3bmwtdWdST2x0UkRlNVpId0hjbjNybW45QWhGcmN5ajRfckZMcEVJV3Z6QWc3QXNWYU8wbEkxZGNjRnFFYkEwVmhKSmFiaG9Mdml5S0lPVzU0cnR0dElnZnpWNWIwRy1tVXZNSmRhX2wtUm16YmlhUFQ4NS1qeERuNnB3RmRoNA?oc=5",
-      "published": "2026-11-17T08:05:41+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Workshop sobre o desenvolvimento de recursos humanos em ciência, tecnologia, inovação e transformação digital. Vietnam.vn",
-      "summary": "Workshop sobre o desenvolvimento de recursos humanos em ciência, tecnologia, inovação e transformação digital. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "guerra-s-drogas-custou-r-14-5-bilh-es-ao-brasil-em-um-a-911eaa9da95373",
-      "category": "Brasil",
-      "title": "Guerra às drogas custou R$ 14,5 bilhões ao Brasil em um ano, diz pesquisa - UOL Notícias",
-      "snippet": "Guerra às drogas custou R$ 14,5 bilhões ao Brasil em um ano, diz pesquisa UOL Notícias",
-      "source": "UOL Notícias",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRUhpRzJXMm1mUnhkRHVDNnhtSFIwcmRZY1ZUa0hJTkRZdldPYU5mOVJlY2NCMHNJSlNIVDVBSDdtR2E4N2JmX2ZiWU95ZkNhcWh6eWpzaVFJNUxHUi1SLTh4WW9TUXBTdENOb2w0Y21PdGh2QXJRekVTX0FkbkRkMnp3VzFNeFRNdUs3LURHSktfOXV4MDBsbQ?oc=5",
-      "published": "2026-11-17T08:01:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Guerra às drogas custou R$ 14,5 bilhões ao Brasil em um ano, diz pesquisa UOL Notícias",
-      "summary": "Guerra às drogas custou R$ 14,5 bilhões ao Brasil em um ano, diz pesquisa UOL Notícias",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "a-bsr-est-moldando-o-futuro-por-meio-da-ci-ncia-e-tecno-2e5a6c9af39162",
-      "category": "Tecnologia",
-      "title": "A BSR está moldando o futuro por meio da ciência e tecnologia, inovação e transformação digital. - Vietnam.vn",
-      "snippet": "A BSR está moldando o futuro por meio da ciência e tecnologia, inovação e transformação digital. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHM4ZFEzUEV4MXVUSzAyUVpHUlN4aTUxSnlIcnVTeHphTXBUNl9UWEVXeHBGdzNZUFJRcU5qZjBMcFhQUnZtSFB3VEhxT3hLVndyNVpQeXF3MmdhSDZscmYwXy15bl9nTld0bmU2Qm5hMWZ5VU5KQlZFaW5GcXdZT1NEVGdFbHkyVDREVDFtenhKQjNIdVZCMGRjWER6SVZtUTVESk05Wk9XQQ?oc=5",
-      "published": "2026-11-17T04:03:18+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "A BSR está moldando o futuro por meio da ciência e tecnologia, inovação e transformação digital. Vietnam.vn",
-      "summary": "A BSR está moldando o futuro por meio da ciência e tecnologia, inovação e transformação digital. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "amistosos-sele-o-brasileira-singapura-x-brasil-assista--1c874ae45d1df6",
-      "category": "Esportes",
-      "title": "Amistosos Seleção Brasileira: Singapura x Brasil - Assista ao Vivo - Band",
-      "snippet": "Amistosos Seleção Brasileira: Singapura x Brasil - Assista ao Vivo Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZ01KeTE5V3IyYjFVV2IwalhwV3pIcWNnd3hpTWhkbzA4NDBPdHY1bkItbXhaRzF3X0d1bEV1cnBDbG1vX1QyWVgzeE84RXJYV2NWTGZxQ2ZYdE5oMy1Xdjg0aVZQQjViM3BBclZKdnVYYzlONFZNUndENTdRUDUyWEpBQ045WHUxZnRTX19CQ3ptdEhJbDIzcGVYVUdfc3E0ZHItYXg0MA?oc=5",
-      "published": "2026-11-17T04:00:04+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Amistosos Seleção Brasileira: Singapura x Brasil - Assista ao Vivo Band",
-      "summary": "Amistosos Seleção Brasileira: Singapura x Brasil - Assista ao Vivo Band",
       "summary_by": "descrição da fonte"
     }
   ],
