@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T15:11:33.320170+00:00",
+  "updated_at": "2026-11-18T17:19:11.078279+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "ag-ncia-brasil-conquista-1-lugar-no-pr-mio-einstein-adm-b41277fc3f7650",
+      "category": "Saúde e bem-estar",
+      "title": "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados - Agência Brasil",
+      "snippet": "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnMzVkNkamRtbUZsOWxoRmtPWmJ1TVVhQWdyT25EdEljVHY0dlJUTkNxQWZ0b1NjZElES2xTSWg5eVd3eU9YaWkxSG1lakZ0SzlVSzB2Tk9RMldpSXJKS2k1Um9JR2FIMDJndzdQdkFOQUkxczNzWUk0aDk3TVJwekkyOUl6eG9LaUJuam1BNnRvRjdYcHRXSXdkc2JnOWxtMkhyMzZzU004Y18zSHhQN0k3VkVLYnRy?oc=5",
+      "published": "2026-11-18T15:49:00+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados Agência Brasil",
+      "summary": "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "fabiana-cambricoli-do-pulsa-a-jornalista-mais-admirada--38519c9c30f952",
+      "category": "Saúde e bem-estar",
+      "title": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 - Estadão",
+      "snippet": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
+      "source": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSmVHQjFRY2ZZX3luSTlGVktmaUdWVFVCV2w1bjdaY1d1RFNnSG5jTlhKUmhMMHZnM3NmZGVMeWJPZ2EybVR5dXhwRnFMcnBabW94N0NkV0pZRGpXdUNHYjV6MVM3MDVxMjg0TmNXaHNQNnItQjdNaXJBNHB2VWFqUndFS0xXclR0Qi1vZlM4alk2WGNoN1k1V1VHcUFndGNJTl9Pb3RfVFpqd2lIaXUtcXNwa2RsXzZFcHZ2QkdhcmxSZlI4dnRvbVdEUnBETVk5U3JDb0dGTVd0dk9ZcVpvZFp4UkxkYTNFbnF3QTNrbl8?oc=5",
+      "published": "2026-11-18T15:32:49+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
+      "summary": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "alex-pede-maior-aten-o-base-no-brasil-e-avalia-momento--93ef1a7d23574e",
+      "category": "Esportes",
+      "title": "Alex pede maior atenção à base no Brasil e avalia momento da Seleção - Band",
+      "snippet": "Alex pede maior atenção à base no Brasil e avalia momento da Seleção Band",
+      "source": "Band",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcl9qVHVZSnY1VWpXY25ENjdOOWJEN3FvTzBvR1Y0bnU4UTJSSDEzd3JlcEVtdmMzOGJ3LVBuWWI0YnZaRmwzdkFBMHd6UjVfSEQ2MnhfeTR4U1dlMGUwUjZwbzFmc0RSZWRwYjF0OVhLdWdRaVhNczVTOTlBaG5DZnNsZXMxTkNtUlVfUVA3S0NhZEFIN2dnUk1FYlZsNDFBOTRwUDB0eDVFVWIzTlVoQ0t4UE5Fak9uV3BOWlpsZkdWUTJOUDR2bg?oc=5",
+      "published": "2026-11-18T15:00:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Alex pede maior atenção à base no Brasil e avalia momento da Seleção Band",
+      "summary": "Alex pede maior atenção à base no Brasil e avalia momento da Seleção Band",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "mapa-do-caminho-ind-gena-proteger-territ-rios-destaca-e-fa89fe42b7dd77",
       "category": "Brasil",
@@ -57,8 +99,8 @@
     {
       "id": "sociedade-se-sente-tra-da-por-suzane-von-richthofen-por-58456296daad4e",
       "category": "Brasil",
-      "title": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy, consultora de documentário da Netflix - BBC",
-      "snippet": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy, consultora de documentário da Netflix BBC",
+      "title": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy - BBC",
+      "snippet": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy BBC",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9YZ3ZMUl9kcjB3M05YRTFKSGNKaDNzUU00ZFphQ0p6NzJYRU5uWUhUWkZNcE5YY1Y1Sk9ZTGllVmRxamFMbWlDYW5KNTBRc1dwVXUtM21VNnhqcFlpOGs4VDExY9IBaEFVX3lxTFBVVDFKQjFuSlRoTWhtOEJZNjViQjNwMnJDX0RPWERmX1JjNmJWLTJCQ096MnV3c1BFclpXcWM4cjc2b1lBbEFubUQ4ZllVSHU5QkdjdDg3MEZjb2loRUdlX3NEaFBwSlNP?oc=5",
       "published": "2026-11-18T10:31:03+00:00",
@@ -66,6 +108,20 @@
       "tone": "",
       "dek": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy, consultora de documentário da Netflix BBC",
       "summary": "'Sociedade se sente traída por Suzane von Richthofen' porque se vê nela, diz criminóloga Ilana Casoy, consultora de documentário da Netflix BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "painel-s-a-pr-black-friday-tem-recuo-de-vendas-no-brasi-67588d635ab8fb",
+      "category": "Brasil",
+      "title": "Painel S.A.: Pré-Black Friday tem recuo de vendas no Brasil, mostra Itaú - Folha de S.Paulo",
+      "snippet": "Painel S.A.: Pré-Black Friday tem recuo de vendas no Brasil, mostra Itaú Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPTlNrRDVvQkR1WU05RGtnX0k0UFVqTlYtWkJucE0ySVJpZ2ZxcXNJXzA2eDVoR2hVN1FFLWg4elJFTGlRb19WaWJ3THpmWTctYW9Qd2NCbGwwMWQwM0dJcnRKd0hsYzdGRGFadGJpS0tIZkZMOHpGbjREd0ZKMUp2M2paM2ZBYTBtZVlDZnItOXhyWUlPSEtDNVJMWUZ0V2NQM2U0UkZiVVpyd05NMzgxOGt5YllWSFBpRGpN?oc=5",
+      "published": "2026-11-18T09:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Painel S.A.: Pré-Black Friday tem recuo de vendas no Brasil, mostra Itaú Folha de S.Paulo",
+      "summary": "Painel S.A.: Pré-Black Friday tem recuo de vendas no Brasil, mostra Itaú Folha de S.Paulo",
       "summary_by": "descrição da fonte"
     },
     {
@@ -117,7 +173,7 @@
       "snippet": "Repórter do CNN Sinais Vitais é reconhecida pelo Prêmio Einstein +Admirados CNN Brasil",
       "source": "CNN Brasil",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSV9NOGxLcllEZ1hiSGRhRzdUUmxNSk1IN3RwWl85dkdJZENvY0YyRDIwYlFSeWExT3h5M0dPb2FyNWxVRFpuREtKUnF0LWJtR0hXZFV2dVprSW5nYWtBSXkxTmc1SE5nOVl5MGx3S3ZpVkxxNG5HLUR0dHdja3I5Y1JRZy1aZW8wRHJmb2xHOWZqTlpIeGxvQ01nbXVwd21LQ3NHb1BidzJrc0VJb0tB?oc=5",
-      "published": "2026-11-18T03:35:25+00:00",
+      "published": "2026-11-18T03:29:46+00:00",
       "image": "",
       "tone": "red",
       "dek": "Repórter do CNN Sinais Vitais é reconhecida pelo Prêmio Einstein +Admirados CNN Brasil",
@@ -346,6 +402,20 @@
       "tone": "gold",
       "dek": "Brasil simplifica exportação de cosméticos para América Latina Agência Brasil",
       "summary": "Brasil simplifica exportação de cosméticos para América Latina Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-entrega-documento-sobre-mudan-as-clim-ticas-conv-8e8154f488be8d",
+      "category": "Tecnologia",
+      "title": "Brasil entrega documento sobre mudanças climáticas à Convenção do Clima durante a COP31 - www.gov.br",
+      "snippet": "Brasil entrega documento sobre mudanças climáticas à Convenção do Clima durante a COP31 www.gov.br",
+      "source": "www.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOY3o3NDg1b1pNQnBCaERaQkc4U0p5OTVWT3oyaEdDTktJSmp1WG9OSGQ1Qm16X3lvckhicU5Ob2FtWXI3VWJNdE85RWlMVmt3UFZtRGVubHFFeldvd2NqTl9pQk5LYUtOU1Q3ancwemtreTdhT2tSZTI0ZGFYamVwelZLM0d5MXlTV0NSSk5uZmN0dEdLc2lUWXZydm5RanhXX2ltNHJCamJUc1d5TXRPSG5BdHhtRVJjTUdmWHNtLU91aURtLVpRUmM3ZVZheXk1Q0VCLVZyV0ItWF9lLUJCaUJhWHppZw?oc=5",
+      "published": "2026-11-17T20:47:27+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Brasil entrega documento sobre mudanças climáticas à Convenção do Clima durante a COP31 www.gov.br",
+      "summary": "Brasil entrega documento sobre mudanças climáticas à Convenção do Clima durante a COP31 www.gov.br",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "teal",
       "dek": "Amistosos Seleção Brasileira: Singapura x Brasil - Assista ao Vivo Band",
       "summary": "Amistosos Seleção Brasileira: Singapura x Brasil - Assista ao Vivo Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "s-rie-de-falhas-alimenta-teoria-de-apag-o-mundial-no-di-cdbe4785fbce89",
-      "category": "Mundo",
-      "title": "Série de falhas alimenta teoria de 'apagão mundial' no dia 17: saiba por que é improvável que aconteça - G1",
-      "snippet": "Série de falhas alimenta teoria de 'apagão mundial' no dia 17: saiba por que é improvável que aconteça G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYjZMRUUxdTd2dWplV09OZ3pnYWM1Y1pkUlFkYVE4UHh0bWl3QVExNXRPVXFBcUhHUjFmRVd3OHlacU14dXFudHZrUWsyckhvM3g0eUlGNnNRdTZRQ20yeUZpQkNUc3pZY3NBREJqU1JvUFlOWkgwTllpM3BheTRsQmhIcktiTXZ5ODNOTk9jUFJMUWREZTdz0gGmAUFVX3lxTE41Ty0wRXV6VTk0VUxDaFRVdHl1V2x5SWNXczF3NUVDOHJSQUdIc3ZhWTJUVG84UEc1VTRSRkwwOGV2LS0xVWZrbE0zOGlPWWFjRGlvS2thZVZUSmwyVGsxaFBRdTVuemQxcGRVRkNkQlFROHZieVJQVEI2bUxoTDdrRHVuMm9KRk9HUlVFNHNiOXBGd0tLQ1hlLTB1X1VnelRvWHpMVUE?oc=5",
-      "published": "2026-11-17T03:00:00+00:00",
-      "image": "",
-      "tone": "blue",
-      "dek": "Série de falhas alimenta teoria de 'apagão mundial' no dia 17: saiba por que é improvável que aconteça G1",
-      "summary": "Série de falhas alimenta teoria de 'apagão mundial' no dia 17: saiba por que é improvável que aconteça G1",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "17-de-novembro-ter-apag-o-mundial-bbc-95a83cd75a7d51",
-      "category": "Brasil",
-      "title": "17 de novembro terá apagão mundial? - BBC",
-      "snippet": "17 de novembro terá apagão mundial? BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5jbnNuSkRFenVWS19IQnhNRktNOGNua3pFUU85a1JRdjNfdW1EOWFlQjNybk1KMU5OUnZNT3hkYldlZzVxbFZKODBZelFnVEVWYkhzS0pGM0RXYk9wSDFj?oc=5",
-      "published": "2026-11-17T02:55:37+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "17 de novembro terá apagão mundial? BBC",
-      "summary": "17 de novembro terá apagão mundial? BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "internacional-vira-sobre-o-flamengo-e-campe-o-da-copa-d-f80b8ce33286c1",
-      "category": "Esportes",
-      "title": "Internacional vira sobre o Flamengo e é campeão da Copa do Brasil - TV Sim Brasil",
-      "snippet": "Internacional vira sobre o Flamengo e é campeão da Copa do Brasil TV Sim Brasil",
-      "source": "TV Sim Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdE1uR0xFbDRBcW8yNVZraWRrYWRjcG04TEdOMjdsWlVWeEtwM29nSEo0UXJwVFZnR3FlazVCZEhOb0NFOFNCdjAxTHRwZnJhdThtVE44NVZGT1lGQVNNUXlvWGRkb0hYVDUyM01HM3NSMGZ0ZUt4bE05bmlSZUk0NXN4cWJhNF9lSnZmMHVJbU0tMWxPb0NDYWRTVDA4aGRJeFpsSjVmZmhfSnZTT3A2bkNCanZGZVN3aFFSbkhn?oc=5",
-      "published": "2026-11-17T02:51:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Internacional vira sobre o Flamengo e é campeão da Copa do Brasil TV Sim Brasil",
-      "summary": "Internacional vira sobre o Flamengo e é campeão da Copa do Brasil TV Sim Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "elei-es-no-brasil-e-nos-eua-mostram-for-a-do-eleitorado-bcea4909d96ecb",
-      "category": "Brasil",
-      "title": "Eleições no Brasil e nos EUA mostram força do eleitorado que não se identifica com extremos, diz Tim Dixon - Folha de S.Paulo",
-      "snippet": "Eleições no Brasil e nos EUA mostram força do eleitorado que não se identifica com extremos, diz Tim Dixon Folha de S.Paulo",
-      "source": "Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZTNob1g5OTFaMGZGcEtZaThnbVZvdFhOYmRRemlnWnZYaF9URVBKTUZ6Z1lnYzNTTlUyLVo3d0ktSmVNMnBuRkoyYWdtNlhUV1ZJakY0V083SGRDQ3lEZ18wR0xrWE9UbDNkQ3RZdEtOaGw5czBVM25BTjlEVzM3S0JRUEFuWS1uM3B1c2ROZFBwSU1jbHpmM2l5NVAzUU5oLUtnajlENG0yYmRrZ3ZEUHIwSFQ5NkhGbkdXdnpOVGhnU0R3ZUpVTHhxLWl0Nm43Zm5aVC1FbHhCSHY4Y0otdk96MkJjbUR4SGJZ?oc=5",
-      "published": "2026-11-17T02:00:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Eleições no Brasil e nos EUA mostram força do eleitorado que não se identifica com extremos, diz Tim Dixon Folha de S.Paulo",
-      "summary": "Eleições no Brasil e nos EUA mostram força do eleitorado que não se identifica com extremos, diz Tim Dixon Folha de S.Paulo",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-minist-rio-da-constru-o-lan-a-o-portal-de-informa-o-s-a9b810f20b6b1b",
-      "category": "Tecnologia",
-      "title": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. - Vietnam.vn",
-      "snippet": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTi1Ib3EzbTJtTnQ4dlBhXzEzcEd2bTlvblhnenFRTFo5MExlZHlPd2xnQ1JQRlp1S1ZVWkNleG5QMURtUlotU3g0OFV4LXR2UmZ5SVhjaGpVWTJOWTNCNS1sNk94X1E3LXlybnRQRXotbGxUdndISEN3dVpKd3ctdFUwVDZqTFpuLXE3a0g4NW9MQm9WRm5aa0lzdnQ5dXJZNDRBMGdKYXVZOU1SSC1ndWJJOHE?oc=5",
-      "published": "2026-11-17T01:12:37+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. Vietnam.vn",
-      "summary": "O Ministério da Construção lança o Portal de Informação sobre Ciência e Tecnologia, Inovação e Transformação Digital. Vietnam.vn",
       "summary_by": "descrição da fonte"
     }
   ],
