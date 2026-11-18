@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-18T03:04:16.626298+00:00",
+  "updated_at": "2026-11-18T05:16:30.013305+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "rep-rter-do-cnn-sinais-vitais-reconhecida-pelo-pr-mio-e-294695daad8ad6",
+      "category": "Saúde e bem-estar",
+      "title": "Repórter do CNN Sinais Vitais é reconhecida pelo Prêmio Einstein +Admirados - CNN Brasil",
+      "snippet": "Repórter do CNN Sinais Vitais é reconhecida pelo Prêmio Einstein +Admirados CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSV9NOGxLcllEZ1hiSGRhRzdUUmxNSk1IN3RwWl85dkdJZENvY0YyRDIwYlFSeWExT3h5M0dPb2FyNWxVRFpuREtKUnF0LWJtR0hXZFV2dVprSW5nYWtBSXkxTmc1SE5nOVl5MGx3S3ZpVkxxNG5HLUR0dHdja3I5Y1JRZy1aZW8wRHJmb2xHOWZqTlpIeGxvQ01nbXVwd21LQ3NHb1BidzJrc0VJb0tB?oc=5",
+      "published": "2026-11-18T03:35:25+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Repórter do CNN Sinais Vitais é reconhecida pelo Prêmio Einstein +Admirados CNN Brasil",
+      "summary": "Repórter do CNN Sinais Vitais é reconhecida pelo Prêmio Einstein +Admirados CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "maracan-vence-cear-nos-p-naltis-e-campe-o-in-dito-do-ce-846990c3232135",
       "category": "Esportes",
@@ -38,6 +52,48 @@
       "tone": "purple",
       "dek": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
       "summary": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "editora-do-o-povo-a-jornalista-de-sa-de-e-ci-ncia-mais--8b3d44a734886a",
+      "category": "Saúde e bem-estar",
+      "title": "Editora do O POVO+ é a jornalista de Saúde e Ciência mais admirada do Nordeste - O POVO",
+      "snippet": "Editora do O POVO+ é a jornalista de Saúde e Ciência mais admirada do Nordeste O POVO",
+      "source": "O POVO",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmdzaVBtTUcyLWljdnB1VnpmYk42SEtmU3F6RE5RRFV3eDZiU3VnZ3N4MWxodllMS3NOZFBEZUQ2YVdrd2E3MTAwUFZvTEI3Ul9yNk9UUjVEeEx6TnlNc2F1Qnc5WE4yaksxWDJkVERZR1BFTTdLeTZWNURGMkZPeDlFWVlRV3NYZEJtSTc1a1pQaTBzc3lObFNsbVJxd1FWMURwQ2prSnI1Y09MY29OdV9Va2FwWnNzblBWVnlaRVVuaFFDNk9fWkZPeHVXSlk?oc=5",
+      "published": "2026-11-18T01:05:42+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Editora do O POVO+ é a jornalista de Saúde e Ciência mais admirada do Nordeste O POVO",
+      "summary": "Editora do O POVO+ é a jornalista de Saúde e Ciência mais admirada do Nordeste O POVO",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "fabiana-cambricoli-a-admirada-jornalista-de-sa-de-ci-nc-f9ed600a3e55b6",
+      "category": "Saúde e bem-estar",
+      "title": "Fabiana Cambricoli é a +Admirada Jornalista de Saúde, Ciência e Bem-Estar 2026 - Portal dos Jornalistas",
+      "snippet": "Fabiana Cambricoli é a +Admirada Jornalista de Saúde, Ciência e Bem-Estar 2026 Portal dos Jornalistas",
+      "source": "Portal dos Jornalistas",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVlJUTGVRbHBmMElOZFNSc3BGWXZ6Z2hFNTNSeXJwSFMzNjZqck9BaHJ4dG9ScXJ4SEJQZ3RGbnFMNV85a3cybDZ0NW5TZXZNZ21WNDV6Z0I1eVNhaHkwLUZEVnFscnFySDlKTEJWV0V2OEtTNkNWWkswVkVXVnlERkFJQk9Eb09uZnlTci0wT2tOeEx4Z1lSQmg3ZW9pRE13ZmVRbmdGUTBkNTh4RHpFcnN6S2F0M1ct?oc=5",
+      "published": "2026-11-18T00:32:09+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Fabiana Cambricoli é a +Admirada Jornalista de Saúde, Ciência e Bem-Estar 2026 Portal dos Jornalistas",
+      "summary": "Fabiana Cambricoli é a +Admirada Jornalista de Saúde, Ciência e Bem-Estar 2026 Portal dos Jornalistas",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "leila-pereira-defende-medidas-duras-para-moralizar-o-fu-3b8f794440599b",
+      "category": "Esportes",
+      "title": "Leila Pereira defende medidas duras para \"moralizar\" o futebol brasileiro - CNN Brasil",
+      "snippet": "Leila Pereira defende medidas duras para \"moralizar\" o futebol brasileiro CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOU0h3ZXBiZ2RJWkVFb2NRdUxMWU9RZzJ0c0ZybE5UdGZ2Y3ZUS3hTSnh1enNRYm1vR0I5LTBwbm5RS2NWZnp2Tnh2NEIzMkZycUp5cHJFUUt2ZnhHZjZuTVBqdW0wSlVJXzZ3c3BicGhMMENwQ1BkWVhrNHZlcmJkOGk0NTM1MlU5WmNfNWRLRWpzdDZwOVV5RWJFd09tUGl1cUkwYUVrSklpb0RFNmtreHVUbWFZd2FwRTlnb1RsOUtvSjJxUmc4?oc=5",
+      "published": "2026-11-18T00:17:49+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Leila Pereira defende medidas duras para \"moralizar\" o futebol brasileiro CNN Brasil",
+      "summary": "Leila Pereira defende medidas duras para \"moralizar\" o futebol brasileiro CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -94,6 +150,20 @@
       "tone": "red",
       "dek": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
       "summary": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "f-rias-alistamento-militar-e-viagem-falsa-nova-zel-ndia-61142be6cc4a7d",
+      "category": "Brasil",
+      "title": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento - BBC",
+      "snippet": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZWIxWkI1SDJ2QlFBQ0NLbkdVTkhvVVp6Q2FuQUdsOXR2REJnYnFwX045UG4yT0FRbThQRE51aU9aLTVHeVByWnhhVUEyMzUyRGt4NzN2bG9iVEZwaUk1cUpPY9IBaEFVX3lxTE1xbGJZQmJCNTIxUzM0a1M2U0tYRGdDVXlDX3cxTVFQUTBiQlFfcjdIOHFZLXJoNzhmR001bk1yZ3dJd0FVOTVTbGRGT3NzSVFhMF9udUdrN2xLVzNCRVJJZ1ZWQ2Nzc0Z3?oc=5",
+      "published": "2026-11-17T21:58:05+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento BBC",
+      "summary": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -290,6 +360,20 @@
       "tone": "",
       "dek": "Suplementos alimentares têm fabricação e venda suspensas no Brasil Agência Brasil",
       "summary": "Suplementos alimentares têm fabricação e venda suspensas no Brasil Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "at-onde-o-d-lar-pode-subir-por-que-o-real-a-moeda-que-m-8642dddcd2d681",
+      "category": "Brasil",
+      "title": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula - BBC",
+      "snippet": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8zTUFXRGlpWk4ySHVvVzVVY0JnMFE2VE1kSEdFQWl2SXM0dXotQ0hyTkhLY25iUkZxUjZvSkZ3ODJrZzlwcW1oY0tvNFhEYkdsOWZhUjhOY1hFU2Vrc2RVMFJESdIBaEFVX3lxTE9KWWhEMnVyc0lVMENZV3AtMzUxMkpXMzRkLW01NkNZVTJaYmlhVFQ5REdxRlkwdlJMbHl6UUVxeVlyU0lYNmpLMEhSN2FyVDk1TkZIVnNNQ2pZbjRrVG1fWlVYMWMwcDJ4?oc=5",
+      "published": "2026-11-17T13:55:45+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula BBC",
+      "summary": "Até onde o dólar pode subir? Por que o real é a moeda que mais perdeu valor desde a reeleição de Lula BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -766,90 +850,6 @@
       "tone": "purple",
       "dek": "Tiny Desk Brasil prepara show em dinâmica inédita Rolling Stone Brasil",
       "summary": "Tiny Desk Brasil prepara show em dinâmica inédita Rolling Stone Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "as-cidades-perdidas-da-amaz-nia-que-ficaram-ocultas-por-ae95db7c3924f6",
-      "category": "Brasil",
-      "title": "As 'cidades perdidas' da Amazônia que ficaram ocultas por séculos - BBC",
-      "snippet": "As 'cidades perdidas' da Amazônia que ficaram ocultas por séculos BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8waVFmT1NRQmEwSTZ3YllJYllScjlwNG9WbFBoY0NTMUZMYUwwbjg1V2tLRlEtT2lWUXlFMWJUbzB3dGNza05QcWJEWnR6d1VHdDFoTzJCUHZFdkdrdDA4?oc=5",
-      "published": "2026-11-16T20:30:49+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "As 'cidades perdidas' da Amazônia que ficaram ocultas por séculos BBC",
-      "summary": "As 'cidades perdidas' da Amazônia que ficaram ocultas por séculos BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "anitta-indicada-ao-grammy-internacional-para-melhor-lbu-7381c28dedf093",
-      "category": "Brasil",
-      "title": "Anitta é indicada ao Grammy Internacional para melhor álbum global - Agência Brasil",
-      "snippet": "Anitta é indicada ao Grammy Internacional para melhor álbum global Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOMzk5M0Q5TFU2RTBpMHV3X2tSQTBnVkZLYzc2V2IzcXQtb1ByQTRnQXRjdzU2XzdZMVhHejJ4ZVNzeDF5QW5VaEdDWmotRzE2c1lTRExYS1hJeXcxaS1yaVhOclNrenpKRl9TV0lIa2w4ZjFnRFFqQXZtT3pPNkY3dHJ6dUhpdk9DaW1Va2tUODNuSFd1Z0t6UXUzWV9IRmVtNVhEUktGVG1PMk1wdTc1c2w4QUp2NDVlVW5EUUNTWTM?oc=5",
-      "published": "2026-11-16T19:59:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Anitta é indicada ao Grammy Internacional para melhor álbum global Agência Brasil",
-      "summary": "Anitta é indicada ao Grammy Internacional para melhor álbum global Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "estandes-da-snct-2026-explicam-a-tecnologia-por-tr-s-do-00a70274259594",
-      "category": "Tecnologia",
-      "title": "Estandes da SNCT 2026 explicam a tecnologia por trás do cotidiano — Ministério da Ciência, Tecnologia e Inovação - GOV.BR",
-      "snippet": "Estandes da SNCT 2026 explicam a tecnologia por trás do cotidiano — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
-      "source": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSmtHWXVlZndCM0RmM3RSSGd6dmM4eV85anBDT3NCWWd5U0QtdGg3NjNTZlVNbnF5SkgzNGVaQjBxT25vY1JPTEQyamx5cTE3ZVdFMkxxTEN3VWNDLU8yYnEteWdhZHFjVGozdWkwMmVCNlVrUUlFcEdaTFh2QlhxX0xqWUVXem9Xc0dVb0o2OF9PbXUtVkZVTkQ5RTZ5RWg0S1lqQ0R6M1dQZURZNmRZdF9WTGI1RXgzRnBFWXl2TXNPd2FwbUh0bA?oc=5",
-      "published": "2026-11-16T18:55:39+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Estandes da SNCT 2026 explicam a tecnologia por trás do cotidiano — Ministério da Ciência, Tecnologia e Inovação Governo Federal",
-      "summary": "Estandes da SNCT 2026 explicam a tecnologia por trás do cotidiano — Ministério da Ciência, Tecnologia e Inovação Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "erick-sallum-entra-na-lista-dos-melhores-delegados-de-p-53e5112356db00",
-      "category": "Polícia",
-      "title": "Erick Sallum entra na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 - Portal Nacional dos Delegados",
-      "snippet": "Erick Sallum entra na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
-      "source": "Portal Nacional dos Delegados",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZVctd2gzMWs4RHl5RTI1TTNudTVXemh2ZUE3cEFjNk1QR1ZHUVoyUEhxQUdvWHkwLVJLY21YbFBuT1N3emhqTTRoekdrMW42T2hyYzhQVXhLNUgtSEhESVdPNnQ2VGZBbGFieTlrYmlRYmUtZEUzVUl1VjhzUHlaWVBPampISnJxSVJVcWdGc3JrUnR3cjNIaW9DeTBRQXpGb012b1BGS1BBbHpuME9aaExhb3Z6Mk1f?oc=5",
-      "published": "2026-11-16T18:50:10+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Erick Sallum entra na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
-      "summary": "Erick Sallum entra na Lista dos Melhores Delegados de Polícia do Brasil! Censo 2026 Portal Nacional dos Delegados",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "estado-do-rio-lan-a-mapa-p-blico-com-dados-de-ci-ncia-e-c773e4b9d96ffc",
-      "category": "Tecnologia",
-      "title": "Estado do Rio lança mapa público com dados de ciência e tecnologia dos 92 municípios - O GLOBO",
-      "snippet": "Estado do Rio lança mapa público com dados de ciência e tecnologia dos 92 municípios O GLOBO",
-      "source": "O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPSnZ4bVpvMV9Ya3BBTnVjNTJhZjNBdGFtZTh2RWs2dEE1cDJVcHl0RmRWNkZlRUxXZ3hhVFdzTzJLSGlsbnUxalY3YjhkWUpyT1Z5eENaRDdxaWNnWUFQMHlyNFlsM2NyQnQ3UUtiSDllUTdVTXRlZE5wek12UjJXSjg3VnlCZWdveWhoWHRZOFBUWjZPeHV2b0J2YzVjYUVWZ05qOG4teTBRdDZfcDdNWTl2MnZJZWhiSm1sMVZtSGJ1SmpJY2k3dE1wS3V3X2NiT2tYStIB4wFBVV95cUxQbmo0Q1JhMldwMnNIVzZDVnNkLVN2dEJBcVF0ekhoMU9tckNmR1Q4RVVOX29OVzRRMXd5ZmkwejlhY1F0M3lvc0xNdFdLdGg0aWlLclJORzNIVERDdFN6T1NGMU9BSEJvUVhGZG9QU01lNjAwTkR0a2tCNUVoa3JaVkxmbVduYThjN3EzN3BrMkprS0VUYlpvTTNvR1dVOUtTSmZna3FCU3RycVBRVzlwclFhdFR1ODlKMVRwRzBISkN6cVU4bXlwc0ozMldDRnFVWDhBYmdFRkFMSXdvaFk2V2ljcw?oc=5",
-      "published": "2026-11-16T18:47:25+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Estado do Rio lança mapa público com dados de ciência e tecnologia dos 92 municípios O GLOBO",
-      "summary": "Estado do Rio lança mapa público com dados de ciência e tecnologia dos 92 municípios O GLOBO",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jogo-brasil-x-singapura-hor-rio-e-como-assistir-ao-vivo-cdc1be227df548",
-      "category": "Esportes",
-      "title": "Jogo Brasil x Singapura: horário e como assistir ao vivo online e na TV grátis - Hora Brasil",
-      "snippet": "Jogo Brasil x Singapura: horário e como assistir ao vivo online e na TV grátis Hora Brasil",
-      "source": "Hora Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQb1VVVnBPTUt0SHo1VFdDUEpvTkV2VFR2X3liNWtFVTVzOHNHNFRNZEhGRlQwY3VFeUhEOGdUaWZENWJrSWxKbG9mQkFMWkJlbEZmbFJXWk8xTkJrWThKQWZhd2JNeWMwODgxRkhYWExNZlo2bXJFSnIyVkN5YTZ6cXZoVWNERzVrRjRBZkRKQlJFQjNUZE9DQzN2Qi1pVlp4YzNwbWtmS2ltYmswWVV2VjVPcEhkTTF4VllV?oc=5",
-      "published": "2026-11-16T18:33:26+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Jogo Brasil x Singapura: horário e como assistir ao vivo online e na TV grátis Hora Brasil",
-      "summary": "Jogo Brasil x Singapura: horário e como assistir ao vivo online e na TV grátis Hora Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
