@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-17T23:06:38.850837+00:00",
+  "updated_at": "2026-11-18T01:32:31.349619+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "ju-ara-mar-al-transforma-cinema-de-agn-s-varda-em-m-sic-9f4c9ee77f6bb0",
+      "category": "Entretenimento",
+      "title": "Juçara Marçal transforma cinema de Agnès Varda em música - Culturadoria",
+      "snippet": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
+      "source": "Culturadoria",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNVNKbU16akpIX1Q1THpXMmJhWWNzRmh3ejk3MnhJYWtfcFNHTU1lUFRsV1hWM0ZuaHJyZ1hfZkRGaDU5SThSSWpQV011T1JhMldoMGVONHpGRi1wZWlDWkV2b0NTMldkbXBLdzRmakZRSVVsdW90VTFwZzBzd3Vrb3ZPdw?oc=5",
+      "published": "2026-11-18T01:07:30+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
+      "summary": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "brasil-avan-a-2-semifinais-do-mundial-de-t-nis-de-mesa--424cfa443a4429",
       "category": "Brasil",
@@ -38,6 +52,20 @@
       "tone": "red",
       "dek": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
       "summary": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "pgr-a-favor-de-prorroga-o-de-investiga-o-do-caso-dark-h-839cbabbc0a899",
+      "category": "Brasil",
+      "title": "PGR é a favor de prorrogação de investigação do caso Dark Horse - Agência Brasil",
+      "snippet": "PGR é a favor de prorrogação de investigação do caso Dark Horse Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmgzZDhrTVlEVENoUzZCMDdTcUdIZE1faEppbVdoRFUzUW5DMW1kV09aQng4OU9XNXRHbjh4ODY5b2xuN29lWURRbmVmZnpOcGZpNktUcWtzU0xubWR3LUxIQjRybVoxWGFFYTZ6TXFQaWJRUWVnYVJZb3RWLThMaWx6RnFRZm8wWG9uUDRTSExDNGl1NnlUZ2FuUTVyenpfVHpXdmJPU0hxelp2aDZYZmJEckY2OXFLekt1bQ?oc=5",
+      "published": "2026-11-17T21:24:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "PGR é a favor de prorrogação de investigação do caso Dark Horse Agência Brasil",
+      "summary": "PGR é a favor de prorrogação de investigação do caso Dark Horse Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -136,6 +164,34 @@
       "tone": "",
       "dek": "Durigan prevê impacto inicial da reforma tributária sobre inflação Agência Brasil",
       "summary": "Durigan prevê impacto inicial da reforma tributária sobre inflação Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "xenia-fran-a-anuncia-show-intimista-e-sem-telas-em-s-o--cde8471e06685f",
+      "category": "Entretenimento",
+      "title": "Xenia França anuncia show intimista e sem telas em São Paulo - Rolling Stone Brasil",
+      "snippet": "Xenia França anuncia show intimista e sem telas em São Paulo Rolling Stone Brasil",
+      "source": "Rolling Stone Brasil",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmhscmlFQk55TV9DSElTbExSTjh3aWhVSjFUcDF3ZGUxUGFvYkNybE5FbExpR19fcS16SkNHQ2dkUjRaaXJyTDBqQU9jOUpKU0QyYjlFZlM1XzV3T2dtcXNmUEQ1dE9WMHA4V0l2LWhQTlBkUDNqS0FvcmFtQjlDSFpFOUVVMGJZNFc3Tm1mblNqOFBnalNjeTJoSFNzM1pi?oc=5",
+      "published": "2026-11-17T18:07:13+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Xenia França anuncia show intimista e sem telas em São Paulo Rolling Stone Brasil",
+      "summary": "Xenia França anuncia show intimista e sem telas em São Paulo Rolling Stone Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-campe-o-do-1-mundial-militar-de-v-lei-sentado-mi-5d6996abe6cd81",
+      "category": "Brasil",
+      "title": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa - Governo Federal",
+      "snippet": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTlrUkxvUkNfdkF1eWI2dm5Ea3M5RzNHR0Fndk1xMmhHR09BYi13UmhheFZfaUpZMXBoSjhoczcwWURsX3RPa0hKbGlRM0lkQzF5eG9XdEN0WU9MWWhFNFMwMlpOV2ZscTdJSzRJYjVTTUVPRlp2MGZQUE1Eb2daMVcwRnZSNUFDNE1OYk5ISlpqWUI1UUJfTDRXUFRMaGVuOGFmS25iRUpwVWdIODF1X2ZKMGVkOU5O?oc=5",
+      "published": "2026-11-17T17:50:13+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa Governo Federal",
+      "summary": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa Governo Federal",
       "summary_by": "descrição da fonte"
     },
     {
@@ -321,10 +377,10 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "pectus-excavatum-tenho-uma-deformidade-f-sica-cong-nita-c1561eb27acc43",
+      "id": "tenho-uma-deformidade-f-sica-cong-nita-que-escondi-dos--c1561eb27acc43",
       "category": "Brasil",
-      "title": "Pectus excavatum: 'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola' - BBC",
-      "snippet": "Pectus excavatum: 'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola' BBC",
+      "title": "'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola' - BBC",
+      "snippet": "'Tenho uma deformidade física congênita que escondi dos meus pais e colegas de escola' BBC",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9OekpOU0JPZUticnF4WUIyODBJQk1XTGxRei1HeVc4a19sLUxqVWxpaDBBcXpFRUl6X1ByaGJlWGtYMFRmWU81V2ljM1RibkZZLXgtV2wycm4zbGRRMFR3Skp0d9IBaEFVX3lxTE1heWU5MVBXZ2xvTXc3dlNieER0SDMzTEtubjE4U1VQdmtDOVloTVhneUtuRklPWlU4SFk2MzZWWWNNdFpfZFlaVm4zNjlXODVtZ19OMURyUXlYRV9QYWJnUFRwYWVFNGdU?oc=5",
       "published": "2026-11-17T09:26:57+00:00",
@@ -701,9 +757,9 @@
     {
       "id": "estandes-da-snct-2026-explicam-a-tecnologia-por-tr-s-do-00a70274259594",
       "category": "Tecnologia",
-      "title": "Estandes da SNCT 2026 explicam a tecnologia por trás do cotidiano — Ministério da Ciência, Tecnologia e Inovação - Governo Federal",
-      "snippet": "Estandes da SNCT 2026 explicam a tecnologia por trás do cotidiano — Ministério da Ciência, Tecnologia e Inovação Governo Federal",
-      "source": "Governo Federal",
+      "title": "Estandes da SNCT 2026 explicam a tecnologia por trás do cotidiano — Ministério da Ciência, Tecnologia e Inovação - GOV.BR",
+      "snippet": "Estandes da SNCT 2026 explicam a tecnologia por trás do cotidiano — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
+      "source": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSmtHWXVlZndCM0RmM3RSSGd6dmM4eV85anBDT3NCWWd5U0QtdGg3NjNTZlVNbnF5SkgzNGVaQjBxT25vY1JPTEQyamx5cTE3ZVdFMkxxTEN3VWNDLU8yYnEteWdhZHFjVGozdWkwMmVCNlVrUUlFcEdaTFh2QlhxX0xqWUVXem9Xc0dVb0o2OF9PbXUtVkZVTkQ5RTZ5RWg0S1lqQ0R6M1dQZURZNmRZdF9WTGI1RXgzRnBFWXl2TXNPd2FwbUh0bA?oc=5",
       "published": "2026-11-16T18:55:39+00:00",
       "image": "",
@@ -794,62 +850,6 @@
       "tone": "red",
       "dek": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital GOV.BR",
       "summary": "Escola Nacional de Segurança Pública e Academia Nacional de Polícia abrem vagas para pós-graduação em perícia digital GOV.BR",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "diretor-diz-que-recupera-o-de-r-20-bilh-es-comprova-efi-2c27706556d479",
-      "category": "Polícia",
-      "title": "Diretor diz que recuperação de R$ 20 bilhões comprova eficiência da PF - Agência Brasil",
-      "snippet": "Diretor diz que recuperação de R$ 20 bilhões comprova eficiência da PF Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTjZtMlM1ZVA1ZVJsZE83V1lfcjZ3NzRqOXpURTRtbGVnSzRHZXdLTjMzZWtBa3Y4NUoySnlIaUpyUzRFdDBWTmc3a3ZESzlUeS03Zk9LTXlmNVFoQ2xlcEZRRGducThwRFpqdjl6a1lWMTk5WnVFU2wxSmlrSEc0eFYwWG9POVhaMFprWjZpUzJCX3dIeF9nYVh5dktjV3d2UDVBb283Qnd3UmJXSkxTUUhrMGo4WmdsVk9sUkpZTkYxQQ?oc=5",
-      "published": "2026-11-16T17:59:00+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Diretor diz que recuperação de R$ 20 bilhões comprova eficiência da PF Agência Brasil",
-      "summary": "Diretor diz que recuperação de R$ 20 bilhões comprova eficiência da PF Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "estudo-alerta-para-diminui-o-da-conectividade-de-rios-n-6e8380c828c4d1",
-      "category": "Brasil",
-      "title": "Estudo alerta para diminuição da conectividade de rios na Amazônia - Agência Brasil",
-      "snippet": "Estudo alerta para diminuição da conectividade de rios na Amazônia Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQWlYaFZOMGhrczlTYUVmUk5lYi1pbWRmbzJsMzBmMDlBdjF2d3lWcTlfUmlaRU02ZWR0YUdvRnNJdENYb1djbVRvem15SjByMFpTeFNVdEN5MEhMYk5MejM3X2ptUzJza3RXcm9zU2Rja05hLVNyQ3FfZ3pXNkVPSDRkQjl0UGoxa2JUQy0yT2tiSzlzcjNXWHVycFB1ZzlxODVjZ1hrRGs1TlBTdUd5R0tBTjF1R1ZueFhtNF9rSWF3X3NVelUtTw?oc=5",
-      "published": "2026-11-16T17:43:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Estudo alerta para diminuição da conectividade de rios na Amazônia Agência Brasil",
-      "summary": "Estudo alerta para diminuição da conectividade de rios na Amazônia Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cooperativas-da-amaz-nia-buscam-conquistar-mercado-inte-c33046dfac11d8",
-      "category": "Economia",
-      "title": "Cooperativas da Amazônia buscam conquistar mercado internacional da bioeconomia - Brasil 247",
-      "snippet": "Cooperativas da Amazônia buscam conquistar mercado internacional da bioeconomia Brasil 247",
-      "source": "Brasil 247",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNa1M1dWhYVE1mMlBZX1BVSE9laC1YamtWY3Y1SVRPSjdsdDA2eUZfMzZUUmtaaE5NNHdrTEg3SmFqcHQ5VXNRUjRTNFdTb3RVOENrVkJ1czNyLTRMSEc4RllZSUZWcTBFWmxLM1NNMERkcmJieVB5OHlRUXlJanFEZmV4TzVEZnZhNGxORnhoUTNGUEttcVBBZGVIam95dEMwZDNqbmNmdGpfY20ySDFTX0huc016czhr?oc=5",
-      "published": "2026-11-16T17:31:06+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Cooperativas da Amazônia buscam conquistar mercado internacional da bioeconomia Brasil 247",
-      "summary": "Cooperativas da Amazônia buscam conquistar mercado internacional da bioeconomia Brasil 247",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-alcan-a-meta-de-turismo-internacional-de-2026-ag-a6adeb56f1aff2",
-      "category": "Brasil",
-      "title": "Brasil alcança meta de turismo internacional de 2026 - Agência Brasil",
-      "snippet": "Brasil alcança meta de turismo internacional de 2026 Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMml0aS0wZnNsY2lBbTIxaEZmY0xhZnYzWVdwVjM5Zzh2VXVJSUV6anpoM0EzcTlHNDQxZ096ZzNuWlV6MHY0ZDZLSjV0eVJJTkI0aXU3X3NObUV1Wm9LN3lQLVpyNTJONnJlR25teFFuUWdaUzM2a3kwZkxJNEZyT0J0Ym9pMzJRU1dZTVpfRkNvLVl0YVd2WFdiQ0VmcHhNeWQ5bTA3aGdOTnpqSWFV?oc=5",
-      "published": "2026-11-16T17:30:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil alcança meta de turismo internacional de 2026 Agência Brasil",
-      "summary": "Brasil alcança meta de turismo internacional de 2026 Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
