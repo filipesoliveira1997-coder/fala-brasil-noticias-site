@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T15:12:46.086563+00:00",
+  "updated_at": "2026-11-19T17:18:25.041149+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "covid-oms-classifica-variante-pj-2-1-que-cresce-no-bras-7d79f21db0932d",
+      "category": "Brasil",
+      "title": "Covid: OMS classifica variante PJ.2.1, que cresce no Brasil, como 'sob monitoramento' - O GLOBO",
+      "snippet": "Covid: OMS classifica variante PJ.2.1, que cresce no Brasil, como 'sob monitoramento' O GLOBO",
+      "source": "O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlUyWWlzNW5FeWtLVEJnLXZQLTM5cmVjdExKSUxqTElRaFZ4bWRxYW5hRm1jTUN4VWJ3eWEzWmxob294YnlUUHQwV0VGcGhPcjQ5dVhZN09kajFPT0g5eTZhV3RXSjJhbjh4TmNPdUpnR2lzRFl3N3BYaUx0aURxMW01UUFtOFRMd1ZNVmM0MFlPdXZhVGwzRW9PUkx1RHZEYjlzYjdjZGVGUjFualNoS21wSm9hS2VIRWNVMGgzYWk3bTNOMVBuMzUtdUQtMUXSAd4BQVVfeXFMTzh6bnMtdzB2clJtU1VINHBZUmlNYWVsc1BlZjRSNlduU2dIRlNpQlhvTG5lOHJVRW1uTmhUWk1PZ0xSUWFlemhHY0EtaXJtWTZxdE43cTJxbWNFVUxjd05pNzRZQ29USEc1NkJlWFYyd0NuemhNdlNfMWxrREJCQlluRmhqZEtnRGFSVnJ5WjdHOEQzek5NREtXWWJ4VjYxZEM0dGhGTUJEQmFqbGxqTmZydnZTTlFsUE1CUlo3c3h4Z2xsaHpaRFBGN19YVmNoWHFHaFE4MmVtM3V2QjJ3?oc=5",
+      "published": "2026-11-19T16:27:50+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Covid: OMS classifica variante PJ.2.1, que cresce no Brasil, como 'sob monitoramento' O GLOBO",
+      "summary": "Covid: OMS classifica variante PJ.2.1, que cresce no Brasil, como 'sob monitoramento' O GLOBO",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "toyota-quer-ampliar-mercado-de-mobilidade-para-pcds-no--5d86fef0f32736",
+      "category": "Economia",
+      "title": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá - Estadão",
+      "snippet": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá Estadão",
+      "source": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa012cmIwdDg5bFVIYVlxUTgxejRCYjlqZUk3NHNNQndPRXcyZDFVT1d1OTRlNFdZdHIyTGJzMGl2dld2aFZiMjhrenU1NUQxSDFyVUI4MWdUbFFCN2ZiVERxYmcwUmxmNXdYQUxtcDRFYVVtMXhFQzNLLTdEa1VyM3U0a1BlQVBnUHYxNDhDa2JSMkVfN09SZ05tWWctS0V6Rm5RQWt5X05Ka0tnX0HSAbMBQVVfeXFMTWRsTXV3djYzVWJOZ0tFVDRsUi16N1dzbXdwbFBZV0ozWEhfSDBYYzRUVE5Wd1dBWFQ0WnVrZ01hbG5odUUzN3kxdENxVEtkRDgzYmp0OE51cGVDc1dIaTRoVzhJS3gySmpSeHBVbTlsSE5oZjhldjJWYW9sSWd5dDl6MU5YNnNiblpucDZIb2JpOFBhN3l1WjRkUUE3aENhZ0pTOWxTSm5aZmRaSkEtbnpCZzQ?oc=5",
+      "published": "2026-11-19T16:10:00+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá Estadão",
+      "summary": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá Estadão",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "lula-promete-manter-direitos-e-diz-que-controle-fiscal--56e913fb7d2c1f",
+      "category": "Brasil",
+      "title": "Lula promete manter direitos e diz que controle fiscal é prioridade - Agência Brasil",
+      "snippet": "Lula promete manter direitos e diz que controle fiscal é prioridade Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdUVnNlBMaXZrMU11ZUJ3X1g1V1RxZy0yd2pxLUdmZ29BalJ1d01vbEVrem9mbDQ1X21KelFJVFRvNDdVVE5EcV9mQ1p6QWQ4djNZckhKamVsbVdGN1FITUZ2Wk5VLUd1OW03QVJwanpscWIyVkVFNGN6SWFrU0M3bDh0TEV3TUVFbmw0ZDJQX2dBVTZRdjJVZFYxQVBnVXNvWU9hbEJERjhzajMtc1ptNUFLOXljcElYXzlqNW01ZGhjLWs?oc=5",
+      "published": "2026-11-19T15:30:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Lula promete manter direitos e diz que controle fiscal é prioridade Agência Brasil",
+      "summary": "Lula promete manter direitos e diz que controle fiscal é prioridade Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "gta-6-por-que-o-jogo-n-o-para-menores-de-18-anos-e-o-al-b8663085d8eac9",
+      "category": "Brasil",
+      "title": "GTA 6: Por que o jogo não é para menores de 18 anos — e o alerta de psiquiatras e psicólogos - BBC",
+      "snippet": "GTA 6: Por que o jogo não é para menores de 18 anos — e o alerta de psiquiatras e psicólogos BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE85b0RNbDVHb3pUaUpFcjhkWTZDUTlNYnhtbjlHTU55NzRNaTI2Ry1fb21jNF9aTGNVMHNpQkRUaV9qRVBFUVo4THVVdXNENDFQekdXUk1Rb2NzTklLMXRMb3B0ONIBaEFVX3lxTFBxeUtJd2w2NXJlTWtDMDNRcnNSdjBPS29DT3lXS2d2Y3VIbl82Q3BtUHA1QjM5RzJEMVVEZFlPc1VCeUV6UzkySGNzVnhweDZDTHNlb2t2VXMtM1VKRHJVSHBQOG9jS1E1?oc=5",
+      "published": "2026-11-19T14:37:25+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "GTA 6: Por que o jogo não é para menores de 18 anos — e o alerta de psiquiatras e psicólogos BBC",
+      "summary": "GTA 6: Por que o jogo não é para menores de 18 anos — e o alerta de psiquiatras e psicólogos BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "com-r-1-83-bilh-o-em-neg-cios-mercado-imobili-rio-de-cu-fe4e1ffbcf5a0a",
       "category": "Economia",
@@ -69,20 +125,6 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "byd-prepara-nova-f-brica-no-brasil-e-cortejada-por-3-es-342843c1ede24f",
-      "category": "Brasil",
-      "title": "BYD prepara nova fábrica no Brasil e é cortejada por 3 estados; veja opções - UOL",
-      "snippet": "BYD prepara nova fábrica no Brasil e é cortejada por 3 estados; veja opções UOL",
-      "source": "UOL",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkx3SnB1LVhLOU1jYnpSYk9CLUlzWV9rWWhDVlVYYmdpalp0RWVQYS01Rk84bW9ZZHBZREktbGxHSldTYVQ1MXBDOEZpdVdzMDVYT0NSb2VEYXVjNG82Z01nM18zTlZqaWxMdmxZSXIzRXpqc3N1SnJHV1daMmt2ZXRLVUFGSEhFY0NxUDFWOTlTSlJtNGZGUVRCTFJ3SjRiVExHVnBjWWRyWFVVSmdJc2FhTWJvUVM2cUlCZlhuejZiQlBpU3lGVw?oc=5",
-      "published": "2026-11-19T08:30:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "BYD prepara nova fábrica no Brasil e é cortejada por 3 estados; veja opções UOL",
-      "summary": "BYD prepara nova fábrica no Brasil e é cortejada por 3 estados; veja opções UOL",
-      "summary_by": "descrição da fonte"
-    },
-    {
       "id": "fatos-e-cifras-uol-lan-a-programa-sobre-economia-e-neg--015cdea9702a24",
       "category": "Economia",
       "title": "Fatos e Cifras: UOL lança programa sobre economia e negócios - UOL Economia",
@@ -94,6 +136,20 @@
       "tone": "gold",
       "dek": "Fatos e Cifras: UOL lança programa sobre economia e negócios UOL Economia",
       "summary": "Fatos e Cifras: UOL lança programa sobre economia e negócios UOL Economia",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "byd-prepara-nova-f-brica-no-brasil-e-cortejada-por-3-es-342843c1ede24f",
+      "category": "Brasil",
+      "title": "BYD prepara nova fábrica no Brasil e é cortejada por 3 estados; veja opções - UOL",
+      "snippet": "BYD prepara nova fábrica no Brasil e é cortejada por 3 estados; veja opções UOL",
+      "source": "UOL",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWkx3SnB1LVhLOU1jYnpSYk9CLUlzWV9rWWhDVlVYYmdpalp0RWVQYS01Rk84bW9ZZHBZREktbGxHSldTYVQ1MXBDOEZpdVdzMDVYT0NSb2VEYXVjNG82Z01nM18zTlZqaWxMdmxZSXIzRXpqc3N1SnJHV1daMmt2ZXRLVUFGSEhFY0NxUDFWOTlTSlJtNGZGUVRCTFJ3SjRiVExHVnBjWWRyWFVVSmdJc2FhTWJvUVM2cUlCZlhuejZiQlBpU3lGVw?oc=5",
+      "published": "2026-11-19T08:30:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "BYD prepara nova fábrica no Brasil e é cortejada por 3 estados; veja opções UOL",
+      "summary": "BYD prepara nova fábrica no Brasil e é cortejada por 3 estados; veja opções UOL",
       "summary_by": "descrição da fonte"
     },
     {
@@ -192,6 +248,20 @@
       "tone": "teal",
       "dek": "Corinthians x Botafogo: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
       "summary": "Corinthians x Botafogo: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "governo-negocia-dois-minist-rios-para-uni-o-brasil-e-qu-654f46907914a1",
+      "category": "Brasil",
+      "title": "Governo negocia dois ministérios para União Brasil e quer PP com Comunicações e Ciência - ICL Notícias",
+      "snippet": "Governo negocia dois ministérios para União Brasil e quer PP com Comunicações e Ciência ICL Notícias",
+      "source": "ICL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE54Ry1oWlhxcUJKTkYwTGFPME0yVnUzWVZpdWJLdkxUNTVGOG9vRjdzd2hnb0JnZGt6dmRKLTlpUnZJQkVGZXEwN0NyVHBnWHdqMXMtcFZTQllLRng1M1ktV0lKd3kzMU9CU1EyWmNBNldjbmgzUzJfU3RUNENIUQ?oc=5",
+      "published": "2026-11-18T22:50:41+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Governo negocia dois ministérios para União Brasil e quer PP com Comunicações e Ciência ICL Notícias",
+      "summary": "Governo negocia dois ministérios para União Brasil e quer PP com Comunicações e Ciência ICL Notícias",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "",
       "dek": "Brasil avança à 2 semifinais do Mundial de tênis de mesa paralímpico Agência Brasil",
       "summary": "Brasil avança à 2 semifinais do Mundial de tênis de mesa paralímpico Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "senado-adia-vota-o-de-destaques-do-projeto-de-ajuste-fi-e35a234e108094",
-      "category": "Brasil",
-      "title": "Senado adia votação de destaques do projeto de ajuste fiscal - Agência Brasil",
-      "snippet": "Senado adia votação de destaques do projeto de ajuste fiscal Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWlVPMnZEVkFjWE9VN2VDYjBOQmpGN240NU5MejNjWlZXaUQ2R2dBQ0JsN0l1N3lueXlaSGE0VUJEZTQ4Qms0R08xdzRDdzd1M3V0RTVNUlh6Y0Z5d2hZcXlTZDdZWl9nS0Z3NXlpTDdlanBOVFduZDYyaVdrWkhMbDZ0OTBxakhmLWdvd2M2a2xTM210eEp0Y19reUxiYVZIVWFydUJRZHBqWWVVa1c2dTViSjhQeW10eGc?oc=5",
-      "published": "2026-11-17T22:23:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Senado adia votação de destaques do projeto de ajuste fiscal Agência Brasil",
-      "summary": "Senado adia votação de destaques do projeto de ajuste fiscal Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-mant-m-elimina-o-do-sarampo-ap-s-avan-o-da-doen--dcda626265af7d",
-      "category": "Brasil",
-      "title": "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas — Ministério da Saúde - GOV.BR",
-      "snippet": "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas — Ministério da Saúde GOV.BR",
-      "source": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPd3dCemFROWhNREF4ZF9Oa21mSkkzYmRtYWdib2d3M2NPZndiXzNUVFVVV1BWbVd5RHlmSmFtbjhfT2ZQNlM5TmJCbXNJRWdVamFoMElkQXJ5b0lQcWpwZC12cWxpRFFwVWt0N3R2M1c1a1gxeXZsT0IyWndEakNldENvRjYzSi1meW9ud1ktcWFrcXU5cG5PbGV0el9rblZtV2ttREVSRDZ4aXVFSFZ4bVJxMm1OLWVreldmWEItYWZFcTRKQXhsMURqSFhTN25idFM2d3BBM0ViSmc?oc=5",
-      "published": "2026-11-17T22:15:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas — Ministério da Saúde Governo Federal",
-      "summary": "Brasil mantém eliminação do sarampo após avanço da doença em países das Américas — Ministério da Saúde Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "jornalistas-de-diferentes-regi-es-do-brasil-visitam-hos-5afe3f341c517a",
-      "category": "Saúde e bem-estar",
-      "title": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho - Prefeitura",
-      "snippet": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura",
-      "source": "Prefeitura",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNR0R4Tjh3WWM4RG40YVFuMzhQTnNsb19EMUtfYVNNUVAyT1J5WGFqcUZlZThrbWVEYU5TT2dNZEYwbjdaRmhjdWJ3aTFZRF9US2JuTUxhcEU5YmpmZHNnLUVtT0JTVnR4Vk02c2NMNk1DbTR5RFhUNVBYR1RPTE1PLXVoczZuVGZFZFNqb0p5WjFJdmprTU5XaThjMU1BRTZNWFVVc3h1UEx5Mk9heTRQZVlDRFRCekN4YnlSelVNc2pTNWVaQlJfSTYwS2FhZw?oc=5",
-      "published": "2026-11-17T22:04:43+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
-      "summary": "Jornalistas de diferentes regiões do Brasil visitam Hospital Municipal Gilson de Cássia Marques de Carvalho Prefeitura de São Paulo",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "f-rias-alistamento-militar-e-viagem-falsa-nova-zel-ndia-61142be6cc4a7d",
-      "category": "Brasil",
-      "title": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento - BBC",
-      "snippet": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5qZWIxWkI1SDJ2QlFBQ0NLbkdVTkhvVVp6Q2FuQUdsOXR2REJnYnFwX045UG4yT0FRbThQRE51aU9aLTVHeVByWnhhVUEyMzUyRGt4NzN2bG9iVEZwaUk1cUpPY9IBaEFVX3lxTE1xbGJZQmJCNTIxUzM0a1M2U0tYRGdDVXlDX3cxTVFQUTBiQlFfcjdIOHFZLXJoNzhmR001bk1yZ3dJd0FVOTVTbGRGT3NzSVFhMF9udUdrN2xLVzNCRVJJZ1ZWQ2Nzc0Z3?oc=5",
-      "published": "2026-11-17T21:58:05+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento BBC",
-      "summary": "Férias, alistamento militar e 'viagem falsa' à Nova Zelândia: as loucuras que fãs de 'GTA 6' estão fazendo pelo lançamento BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "decreto-que-regulamenta-escala-5x2-ser-assinado-na-quin-66ef72c05bdb13",
-      "category": "Brasil",
-      "title": "Decreto que regulamenta escala 5x2 será assinado na quinta-feira - Agência Brasil",
-      "snippet": "Decreto que regulamenta escala 5x2 será assinado na quinta-feira Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSjlhUzFDa3NIV1U4OFJCbWZMMWRyLU9OcmhVTE1aTi1jVnF2Z04tZVh1ejNNWm1uVFVjV09scFlMT2ZHajA5dDZoZXlhV0o1LTJXWk5QWExkbVZ5RmNkR1JuTlFIQllmaUlsN0tJTTIzOEtlenp0MHVXcE9aZGFCS0V5VFh2ck5sZmZMRUJXOFhsazcxbF9sSlVSZ2N2NTFJMXNGS1dqNnZSRF83ejVVNDQ4ZlExZlJwbENJ?oc=5",
-      "published": "2026-11-17T21:54:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Decreto que regulamenta escala 5x2 será assinado na quinta-feira Agência Brasil",
-      "summary": "Decreto que regulamenta escala 5x2 será assinado na quinta-feira Agência Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
