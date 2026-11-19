@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T05:20:59.268013+00:00",
+  "updated_at": "2026-11-19T07:34:47.103001+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -20,6 +20,20 @@
       "source": "Estadão",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNalNvcFVxX25nME5sWGVrVGlOTXhxTDBoYlBCcEppeHBMRjktOVp4OXJ2TnpseF9ZZ01TSW9kaG1GVFhWS0dMTTVXeHdJMnpnLXZzTENrTDFZdTlBN085VXZIZ0ZFS1FGVExYTHBTQjJrTkNEd1BrT2NLM3R2Wm82cFdWLW9tNThXa2pmUVI4WFlhOHloWXZtdTBrV2JvWTI4d1hsMm96Y2RLaWQ4LS0zUlJ3dHc3UkJmb2R6azhRUDBRTEJNMVF0QTRDQ3BNcERRVFVhYnc2Zw?oc=5",
       "published": "2026-11-19T04:50:11+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Memphis se diz alvo de ‘fofocas’ e reclama: ‘No Brasil, muitos falam de futebol sem entender’ Estadão",
+      "summary": "Memphis se diz alvo de ‘fofocas’ e reclama: ‘No Brasil, muitos falam de futebol sem entender’ Estadão",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "memphis-se-diz-alvo-de-fofocas-e-reclama-no-brasil-muit-cf5c0cfa3adbdd",
+      "category": "Esportes",
+      "title": "Memphis se diz alvo de ‘fofocas’ e reclama: ‘No Brasil, muitos falam de futebol sem entender’ - Estadão",
+      "snippet": "Memphis se diz alvo de ‘fofocas’ e reclama: ‘No Brasil, muitos falam de futebol sem entender’ Estadão",
+      "source": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPTEdOd1FFaWQ3cnR5UzBNZXNqRkhkWU1jMHZ5a3JWZ3Fyak5fUXVkUGc0cFlSTkd3Yk83enkxMzNqWHVHTjc1VnplbGJJZmtMczJmbGRGYzhUY3h5Q2RWdVRrUjNRT1l2WXg0Sjd6NWdseFVwZ2JUR1VlSHA4WVo2dXkwajFZQVl1bnRpT2R5eEJKNktveC16S3FOVUFpME1kNzBidVpKWE1jSEhLa0V1NHFaazZOalJXaEpKSTBRb21SV0hvUE4zeVdPODHSAdIBQVVfeXFMUGFMa1A0aldEOVhteERkVTRtUlFocTZ6TjNUWmpzYjloVG5TS3JGY3RwN2NNMHZ0bUdXV0t1aC04a1FXNHdqOEs4d2I0eG1uV0xVajZPTjE3ZFFzMUo0ZnhzakJYTzJVNlVSZHpfaEpub293YmdSb0R2YlJmcHJGR3JXN1JYOHV0SV9ReExHRFpNRzZodnJNSk5aOXNUUHNPOG5GX1ZGcDI1MExfQ0pLLUktSXJsaEpSX01aNExwU3BIYmNMTEdTRnlTeFlySHA0TVp3?oc=5",
+      "published": "2026-11-19T04:37:00+00:00",
       "image": "",
       "tone": "teal",
       "dek": "Memphis se diz alvo de ‘fofocas’ e reclama: ‘No Brasil, muitos falam de futebol sem entender’ Estadão",
@@ -248,6 +262,20 @@
       "tone": "teal",
       "dek": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda Band",
       "summary": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda Band",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "o-preju-zo-bilion-rio-da-previ-ap-s-a-vit-ria-de-lula-e-c4c085e6508b82",
+      "category": "Economia",
+      "title": "O prejuízo bilionário da Previ após a vitória de Lula e o balanço do BB - VEJA",
+      "snippet": "O prejuízo bilionário da Previ após a vitória de Lula e o balanço do BB VEJA",
+      "source": "VEJA",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGhFa3BQelljLTNfQjJzT01oZ1pJdEF5bFhSZWVnRTBOQ0szdmhsOURBTFl3dHpkNW9LTnAwTGZUQTJ1NzRUdWs2RkdBY1c3ZlQyN194NTJuM0dmd1BGVVp6ak1sWFoxcjhjSlRnYWY0UDJOd2lVN09BQUl4NjFITHNPNDJmQmNQZ0pZUGhoYlZIbXNrc1M0WVE0SmNTNVJNN3ZzMGxEYU12QXM?oc=5",
+      "published": "2026-11-18T16:40:58+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "O prejuízo bilionário da Previ após a vitória de Lula e o balanço do BB VEJA",
+      "summary": "O prejuízo bilionário da Previ após a vitória de Lula e o balanço do BB VEJA",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "",
       "dek": "Durigan prevê impacto inicial da reforma tributária sobre inflação Agência Brasil",
       "summary": "Durigan prevê impacto inicial da reforma tributária sobre inflação Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "xenia-fran-a-anuncia-show-intimista-e-sem-telas-em-s-o--cde8471e06685f",
-      "category": "Entretenimento",
-      "title": "Xenia França anuncia show intimista e sem telas em São Paulo - Rolling Stone Brasil",
-      "snippet": "Xenia França anuncia show intimista e sem telas em São Paulo Rolling Stone Brasil",
-      "source": "Rolling Stone Brasil",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbmhscmlFQk55TV9DSElTbExSTjh3aWhVSjFUcDF3ZGUxUGFvYkNybE5FbExpR19fcS16SkNHQ2dkUjRaaXJyTDBqQU9jOUpKU0QyYjlFZlM1XzV3T2dtcXNmUEQ1dE9WMHA4V0l2LWhQTlBkUDNqS0FvcmFtQjlDSFpFOUVVMGJZNFc3Tm1mblNqOFBnalNjeTJoSFNzM1pi?oc=5",
-      "published": "2026-11-17T18:07:13+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Xenia França anuncia show intimista e sem telas em São Paulo Rolling Stone Brasil",
-      "summary": "Xenia França anuncia show intimista e sem telas em São Paulo Rolling Stone Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-campe-o-do-1-mundial-militar-de-v-lei-sentado-mi-5d6996abe6cd81",
-      "category": "Brasil",
-      "title": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa - GOV.BR",
-      "snippet": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa GOV.BR",
-      "source": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObTlrUkxvUkNfdkF1eWI2dm5Ea3M5RzNHR0Fndk1xMmhHR09BYi13UmhheFZfaUpZMXBoSjhoczcwWURsX3RPa0hKbGlRM0lkQzF5eG9XdEN0WU9MWWhFNFMwMlpOV2ZscTdJSzRJYjVTTUVPRlp2MGZQUE1Eb2daMVcwRnZSNUFDNE1OYk5ISlpqWUI1UUJfTDRXUFRMaGVuOGFmS25iRUpwVWdIODF1X2ZKMGVkOU5O?oc=5",
-      "published": "2026-11-17T17:50:13+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa Governo Federal",
-      "summary": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa Governo Federal",
       "summary_by": "descrição da fonte"
     }
   ],
