@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T03:04:29.004450+00:00",
+  "updated_at": "2026-11-19T05:20:59.268013+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "memphis-se-diz-alvo-de-fofocas-e-reclama-no-brasil-muit-7f190cdb369ba7",
+      "category": "Esportes",
+      "title": "Memphis se diz alvo de ‘fofocas’ e reclama: ‘No Brasil, muitos falam de futebol sem entender’ - Estadão",
+      "snippet": "Memphis se diz alvo de ‘fofocas’ e reclama: ‘No Brasil, muitos falam de futebol sem entender’ Estadão",
+      "source": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNalNvcFVxX25nME5sWGVrVGlOTXhxTDBoYlBCcEppeHBMRjktOVp4OXJ2TnpseF9ZZ01TSW9kaG1GVFhWS0dMTTVXeHdJMnpnLXZzTENrTDFZdTlBN085VXZIZ0ZFS1FGVExYTHBTQjJrTkNEd1BrT2NLM3R2Wm82cFdWLW9tNThXa2pmUVI4WFlhOHloWXZtdTBrV2JvWTI4d1hsMm96Y2RLaWQ4LS0zUlJ3dHc3UkJmb2R6azhRUDBRTEJNMVF0QTRDQ3BNcERRVFVhYnc2Zw?oc=5",
+      "published": "2026-11-19T04:50:11+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Memphis se diz alvo de ‘fofocas’ e reclama: ‘No Brasil, muitos falam de futebol sem entender’ Estadão",
+      "summary": "Memphis se diz alvo de ‘fofocas’ e reclama: ‘No Brasil, muitos falam de futebol sem entender’ Estadão",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "memphis-dispara-ap-s-goleada-muitas-pessoas-n-o-entende-372c2397328b46",
+      "category": "Esportes",
+      "title": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" - CNN Brasil",
+      "snippet": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWFrUExWWjI0SVFyQTgzXzhrSmotcWJvYTlyMXRXc1RuVE9MUG1HYTFXUXZtRkFXbE9fbmlSOHVyeWJlOUJIcVkwTm04Wjl1aDRPWm91WTY2U0VTN2xsYU5hN19BaUpIbjd4RVVCV0lldnhtR1hnLXowTTVMX1l1TVJoTUMtM1ppYVR1R2ZhM3ZURmV0RWFGeV9aR2pWQS02UW9WUDk2cURRclFLV0ZJS2lhN1c1Q1NHUm9ORWItWTBGLXhH?oc=5",
+      "published": "2026-11-19T04:09:17+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" CNN Brasil",
+      "summary": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "drauzio-varella-vence-pr-mio-einstein-admirados-da-impr-aee524046c4844",
       "category": "Saúde e bem-estar",
@@ -244,6 +272,20 @@
       "source": "Estadão",
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSmVHQjFRY2ZZX3luSTlGVktmaUdWVFVCV2w1bjdaY1d1RFNnSG5jTlhKUmhMMHZnM3NmZGVMeWJPZ2EybVR5dXhwRnFMcnBabW94N0NkV0pZRGpXdUNHYjV6MVM3MDVxMjg0TmNXaHNQNnItQjdNaXJBNHB2VWFqUndFS0xXclR0Qi1vZlM4alk2WGNoN1k1V1VHcUFndGNJTl9Pb3RfVFpqd2lIaXUtcXNwa2RsXzZFcHZ2QkdhcmxSZlI4dnRvbVdEUnBETVk5U3JDb0dGTVd0dk9ZcVpvZFp4UkxkYTNFbnF3QTNrbl8?oc=5",
       "published": "2026-11-18T15:32:49+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
+      "summary": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "fabiana-cambricoli-do-pulsa-a-jornalista-mais-admirada--b5a7e1fe30c77b",
+      "category": "Saúde e bem-estar",
+      "title": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 - Estadão",
+      "snippet": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
+      "source": "Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcGtrczhQTk5mdk1CWThMM2ZnblZneHBwN1FEZmtLYzNRRWNyTklFNUlfMHpOU05EQS1CVkRaMXJWQ0J2V2FSanlSUnNlTGItaEpHYWdaLThublVSUHJ0UHR2SzBEdFhydGZXRnNuMWd3UTNlekVKY1ZPM0x0Z0hMdEVmbjVxNi1QUUpmemlVVVVHMTdla182eDRMT3dqUUotaERuaVpuRG1nOTZKVWxQTGw0SE5XZnpKd0FTVm4ya0cyUU1pMlB2cVQ4OWl5RUNuZnlHWkVHUHFpLTRPRjdmc0pha1FFM2lyNUtV0gHrAUFVX3lxTE1wa2tzOFBOTmZ2TUJZOEwzZmduVmd4cHA3UURma0tjM1FFY3JOSUU1SV8wek5TTkRBLUJWRFoxclZDQnZXYVJqeVJSc2VMYi1oSkdhZ1otOG5uVVJQcnRQdHZLMER0WHJ0ZldGc24xZ3dRM2V6RUpjVk8zTHRnSEx0RWZuNXE2LVBRSmZ6aVVVVUcxN2VrXzZ4NExPd2pRSi1oRG5pWm5EbWc5NkpVbFBMbDRITldmekp3QVNWbjJrRzJRTWkyUHZxVDg5aXlFQ25meUdaRUdQcWktNE9GN2ZzSmFrUUUzaXI1S1U?oc=5",
+      "published": "2026-11-18T15:26:11+00:00",
       "image": "",
       "tone": "red",
       "dek": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
@@ -808,48 +850,6 @@
       "tone": "",
       "dek": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa Governo Federal",
       "summary": "Brasil é campeão do 1º Mundial Militar de Vôlei Sentado — Ministério da Defesa Governo Federal",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "durigan-defende-al-quota-da-reforma-e-estima-m-dia-efet-eff613cb2d1124",
-      "category": "Brasil",
-      "title": "Durigan defende alíquota da reforma e estima média efetiva de 8,5% - Agência Brasil",
-      "snippet": "Durigan defende alíquota da reforma e estima média efetiva de 8,5% Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQaFRGaTRMYk83UEVfSWJwS045SVhrUXBNMVZSZUQ2dE5EaTVzOF85czVINHhpT2llVWMtRnpOZUZXTDd5SHdaMWFpeW1LSkFhYXY4aTI5dkg5VjUtc3FmelZZVEVlcTdMZ2dVRkVlNktvOW9seG5tRzdZRzBCVEJwb1pxM1JaNndPSTBzWXY4Z0h0dlVUU05tX1ZoRTlHcVFGLWsyTjlRSjJOZ3hjS2FwVUc1NEJ5NzVjSUFjNEtkcw?oc=5",
-      "published": "2026-11-17T17:26:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Durigan defende alíquota da reforma e estima média efetiva de 8,5% Agência Brasil",
-      "summary": "Durigan defende alíquota da reforma e estima média efetiva de 8,5% Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-ex-rcito-das-av-s-os-n-meros-que-mostram-as-respons-v-fcda608aaa6dea",
-      "category": "Brasil",
-      "title": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições - BBC",
-      "snippet": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9KSXJ2OXdGd091Z1BQVUM1Y1FXbkRiMWIyOWsyTk5Yd2JNVWtiaFFTdjdUWmZvZEdTWHljZXlWZXNhT1VXay1rX1Zoa2VkSGlhd3A2cTJlbTFWWnZmalpaclRxMNIBaEFVX3lxTE1rQVdTV0hkTVNpUHdFYlVOaV91WjVxR3dacWU0QVd2MmZ3QjNhMVFWV2Z3WDh5cjJkWlJHU29MUktpeGZJQWJ5OXJWLUh2RkNfeTRRcGFJc3ZJcVNMRjREQUVXTExNLU0w?oc=5",
-      "published": "2026-11-17T17:02:04+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições BBC",
-      "summary": "O 'exército das avós': os números que mostram as responsáveis pelo pico de comparecimento nas eleições BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mariah-carey-faz-passagem-de-som-de-madrugada-antes-de--632de22cfd1d41",
-      "category": "Entretenimento",
-      "title": "Mariah Carey faz passagem de som de madrugada antes de show em São Paulo - Jornal da Orla",
-      "snippet": "Mariah Carey faz passagem de som de madrugada antes de show em São Paulo Jornal da Orla",
-      "source": "Jornal da Orla",
-      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5UTW51U2laSHNKLXkzeTlaSXd5cjR0SVo1NHZYdS04Uk40UmE2d08zX0pnTkpvMVVqZjhoVnVNcFFYRTYxOEJFOW5PMDlQT1R1dDY5RzhpalJSYmg3OU9fa0hoc0lnR0I2UFlGN3lDNEo?oc=5",
-      "published": "2026-11-17T16:45:00+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Mariah Carey faz passagem de som de madrugada antes de show em São Paulo Jornal da Orla",
-      "summary": "Mariah Carey faz passagem de som de madrugada antes de show em São Paulo Jornal da Orla",
       "summary_by": "descrição da fonte"
     }
   ],
