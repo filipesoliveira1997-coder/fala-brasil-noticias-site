@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T09:21:54.027501+00:00",
+  "updated_at": "2026-11-19T11:13:21.506120+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "primeiro-balan-o-global-da-cultura-lan-ado-na-cop31-com-ca4d80f44dee4c",
+      "category": "Entretenimento",
+      "title": "Primeiro balanço global da cultura é lançado na COP31 com propostas de ação climática para mídia, marketing e entretenimento - UOL",
+      "snippet": "Primeiro balanço global da cultura é lançado na COP31 com propostas de ação climática para mídia, marketing e entretenimento UOL",
+      "source": "UOL",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTGlYVHU2X01zYVNiQ1NNV0FwYXRNbF9mVmNSOVhGLWRZQm44dXFCRGlKWWRxdHdpU1lPam5RZVl1XzBRYmoza3doTDhTU0dydk54eE5TaExQOVlVVldXdlo0a0piRVFQZ0RfXzd2aDN1RzdfY1RnY0ltNkl5TEIwRG1haUlxOHk3ZldsOTh30gGTAUFVX3lxTE9JUmlfVGVfV0dLV3lZODA5a2RacUxJY2hEdGlNMzBOYUdXaC1qd1hHZGNpSjdXaWUzREMwNjZmMU9QUEZtQ3l0NDBPUFVyREJZdnRvSFJONHdDcTc2N1VlOUJZOHBXcDd4MjR3WXRFQkFURGczczctRVdnNXl6REk4dmE2NEpMSVNYZ0VveGNFTEpibw?oc=5",
+      "published": "2026-11-19T09:20:30+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Primeiro balanço global da cultura é lançado na COP31 com propostas de ação climática para mídia, marketing e entretenimento UOL",
+      "summary": "Primeiro balanço global da cultura é lançado na COP31 com propostas de ação climática para mídia, marketing e entretenimento UOL",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "fatos-e-cifras-uol-lan-a-programa-sobre-economia-e-neg--015cdea9702a24",
       "category": "Economia",
@@ -276,6 +290,20 @@
       "tone": "",
       "dek": "O raro encontro com indígenas awás isolados na Amazônia — e por que preocupa autoridades brasileiras BBC",
       "summary": "O raro encontro com indígenas awás isolados na Amazônia — e por que preocupa autoridades brasileiras BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "yara-e-netafim-investem-em-capacita-o-para-expandir-fer-526a113c2c00bc",
+      "category": "Brasil",
+      "title": "Yara e Netafim investem em capacitação para expandir fertirrigação no Brasil - Notícias Agrícolas",
+      "snippet": "Yara e Netafim investem em capacitação para expandir fertirrigação no Brasil Notícias Agrícolas",
+      "source": "Notícias Agrícolas",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSDFjNXRkSEpHcWJSU1draC1RZ3dBcUtoRm43MlN3Rk44V2NfMEw2SnBIZ3huV0FjWGZNX0Y2bUxlTU44bmhPb1VtbDhxNGV2eDFiWjRNTWloYVh1N2xiNWN2NTdJRXhPVFBUa1ZqTnI4Sy0tWWJ3bElxUTVHNU5yeG9LMGhCb2k4a1RsUjhmekdzSm9nN2FLQ20taVBIc2Z4OGRkMl9FVjYyTUZBRm9pMmg4eUpSMld5WVAwSEFzQ1BCd3NPZHZuT1VySVloam50amJVNDBDY1pmdGhlTUFZ0gHkAUFVX3lxTE1VdW9HRlFub0RscXhqRmdzWEt5Vm1NODd3OXNrQUE0ZTFUbmowUUpuNVUzNlhQSzF0ZThQejdpam13UngwYmdGazZhdzR6aUxUcUdJZUwyeGlnWEc2ejhMUTZFZjZUSUxraTRsRUswWFhkZ0t1cG5HQVN2elc4RnAtWU9qMy1fVXVmNFBub0FtOUpTYzJhc1JsZ3NHa0JMNmc4LUthR2JxTENJX2xuWkNzZ3hOQ1lIc3c0WlhyVnBBSDdCVS1NaXJLQkFrdzB1cFhFM1dURlROSDcwb3hSVlprQU0tTQ?oc=5",
+      "published": "2026-11-18T17:26:25+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Yara e Netafim investem em capacitação para expandir fertirrigação no Brasil Notícias Agrícolas",
+      "summary": "Yara e Netafim investem em capacitação para expandir fertirrigação no Brasil Notícias Agrícolas",
       "summary_by": "descrição da fonte"
     },
     {
@@ -822,34 +850,6 @@
       "tone": "",
       "dek": "Clima afeta produção e eleva preço do tomate em diversas capitais Agência Brasil",
       "summary": "Clima afeta produção e eleva preço do tomate em diversas capitais Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "adido-do-usda-eleva-previs-o-de-safra-de-caf-do-brasil--606b9501a29ec8",
-      "category": "Brasil",
-      "title": "Adido do USDA eleva previsão de safra de café do Brasil - Notícias Agrícolas",
-      "snippet": "Adido do USDA eleva previsão de safra de café do Brasil Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPVXlXVTVHd2pVX3FwYnV4M1E1M0tfc2V5WFhfYnZKRWFvS3dHSzVOQjhpbkNOamhmdWdCRlhGNWg0MHVibnc1dnF4bFNBcDhUeFBFcjFRWkgwMVRBanB4U0J3LVc0anJWWEI0TE84OUNjNkE1c2psXzhKRnRZdlNVdnFBWE5RNjhVN0o5emM2WTBFQWgtbXYzc3VQbXZoM25razI4bXc5cW44RnY3MWdQSEJBZ1hNX29lQmfSAb8BQVVfeXFMTV9uRGpDN1liRlR5ME1KWFROSUZTb1ZmbTJ6R1BtbW5CRi1ZU3JkcElUdnlfTEdmZXhwek1IZmxvX1dHdUZSOGNyTXFyOHJRdFJkU3hPQkU4ZGtGZHJTUlE1dHRQMXlJTDVGT0g1STVKLTI3dzZXZUptNU1UWE43VmFkMmMtYXlpVG9rRjQtbWNwMDRkYUFudk5MblhCZUZIZmZrS2o1OE0wcGhIbXRjOFllYk5NTmlDcUszVjJpZGc?oc=5",
-      "published": "2026-11-17T20:00:39+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Adido do USDA eleva previsão de safra de café do Brasil Notícias Agrícolas",
-      "summary": "Adido do USDA eleva previsão de safra de café do Brasil Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "sele-o-fatura-r-57-milh-es-na-sia-entre-vexames-e-est-d-87dbdb31669341",
-      "category": "Esportes",
-      "title": "Seleção fatura R$ 57 milhões na Ásia entre vexames e estádios vazios - Band",
-      "snippet": "Seleção fatura R$ 57 milhões na Ásia entre vexames e estádios vazios Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMnlzSVg0bHNyU1ZyS2hRWmpfU2RvNTRlRkVLZnFFUGdKeFJXMVZzX2hhNXpXejV3anBNcnNqNkQzZE8yZDRXNHBTWllBalNsM2Jld09tdFJFcDVaWVlWdDNpNktnblhUb25leXV0Z2lQYlRhNWNFUnhzNDRnTFhzdncwOUNMXzRYV1VEU2F4blZVNmdidTk5SW9YZmktSFJNb1FrQXBwSVFtOTk2emNOMXk1Q3Y4YXNjWWFDdXZlYWEtWEZybkE?oc=5",
-      "published": "2026-11-17T19:38:40+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Seleção fatura R$ 57 milhões na Ásia entre vexames e estádios vazios Band",
-      "summary": "Seleção fatura R$ 57 milhões na Ásia entre vexames e estádios vazios Band",
       "summary_by": "descrição da fonte"
     }
   ],
