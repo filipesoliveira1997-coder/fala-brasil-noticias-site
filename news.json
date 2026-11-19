@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T13:32:56.739776+00:00",
+  "updated_at": "2026-11-19T15:12:46.086563+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "com-r-1-83-bilh-o-em-neg-cios-mercado-imobili-rio-de-cu-fe4e1ffbcf5a0a",
+      "category": "Economia",
+      "title": "Com R$ 1,83 bilhão em negócios, mercado imobiliário de Cuiabá amplia procura por imóveis de maior valor - O Bom da Notícia",
+      "snippet": "Com R$ 1,83 bilhão em negócios, mercado imobiliário de Cuiabá amplia procura por imóveis de maior valor O Bom da Notícia",
+      "source": "O Bom da Notícia",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPSjFCZ0NDTVVnMDU4akdTZlZBWktpYUhmZjJhRG15Q2dabW80UHNfQXFHdDZHVzVXSTQtQnZUVXA3YkdueFhjLUZ4MGRnSHRHaWpmVzBSRGtZSHludm1CTnN1XzNVTnZBSzZlNmJoN0pnYzZIUndyOUU4enM5VWI0WGRrazVqbElnb2FPenJyUTMtQWVxcVp2aWRUYkFUY1haU1ZxTkRCbWxUNm9rblQxcmkxd2pUdUsxV0g1M3FUWUEwUTMyTnFmUENwbE1QWGVGbm5HTzBobXhaN2draDhmZHJ5bG9UTmVyRnc?oc=5",
+      "published": "2026-11-19T13:52:00+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Com R$ 1,83 bilhão em negócios, mercado imobiliário de Cuiabá amplia procura por imóveis de maior valor O Bom da Notícia",
+      "summary": "Com R$ 1,83 bilhão em negócios, mercado imobiliário de Cuiabá amplia procura por imóveis de maior valor O Bom da Notícia",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "nome-para-ministro-da-seguran-a-p-blica-segue-em-debate-12564629a58563",
+      "category": "Polícia",
+      "title": "Nome para ministro da Segurança Pública segue em debate - CNN Brasil",
+      "snippet": "Nome para ministro da Segurança Pública segue em debate CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNc0FwSUZXTVAxYl9oN2ktdERkM2NKVzhSSE9INE02aElpY0t4VEs5cklJYUtTVWx0cUxaSG80UXdjbkZnUHBtb3FmTXZTSkV0VzhUQXlGcURadlRZY2FHWW1zaVdDbEtDRWZOVG5TdW85T3NlRFo2OV9sUEI5akRxN2RqN3VFVVpScUJFVXZNYXBVMXNRRzdHTlhn?oc=5",
+      "published": "2026-11-19T12:45:09+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Nome para ministro da Segurança Pública segue em debate CNN Brasil",
+      "summary": "Nome para ministro da Segurança Pública segue em debate CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "justi-a-penhora-pr-mio-do-inter-na-copa-do-brasil-femin-301798fca3a787",
       "category": "Esportes",
@@ -335,10 +363,10 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "o-raro-encontro-com-ind-genas-aw-s-isolados-na-amaz-nia-941031d798ed00",
+      "id": "o-raro-encontro-de-ind-genas-aw-s-isolados-com-outra-al-941031d798ed00",
       "category": "Brasil",
-      "title": "O raro encontro com indígenas awás isolados na Amazônia — e por que preocupa autoridades brasileiras - BBC",
-      "snippet": "O raro encontro com indígenas awás isolados na Amazônia — e por que preocupa autoridades brasileiras BBC",
+      "title": "O raro encontro de indígenas awás isolados com outra aldeia na Amazônia — e por que preocupa autoridades brasileiras - BBC",
+      "snippet": "O raro encontro de indígenas awás isolados com outra aldeia na Amazônia — e por que preocupa autoridades brasileiras BBC",
       "source": "BBC",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1dEVaS3RGUnhaMzFXRXlzdjhYVjlYdU01N3gyUzdBNXFmR1JieUhRV19hb0hlYWt3UnlLLXF4a3hSTjNRUEQ1cmk4aXJLelROb0hSSlpkLW9NRXNFV1JQNTQ3MNIBaEFVX3lxTE1hQ1p1VnJwRy1BcW1vNk0teW1vYlo5LUlGXzUyeW1uWEtBbmJ6UU5xaEFsSTlpTmlhMUpjaFlrd2pCZ1pQN0h1Tkd5dWpPVHpPRXRmX01vSXpJVFZlZFZfOG54S2wyUWJN?oc=5",
       "published": "2026-11-18T18:11:38+00:00",
@@ -822,34 +850,6 @@
       "tone": "",
       "dek": "Decreto que regulamenta escala 5x2 será assinado na quinta-feira Agência Brasil",
       "summary": "Decreto que regulamenta escala 5x2 será assinado na quinta-feira Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pgr-a-favor-de-prorroga-o-de-investiga-o-do-caso-dark-h-839cbabbc0a899",
-      "category": "Brasil",
-      "title": "PGR é a favor de prorrogação de investigação do caso Dark Horse - Agência Brasil",
-      "snippet": "PGR é a favor de prorrogação de investigação do caso Dark Horse Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPbmgzZDhrTVlEVENoUzZCMDdTcUdIZE1faEppbVdoRFUzUW5DMW1kV09aQng4OU9XNXRHbjh4ODY5b2xuN29lWURRbmVmZnpOcGZpNktUcWtzU0xubWR3LUxIQjRybVoxWGFFYTZ6TXFQaWJRUWVnYVJZb3RWLThMaWx6RnFRZm8wWG9uUDRTSExDNGl1NnlUZ2FuUTVyenpfVHpXdmJPU0hxelp2aDZYZmJEckY2OXFLekt1bQ?oc=5",
-      "published": "2026-11-17T21:24:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "PGR é a favor de prorrogação de investigação do caso Dark Horse Agência Brasil",
-      "summary": "PGR é a favor de prorrogação de investigação do caso Dark Horse Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mercado-com-700-milh-es-de-clientes-abre-avenida-para-i-3143c81c3db917",
-      "category": "Economia",
-      "title": "Mercado com 700 milhões de clientes abre \"avenida\" para investidores e empresas do ES - Folha Vitória",
-      "snippet": "Mercado com 700 milhões de clientes abre \"avenida\" para investidores e empresas do ES Folha Vitória",
-      "source": "Folha Vitória",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUlzQWQ3bXBqTjV6WXZwTzlYclZRRk1IT0c2Wm1HR3JPX2JOeERXVEhmWmRUenZwWWVkU0pWWWU3bU00cy1kTmd3WUFZci1zX2hBeDFGV0RIOTMta05NRE9WYmJrWXRRcV9ocTJpSXhJUmRoUGExV2h2WDlLN1dFWF9VS1E1Y203X19nYVhvZUJmdmFMd0NzS2VRSVJQZTZEb2ZNZUlEQnIyNVZ0aHN1UnYtdzVLV3EtTG9SVUJ1WWZYdjg?oc=5",
-      "published": "2026-11-17T21:00:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Mercado com 700 milhões de clientes abre \"avenida\" para investidores e empresas do ES Folha Vitória",
-      "summary": "Mercado com 700 milhões de clientes abre \"avenida\" para investidores e empresas do ES Folha Vitória",
       "summary_by": "descrição da fonte"
     }
   ],
