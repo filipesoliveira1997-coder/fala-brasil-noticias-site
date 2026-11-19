@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T19:14:13.425090+00:00",
+  "updated_at": "2026-11-19T21:04:38.650946+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -167,6 +167,48 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "a-bolsa-caiu-mas-o-risco-ficou-btg-rebaixa-brasil-para--1d285be951f591",
+      "category": "Economia",
+      "title": "A bolsa caiu, mas o risco ficou: BTG rebaixa Brasil para neutro e tira Itaú, XP e Assaí da carteira - Money Times",
+      "snippet": "A bolsa caiu, mas o risco ficou: BTG rebaixa Brasil para neutro e tira Itaú, XP e Assaí da carteira Money Times",
+      "source": "Money Times",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPYlNIRjFHZEJJRWJKZHJScDNwRmF0LVpMREpkdm5XSmh6ZExieHNwOFdGVG1jd1pzNm9qY2h3dDY2R1IwY201XzdUMlgtSUp3Tlh0VTRRUmJibzdabE5aVzJ1S1lJVmk3T3Q5SXVtVVY0dUxuNWRTc3RuOFJrZnJGT29hQXdJemVLT1FsT0dEMEFBZ3JfZUFtNC1qUWY5YWVoaENOdm9FZVVGWXBTdDNET2RvWHFpbFhJMmFVNzBEemZ5QmJCY2FvcTdWVzg?oc=5",
+      "published": "2026-11-19T12:11:00+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "A bolsa caiu, mas o risco ficou: BTG rebaixa Brasil para neutro e tira Itaú, XP e Assaí da carteira Money Times",
+      "summary": "A bolsa caiu, mas o risco ficou: BTG rebaixa Brasil para neutro e tira Itaú, XP e Assaí da carteira Money Times",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "sem-avan-o-brasil-abre-disputa-comercial-na-omc-contra--5ac519aaf939f3",
+      "category": "Brasil",
+      "title": "Sem avanço, Brasil abre disputa comercial na OMC contra tarifaço de Trump - ICL Notícias",
+      "snippet": "Sem avanço, Brasil abre disputa comercial na OMC contra tarifaço de Trump ICL Notícias",
+      "source": "ICL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ01TZDFYSEw4WmpLMThfOEdHVjgzZjU0blJWZFlsVUZjc3hLVWVfd2dKa1NEVjIzRlpfVkNuYTBGWVdXTU0tZjlRWXhaSElmUmQ3UXNwVS1BdUh3cGpQRDBaa0s3UVZlajRSR29aZ2tYSU1NdnptTW9TakQ5SHlsRw?oc=5",
+      "published": "2026-11-19T12:03:47+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Sem avanço, Brasil abre disputa comercial na OMC contra tarifaço de Trump ICL Notícias",
+      "summary": "Sem avanço, Brasil abre disputa comercial na OMC contra tarifaço de Trump ICL Notícias",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "fifa-oficializa-concorrentes-de-infantino-em-elei-o-pel-e5a2e892f69427",
+      "category": "Esportes",
+      "title": "Fifa oficializa concorrentes de Infantino em eleição pela presidência - CNN Brasil",
+      "snippet": "Fifa oficializa concorrentes de Infantino em eleição pela presidência CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRDRJUGdwUjVPLVBreXRTVnBUdkVwaTNzYkE2SmhiN2pKaEQ1cFdHaVFwWm93ODF0czdjVkhZaGJXZUNYWjhPNUVldXRYZ0Jlc0FIaDZDQ0sxOEJsUUhQaHlwYllaUEQ1RmtxcG9VTGl1RFZjN09uZ0dPVXd2OTZ5aGNDc1VOZFBjcWNJdTJ5cXdKSi1BbHdzWW9iWG5UYjUwdXpzTlpxeWw1WVVtZGxJTUkxYzVLS3NPcVN6S1hrTlN3aEhDLXVWNlhxaWNXOUl5MjdJZA?oc=5",
+      "published": "2026-11-19T11:17:41+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Fifa oficializa concorrentes de Infantino em eleição pela presidência CNN Brasil",
+      "summary": "Fifa oficializa concorrentes de Infantino em eleição pela presidência CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "justi-a-penhora-pr-mio-do-inter-na-copa-do-brasil-femin-301798fca3a787",
       "category": "Esportes",
       "title": "Justiça penhora prêmio do Inter na Copa do Brasil Feminina - TV Sim Brasil",
@@ -265,20 +307,6 @@
       "summary_by": "descrição da fonte"
     },
     {
-      "id": "memphis-dispara-ap-s-goleada-muitas-pessoas-n-o-entende-372c2397328b46",
-      "category": "Esportes",
-      "title": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" - CNN Brasil",
-      "snippet": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWFrUExWWjI0SVFyQTgzXzhrSmotcWJvYTlyMXRXc1RuVE9MUG1HYTFXUXZtRkFXbE9fbmlSOHVyeWJlOUJIcVkwTm04Wjl1aDRPWm91WTY2U0VTN2xsYU5hN19BaUpIbjd4RVVCV0lldnhtR1hnLXowTTVMX1l1TVJoTUMtM1ppYVR1R2ZhM3ZURmV0RWFGeV9aR2pWQS02UW9WUDk2cURRclFLV0ZJS2lhN1c1Q1NHUm9ORWItWTBGLXhH?oc=5",
-      "published": "2026-11-19T04:09:17+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" CNN Brasil",
-      "summary": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
       "id": "drauzio-varella-vence-pr-mio-einstein-admirados-da-impr-aee524046c4844",
       "category": "Saúde e bem-estar",
       "title": "Drauzio Varella vence Prêmio Einstein + Admirados da Imprensa de Saúde, Ciência e Bem-Estar - Folha de S.Paulo",
@@ -290,6 +318,20 @@
       "tone": "red",
       "dek": "Drauzio Varella vence Prêmio Einstein + Admirados da Imprensa de Saúde, Ciência e Bem-Estar Folha de S.Paulo",
       "summary": "Drauzio Varella vence Prêmio Einstein + Admirados da Imprensa de Saúde, Ciência e Bem-Estar Folha de S.Paulo",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "memphis-dispara-ap-s-goleada-muitas-pessoas-n-o-entende-372c2397328b46",
+      "category": "Esportes",
+      "title": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" - CNN Brasil",
+      "snippet": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTWFrUExWWjI0SVFyQTgzXzhrSmotcWJvYTlyMXRXc1RuVE9MUG1HYTFXUXZtRkFXbE9fbmlSOHVyeWJlOUJIcVkwTm04Wjl1aDRPWm91WTY2U0VTN2xsYU5hN19BaUpIbjd4RVVCV0lldnhtR1hnLXowTTVMX1l1TVJoTUMtM1ppYVR1R2ZhM3ZURmV0RWFGeV9aR2pWQS02UW9WUDk2cURRclFLV0ZJS2lhN1c1Q1NHUm9ORWItWTBGLXhH?oc=5",
+      "published": "2026-11-19T01:09:17+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" CNN Brasil",
+      "summary": "Memphis dispara após goleada: \"Muitas pessoas não entendem de futebol\" CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -360,6 +402,20 @@
       "tone": "",
       "dek": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo Agência Brasil",
       "summary": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "d-lar-sobe-para-r-5-87-com-expectativa-sobre-vota-o-de--634798d57de130",
+      "category": "Brasil",
+      "title": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal - Agência Brasil",
+      "snippet": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSm50cDJtZFhrcjBLUV9ObTFMdnZnakpwWkk5WlVMdHZfcjI5YmpiQ3o1eGV3UjZaa21LS1BaQXprMWd0eDBWanNoVlNnMU1nLTR6VWRhT3g4bzV3eURMS25vMnVSSkRDaTdua2c5NmtKZUJidDU5V0RucEpkcERxeUV0OG5HNC1RZ3dYS2REMjdpR01NNEpvaDdBT244S2UzSTg0R1lib29VTnM5YkZlREJCanVYby00OWVoSHB0RXBLVGZz?oc=5",
+      "published": "2026-11-18T22:26:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal Agência Brasil",
+      "summary": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "",
       "dek": "Não me preocupa a queda da atenção, mas sim a queda da curiosidade, afirma Starnone Folha de S.Paulo",
       "summary": "Não me preocupa a queda da atenção, mas sim a queda da curiosidade, afirma Starnone Folha de S.Paulo",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "sele-o-termina-2026-com-mais-vit-rias-que-derrotas-tv-s-93e665c85ca53c",
-      "category": "Esportes",
-      "title": "Seleção termina 2026 com mais vitórias que derrotas - TV Sim Brasil",
-      "snippet": "Seleção termina 2026 com mais vitórias que derrotas TV Sim Brasil",
-      "source": "TV Sim Brasil",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOd0laWTZHbjA1LVpfX2ExbDBWMzVSdUF3TE9NYXhVRHl4ZENJeUY4S1R0NlpiY0JocXRZa2N3YWpKMTRiTUtESlJhLVdSajgzQVpGM3g4NWVid241dmJLZk1qcnhacDBHaHgwVE5pekFCQndGRng5NVhYazI1dWd6S2k2Y2ZWUmpSZDhLd1Z5Y0xZWXkyQTA5b19YMWtGVE1XMXQ5a0dHQUxmdXlseFE?oc=5",
-      "published": "2026-11-18T04:35:24+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Seleção termina 2026 com mais vitórias que derrotas TV Sim Brasil",
-      "summary": "Seleção termina 2026 com mais vitórias que derrotas TV Sim Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "maracan-vence-cear-nos-p-naltis-e-campe-o-in-dito-do-ce-846990c3232135",
-      "category": "Esportes",
-      "title": "Maracanã vence Ceará nos pênaltis e é campeão inédito do Cearense Feminino - TV Sim Brasil",
-      "snippet": "Maracanã vence Ceará nos pênaltis e é campeão inédito do Cearense Feminino TV Sim Brasil",
-      "source": "TV Sim Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZTc4eUhPMS1GRktGa0RiUjNETjFIUmVWOVNFQTFlU1FadklVVmI0RXJJVVZuQmh4WVJWRzFRWWZKVFJVdkRLcFRfM08wNS04RnNWSnc0cnlkVHhocllIajBSU2RwdXdlYnpWVE9KS09uRV9PVjhJQzgzbkF1cFktSU5Jak1lazJyaC0zaVF0WV9JZ0dhVlZLVFUwZ1FGR0E1Wno1dzdiazdKYi1KdXpfWXBmS0tKblNsbF9z?oc=5",
-      "published": "2026-11-18T02:32:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Maracanã vence Ceará nos pênaltis e é campeão inédito do Cearense Feminino TV Sim Brasil",
-      "summary": "Maracanã vence Ceará nos pênaltis e é campeão inédito do Cearense Feminino TV Sim Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ju-ara-mar-al-transforma-cinema-de-agn-s-varda-em-m-sic-9f4c9ee77f6bb0",
-      "category": "Entretenimento",
-      "title": "Juçara Marçal transforma cinema de Agnès Varda em música - Culturadoria",
-      "snippet": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
-      "source": "Culturadoria",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNVNKbU16akpIX1Q1THpXMmJhWWNzRmh3ejk3MnhJYWtfcFNHTU1lUFRsV1hWM0ZuaHJyZ1hfZkRGaDU5SThSSWpQV011T1JhMldoMGVONHpGRi1wZWlDWkV2b0NTMldkbXBLdzRmakZRSVVsdW90VTFwZzBzd3Vrb3ZPdw?oc=5",
-      "published": "2026-11-18T01:14:26+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
-      "summary": "Juçara Marçal transforma cinema de Agnès Varda em música Culturadoria",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "editora-do-o-povo-a-jornalista-de-sa-de-e-ci-ncia-mais--8b3d44a734886a",
-      "category": "Saúde e bem-estar",
-      "title": "Editora do O POVO+ é a jornalista de Saúde e Ciência mais admirada do Nordeste - O POVO",
-      "snippet": "Editora do O POVO+ é a jornalista de Saúde e Ciência mais admirada do Nordeste O POVO",
-      "source": "O POVO",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQmdzaVBtTUcyLWljdnB1VnpmYk42SEtmU3F6RE5RRFV3eDZiU3VnZ3N4MWxodllMS3NOZFBEZUQ2YVdrd2E3MTAwUFZvTEI3Ul9yNk9UUjVEeEx6TnlNc2F1Qnc5WE4yaksxWDJkVERZR1BFTTdLeTZWNURGMkZPeDlFWVlRV3NYZEJtSTc1a1pQaTBzc3lObFNsbVJxd1FWMURwQ2prSnI1Y09MY29OdV9Va2FwWnNzblBWVnlaRVVuaFFDNk9fWkZPeHVXSlk?oc=5",
-      "published": "2026-11-18T01:05:42+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Editora do O POVO+ é a jornalista de Saúde e Ciência mais admirada do Nordeste O POVO",
-      "summary": "Editora do O POVO+ é a jornalista de Saúde e Ciência mais admirada do Nordeste O POVO",
       "summary_by": "descrição da fonte"
     }
   ],
