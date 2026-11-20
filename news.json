@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-19T23:00:34.466779+00:00",
+  "updated_at": "2026-11-20T01:24:59.140184+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "cmn-amplia-controle-sobre-recolhimentos-de-tributos-dos-dac117e401cbbf",
+      "category": "Brasil",
+      "title": "CMN amplia controle sobre recolhimentos de tributos dos bancos - Agência Brasil",
+      "snippet": "CMN amplia controle sobre recolhimentos de tributos dos bancos Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGpLeXZIZFBYUGxCRHd3TlBTODF5R0s5aFFKajZ4TG9HNXV1UTgtdDFGdW45UEJtNHBJdVBTY0Y2cDBUWGNkVW1LZWMzWUExOC0tazFxYVczemJfeW5keUZiYWVXZEVnVUJ1aEdFaGpiZmZxdm54cWZqdnJMcjBUZlpDcGQxZ2FGV0VsdnF3SHBBS1VqTDBtTEtMTncyc1ZtVHFpZEEwTmdRTEdxSzBHNlFzTEc1XzJqb3JSaQ?oc=5",
+      "published": "2026-11-19T23:33:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "CMN amplia controle sobre recolhimentos de tributos dos bancos Agência Brasil",
+      "summary": "CMN amplia controle sobre recolhimentos de tributos dos bancos Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "rep-rter-brasil-de-19-de-novembro-de-2026-assista-na-nt-0c985499d1d478",
+      "category": "Brasil",
+      "title": "Repórter Brasil de 19 de novembro de 2026; assista na íntegra - TV Brasil |",
+      "snippet": "Repórter Brasil de 19 de novembro de 2026; assista na íntegra TV Brasil |",
+      "source": "TV Brasil |",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUE9yMTllblEtVmFod2FSWmQwTUV4NWVLYjBWeVN5Q0lxV19tSU0yYkdUbTgyS1ViR3VFaU5zaUtDT0lSczViVHpWa0J0M21tYTdzdkMwVmkwX3hraXBKekExN1RQRWhlb19EanlsdUc2U05pM2hMcXcxSWdjbG1wNTJmMmhMVFBybE1KZ0gwV19tdWN1ai1uS2RpVTB5ckZyZ3E3UGRvTExlaDVwRWsxU0Z3?oc=5",
+      "published": "2026-11-19T22:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Repórter Brasil de 19 de novembro de 2026; assista na íntegra TV Brasil |",
+      "summary": "Repórter Brasil de 19 de novembro de 2026; assista na íntegra TV Brasil |",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "cristiano-ronaldo-pode-ter-jogo-de-despedida-organizado-4d090a512cf91c",
       "category": "Esportes",
@@ -27,6 +55,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-7c7be9a3118782",
+      "category": "Brasil",
+      "title": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro - Agência Brasil",
+      "snippet": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGFQRkNrNE9mRlVEYXlISnhmRWhPTmU0VnhNWWhCM3FBQnNITnQ5OVRyNXM5STJpamhQaTFDT0ZFVUVjQ3liWGZRRTMwNHJGQVo2RlNvckRaTTNTVXpoWlpGUzA4cTZjV2ZNamVLTndhZVRFNVNaUmRHSnl1cnhQdzNheF9FY20yVnJkOWZkZGhrbHQzNU80dmRBWjZMSTRZRkJDbnphblJoRG5pclR5MVROSnNlRmdZVmkyc3BMUDE4dnNW?oc=5",
+      "published": "2026-11-19T21:34:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro Agência Brasil",
+      "summary": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "exposi-o-ms-m-sica-e-mem-ria-tem-debate-cinema-e-show-d-53af7fa657e02b",
       "category": "Entretenimento",
       "title": "Exposição 'MS - Música e Memória' tem debate, cinema e show de Simona - diariodigital.com.br",
@@ -38,6 +80,20 @@
       "tone": "purple",
       "dek": "Exposição 'MS - Música e Memória' tem debate, cinema e show de Simona diariodigital.com.br",
       "summary": "Exposição 'MS - Música e Memória' tem debate, cinema e show de Simona diariodigital.com.br",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "refor-o-no-palmeiras-murilo-inicia-transi-o-pensando-em-66786f9706845e",
+      "category": "Esportes",
+      "title": "Reforço no Palmeiras? Murilo inicia transição pensando em finais - Esporte",
+      "snippet": "Reforço no Palmeiras? Murilo inicia transição pensando em finais Esporte",
+      "source": "Esporte",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeVdmWTVYTGNCMldXOHBxX0tsaDdaOUJWczJJTTYyeVNfRm1Eb0V6WDRjcFZhRS13Mzg4bDNKMFhFMmVUeEhScG9FdXhUZ2pqMDhvTkpGNTljUncyc0hVbS1xeGt6YmJFQUNpczB2aDV2T3lncXlNU2g0c2tRS0w2T2JlQkpld2VaaFdUb0hucWNNcEE2d1o3TDc4bUtkQUhsanJ0bnBhbF9JajZfeWRqM1hOVHhqTUVNY3hNTA?oc=5",
+      "published": "2026-11-19T20:18:48+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Reforço no Palmeiras? Murilo inicia transição pensando em finais Esporte",
+      "summary": "Reforço no Palmeiras? Murilo inicia transição pensando em finais Esporte",
       "summary_by": "descrição da fonte"
     },
     {
@@ -80,6 +136,20 @@
       "tone": "purple",
       "dek": "Pioneirismo feminino, biodiversidade e ciência dos materiais: a SNCT está chegando GOV.BR",
       "summary": "Pioneirismo feminino, biodiversidade e ciência dos materiais: a SNCT está chegando GOV.BR",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "goleiro-do-corinthians-ser-pai-de-dois-filhos-com-duas--bd699bcc868da2",
+      "category": "Esportes",
+      "title": "Goleiro do Corinthians será pai de dois filhos com duas mães diferentes - CNN Brasil",
+      "snippet": "Goleiro do Corinthians será pai de dois filhos com duas mães diferentes CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeURJLW4zUnVhVl85eUFDTzBvcFJVbmpBOVFfcjVLQ0lTVjhyRzhQSXRBSDRnNFlzQXN1Q2liTTM4WUtEbGJGTkIyVktjQ1dnU1VkR2kwaXpUZUlpbXhYSmNqWVo1QS1wSm9MYkE3NU9rNS11M09YWHRVSTF5c3pYRnBXX0VNTGliZHY1bU9yU1hyTFFkZldHQWRuN2YzUWVDTVJ2bDVVREVJSUh4UjBmUDFKeGNWc0dUQzBLYjEzN1V5c1oycklOOG93?oc=5",
+      "published": "2026-11-19T18:44:22+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Goleiro do Corinthians será pai de dois filhos com duas mães diferentes CNN Brasil",
+      "summary": "Goleiro do Corinthians será pai de dois filhos com duas mães diferentes CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "teal",
       "dek": "Inédita, Curitiba sedia edição nacional de Taça das Favelas do Brasil Bem Paraná",
       "summary": "Inédita, Curitiba sedia edição nacional de Taça das Favelas do Brasil Bem Paraná",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mapa-do-caminho-ind-gena-proteger-territ-rios-destaca-e-fa89fe42b7dd77",
-      "category": "Brasil",
-      "title": "Mapa do Caminho Indígena protegerá territórios, destaca Eloy Terena - Agência Brasil",
-      "snippet": "Mapa do Caminho Indígena protegerá territórios, destaca Eloy Terena Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQbWUxcHE3azdKT2ZPSFBBRDRJa3p2VWstb1BVM3pWYXd1eDJfcFkwTmhHbmFoaXBDQkVUZjBsdUF4V2dhX1BBRHNKZmVqT3JHcnBJZHZnamYtMFp0RE1sQno1eFAxN2hNRHRMdGRfMG4xV3NCb2U2V1djUGJHclY2TkdIaVFJclJHeXJ6R2ZKVEdWM3NMYVhVeGxrYVZxVE9kLS1xNTIwQzE4SVU0TS1rcHlFNWtkV2pkN2JYOHlzZ00yQU1ZZlZKRTNfUHE?oc=5",
-      "published": "2026-11-18T14:13:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Mapa do Caminho Indígena protegerá territórios, destaca Eloy Terena Agência Brasil",
-      "summary": "Mapa do Caminho Indígena protegerá territórios, destaca Eloy Terena Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ccj-do-senado-eleva-pena-para-motorista-que-mata-sob-lc-49a7d88ccfca47",
-      "category": "Brasil",
-      "title": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas - Agência Brasil",
-      "snippet": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUkRqZ0JPQ3pSV245c3ZRMFQ4ZVhLSTdzX1dZLWM1U0VQX0VWdF9xSDh0emJrbmhEU1VfRHRZYk9paXhXS05aeVJLMDU0SlA0MmNHS3g1TjBBcHBhaDBhRkNHbTBnTG5PWlVGbGRYNlI5ZlNzNmJua1RUaHlMOTZrZnJRV0xvM3B5LVlTdlhBb2NfZXltZGlpbnd0SEtBUnBnbXB1WWpKSlQxVVBIejBXMjd4bTFFZmZuQ3NwXzVTTzRrZ19ic0E?oc=5",
-      "published": "2026-11-18T14:12:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas Agência Brasil",
-      "summary": "CCJ do Senado eleva pena para motorista que mata sob álcool ou drogas Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "alvo-da-pf-esportes-da-sorte-j-patrocinou-mais-de-15-cl-dd2a312789c7a6",
-      "category": "Esportes",
-      "title": "Alvo da PF, Esportes da Sorte já patrocinou mais de 15 clubes no Brasil - UOL",
-      "snippet": "Alvo da PF, Esportes da Sorte já patrocinou mais de 15 clubes no Brasil UOL",
-      "source": "UOL",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQRk42R1UwSW5Kc1RCcWdNVHZ0ZUplOW1LV1NVcGdPVFJueVN4aUdaNGNVVmRFQTl6RExQZVRrQ1AzUE1SQU1OUXQ3MjR0NHhiZld5UnNFSlpMM2hZT2xtWExUZE50cjVlMTR2eEF1WTJYU3ZueHNDcXVPd2JTXzl0TnRaNEdKWW5IM0d1dnJJR1RVMENzVmxNXzdCTzBNY2o3bmVDdktoR3dXSUlqSlJJSWpSdldvMlQyWVdmWS1pak1tYnFFTUI5b3QyZXNtUQ?oc=5",
-      "published": "2026-11-18T13:46:57+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Alvo da PF, Esportes da Sorte já patrocinou mais de 15 clubes no Brasil UOL",
-      "summary": "Alvo da PF, Esportes da Sorte já patrocinou mais de 15 clubes no Brasil UOL",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "desigualdade-racial-ainda-marca-acesso-a-emprego-educa--c5d4dcbd7d7539",
-      "category": "Brasil",
-      "title": "Desigualdade racial ainda marca acesso a emprego, educação, segurança e saneamento - Agência de Notícias - IBGE",
-      "snippet": "Desigualdade racial ainda marca acesso a emprego, educação, segurança e saneamento Agência de Notícias - IBGE",
-      "source": "Agência de Notícias - IBGE",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPNWgzeDFxUTg4NmtKM2tUTy02dVNLNnRPZ21xbHVfLTlJYzFOcm5QdG9lTHN0VnJPelNQV28xRU1RSDN6QWpWSkQ0dUE4bElrWWJXZFhrMUc0ZjRJTC11R0JyblNxajFWdkpWMUY0cUdsUHV3WC0wNWtzT0dKbGdrdzY2MjctcjhqQ2JSSU9iYlk5aC1fdnRBZGxRdnN6LWc4Y0RUdnJCQnFLbHdScWZJMDZPVExfRDVyUHlaNmM2YzNXaXNrQ2IyWmFoX01idURqN2p5YjhtbEpnY21ISGF6ZHA4dFBOVDNESFZUWmJ6MnE2ZDR1Skt5MHFNNU4xTzV2aEJnTDFn?oc=5",
-      "published": "2026-11-18T13:00:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Desigualdade racial ainda marca acesso a emprego, educação, segurança e saneamento Agência de Notícias - IBGE",
-      "summary": "Desigualdade racial ainda marca acesso a emprego, educação, segurança e saneamento Agência de Notícias - IBGE",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "com-flamengo-e-cruzeiro-brasil-tem-10-indica-es-no-glob-e24ebdbb09df5d",
-      "category": "Esportes",
-      "title": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards - Band",
-      "snippet": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYVhiOUVaRE1LdTZjVU8xT0xpOExGa3BWMHEtOFJESGRHOGEwZ2R6ZWRwZVFTNHV4VFpHcEpIQjBKNEhELWpzbWFxNzFQc3ZCeWFFeTQzMDFBbGNCSWhKYjBoN3ZmcnhUeWNBaHpvVjFjajZuZFpfMXhEM3ZBZ044R3luNDJvcHkzbG4zZmE4ZmtZWFFmYzVXNTMxYWdLcmwwUWVOb2MteVRQdGdFWm1uSA?oc=5",
-      "published": "2026-11-18T11:56:48+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards Band",
-      "summary": "Com Flamengo e Cruzeiro, Brasil tem 10 indicações no Globe Soccer Awards Band",
       "summary_by": "descrição da fonte"
     }
   ],
