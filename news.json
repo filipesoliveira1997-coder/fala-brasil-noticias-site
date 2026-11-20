@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T02:59:34.402666+00:00",
+  "updated_at": "2026-11-20T12:56:50.990870+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,62 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "raimundo-nina-rodrigues-a-batalha-para-apagar-homenagem-8b943394f53533",
+      "category": "Brasil",
+      "title": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil - BBC",
+      "snippet": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKbVNLd0g3eUtELUJGOGpWX0NhbUV3cVFPNWlXR0FSSzJyandmLW1qSWhtam13R0VMSDNKMngwWDFfcmRNWVYyeThSX0JfRjFmc0MzYlFBdkZNRjh0U1N5M0xzVdIBaEFVX3lxTE5PQlNFUFhaTW1IcUdBVkFKb3lRT3hZemVrUDd6SVRTLUR5d0xFZURFOTM5akxJU1doNTJjWm5kMmVkbUdSTEJOdUlXcGRvZFl0cW04UGRaODJ6eWZGTkk2UXpRLU1HNHM2?oc=5",
+      "published": "2026-11-20T08:21:12+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil BBC",
+      "summary": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "shevchenko-acusa-mudryk-de-mentir-sobre-doping-na-ucr-n-b539d4df4a2a84",
+      "category": "Esportes",
+      "title": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia - TV Sim Brasil",
+      "snippet": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia TV Sim Brasil",
+      "source": "TV Sim Brasil",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmVtelBSNFlEeVBfRi1ZVjI0elY3cV9Yeko1TE1qekdwUm5XaFlZVU8yR2RkdjFSTE00ZDJPSmg4QzRsbDJZMURZckpaNmR4dGpHZEo5ZXFScTdTUkNNVEx6dWowNVlaWWM1WFcyZDdOeUUtVEZ1TzVZaklhUEFsWWlZZE1ZQWhXaHlGdlZJS1pJa0JGaXFPaWU0eDAybWN3?oc=5",
+      "published": "2026-11-20T06:54:29+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia TV Sim Brasil",
+      "summary": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia TV Sim Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "rep-rter-da-ag-ncia-brasil-vence-pr-mio-sbim-de-jornali-ddf779c51ecdd3",
+      "category": "Saúde e bem-estar",
+      "title": "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde - Agência Brasil",
+      "snippet": "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFhra1lOXzdNNm40ZVBFb2l1NTQ2RHpMeXNHOHZfVHY1S1BpWlk4bFQ2aWxQbWpSMTJiM0R1a0JUUGt2VHBUZ2pORWYzRGRkeGRTczVodDZQM05uZTZGWUVfY2ZtX2dyUXJva0lfRVNWbUdLcXE4RVI3V0dqWlVDd3JLS1BpV2pXejBWQUdaeElVOUx5WVRKYml3am1hd0I4R1NDSnk0eG1mM2I4NXQ0LWU5REw2SkhIS1ExT3liQQ?oc=5",
+      "published": "2026-11-20T00:36:00+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde Agência Brasil",
+      "summary": "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "caso-master-fachin-encaminha-pgr-cita-es-a-quatro-minis-570f834e0aa249",
+      "category": "Brasil",
+      "title": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF - Agência Brasil",
+      "snippet": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnpMX0FjVEpMbFJSaDlwXzNaeG91UGlBY2xZOU04aGpzM1BuRHlCTmVkOVNmV1M5ay1uZnBKVlduVzdmY3l0eGZtOHA2ODFLVlhlZlNkTW1FdGtkMFI1X2ZzNDZMZGZBSlJET2IxMU5nMkZXQW82ZnVDcWVuVTVicVRIZHp3WFdDcHNTTV90NDBjR1VzQlUyd193MmtPMVhmNFFKU2M4ZkVkOG9pZ2VBUi1tSHMxSjNFZ2doVXc4MA?oc=5",
+      "published": "2026-11-19T23:56:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF Agência Brasil",
+      "summary": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "cmn-amplia-controle-sobre-recolhimentos-de-tributos-dos-dac117e401cbbf",
       "category": "Brasil",
@@ -178,6 +234,20 @@
       "tone": "purple",
       "dek": "Pioneirismo feminino, biodiversidade e ciência dos materiais: a SNCT está chegando GOV.BR",
       "summary": "Pioneirismo feminino, biodiversidade e ciência dos materiais: a SNCT está chegando GOV.BR",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "caf-sobe-at-3-4-no-brasil-enquanto-ny-reage-e-londres-r-3a125c09d08e33",
+      "category": "Brasil",
+      "title": "Café sobe até 3,4% no Brasil, enquanto NY reage e Londres recua - Notícias Agrícolas",
+      "snippet": "Café sobe até 3,4% no Brasil, enquanto NY reage e Londres recua Notícias Agrícolas",
+      "source": "Notícias Agrícolas",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTUpjZmhhZDJMTFowWVNkVkkySHA1ODRiVHUzN2k2dS05N2h0WFJ2TjV5UE5wbm0ydFhpaXV3X0h6NERtM2diWFQ3OE5nbTQ1bG5XUEgzRGl5TGxncGhtMUt2Szl3Nkt3bEdERlJ3TDlaamkxZVY2YUVnYngwZGpuYzBYdGRYV252bVhOcEdZenhvZGI4V3dTVTJoY2R3Ums3cjNSTmVyTTZZbWJQY3AzQXJDaTFKd0tPVzNFSHhHUWU4UdIBxwFBVV95cUxNMkZZZVhHQ1hxZkZtSWEyTzU1Q1FCTXVjZ2pqTjlJcmktaWxkLXdqejhDNkVQOWVWODluNFBmMVpxLXNPSWQ5TWV0UktkaGJfRXRGTDdoOHZJczV3TGlnYlMzOVYxdlhMMjBmUnNYbUZqM29rSC1vbURnWENBSGhpMkpTcFJTQTdnS1ZzbDhaUGxPYUdMbU11eFRJY3JWd3d5YmtpQUE2TjJiLUt5Rk9SMFZpNXRqU2FQUHVPTDVDaDhRRjRJSnFv?oc=5",
+      "published": "2026-11-19T19:29:28+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Café sobe até 3,4% no Brasil, enquanto NY reage e Londres recua Notícias Agrícolas",
+      "summary": "Café sobe até 3,4% no Brasil, enquanto NY reage e Londres recua Notícias Agrícolas",
       "summary_by": "descrição da fonte"
     },
     {
@@ -416,6 +486,20 @@
       "tone": "teal",
       "dek": "Justiça penhora prêmio do Inter na Copa do Brasil Feminina TV Sim Brasil",
       "summary": "Justiça penhora prêmio do Inter na Copa do Brasil Feminina TV Sim Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "conhe-a-a-anthropic-gigante-de-ia-com-estreia-hist-rica-78a47465a9e886",
+      "category": "Economia",
+      "title": "Conheça a Anthropic, gigante de IA com estreia histórica na bolsa dos EUA - CNN Brasil",
+      "snippet": "Conheça a Anthropic, gigante de IA com estreia histórica na bolsa dos EUA CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVTNrbzBSWmRfTWJzUXNTYlFaVmZZTmExLUJ4STFGem9raGRkeW5OR0tnMzlPSDJuSlZaYjJGSV9YOVFIdXRVQXdIQU1CRmZEdVp1VXpNZW1TRjd6ajNLcnRZdTltZFdhZXFEWkN1MGtyN3NDSDN5dXFlUk9SNzdxV1UtTWo0NFNwZFF6ZWVDY2lxcjh5NXJRVElfcFB1THBKYXRtbmpFMmJrWjBJcmxKbzExUXRBeGh3V0ZtQXl1WkJiLUE?oc=5",
+      "published": "2026-11-19T10:41:29+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Conheça a Anthropic, gigante de IA com estreia histórica na bolsa dos EUA CNN Brasil",
+      "summary": "Conheça a Anthropic, gigante de IA com estreia histórica na bolsa dos EUA CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -766,90 +850,6 @@
       "tone": "",
       "dek": "O raro encontro com indígenas awás isolados na Amazônia — e por que preocupa autoridades brasileiras BBC",
       "summary": "O raro encontro com indígenas awás isolados na Amazônia — e por que preocupa autoridades brasileiras BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "yara-e-netafim-investem-em-capacita-o-para-expandir-fer-526a113c2c00bc",
-      "category": "Brasil",
-      "title": "Yara e Netafim investem em capacitação para expandir fertirrigação no Brasil - Notícias Agrícolas",
-      "snippet": "Yara e Netafim investem em capacitação para expandir fertirrigação no Brasil Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSDFjNXRkSEpHcWJSU1draC1RZ3dBcUtoRm43MlN3Rk44V2NfMEw2SnBIZ3huV0FjWGZNX0Y2bUxlTU44bmhPb1VtbDhxNGV2eDFiWjRNTWloYVh1N2xiNWN2NTdJRXhPVFBUa1ZqTnI4Sy0tWWJ3bElxUTVHNU5yeG9LMGhCb2k4a1RsUjhmekdzSm9nN2FLQ20taVBIc2Z4OGRkMl9FVjYyTUZBRm9pMmg4eUpSMld5WVAwSEFzQ1BCd3NPZHZuT1VySVloam50amJVNDBDY1pmdGhlTUFZ0gHkAUFVX3lxTE1VdW9HRlFub0RscXhqRmdzWEt5Vm1NODd3OXNrQUE0ZTFUbmowUUpuNVUzNlhQSzF0ZThQejdpam13UngwYmdGazZhdzR6aUxUcUdJZUwyeGlnWEc2ejhMUTZFZjZUSUxraTRsRUswWFhkZ0t1cG5HQVN2elc4RnAtWU9qMy1fVXVmNFBub0FtOUpTYzJhc1JsZ3NHa0JMNmc4LUthR2JxTENJX2xuWkNzZ3hOQ1lIc3c0WlhyVnBBSDdCVS1NaXJLQkFrdzB1cFhFM1dURlROSDcwb3hSVlprQU0tTQ?oc=5",
-      "published": "2026-11-18T17:26:25+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Yara e Netafim investem em capacitação para expandir fertirrigação no Brasil Notícias Agrícolas",
-      "summary": "Yara e Netafim investem em capacitação para expandir fertirrigação no Brasil Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "brasil-cai-no-ranking-da-fifa-ap-s-goleada-sobre-singap-e2e8c9213d6647",
-      "category": "Esportes",
-      "title": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda - Band",
-      "snippet": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQREhsT1dISGlwZHlVdnNsdTRzUkdMZjJlYVZsOG1FUUp3SkNjRVE4andOZlpsNkszcmR6U1Z4WkdQT3hzQTczcDJfSTVrcmlQQ2xXaklWZ3NhdFZ2OWNaTmhsZ09BSEpEQnYwY1ZiNVNBeGxHV1ZmN1dBZG1fRm5OOE9FVmRaRXE3eHU3VDFlSzlDS3BBMF9OZTIyemxRQW5jenE5bzFybkRVREVnbXlrZXd4N08yZkZzZHdqNXV0YXRiVkJs?oc=5",
-      "published": "2026-11-18T17:18:37+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda Band",
-      "summary": "Brasil cai no ranking da Fifa após goleada sobre Singapura; entenda Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "o-preju-zo-bilion-rio-da-previ-ap-s-a-vit-ria-de-lula-e-c4c085e6508b82",
-      "category": "Economia",
-      "title": "O prejuízo bilionário da Previ após a vitória de Lula e o balanço do BB - VEJA",
-      "snippet": "O prejuízo bilionário da Previ após a vitória de Lula e o balanço do BB VEJA",
-      "source": "VEJA",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPcGhFa3BQelljLTNfQjJzT01oZ1pJdEF5bFhSZWVnRTBOQ0szdmhsOURBTFl3dHpkNW9LTnAwTGZUQTJ1NzRUdWs2RkdBY1c3ZlQyN194NTJuM0dmd1BGVVp6ak1sWFoxcjhjSlRnYWY0UDJOd2lVN09BQUl4NjFITHNPNDJmQmNQZ0pZUGhoYlZIbXNrc1M0WVE0SmNTNVJNN3ZzMGxEYU12QXM?oc=5",
-      "published": "2026-11-18T16:40:58+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "O prejuízo bilionário da Previ após a vitória de Lula e o balanço do BB VEJA",
-      "summary": "O prejuízo bilionário da Previ após a vitória de Lula e o balanço do BB VEJA",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "ag-ncia-brasil-conquista-1-lugar-no-pr-mio-einstein-adm-b41277fc3f7650",
-      "category": "Saúde e bem-estar",
-      "title": "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados - Agência Brasil",
-      "snippet": "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRnMzVkNkamRtbUZsOWxoRmtPWmJ1TVVhQWdyT25EdEljVHY0dlJUTkNxQWZ0b1NjZElES2xTSWg5eVd3eU9YaWkxSG1lakZ0SzlVSzB2Tk9RMldpSXJKS2k1Um9JR2FIMDJndzdQdkFOQUkxczNzWUk0aDk3TVJwekkyOUl6eG9LaUJuam1BNnRvRjdYcHRXSXdkc2JnOWxtMkhyMzZzU004Y18zSHhQN0k3VkVLYnRy?oc=5",
-      "published": "2026-11-18T15:49:00+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados Agência Brasil",
-      "summary": "Agência Brasil conquista 1º lugar no Prêmio Einstein +Admirados Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "fabiana-cambricoli-do-pulsa-a-jornalista-mais-admirada--38519c9c30f952",
-      "category": "Saúde e bem-estar",
-      "title": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 - Estadão",
-      "snippet": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
-      "source": "Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOSmVHQjFRY2ZZX3luSTlGVktmaUdWVFVCV2w1bjdaY1d1RFNnSG5jTlhKUmhMMHZnM3NmZGVMeWJPZ2EybVR5dXhwRnFMcnBabW94N0NkV0pZRGpXdUNHYjV6MVM3MDVxMjg0TmNXaHNQNnItQjdNaXJBNHB2VWFqUndFS0xXclR0Qi1vZlM4alk2WGNoN1k1V1VHcUFndGNJTl9Pb3RfVFpqd2lIaXUtcXNwa2RsXzZFcHZ2QkdhcmxSZlI4dnRvbVdEUnBETVk5U3JDb0dGTVd0dk9ZcVpvZFp4UkxkYTNFbnF3QTNrbl8?oc=5",
-      "published": "2026-11-18T15:32:49+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
-      "summary": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "fabiana-cambricoli-do-pulsa-a-jornalista-mais-admirada--b5a7e1fe30c77b",
-      "category": "Saúde e bem-estar",
-      "title": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 - Estadão",
-      "snippet": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
-      "source": "Estadão",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNcGtrczhQTk5mdk1CWThMM2ZnblZneHBwN1FEZmtLYzNRRWNyTklFNUlfMHpOU05EQS1CVkRaMXJWQ0J2V2FSanlSUnNlTGItaEpHYWdaLThublVSUHJ0UHR2SzBEdFhydGZXRnNuMWd3UTNlekVKY1ZPM0x0Z0hMdEVmbjVxNi1QUUpmemlVVVVHMTdla182eDRMT3dqUUotaERuaVpuRG1nOTZKVWxQTGw0SE5XZnpKd0FTVm4ya0cyUU1pMlB2cVQ4OWl5RUNuZnlHWkVHUHFpLTRPRjdmc0pha1FFM2lyNUtV0gHrAUFVX3lxTE1wa2tzOFBOTmZ2TUJZOEwzZmduVmd4cHA3UURma0tjM1FFY3JOSUU1SV8wek5TTkRBLUJWRFoxclZDQnZXYVJqeVJSc2VMYi1oSkdhZ1otOG5uVVJQcnRQdHZLMER0WHJ0ZldGc24xZ3dRM2V6RUpjVk8zTHRnSEx0RWZuNXE2LVBRSmZ6aVVVVUcxN2VrXzZ4NExPd2pRSi1oRG5pWm5EbWc5NkpVbFBMbDRITldmekp3QVNWbjJrRzJRTWkyUHZxVDg5aXlFQ25meUdaRUdQcWktNE9GN2ZzSmFrUUUzaXI1S1U?oc=5",
-      "published": "2026-11-18T15:26:11+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
-      "summary": "Fabiana Cambricoli, do Pulsa, é a jornalista mais admirada de saúde, ciência e bem-estar de 2026 Estadão",
       "summary_by": "descrição da fonte"
     }
   ],
