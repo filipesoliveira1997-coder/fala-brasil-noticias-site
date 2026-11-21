@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-20T21:50:40.384409+00:00",
+  "updated_at": "2026-11-21T03:14:51.182786+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "palmeiras-encerra-prepara-o-para-pegar-flamengo-com-des-53072c93e9aa43",
+      "category": "Esportes",
+      "title": "Palmeiras encerra preparação para pegar Flamengo com desfalques confirmados - CNN Brasil",
+      "snippet": "Palmeiras encerra preparação para pegar Flamengo com desfalques confirmados CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOSVpfXzdkU0Q2UFhkLW1mRWhxQ2w4MDlhRmVqQXZrVlRBYzRvaUVFcVF5ZUFTbGZfYlhPeE1SMUliOUlKLW1EOUs0Q3VPc21ZYmZjM3B4X2xfdldEN0hUTXpUWVBjN0ZxLVJzRkM2ZVhlZl93ZmdqTkt5UVFCS3Q5RkxMN3JIX3ZzTUZwSldEVFA3QmZfS0d4a2NNZG51NU5KWVJ0YmpVbWpQeWVYdFR2UmpwT2xvckdZdE1MTzNiam1QNm1iQ2E5M3U1MlI?oc=5",
+      "published": "2026-11-20T21:19:26+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Palmeiras encerra preparação para pegar Flamengo com desfalques confirmados CNN Brasil",
+      "summary": "Palmeiras encerra preparação para pegar Flamengo com desfalques confirmados CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "moraes-vota-para-manter-apreens-o-de-passaportes-de-fl--5ff6d2026a4e16",
       "category": "Brasil",
@@ -38,6 +52,34 @@
       "tone": "",
       "dek": "Tupanciretã: o que se sabe sobre o evento extremo que deixou três mortos e destelhou mais de 5 mil casas BBC",
       "summary": "Tupanciretã: o que se sabe sobre o evento extremo que deixou três mortos e destelhou mais de 5 mil casas BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "trump-diz-que-convenceu-filipinas-a-substituir-produtos-fa57392f620b71",
+      "category": "Brasil",
+      "title": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA - G1",
+      "snippet": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1DRXIyZF9qcXZEMDBtZC1oUGlHODEydVdsc3ZlQUNQVWxrOC16N014S0t5WkdCaFRPdm5wNmlWbTdUSk40VjhfNjhwOUIwaUNaTWkwM3kwOURWVVBFVkdmaE9pN21NaUZtQmZLZFhvQVpqRkstZkxzVXQ0UnYxeTDSAY4BQVVfeXFMTXNEWTExY29iM1NRbmtHeVVpQ3R1TWlCRFZDWEhuV19OQXVtMDI2TVJxYmYxVUZ4cHlPNXBGSWFTZnN0OTBaMUtrWXR6S2JlWmI0NnkwVHdsWEIzQjVnMi1samxncTFnTWFQREtuYWlmZHB2QlpfWEFJU1VmdXdGeGs2NzFBQXVBQWkyLW1rdw?oc=5",
+      "published": "2026-11-20T19:16:23+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA G1",
+      "summary": "Trump diz que convenceu Filipinas a substituir produtos agrícolas do Brasil pelos dos EUA G1",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "estragos-no-rs-atingem-mais-cidades-al-m-de-tupanciret--91ebf1c24c319b",
+      "category": "Brasil",
+      "title": "Estragos no RS atingem mais cidades além de Tupanciretã - Agência Brasil",
+      "snippet": "Estragos no RS atingem mais cidades além de Tupanciretã Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNV09TTnNJNGo4X0N4bVdQQ0pTM01oUUJYTXFpd2pVcXI3cHNEVUMtY3hiTUlKU2VEV0hvTEtVNHRQWDdrQmRmXzJFU1k3SVZtZWl4UU51UnFtVmhiejlfZTMzeVpkVzN4OVdLLS1uSi1DRTlfTV8wVFBFekNJYkMyOXFPRkxfazJfTnFjY0lrYTBKZkRpamE5ZU1XT1pkY1NSdnZmYTdLVVl3dGVJVUsyU0hobHBQUE0zZVE?oc=5",
+      "published": "2026-11-20T18:10:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Estragos no RS atingem mais cidades além de Tupanciretã Agência Brasil",
+      "summary": "Estragos no RS atingem mais cidades além de Tupanciretã Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -94,6 +136,20 @@
       "tone": "",
       "dek": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil BBC",
       "summary": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "h-55-anos-jovens-de-porto-alegre-celebraram-o-primeiro--8949c638bab985",
+      "category": "Brasil",
+      "title": "Há 55 anos, jovens de Porto Alegre celebraram o primeiro Dia do Negro no Brasil; conheça história - Folha de S.Paulo",
+      "snippet": "Há 55 anos, jovens de Porto Alegre celebraram o primeiro Dia do Negro no Brasil; conheça história Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd1hkb3V5aU5aS09nOXlsZ3VLdVM1anExekZoYnpsWDdCcFBEWE9iMW10OEJLX0F2NFc3M1FuOXVSSEdiX29lYUhzaGdlLTB1N3RqYkZEcTY4RkVmNWZYLTF4UUdNNlE0UHVVODJST2NCWVBzNnlQaGVxQTlEMVVCSlEwaFlKUE05TDlranZNS2dncEIwQVpkWHNzRHRaUmFpeDJFZDJSUHBzQWhsQ044aFhMV0R6LVN1S0VvV3B5LXp5aF8wdzNZYmxQRTlzb0hfQlVpWVdSRU0zMDdweko1a29FSQ?oc=5",
+      "published": "2026-11-20T07:15:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Há 55 anos, jovens de Porto Alegre celebraram o primeiro Dia do Negro no Brasil; conheça história Folha de S.Paulo",
+      "summary": "Há 55 anos, jovens de Porto Alegre celebraram o primeiro Dia do Negro no Brasil; conheça história Folha de S.Paulo",
       "summary_by": "descrição da fonte"
     },
     {
@@ -346,6 +402,20 @@
       "tone": "teal",
       "dek": "Goleiro do Corinthians será pai de dois filhos com duas mães diferentes CNN Brasil",
       "summary": "Goleiro do Corinthians será pai de dois filhos com duas mães diferentes CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "anthropic-bate-recorde-em-estreia-na-bolsa-e-valor-de-m-a3e3487cb24f1b",
+      "category": "Economia",
+      "title": "Anthropic bate recorde em estreia na bolsa e valor de mercado chega a R$ 11 trilhões: criadora do Claude pode evitar estouro da bolha da IA? - BBC",
+      "snippet": "Anthropic bate recorde em estreia na bolsa e valor de mercado chega a R$ 11 trilhões: criadora do Claude pode evitar estouro da bolha da IA? BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRQVU2a2NnNkU4cEdNUzlraVRNMFluRjBreWdFb3BHcHlqdWxJRzNBWmNOQXA2ZHFsUHh4eEk0RmNTcDNhZVhsMnBhT1lBSzZTM0dMa253QnpfYnpjQXRjdGF2SdIBaEFVX3lxTE13a1BheTZnUDNqaGNqTjNwdm51N1lCRHhtRkhoemhNV0h5RXlzUzl0ZEQ1bFBrc0Z4VFFOcDR2NVlxOGlwa1RieDRqVVhoOEptd2cyVmI0blpreU9PVThQQ24xaEJIU1BL?oc=5",
+      "published": "2026-11-19T18:42:49+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Anthropic bate recorde em estreia na bolsa e valor de mercado chega a R$ 11 trilhões: criadora do Claude pode evitar estouro da bolha da IA? BBC",
+      "summary": "Anthropic bate recorde em estreia na bolsa e valor de mercado chega a R$ 11 trilhões: criadora do Claude pode evitar estouro da bolha da IA? BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -780,76 +850,6 @@
       "tone": "teal",
       "dek": "Flamengo x Athletico-PR: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
       "summary": "Flamengo x Athletico-PR: escalações e onde assistir ao jogo do Brasileirão CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "senado-rejeita-mudan-as-no-texto-e-aprova-ajuste-fiscal-3a190e6465496a",
-      "category": "Brasil",
-      "title": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo - Agência Brasil",
-      "snippet": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSjgxdk42TEltaWQzSUVNcG1jUDlWRDRseWpESVZqaU91ZXZEZXJSMV9GY3FzcWRmMV9IcXJrTjUxUkEzRFVOSkZlOGJDb0RMM3hVMUQzT29jUHpORERWd3N3TWtTMlVmZFQzR3IwZmdzSkgwM1FZaXotMXRxR3pUNm8yOXhCTDVqNWVMYk1aVm1JVXZjcmwxZ3dZNUg3Y0JqMERGMFBwbTAyaFJ2a3VMTlRqY0pGQktxVHU4RmZRUDBrdw?oc=5",
-      "published": "2026-11-18T22:39:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo Agência Brasil",
-      "summary": "Senado rejeita mudanças no texto e aprova ajuste fiscal do governo Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "d-lar-sobe-para-r-5-87-com-expectativa-sobre-vota-o-de--634798d57de130",
-      "category": "Brasil",
-      "title": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal - Agência Brasil",
-      "snippet": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSm50cDJtZFhrcjBLUV9ObTFMdnZnakpwWkk5WlVMdHZfcjI5YmpiQ3o1eGV3UjZaa21LS1BaQXprMWd0eDBWanNoVlNnMU1nLTR6VWRhT3g4bzV3eURMS25vMnVSSkRDaTdua2c5NmtKZUJidDU5V0RucEpkcERxeUV0OG5HNC1RZ3dYS2REMjdpR01NNEpvaDdBT244S2UzSTg0R1lib29VTnM5YkZlREJCanVYby00OWVoSHB0RXBLVGZz?oc=5",
-      "published": "2026-11-18T22:26:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal Agência Brasil",
-      "summary": "Dólar sobe para R$ 5,87 com expectativa sobre votação de ajuste fiscal Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cientistas-brasileiros-avaliam-avan-os-do-conhecimento--f3a3ae86384fdb",
-      "category": "Tecnologia",
-      "title": "Cientistas brasileiros avaliam avanços do Conhecimento Brasil — Ministério da Ciência, Tecnologia e Inovação - GOV.BR",
-      "snippet": "Cientistas brasileiros avaliam avanços do Conhecimento Brasil — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
-      "source": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeTZOTVlJRjhKcGgwaXBYbHZkd3czVG1kS0tXTFd1RWhPelE1VldGcEx0Y2xTZTRxdkplQ2Z1Q21VbUNKRUhXSUlHV21LNjVIcDNSQVRFTWVoYmg1WHlRX0xXb1YtZVpZaUxSZHhHZHN6X2RmbG1PWEI4MG14MkZTUWlzcjRrSDFZd2Vzd2pfamlmMjZoc1BXZzFkT2lYa2hWRUZUbjNUaVlqS2tiZXdyaC0zckY2UVpEcXpGRVpyZDV6T0U?oc=5",
-      "published": "2026-11-18T22:07:17+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Cientistas brasileiros avaliam avanços do Conhecimento Brasil — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
-      "summary": "Cientistas brasileiros avaliam avanços do Conhecimento Brasil — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "mcti-celebra-30-anos-da-softex-e-destaca-avan-os-na-for-d15b7b0f0c607a",
-      "category": "Tecnologia",
-      "title": "MCTI celebra 30 anos da Softex e destaca avanços na formação de talentos e na inovação brasileira - GOV.BR",
-      "snippet": "MCTI celebra 30 anos da Softex e destaca avanços na formação de talentos e na inovação brasileira GOV.BR",
-      "source": "GOV.BR",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaEFyX0d6d3VDbEp5b0JRaHRYZFZtQ1ZtT2Fpd1lSakdEak9vY0I5SWxNd25IT0NMYVF1UjVaNTNURmdrWGhjN1Z4ZnB6LW1lM19NMGVlNEhncmJlLXVMV2RmQWRKOXdhQllEM1B5NnBzTWlwRmJsQ0VlS29QNlBpOW1IQ3hqdktOazRweVFsSjlwekZFMXNqRjhZYnMzdkh4LW5YWi1Ca1dPTGdKOGIxR1dyVFg5TU1VUlRBQTBtUWVmVTVqZmNObE5tV2RNTERZdHVLaXNQekJ5X2FfWWhpODFsWjUyU1U3T3ZpV21iZldCc3M?oc=5",
-      "published": "2026-11-18T22:01:02+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "MCTI celebra 30 anos da Softex e destaca avanços na formação de talentos e na inovação brasileira GOV.BR",
-      "summary": "MCTI celebra 30 anos da Softex e destaca avanços na formação de talentos e na inovação brasileira GOV.BR",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "premia-es-e-patroc-nios-exp-em-abismo-entre-brasil-e-ar-a7b62262f261b6",
-      "category": "Esportes",
-      "title": "Premiações e patrocínios expõem abismo entre Brasil e Argentina no futebol - CNN Brasil",
-      "snippet": "Premiações e patrocínios expõem abismo entre Brasil e Argentina no futebol CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSUtId2lqR3RhckJXNVRMY1BZcENIX0JTVnozVEJpTS1Qajc0Y3ZEblFqb2dmWHJHc2JzeFlHSTJpR1hmOHRuRE1TMUZoYlBoMzBRczZtS2RvWnBja19UVG1NelJDYkFPUE5TWDBOX1RCVnhhUzF5bk94X3N4QUdKZWYycVdMSzJacTNyenMyOGJpWEh3Q1lDRE1MUmF2a0RrdEcxY1ZERXdwUWtYZkZlV3RwQUlkT0lLeUx6Ti13?oc=5",
-      "published": "2026-11-18T21:41:41+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Premiações e patrocínios expõem abismo entre Brasil e Argentina no futebol CNN Brasil",
-      "summary": "Premiações e patrocínios expõem abismo entre Brasil e Argentina no futebol CNN Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
