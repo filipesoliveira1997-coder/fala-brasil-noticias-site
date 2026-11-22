@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T17:51:41.985682+00:00",
+  "updated_at": "2026-11-22T23:38:01.509933+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,90 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "crici-ma-vence-fortaleza-e-tem-vantagem-no-playoff-de-a-9255a42a5c9071",
+      "category": "Esportes",
+      "title": "Criciúma vence Fortaleza e tem vantagem no playoff de acesso da Série B - CNN Brasil",
+      "snippet": "Criciúma vence Fortaleza e tem vantagem no playoff de acesso da Série B CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOTEVHTi1YZV8xZVlmLUVPRFVGNFk4RkpQRktydFlZR1pSVXhsQVJBVXZFQndGalVQVEtrS1NkUlhUNVBqbVpVN1lMb0ZmQXBSby0wNEdsdFQ0WFVrSE8xbkQtc3NmWlJiYVJkNnpKSlgtR0FoT0RhU0ppTEpKN1NyM3I4Q3ZONUZfQUdWM1Q2ZzNsQkhkLWk5dl9UaXRhRHY0VEVEcFJkOVFtZ0EyWHpnLWVTN0pub3FxTVE?oc=5",
+      "published": "2026-11-22T21:31:46+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Criciúma vence Fortaleza e tem vantagem no playoff de acesso da Série B CNN Brasil",
+      "summary": "Criciúma vence Fortaleza e tem vantagem no playoff de acesso da Série B CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "custo-brasil-afasta-empresas-estrangeiras-do-mercado-br-6b104ca03e5ada",
+      "category": "Economia",
+      "title": "Custo Brasil afasta empresas estrangeiras do mercado brasileiro - Poder360",
+      "snippet": "Custo Brasil afasta empresas estrangeiras do mercado brasileiro Poder360",
+      "source": "Poder360",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTUkzZ2ZfelZMZ3BaWERzNV9CN3ViUndOV0VnMzFGdkl5OFFKRWpQclVlYklrNGZVT1ZpZ05pZmZMZ09nby1pQmRXeE8yaURFZmJWR00xNVdlQVdvQWRIem04ZjZPUXpWVkxPb1JSQ3VybEl4dWpFZGloNDB4VklMOWFTUXFpSXNXT3JHVE1yTllmT0taUnpMM09YX01hWGFDa3pvbHVsLWZ4M0k?oc=5",
+      "published": "2026-11-22T21:04:08+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Custo Brasil afasta empresas estrangeiras do mercado brasileiro Poder360",
+      "summary": "Custo Brasil afasta empresas estrangeiras do mercado brasileiro Poder360",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "inter-x-juventude-pela-semifinal-do-gauch-o-feminino-ac-fd5a37a6f05faa",
+      "category": "Esportes",
+      "title": "Inter x Juventude pela semifinal do Gauchão Feminino; acompanhe - GZH",
+      "snippet": "Inter x Juventude pela semifinal do Gauchão Feminino; acompanhe GZH",
+      "source": "GZH",
+      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOQjRzVzQxRmRJTVEzYWZOQ2F3R1BDc01wU1lRajQ5YzJBRVp0bElYVE9IUmJ0eWFHeWhsdFhpUEpTWGluYVZHMEI5T1YxNzhCU3BFVnVGa251ZkJFV3dUa2tLMmJJdnFuRTNLVWxrb3dOSXBGRFNlV3haSUJIdklzcDZ4emgyeGxfWHpTZGItWTEtZTZCemxnUHY2SjAxa1hBSTlNZmpuUTN1NUh2dGRoeDlhSnJrbjJuN3RUOU10WnNhck5rb2RDYnRNQTNRV1RNMFFrZnRHZGNtY0ZVX1U0ZlM4R2dVeTQtX0FMb1NEdWRxNzktWEIwWU1oRENkVXZ6Y1lpMUxB?oc=5",
+      "published": "2026-11-22T20:45:44+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Inter x Juventude pela semifinal do Gauchão Feminino; acompanhe GZH",
+      "summary": "Inter x Juventude pela semifinal do Gauchão Feminino; acompanhe GZH",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "bolsonaro-segue-internado-na-uti-sem-previs-o-de-alta-a-2eda875a852a8c",
+      "category": "Brasil",
+      "title": "Bolsonaro segue internado na UTI sem previsão de alta - Agência Brasil",
+      "snippet": "Bolsonaro segue internado na UTI sem previsão de alta Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1hVTFpCWGZUVkNFTmhhRFZkWEdORmttbVBacl9PdndBWkRzLU5UM0Z4RmtUTE5PWWI2NFZHVnl4eDZqM0dlUWhyU21WMDFnSzdZNmVuZXFCbUV0cDk0Z2FBSzNwR2wwTHlORkx5dEUwUEFRM0VGWnVHTlgzb1hxT1VMeUQ4bkZmLW90MjBTdDgwVm8yRUxoQjU4SjJodGllREY5alN4QlBsd2trQTJJYQ?oc=5",
+      "published": "2026-11-22T17:55:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Bolsonaro segue internado na UTI sem previsão de alta Agência Brasil",
+      "summary": "Bolsonaro segue internado na UTI sem previsão de alta Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "futebol-feminino-s-o-paulo-campe-o-do-paulist-o-f-petro-302fb7347e399c",
+      "category": "Esportes",
+      "title": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17 - Agência Brasil",
+      "snippet": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17 Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjNFMTVhcmVlc1VTWVd2X25tQVZHekpQWVF6S1RXdnB5Sjg0UTg4LW81bXZ2NEE4cmpkT1l5Ym5QY2g2cVM2bFVhb0Q5WVR3YjdnN29KbWs4RERpcmJMcktoRU9SUHZSNElhV0lzMXRXdzFrYjJMRTJGcnBPUTBVUnlKS1lRdlFaaUNUMUNhSjNCZ1o1SWVzMm84d3hORWpmbmFXTWJodUx1b000aXlCUEJsOEt3U0JPSVgxaHMweDBaTmlr?oc=5",
+      "published": "2026-11-22T17:33:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17 Agência Brasil",
+      "summary": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17 Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "intelectuais-no-reino-unido-est-o-levando-a-ci-ncia-do--bf62c2a5528f48",
+      "category": "Tecnologia",
+      "title": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. - Vietnam.vn",
+      "snippet": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1FfZTRBU3RfaEhaT1BKWVlfQ3lob3M1V2k0SVlEV2xMRXlPY1VYcjAyS3k2eURmQV9jTVZCOUdJakxaME55T1FoQkZZLUV4VHBZcmpoY09USFlNa0dOOXVlZWpZZWJZS2FEaW9BYVdiLWp6aFk3M1BmWXIzWUNvTldsLTMtVDg0ZHpoMzh6S0J0dFk?oc=5",
+      "published": "2026-11-22T17:14:30+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. Vietnam.vn",
+      "summary": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "brasil-fecha-mundial-j-nior-de-jud-com-bronze-por-equip-50849274f63206",
       "category": "Brasil",
@@ -38,6 +122,20 @@
       "tone": "purple",
       "dek": "Soul de Brasileiro lança o single “Pra Você é Tão Mais Fácil” e faz show em SP hoje Pretessências",
       "summary": "Soul de Brasileiro lança o single “Pra Você é Tão Mais Fácil” e faz show em SP hoje Pretessências",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-cumpre-mais-de-251-mil-mandados-de-pris-o-em-202-a09370a9b60d75",
+      "category": "Brasil",
+      "title": "Brasil cumpre mais de 251 mil mandados de prisão em 2026 e registra maior número desde 2019 - Governo Federal",
+      "snippet": "Brasil cumpre mais de 251 mil mandados de prisão em 2026 e registra maior número desde 2019 Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdUNwQ19LQWtGR2pISHVRX3BJaWZ2dkpGeDIyRFF4aU1MZ3JVeHVOalhfVmlvM2FkVjZlV3ZWWkNTVUtpUHVDaTNOblFSa2laWUF4eTlBaEFCaXh1R3lkNmpIY1BNRzNwT3U0a0tQY0ZrNkhDLVJCUi1ueEQ5ZDVoS3NMTnNsZWZQV0ZTZGl4b1YwOVh2QTVZbkFNbEdfakl4cXNEdVA3VDVTd1R0N3FLajl4UGM5WG5pazk2WDdDSmYzeDBEdDJSUGlfMDlQNTd6QlZZ?oc=5",
+      "published": "2026-11-22T16:01:39+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil cumpre mais de 251 mil mandados de prisão em 2026 e registra maior número desde 2019 Governo Federal",
+      "summary": "Brasil cumpre mais de 251 mil mandados de prisão em 2026 e registra maior número desde 2019 Governo Federal",
       "summary_by": "descrição da fonte"
     },
     {
@@ -69,6 +167,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "cnj-cria-regra-para-corrigir-registros-por-mortes-em-a--fdd54a24d71dac",
+      "category": "Polícia",
+      "title": "CNJ cria regra para corrigir registros por mortes em ações policiais - Agência Brasil",
+      "snippet": "CNJ cria regra para corrigir registros por mortes em ações policiais Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQVUFHNVNjNFVEalljOWdaRHBpZm15Y2t1OTcwekFtRnkyZEQxOE9EN2I0YVMzOG1TMHdSd0lOR00zZGVZV0xSc3RkRXdHRkZXWE1NeDdObjZISzFwcl9xTEpFWC1QU2p3OUo4aURJSGdwQUJrbnd0RmVoc1ZFMWdLVzlYYUVZano4V3lRdHJ1X0lSbVlFTzZQR1k1Z3Q1Z19zZmdOTkc2RVRISGJKeVN4REhCaTNpdEVuSE5JQVZoUjQ5T3M?oc=5",
+      "published": "2026-11-22T11:36:00+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "CNJ cria regra para corrigir registros por mortes em ações policiais Agência Brasil",
+      "summary": "CNJ cria regra para corrigir registros por mortes em ações policiais Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "por-dentro-do-antigo-gasoduto-onde-a-ucr-nia-vem-lutand-cf055b3bba85f8",
       "category": "Brasil",
       "title": "Por dentro do antigo gasoduto onde a Ucrânia vem lutando em uma guerra subterrânea - BBC",
@@ -94,6 +206,20 @@
       "tone": "purple",
       "dek": "Ciências humanas na tecnologia e impacto social Tribuna Online",
       "summary": "Ciências humanas na tecnologia e impacto social Tribuna Online",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "o-minist-rio-da-ind-stria-e-com-rcio-criou-um-grupo-de--010d2b430f6334",
+      "category": "Tecnologia",
+      "title": "O Ministério da Indústria e Comércio criou um Grupo de Trabalho sobre Segurança de Dados e Informação. - Vietnam.vn",
+      "snippet": "O Ministério da Indústria e Comércio criou um Grupo de Trabalho sobre Segurança de Dados e Informação. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQUU9BOWdtenV5TGlvTGt2ZUljYVBWb29XdFhDTUNKa3VBbFdnd2k2Z1FLNHlMRk1kdkdvOFRwdW5wcV9FT0hSZzd6S1lPSkdUX2Rfam9nU3FKN0FUTGJJRGgyLWV1Z0ZRendack9VdHBtYUFibjYtN2drcHlFTy1zR3BIb3F6S2xWS2M0b01BbHQ0NTgxY3c?oc=5",
+      "published": "2026-11-22T05:31:17+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "O Ministério da Indústria e Comércio criou um Grupo de Trabalho sobre Segurança de Dados e Informação. Vietnam.vn",
+      "summary": "O Ministério da Indústria e Comércio criou um Grupo de Trabalho sobre Segurança de Dados e Informação. Vietnam.vn",
       "summary_by": "descrição da fonte"
     },
     {
@@ -192,6 +318,20 @@
       "tone": "teal",
       "dek": "Ingressos para final da Copa do Brasil: veja data para compra Band",
       "summary": "Ingressos para final da Copa do Brasil: veja data para compra Band",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "avia-o-por-que-aplaudir-durante-o-pouso-de-um-avi-o-pod-436240bfcca6ff",
+      "category": "Brasil",
+      "title": "Aviação: por que aplaudir durante o pouso de um avião pode irritar as pessoas, segundo especialistas - BBC",
+      "snippet": "Aviação: por que aplaudir durante o pouso de um avião pode irritar as pessoas, segundo especialistas BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1jcVFDTDZQc2xlZGlDa2ZodExXY003UWhmU1ZQdXB4X19RSHFMMl9RTGFZdFd1TmdRLTNvaGhnN2ZCYWw0WGtyeWxEN1J3bzhzLXpVdzBvcTE1YUZHTnhqNHJyMNIBaEFVX3lxTFA4VzlpQjdrekVVakEycll2NHRZQ3lVdDNPbi1lS3ZRZ2FuU1UyOXJ3YUxJb2NXcjlobHk5d19NaXNhUDBrNDBpRmpuV2g4M0tmUjZ3NmRqWXlmT0JFNHJVdHZOVzA4clpI?oc=5",
+      "published": "2026-11-21T22:03:12+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Aviação: por que aplaudir durante o pouso de um avião pode irritar as pessoas, segundo especialistas BBC",
+      "summary": "Aviação: por que aplaudir durante o pouso de um avião pode irritar as pessoas, segundo especialistas BBC",
       "summary_by": "descrição da fonte"
     },
     {
@@ -601,6 +741,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "finalizar-o-conte-do-do-setor-de-ci-ncia-e-tecnologia-a-deb222a295b9fc",
+      "category": "Tecnologia",
+      "title": "Finalizar o conteúdo do setor de ciência e tecnologia a ser apresentado na reunião do Conselho Popular da Cidade. - Vietnam.vn",
+      "snippet": "Finalizar o conteúdo do setor de ciência e tecnologia a ser apresentado na reunião do Conselho Popular da Cidade. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObDRScDRzVEd1WllCWGtTYkQ0WWstM1VnQjQ2Q0dFdzhOQXdKaU9jbTJRa2JpWGZfNDY5U2VYSE9WMFFHcTQzYkRSRi1FVXl3b3FrejllNGExTUdDQUNJaWdvaXpyTmNocGY5X3F2RjduUE5YVFJEbzIyMVYzQXdKVnFwUjFyajBlNU1uZ3hZZlFnM243b240V01vMWxMRXVLNHRxM2Uyd09sMktW?oc=5",
+      "published": "2026-11-20T12:46:43+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Finalizar o conteúdo do setor de ciência e tecnologia a ser apresentado na reunião do Conselho Popular da Cidade. Vietnam.vn",
+      "summary": "Finalizar o conteúdo do setor de ciência e tecnologia a ser apresentado na reunião do Conselho Popular da Cidade. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "rafael-tol-i-pode-ter-feito-ltimo-jogo-no-s-o-paulo-ent-e2458e1dae5b7e",
       "category": "Esportes",
       "title": "Rafael Tolói pode ter feito último jogo no São Paulo; entenda - CNN Brasil",
@@ -697,163 +851,7 @@
       "dek": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia TV Sim Brasil",
       "summary": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia TV Sim Brasil",
       "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "rep-rter-da-ag-ncia-brasil-vence-pr-mio-sbim-de-jornali-ddf779c51ecdd3",
-      "category": "Saúde e bem-estar",
-      "title": "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde - Agência Brasil",
-      "snippet": "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFhra1lOXzdNNm40ZVBFb2l1NTQ2RHpMeXNHOHZfVHY1S1BpWlk4bFQ2aWxQbWpSMTJiM0R1a0JUUGt2VHBUZ2pORWYzRGRkeGRTczVodDZQM05uZTZGWUVfY2ZtX2dyUXJva0lfRVNWbUdLcXE4RVI3V0dqWlVDd3JLS1BpV2pXejBWQUdaeElVOUx5WVRKYml3am1hd0I4R1NDSnk0eG1mM2I4NXQ0LWU5REw2SkhIS1ExT3liQQ?oc=5",
-      "published": "2026-11-20T00:36:00+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde Agência Brasil",
-      "summary": "Repórter da Agência Brasil vence Prêmio SBIm de Jornalismo em Saúde Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "calleri-reconhece-atua-o-ruim-e-d-raz-o-torcida-vaias-c-5d70c526a53a52",
-      "category": "Esportes",
-      "title": "Calleri reconhece atuação ruim e dá razão à torcida: \"Vaias certas\" - CNN Brasil",
-      "snippet": "Calleri reconhece atuação ruim e dá razão à torcida: \"Vaias certas\" CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNM25HUmdRMGw1alBBOUcxV3loNzB5YnhOSEJUcGNOaG5jWWVrT09tV3d2T0lCc0xrQWlURlplOGhMQ3NZM3FIcy0wRk4wckZ1Q1AxNThBclpnUVBHVW4ySktLZkZQYXB2SmNLTVB6OExzOWNERllLUDZiQXhlWDM2YU11WmE0bDBmM3hlbVl5Q2xPcGwwUWY0WlNtYjBhWVduM3duTmxFc2FSSVpQY1p5RUJmSWJrRVptM0ZTcU1R?oc=5",
-      "published": "2026-11-20T00:24:06+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Calleri reconhece atuação ruim e dá razão à torcida: \"Vaias certas\" CNN Brasil",
-      "summary": "Calleri reconhece atuação ruim e dá razão à torcida: \"Vaias certas\" CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "caso-master-fachin-encaminha-pgr-cita-es-a-quatro-minis-570f834e0aa249",
-      "category": "Brasil",
-      "title": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF - Agência Brasil",
-      "snippet": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVnpMX0FjVEpMbFJSaDlwXzNaeG91UGlBY2xZOU04aGpzM1BuRHlCTmVkOVNmV1M5ay1uZnBKVlduVzdmY3l0eGZtOHA2ODFLVlhlZlNkTW1FdGtkMFI1X2ZzNDZMZGZBSlJET2IxMU5nMkZXQW82ZnVDcWVuVTVicVRIZHp3WFdDcHNTTV90NDBjR1VzQlUyd193MmtPMVhmNFFKU2M4ZkVkOG9pZ2VBUi1tSHMxSjNFZ2doVXc4MA?oc=5",
-      "published": "2026-11-19T23:56:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF Agência Brasil",
-      "summary": "Caso Master: Fachin encaminha à PGR citações a quatro ministros do STF Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cmn-amplia-controle-sobre-recolhimentos-de-tributos-dos-dac117e401cbbf",
-      "category": "Brasil",
-      "title": "CMN amplia controle sobre recolhimentos de tributos dos bancos - Agência Brasil",
-      "snippet": "CMN amplia controle sobre recolhimentos de tributos dos bancos Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQOGpLeXZIZFBYUGxCRHd3TlBTODF5R0s5aFFKajZ4TG9HNXV1UTgtdDFGdW45UEJtNHBJdVBTY0Y2cDBUWGNkVW1LZWMzWUExOC0tazFxYVczemJfeW5keUZiYWVXZEVnVUJ1aEdFaGpiZmZxdm54cWZqdnJMcjBUZlpDcGQxZ2FGV0VsdnF3SHBBS1VqTDBtTEtMTncyc1ZtVHFpZEEwTmdRTEdxSzBHNlFzTEc1XzJqb3JSaQ?oc=5",
-      "published": "2026-11-19T23:33:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "CMN amplia controle sobre recolhimentos de tributos dos bancos Agência Brasil",
-      "summary": "CMN amplia controle sobre recolhimentos de tributos dos bancos Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "governo-lan-a-campanha-para-proteger-mulheres-no-meio-d-80315a8524af38",
-      "category": "Brasil",
-      "title": "Governo lança campanha para proteger mulheres no meio digital - Agência Brasil",
-      "snippet": "Governo lança campanha para proteger mulheres no meio digital Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNWXd1Z2hwaWZCWlRzamVkZ0ZzMTRUX0N6Y1dzZGg2REd4TGh2TnJYNHlOazFkV3VuaDdKYWl4ajlYVE1CcGlfcWR0a3lZNENvNnR3S0g3SnRoSnU2QWdjaHRnZjJKOWY1dGU3d21lUDR6MHE1b05HRjdlR2RNQWNrTk9mdzkwM3dvY1VmaGtudWlhQmJnaE1mYXdvXzdRc1prNlRzWWhqekpMX1pYUEdPWURmYWsxV2M1M3MxamNXaVZMZEpUa0E?oc=5",
-      "published": "2026-11-19T23:11:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Governo lança campanha para proteger mulheres no meio digital Agência Brasil",
-      "summary": "Governo lança campanha para proteger mulheres no meio digital Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "d-lar-supera-r-5-93-e-fecha-no-maior-valor-desde-abril--22119000be90f8",
-      "category": "Brasil",
-      "title": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025 - Agência Brasil",
-      "snippet": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025 Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQaXh2RGt0ZXdremNxdExVWHhvN19TdWNBOGZtY05zdllFVUpGWFYyT3k5eERjWGFYSkctVnhVZW8zLWw1YWFBYVBOZE5oRE1rX05mRHJPRzVLcW5yWGhtRzh1Q1NCZ2xFdjN3Y2hLUnFiQ0ZoSllsQklBZzZsVWdRTmFjVnc3eEgwRjZaSXV6TUJnZ05OTUNxQllCYUhRYlhZMC1IMDQzcnlIQUxZSV90WnRfRWZ6Q1BIVGNr?oc=5",
-      "published": "2026-11-19T22:47:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025 Agência Brasil",
-      "summary": "Dólar supera R$ 5,93 e fecha no maior valor desde abril de 2025 Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "destro-os-de-drones-russos-atingem-embaixada-do-brasil--6176b2cc3525d4",
-      "category": "Brasil",
-      "title": "Destroços de drones russos atingem embaixada do Brasil na Ucrânia durante ataque que matou um em Kiev - Folha de S.Paulo",
-      "snippet": "Destroços de drones russos atingem embaixada do Brasil na Ucrânia durante ataque que matou um em Kiev Folha de S.Paulo",
-      "source": "Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYm5QRU4zdVBISnZIZTlpOXB5OUNDaXAxRmppSWJ5a0Y4Q3BBdno1VUJTYy1yS09OZkhnbGJMcDdDZXVEYXJCdHVjazZ4Sk5pR29iUnVPTXpmbkdPdk5kVm4teGRvc1dPaUpfUWEtWERzNDlTNElxZzQ2cjlZSlhOc3BTZ294X3gxakt6X1pHS3pkNVFDNHVPX3N1aDBKYU5FcmJoTDB3amVFRmZ6SFEzQkxWYWpkYkVQYXJycUEzOHZiUGdUcGVvS2pSUHU5eEV5SUxlT215b1J0bzMzUjFmMTFLUGxkdw?oc=5",
-      "published": "2026-11-19T22:41:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Destroços de drones russos atingem embaixada do Brasil na Ucrânia durante ataque que matou um em Kiev Folha de S.Paulo",
-      "summary": "Destroços de drones russos atingem embaixada do Brasil na Ucrânia durante ataque que matou um em Kiev Folha de S.Paulo",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "rep-rter-brasil-de-19-de-novembro-de-2026-assista-na-nt-0c985499d1d478",
-      "category": "Brasil",
-      "title": "Repórter Brasil de 19 de novembro de 2026; assista na íntegra - TV Brasil |",
-      "snippet": "Repórter Brasil de 19 de novembro de 2026; assista na íntegra TV Brasil |",
-      "source": "TV Brasil |",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUE9yMTllblEtVmFod2FSWmQwTUV4NWVLYjBWeVN5Q0lxV19tSU0yYkdUbTgyS1ViR3VFaU5zaUtDT0lSczViVHpWa0J0M21tYTdzdkMwVmkwX3hraXBKekExN1RQRWhlb19EanlsdUc2U05pM2hMcXcxSWdjbG1wNTJmMmhMVFBybE1KZ0gwV19tdWN1ai1uS2RpVTB5ckZyZ3E3UGRvTExlaDVwRWsxU0Z3?oc=5",
-      "published": "2026-11-19T22:00:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Repórter Brasil de 19 de novembro de 2026; assista na íntegra TV Brasil |",
-      "summary": "Repórter Brasil de 19 de novembro de 2026; assista na íntegra TV Brasil |",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "google-lan-a-gemini-4-neon-com-foco-em-ci-ncia-programa-0bfe76e222af95",
-      "category": "Tecnologia",
-      "title": "Google lança Gemini 4 Neon com foco em ciência, programação e segurança digital - Times Brasil | CNBC",
-      "snippet": "Google lança Gemini 4 Neon com foco em ciência, programação e segurança digital Times Brasil | CNBC",
-      "source": "Times Brasil | CNBC",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzU0Z3A2MnN1T2lUNDhVcmxsOW1SaTRoRFF0ZnczUEZGSDYzOGZ5RjZGWDBtVjlFeHhCMWpHRkZGeE1HVjBpcFQtS0RlRHVrU2FMdERvVFZQcHRwR1p2RW9zUWNKWTZySFpJSEptMlBBR2cwOTVDX0xjYjBtVnp2c2xGQ2J0S2U3M29QNnhZMVJjODMxUWgwVjYtS1FGYkdWRjBCUVVQWjdFWjhYX1R1V3ozdlk3Y2pnaGlfYTR1NzEyTFd4Z3VIWWduVnZUUE1vX3ladVZkejdYd0NhZkUzOE9n?oc=5",
-      "published": "2026-11-19T21:59:00+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Google lança Gemini 4 Neon com foco em ciência, programação e segurança digital Times Brasil | CNBC",
-      "summary": "Google lança Gemini 4 Neon com foco em ciência, programação e segurança digital Times Brasil | CNBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "cristiano-ronaldo-pode-ter-jogo-de-despedida-organizado-4d090a512cf91c",
-      "category": "Esportes",
-      "title": "Cristiano Ronaldo pode ter jogo de despedida organizado pelo Real Madrid - CNN Brasil",
-      "snippet": "Cristiano Ronaldo pode ter jogo de despedida organizado pelo Real Madrid CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVWNmb2hqMGdFeTUxSzFRcjRMQXZ1emNfWTBrckQ1akZxYnZBUnpYQVFBU3cwRDcycjdNRG9QQ2lYQV9mV3J0ZTBNOGhlMi1XYi1XUlh6TWFvYk5qdzFCN0ZIaUVzSDZVQ0pSZ01SRUswQ1ZOZ1I2Y1piUGJOb3Fib19hQkRqel9kMWRBbjFITGJMWmR6c2dNRVNrb0NjQXBEUk1nTURPWFBvOHFSSlczdU5OM3VfNFFONmtlcnhTWkFIRVVzWjNTalV5SlQ5eksxR3hkVUFBOFI?oc=5",
-      "published": "2026-11-19T21:40:12+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Cristiano Ronaldo pode ter jogo de despedida organizado pelo Real Madrid CNN Brasil",
-      "summary": "Cristiano Ronaldo pode ter jogo de despedida organizado pelo Real Madrid CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "moraes-pauta-julgamento-da-lei-da-dosimetria-para-o-dia-7c7be9a3118782",
-      "category": "Brasil",
-      "title": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro - Agência Brasil",
-      "snippet": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGFQRkNrNE9mRlVEYXlISnhmRWhPTmU0VnhNWWhCM3FBQnNITnQ5OVRyNXM5STJpamhQaTFDT0ZFVUVjQ3liWGZRRTMwNHJGQVo2RlNvckRaTTNTVXpoWlpGUzA4cTZjV2ZNamVLTndhZVRFNVNaUmRHSnl1cnhQdzNheF9FY20yVnJkOWZkZGhrbHQzNU80dmRBWjZMSTRZRkJDbnphblJoRG5pclR5MVROSnNlRmdZVmkyc3BMUDE4dnNW?oc=5",
-      "published": "2026-11-19T21:34:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro Agência Brasil",
-      "summary": "Moraes pauta julgamento da Lei da Dosimetria para o dia 4 de dezembro Agência Brasil",
-      "summary_by": "descrição da fonte"
     }
   ],
-  "feed_warnings": [
-    "Polícia: 429 Client Error: Too Many Requests for url: https://news.google.com/rss/search?q=seguran%C3%A7a+p%C3%BAblica+pol%C3%ADcia+Brasil&hl=pt-BR&gl=BR&ceid=BR%3Apt-419"
-  ]
+  "feed_warnings": []
 }
