@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T02:16:43.279748+00:00",
+  "updated_at": "2026-11-22T09:55:31.585027+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -13,10 +13,24 @@
   ],
   "articles": [
     {
+      "id": "brasil-amplia-neg-cios-no-sudeste-asi-tico-mas-enfrenta-9288fa8d51a7e5",
+      "category": "Economia",
+      "title": "Brasil amplia negócios no Sudeste Asiático, mas enfrenta barreiras regulatórias e protecionismo - Folha de S.Paulo",
+      "snippet": "Brasil amplia negócios no Sudeste Asiático, mas enfrenta barreiras regulatórias e protecionismo Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNa08yM1paOVVzWnlCUDA4dTdrM3JRQTQxNm5LTUV1MUNSdWFWN3F5TEN6cHF2SERYVXQtanpUd2hwbE51cjdoelB6QlFHdUhnTEZsdkVaZHgxUnBTTTd0dEIzTW0wZHFFSnpFNFdzWXdZX28wRWxfVFUtalA2TUJfUUI4NklqbzA4UC02RHU3RDRyUHdfVVAyOUpFT3lrMTg0X0I5cFBfZDVDYW9xQVZaZm9VaVRZTEIxYi1tN0ZNZldWR1JvWGdMc1JXUzVOLWpXLVBlcUo0OTJHZUlXQ0VR?oc=5",
+      "published": "2026-11-22T02:00:00+00:00",
+      "image": "",
+      "tone": "gold",
+      "dek": "Brasil amplia negócios no Sudeste Asiático, mas enfrenta barreiras regulatórias e protecionismo Folha de S.Paulo",
+      "summary": "Brasil amplia negócios no Sudeste Asiático, mas enfrenta barreiras regulatórias e protecionismo Folha de S.Paulo",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "mcti-abre-encontro-nacional-de-populariza-o-da-ci-ncia--349110c3e07f16",
       "category": "Tecnologia",
-      "title": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas - Governo Federal",
-      "snippet": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas Governo Federal",
+      "title": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas — Ministério da Ciência, Tecnologia e Inovação - Governo Federal",
+      "snippet": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas — Ministério da Ciência, Tecnologia e Inovação Governo Federal",
       "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNazFGaTdvc19DLVlvOXpEcjdnMk1McHdRR0xpQ19IYlhOWm1wbk01ME04dG9nSDYtWjZPQk0xRXpVMFJBdVFXWjBTZ3RUR1JoVWJBQWhLUkFxTWVlZFVNNWUzc1dmXzdpVTVZU3V4bzhCNU5nbU02QjBqTkQ0S1F1dFBDR3ZaM19NSEhOd0R2NG5pajN1a2RaRVZaem55ODRhT3lDbXlLWDdmUExOTWtUYkFBMmNTdHhzQkV6Z2k2X3RySlRiSVRNTTFMLTFPX1IxcjlDTmFOajBPbHhOR3VVT2l5UllHYjFyVlJSQjV6VUQwWU1kSTdlcUV0cHZxa1dySUwxOEhHMTVKWVdzN3Nz?oc=5",
       "published": "2026-11-22T01:31:02+00:00",
@@ -24,6 +38,20 @@
       "tone": "purple",
       "dek": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas Governo Federal",
       "summary": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas Governo Federal",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "palmeiras-o-primeiro-time-a-ser-vice-tr-s-vezes-seguida-7f0bf0eaac67c0",
+      "category": "Esportes",
+      "title": "Palmeiras é o primeiro time a ser vice três vezes seguidas no Brasileirão - CNN Brasil",
+      "snippet": "Palmeiras é o primeiro time a ser vice três vezes seguidas no Brasileirão CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEZtVG1jVk1yenJsZUtYZTFjQjB1Qlp3bFE4d2Y2TXJKOU9MZkJHb1JMbjdGOTVRRGV4TkRMYkVPRjkxOFFUaE9Pbmw0d0wxc293QXlqcFJ6NElLR3FzZ0M5Y3RtQjEyRTRtWVNFWmVraE5NbXYzMlp2cVp6eE9xXzNhODBlZXFoOEg0VjZPZEpUU3lTSG9xLWMxamhHZnRodmlTd1N0ay1SOGN5Y2J0QmdoWm9IcVc3RXZLOE1MTGZyZkhmU09valF3?oc=5",
+      "published": "2026-11-22T00:09:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Palmeiras é o primeiro time a ser vice três vezes seguidas no Brasileirão CNN Brasil",
+      "summary": "Palmeiras é o primeiro time a ser vice três vezes seguidas no Brasileirão CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -55,6 +83,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "deputada-tal-ria-petrone-amea-ada-de-morte-e-viol-ncia--feede970224825",
+      "category": "Brasil",
+      "title": "Deputada Talíria Petrone é ameaçada de morte e violência sexual - Agência Brasil",
+      "snippet": "Deputada Talíria Petrone é ameaçada de morte e violência sexual Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNLWQtTEVIb0ItcUhDaUxlaXFwSGdtbHpyYVNJRFNFaEtucHRKdUotOEJ2NWRya3R5MFVKS1VuWVA0Vmp3MHQ3ZVV2dlIwcEI3YXhMa3Z6bHdtdTFMbnFsN0RZdDE1Vl9pNDFka19sb1pjWEZFcUFnSjN5d1hxMTJ2VmJNcE9QdFJHbzRMQ0JRMFlickdlTEUzbHZvVU5Cc094dC05ZGozZFI3dTRyOUlkakhyT3hRRGd1STV2NmViVkpydTAydkd3Rg?oc=5",
+      "published": "2026-11-21T21:59:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Deputada Talíria Petrone é ameaçada de morte e violência sexual Agência Brasil",
+      "summary": "Deputada Talíria Petrone é ameaçada de morte e violência sexual Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "maiores-campe-es-do-brasileir-o-veja-ranking-ap-s-t-tul-38afacd9afdbab",
       "category": "Esportes",
       "title": "Maiores campeões do Brasileirão: veja ranking após título do Flamengo - Band",
@@ -66,20 +108,6 @@
       "tone": "teal",
       "dek": "Maiores campeões do Brasileirão: veja ranking após título do Flamengo Band",
       "summary": "Maiores campeões do Brasileirão: veja ranking após título do Flamengo Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "palmeiras-o-primeiro-time-a-ser-vice-tr-s-vezes-seguida-7f0bf0eaac67c0",
-      "category": "Esportes",
-      "title": "Palmeiras é o primeiro time a ser vice três vezes seguidas no Brasileirão - CNN Brasil",
-      "snippet": "Palmeiras é o primeiro time a ser vice três vezes seguidas no Brasileirão CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNUEZtVG1jVk1yenJsZUtYZTFjQjB1Qlp3bFE4d2Y2TXJKOU9MZkJHb1JMbjdGOTVRRGV4TkRMYkVPRjkxOFFUaE9Pbmw0d0wxc293QXlqcFJ6NElLR3FzZ0M5Y3RtQjEyRTRtWVNFWmVraE5NbXYzMlp2cVp6eE9xXzNhODBlZXFoOEg0VjZPZEpUU3lTSG9xLWMxamhHZnRodmlTd1N0ay1SOGN5Y2J0QmdoWm9IcVc3RXZLOE1MTGZyZkhmU09valF3?oc=5",
-      "published": "2026-11-21T21:09:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Palmeiras é o primeiro time a ser vice três vezes seguidas no Brasileirão CNN Brasil",
-      "summary": "Palmeiras é o primeiro time a ser vice três vezes seguidas no Brasileirão CNN Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -181,6 +209,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "d-vida-de-fam-lias-quase-dobra-em-5-anos-e-sobe-mais-qu-4f8cdd5a8d4760",
+      "category": "Brasil",
+      "title": "Dívida de famílias quase dobra em 5 anos e sobe mais que ativos, diz estudo - UOL Economia",
+      "snippet": "Dívida de famílias quase dobra em 5 anos e sobe mais que ativos, diz estudo UOL Economia",
+      "source": "UOL Economia",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1FYNmVrdEdPOTMwOEFFal9OM08yM3l2ODEwMW91V0dvTnNWX2g1SWc0X1QxSTIwVFBIVkppTzNGSUYwMDFjR2lZMDRBbzhpQ09IU1VsWC1lbXZXWnJaSU94N2U5UWh0MmtmQ3FTUjBvYkxYRXViTjAwWG1PbDl6QkZza1dKMC02Q2s2T0ZXVnRJYzJha3FIVTdQY1lZRmp2Z1NZc2tpLXEzXzZjTGpMdGFlUDVmTFdMUlZlcHRjUUI1VFFTVDFZ?oc=5",
+      "published": "2026-11-21T13:30:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Dívida de famílias quase dobra em 5 anos e sobe mais que ativos, diz estudo UOL Economia",
+      "summary": "Dívida de famílias quase dobra em 5 anos e sobe mais que ativos, diz estudo UOL Economia",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "policiais-queriam-vingan-a-diz-advogado-da-fam-lia-de-k-cabb65adf6c737",
       "category": "Polícia",
       "title": "\"Policiais queriam vingança\", diz advogado da família de Kathlen Romeu - Agência Brasil",
@@ -234,20 +276,6 @@
       "tone": "",
       "dek": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos' BBC",
       "summary": "Como governos Lula e Trump pretendem acabar com a 'guerra fria dos vistos diplomáticos' BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "d-vida-de-fam-lias-quase-dobra-em-5-anos-e-sobe-mais-qu-4f8cdd5a8d4760",
-      "category": "Brasil",
-      "title": "Dívida de famílias quase dobra em 5 anos e sobe mais que ativos, diz estudo - UOL Economia",
-      "snippet": "Dívida de famílias quase dobra em 5 anos e sobe mais que ativos, diz estudo UOL Economia",
-      "source": "UOL Economia",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPa1FYNmVrdEdPOTMwOEFFal9OM08yM3l2ODEwMW91V0dvTnNWX2g1SWc0X1QxSTIwVFBIVkppTzNGSUYwMDFjR2lZMDRBbzhpQ09IU1VsWC1lbXZXWnJaSU94N2U5UWh0MmtmQ3FTUjBvYkxYRXViTjAwWG1PbDl6QkZza1dKMC02Q2s2T0ZXVnRJYzJha3FIVTdQY1lZRmp2Z1NZc2tpLXEzXzZjTGpMdGFlUDVmTFdMUlZlcHRjUUI1VFFTVDFZ?oc=5",
-      "published": "2026-11-21T08:30:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Dívida de famílias quase dobra em 5 anos e sobe mais que ativos, diz estudo UOL Economia",
-      "summary": "Dívida de famílias quase dobra em 5 anos e sobe mais que ativos, diz estudo UOL Economia",
       "summary_by": "descrição da fonte"
     },
     {
@@ -629,6 +657,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "google-lan-a-gemini-4-neon-com-foco-em-ci-ncia-programa-0bfe76e222af95",
+      "category": "Tecnologia",
+      "title": "Google lança Gemini 4 Neon com foco em ciência, programação e segurança digital - Times Brasil | CNBC",
+      "snippet": "Google lança Gemini 4 Neon com foco em ciência, programação e segurança digital Times Brasil | CNBC",
+      "source": "Times Brasil | CNBC",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNRzU0Z3A2MnN1T2lUNDhVcmxsOW1SaTRoRFF0ZnczUEZGSDYzOGZ5RjZGWDBtVjlFeHhCMWpHRkZGeE1HVjBpcFQtS0RlRHVrU2FMdERvVFZQcHRwR1p2RW9zUWNKWTZySFpJSEptMlBBR2cwOTVDX0xjYjBtVnp2c2xGQ2J0S2U3M29QNnhZMVJjODMxUWgwVjYtS1FGYkdWRjBCUVVQWjdFWjhYX1R1V3ozdlk3Y2pnaGlfYTR1NzEyTFd4Z3VIWWduVnZUUE1vX3ladVZkejdYd0NhZkUzOE9n?oc=5",
+      "published": "2026-11-19T21:59:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Google lança Gemini 4 Neon com foco em ciência, programação e segurança digital Times Brasil | CNBC",
+      "summary": "Google lança Gemini 4 Neon com foco em ciência, programação e segurança digital Times Brasil | CNBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "cristiano-ronaldo-pode-ter-jogo-de-despedida-organizado-4d090a512cf91c",
       "category": "Esportes",
       "title": "Cristiano Ronaldo pode ter jogo de despedida organizado pelo Real Madrid - CNN Brasil",
@@ -668,6 +710,20 @@
       "tone": "purple",
       "dek": "Exposição 'MS - Música e Memória' tem debate, cinema e show de Simona diariodigital.com.br",
       "summary": "Exposição 'MS - Música e Memória' tem debate, cinema e show de Simona diariodigital.com.br",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "bem-brasil-celebra-o-dia-da-consci-ncia-negra-com-leci--117a73ea0f9209",
+      "category": "Saúde e bem-estar",
+      "title": "Bem Brasil celebra o Dia da Consciência Negra com Leci Brandão neste domingo (22) - TV Cultura",
+      "snippet": "Bem Brasil celebra o Dia da Consciência Negra com Leci Brandão neste domingo (22) TV Cultura",
+      "source": "TV Cultura",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOMVJiTm9vWXhiekpzZVlVTGhTdHh4eHRKWFNzaW1ha1lzaTFIblpkTXRCaXRxX2VURmdXRUw1UWVjc2RXcTFWT1VIX2JGS3NiLU5nRk1Ua0JES2t1dGgyTE5aekFweXVIR1BjajhDaVhWSXpvdV9MekNHNXh4bklrTzJjSDFDVXNjemZ4dEtSSkVFQVRYQ0tJSVhHSzUxV3hXamY5alI4UU5iZXpUWTlFUjNOcW9WZy02VW1mNGs3VjlpYkFmdEZlQnV1d19Hbi1FUU5DcEFIWElQdndEZkFQTXhyTVJmd3c?oc=5",
+      "published": "2026-11-19T20:28:00+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Bem Brasil celebra o Dia da Consciência Negra com Leci Brandão neste domingo (22) TV Cultura",
+      "summary": "Bem Brasil celebra o Dia da Consciência Negra com Leci Brandão neste domingo (22) TV Cultura",
       "summary_by": "descrição da fonte"
     },
     {
@@ -794,62 +850,6 @@
       "tone": "",
       "dek": "Lula: transporte gratuito no fim de semana complementaria escala 5x2 Agência Brasil",
       "summary": "Lula: transporte gratuito no fim de semana complementaria escala 5x2 Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "pesquisa-revela-oportunidades-para-ampliar-o-consumo-de-b4932080bbd56b",
-      "category": "Brasil",
-      "title": "Pesquisa revela oportunidades para ampliar o consumo de frutas, flores e legumes no Brasil - Notícias Agrícolas",
-      "snippet": "Pesquisa revela oportunidades para ampliar o consumo de frutas, flores e legumes no Brasil Notícias Agrícolas",
-      "source": "Notícias Agrícolas",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVUhKYml4anU1bndrZEZ3VHIyUXdSbkxlMmNXQzlwQzJBUS1peDVoc0NJM09nMDFlM3I3ZGpRQ2YzTXRXRGZ3R0RSNXczZzVKX3VyR2t2eWkxbWtteWJmTldjT2ozVTY4dnRwZkxxenB0SEVhRXU4R2JYMFhXSXcyWng4Smo5TWdMSC16eFl6Ty1HbDFkMGo4U3FnY0ItdWpNbFUySDJUdFVRZDRrandzbk5pVmlIV3dJcHpVSGRmYzVva3h5SHV4YVZmblJuVlZOTUtJMU03ZUlLcTBUSE9paGF4Vm9BZVRoRVZ0S0xxd9IB9AFBVV95cUxPcF90aHFnd3JSeWJqS2JwSllDU2twZ3pOX0E3WGRsTm1sUVlDQjg5RVBJelNtaVoxaUVJd0V0cmwzbVhmUndYTEpzczRPWUVwd3YxbUxQVkEtR284aXpiTWlpYnFXbjhOZjA4MkFnNVB3QkVWTVF0UE0yTGFQRkhLTDJVOHh3M2FtMk5OS2tMTUxCWHUzVWNEN002SlpmanJWVDZrX3VmYXZBdjJ5M3R1X1YzOFBWMUNqbUs4T1FUUlhOLU1STmpfZDZaMFN5TUN6M3RLSUNnVmduWTRYV05kWlpLdllYSUFFTzUyYnFNc2hjYUpF?oc=5",
-      "published": "2026-11-19T17:08:18+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Pesquisa revela oportunidades para ampliar o consumo de frutas, flores e legumes no Brasil Notícias Agrícolas",
-      "summary": "Pesquisa revela oportunidades para ampliar o consumo de frutas, flores e legumes no Brasil Notícias Agrícolas",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "prevendo-judicializa-o-lula-cobra-aten-o-aplica-o-da-es-3b3ebb33e6c57f",
-      "category": "Brasil",
-      "title": "Prevendo judicialização, Lula cobra atenção à aplicação da escala 5x2 - Agência Brasil",
-      "snippet": "Prevendo judicialização, Lula cobra atenção à aplicação da escala 5x2 Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTzJVcjA4LWh4RVU0MlZVQlhCOXRERVpfSlp2UngtRGdQRWc3c0xPdzZjWjVzUXA5bHJrMnc1RmlpTXAyR1VvRV9JeUltbXlzTzVpS1VmTHVjMTljc3BWVnFPZGtGaDlGQzh2VmJmalVHMGRlMzRCVUw1Qm91MkpFaG9qb3F5TGZYc20wQUE5RTIzUmM2VktEcEhWYUItWW1hc1FBTXMxMW9fVWgtRlRuM0Y3WlNVbk1qTkJXc0JsZWJ4Zw?oc=5",
-      "published": "2026-11-19T16:28:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Prevendo judicialização, Lula cobra atenção à aplicação da escala 5x2 Agência Brasil",
-      "summary": "Prevendo judicialização, Lula cobra atenção à aplicação da escala 5x2 Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "covid-oms-classifica-variante-pj-2-1-que-cresce-no-bras-7d79f21db0932d",
-      "category": "Brasil",
-      "title": "Covid: OMS classifica variante PJ.2.1, que cresce no Brasil, como 'sob monitoramento' - O GLOBO",
-      "snippet": "Covid: OMS classifica variante PJ.2.1, que cresce no Brasil, como 'sob monitoramento' O GLOBO",
-      "source": "O GLOBO",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYlUyWWlzNW5FeWtLVEJnLXZQLTM5cmVjdExKSUxqTElRaFZ4bWRxYW5hRm1jTUN4VWJ3eWEzWmxob294YnlUUHQwV0VGcGhPcjQ5dVhZN09kajFPT0g5eTZhV3RXSjJhbjh4TmNPdUpnR2lzRFl3N3BYaUx0aURxMW01UUFtOFRMd1ZNVmM0MFlPdXZhVGwzRW9PUkx1RHZEYjlzYjdjZGVGUjFualNoS21wSm9hS2VIRWNVMGgzYWk3bTNOMVBuMzUtdUQtMUXSAd4BQVVfeXFMTzh6bnMtdzB2clJtU1VINHBZUmlNYWVsc1BlZjRSNlduU2dIRlNpQlhvTG5lOHJVRW1uTmhUWk1PZ0xSUWFlemhHY0EtaXJtWTZxdE43cTJxbWNFVUxjd05pNzRZQ29USEc1NkJlWFYyd0NuemhNdlNfMWxrREJCQlluRmhqZEtnRGFSVnJ5WjdHOEQzek5NREtXWWJ4VjYxZEM0dGhGTUJEQmFqbGxqTmZydnZTTlFsUE1CUlo3c3h4Z2xsaHpaRFBGN19YVmNoWHFHaFE4MmVtM3V2QjJ3?oc=5",
-      "published": "2026-11-19T16:27:50+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Covid: OMS classifica variante PJ.2.1, que cresce no Brasil, como 'sob monitoramento' O GLOBO",
-      "summary": "Covid: OMS classifica variante PJ.2.1, que cresce no Brasil, como 'sob monitoramento' O GLOBO",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "toyota-quer-ampliar-mercado-de-mobilidade-para-pcds-no--5d86fef0f32736",
-      "category": "Economia",
-      "title": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá - Estadão",
-      "snippet": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá Estadão",
-      "source": "Estadão",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa012cmIwdDg5bFVIYVlxUTgxejRCYjlqZUk3NHNNQndPRXcyZDFVT1d1OTRlNFdZdHIyTGJzMGl2dld2aFZiMjhrenU1NUQxSDFyVUI4MWdUbFFCN2ZiVERxYmcwUmxmNXdYQUxtcDRFYVVtMXhFQzNLLTdEa1VyM3U0a1BlQVBnUHYxNDhDa2JSMkVfN09SZ05tWWctS0V6Rm5RQWt5X05Ka0tnX0HSAbMBQVVfeXFMTWRsTXV3djYzVWJOZ0tFVDRsUi16N1dzbXdwbFBZV0ozWEhfSDBYYzRUVE5Wd1dBWFQ0WnVrZ01hbG5odUUzN3kxdENxVEtkRDgzYmp0OE51cGVDc1dIaTRoVzhJS3gySmpSeHBVbTlsSE5oZjhldjJWYW9sSWd5dDl6MU5YNnNiblpucDZIb2JpOFBhN3l1WjRkUUE3aENhZ0pTOWxTSm5aZmRaSkEtbnpCZzQ?oc=5",
-      "published": "2026-11-19T16:10:00+00:00",
-      "image": "",
-      "tone": "gold",
-      "dek": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá Estadão",
-      "summary": "Toyota quer ampliar mercado de mobilidade para PCDs no Brasil com programa criado no Canadá Estadão",
       "summary_by": "descrição da fonte"
     }
   ],
