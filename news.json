@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T23:38:01.509933+00:00",
+  "updated_at": "2026-11-23T07:43:02.213752+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,20 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "encontro-nacional-de-populariza-o-da-ci-ncia-termina-co-c4fe40c09a07e9",
+      "category": "Tecnologia",
+      "title": "Encontro Nacional de Popularização da Ciência termina com propostas para fortalecer políticas públicas nos próximos quatro anos — Ministério da Ciência, Tecnologia e Inovação - GOV.BR",
+      "snippet": "Encontro Nacional de Popularização da Ciência termina com propostas para fortalecer políticas públicas nos próximos quatro anos — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
+      "source": "GOV.BR",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPYVNvWXR0Zy1SV0g1Tzh2YUc3ellGNTFVVTc3LWVwT2ZCcEY4NGtCczJNaUMxTkJ5ejIxd19oSEU2aWdzVjlyY2Y3d1dUMDlYMzd6RXlqMFBHcEtuTS1INEE4N0RJVFVGTU1LdlA3WU9QWmJqRVhYSTY4RWtDVXZ5ekxWdGlMR1l4R1Y4NXd1TkJPeGRWWGlPNjJqTi15WEROald2bTZKMGRlSlVzMzNVYmJTUmdMMXdTQTRzNGs5V3dwZ3FJWUZwVG1lblBITnU0N3F1YWJhVTJMUExDb3dzZ2hkMHlpTHZ5QUJRaDdxRXlIc3E0SlhfcGZpb3RlTUl0elNqX1hNM1dLY0IzSVBGZ0FYTi10d0p1WURB?oc=5",
+      "published": "2026-11-23T00:55:00+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Encontro Nacional de Popularização da Ciência termina com propostas para fortalecer políticas públicas nos próximos quatro anos — Ministério da Ciência, Tecnologia e Inovação ",
+      "summary": "Encontro Nacional de Popularização da Ciência termina com propostas para fortalecer políticas públicas nos próximos quatro anos — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "crici-ma-vence-fortaleza-e-tem-vantagem-no-playoff-de-a-9255a42a5c9071",
       "category": "Esportes",
@@ -55,6 +69,34 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "nova-plataforma-de-streaming-exibir-filmes-de-pa-ses-do-c377a910eb4ab1",
+      "category": "Brasil",
+      "title": "Nova plataforma de streaming exibirá filmes de países do Brics - Agência Brasil",
+      "snippet": "Nova plataforma de streaming exibirá filmes de países do Brics Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWlV5VUNFNzhxdXdBRlZrRGI3cW9tOVg4bXFQN08tVkZiS1gyUDRzN0dsMmpuNUViRXFuTWtpT0JaVzd6eFVBNmROeGpuUTBqZ0syYUxKNm9oMXFwX3lpWkRnWnhGZXZDWlVsb0ZxVEJnUWlNT0FxVW9MdTNxdVluMFhsMm1TTG41RFRRLUNFdzQzMzFwQ2hxcWdDQ3Y2U3VRejM2M0xkRF9mQW9xbjZpVXJSSktQblZpMzk4?oc=5",
+      "published": "2026-11-22T20:05:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Nova plataforma de streaming exibirá filmes de países do Brics Agência Brasil",
+      "summary": "Nova plataforma de streaming exibirá filmes de países do Brics Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "dj-liv-nervo-diz-ter-sido-coagida-a-ter-um-filho-e-enga-3e1f2612a1def1",
+      "category": "Brasil",
+      "title": "DJ Liv Nervo diz ter sido coagida a ter um filho e enganada por um bilionário para que engravidasse - BBC",
+      "snippet": "DJ Liv Nervo diz ter sido coagida a ter um filho e enganada por um bilionário para que engravidasse BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8taWRSdmpZQVcyTXAybHNrZm5kNU0xLXB3UzM1am9fNHptV05uck8xeDR4N1cxSHN6X3VQM2Z1LXJvbTBNVi10ZUJqZFJVSGZ2OHVhOFYyVUNaVl95eE82Ui1uMNIBaEFVX3lxTE1zZG1wTkM1QmRuQ3hkb3BfQ2JOLXdabUpEZUVBbXhEUlZsSVB6WV8zdkdkM2ZMaldFVDlCb0RJcTF4UjBfeFNiTVgxclNYX0hoRXFJQVRHQ0paLTAxUkZGVU81VGZwUF9K?oc=5",
+      "published": "2026-11-22T19:00:28+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "DJ Liv Nervo diz ter sido coagida a ter um filho e enganada por um bilionário para que engravidasse BBC",
+      "summary": "DJ Liv Nervo diz ter sido coagida a ter um filho e enganada por um bilionário para que engravidasse BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "bolsonaro-segue-internado-na-uti-sem-previs-o-de-alta-a-2eda875a852a8c",
       "category": "Brasil",
       "title": "Bolsonaro segue internado na UTI sem previsão de alta - Agência Brasil",
@@ -94,6 +136,20 @@
       "tone": "purple",
       "dek": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. Vietnam.vn",
       "summary": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. Vietnam.vn",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "falta-de-ambi-o-delega-o-brasileira-critica-resultado-f-9bd50f76b5f41f",
+      "category": "Brasil",
+      "title": "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades - G1",
+      "snippet": "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb044SDVJdXl4Wlc0dTJYQUVBemdGYUlEMzFfZ2NvbmlNNGRlbFhuOW44djN6VzZEMFVLSHlTcEluclY1dmRnTy1RZkVUSW4wVHVqaHl6aFVfY2VDYldmbEpsSy1aVWMtZWpTbVRhUHEtZF9ZcEcxNmR0ZGN5Y1MzR0RYVUc3LXFEVWJiQmJaZ2lhTGvSAaIBQVVfeXFMTV9GUHl1eHZQVkhVbHRTWEFsRnBNTFduaWFFM1ZSZWVxRXZBY2NpNDlmMUcxVzdHR1l1OXg3TlJmOUtmaUtWTm9fclNwVkZhZFFNZTNYV3JhSlc1MUtJYkdhRFl1RUFHeEs0OElEWTNqbVVjQ2VRaUtfU2tKQmpEejVBT2xhUXBCa2dUak4wejRUS2RNTURLSjNvaTJwS0lqbEp3?oc=5",
+      "published": "2026-11-22T16:36:54+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades G1",
+      "summary": "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -253,9 +309,9 @@
     {
       "id": "mcti-abre-encontro-nacional-de-populariza-o-da-ci-ncia--349110c3e07f16",
       "category": "Tecnologia",
-      "title": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas — Ministério da Ciência, Tecnologia e Inovação - GOV.BR",
-      "snippet": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas — Ministério da Ciência, Tecnologia e Inovação GOV.BR",
-      "source": "GOV.BR",
+      "title": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas — Ministério da Ciência, Tecnologia e Inovação - Governo Federal",
+      "snippet": "MCTI abre Encontro Nacional de Popularização da Ciência com balanço de investimentos e debate sobre políticas públicas — Ministério da Ciência, Tecnologia e Inovação Governo Federal",
+      "source": "Governo Federal",
       "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNazFGaTdvc19DLVlvOXpEcjdnMk1McHdRR0xpQ19IYlhOWm1wbk01ME04dG9nSDYtWjZPQk0xRXpVMFJBdVFXWjBTZ3RUR1JoVWJBQWhLUkFxTWVlZFVNNWUzc1dmXzdpVTVZU3V4bzhCNU5nbU02QjBqTkQ0S1F1dFBDR3ZaM19NSEhOd0R2NG5pajN1a2RaRVZaem55ODRhT3lDbXlLWDdmUExOTWtUYkFBMmNTdHhzQkV6Z2k2X3RySlRiSVRNTTFMLTFPX1IxcjlDTmFOajBPbHhOR3VVT2l5UllHYjFyVlJSQjV6VUQwWU1kSTdlcUV0cHZxa1dySUwxOEhHMTVKWVdzN3Nz?oc=5",
       "published": "2026-11-22T01:31:02+00:00",
       "image": "",
@@ -794,62 +850,6 @@
       "tone": "teal",
       "dek": "Brasileirão: Rádio Nacional transmite duelo entre Palmeiras e Flamengo Agência Brasil",
       "summary": "Brasileirão: Rádio Nacional transmite duelo entre Palmeiras e Flamengo Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "raimundo-nina-rodrigues-a-batalha-para-apagar-homenagem-8b943394f53533",
-      "category": "Brasil",
-      "title": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil - BBC",
-      "snippet": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKbVNLd0g3eUtELUJGOGpWX0NhbUV3cVFPNWlXR0FSSzJyandmLW1qSWhtam13R0VMSDNKMngwWDFfcmRNWVYyeThSX0JfRjFmc0MzYlFBdkZNRjh0U1N5M0xzVdIBaEFVX3lxTE5PQlNFUFhaTW1IcUdBVkFKb3lRT3hZemVrUDd6SVRTLUR5d0xFZURFOTM5akxJU1doNTJjWm5kMmVkbUdSTEJOdUlXcGRvZFl0cW04UGRaODJ6eWZGTkk2UXpRLU1HNHM2?oc=5",
-      "published": "2026-11-20T08:21:12+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil BBC",
-      "summary": "Raimundo Nina Rodrigues: a batalha para apagar homenagem a expoente do racismo científico no Brasil BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "rep-rter-da-ag-ncia-brasil-recebe-pr-mio-sbim-em-sa-de--8fd32f82c4aa2b",
-      "category": "Saúde e bem-estar",
-      "title": "Repórter da Agência Brasil Recebe Prêmio SBIm em Saúde - Jornal Brasília Capital",
-      "snippet": "Repórter da Agência Brasil Recebe Prêmio SBIm em Saúde Jornal Brasília Capital",
-      "source": "Jornal Brasília Capital",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNFVuZ3FSVk5UdXE4MEoxNDd1REdCTkZRT050LUhPRGtRdjh4WFV0WHp4ZlRRTWxFV2Y3elloLVhJLUFlYXFlRjVhdjhZX2ttUG4ybDV5dTY1WEdUTVN0TmNrTmpEcVhiaEZ0bUFjTW9lcnhzb1NWUENTZy1lTTFMczJiYVhfSUls?oc=5",
-      "published": "2026-11-20T07:30:00+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Repórter da Agência Brasil Recebe Prêmio SBIm em Saúde Jornal Brasília Capital",
-      "summary": "Repórter da Agência Brasil Recebe Prêmio SBIm em Saúde Jornal Brasília Capital",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "h-55-anos-jovens-de-porto-alegre-celebraram-o-primeiro--8949c638bab985",
-      "category": "Brasil",
-      "title": "Há 55 anos, jovens de Porto Alegre celebraram o primeiro Dia do Negro no Brasil; conheça história - Folha de S.Paulo",
-      "snippet": "Há 55 anos, jovens de Porto Alegre celebraram o primeiro Dia do Negro no Brasil; conheça história Folha de S.Paulo",
-      "source": "Folha de S.Paulo",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPd1hkb3V5aU5aS09nOXlsZ3VLdVM1anExekZoYnpsWDdCcFBEWE9iMW10OEJLX0F2NFc3M1FuOXVSSEdiX29lYUhzaGdlLTB1N3RqYkZEcTY4RkVmNWZYLTF4UUdNNlE0UHVVODJST2NCWVBzNnlQaGVxQTlEMVVCSlEwaFlKUE05TDlranZNS2dncEIwQVpkWHNzRHRaUmFpeDJFZDJSUHBzQWhsQ044aFhMV0R6LVN1S0VvV3B5LXp5aF8wdzNZYmxQRTlzb0hfQlVpWVdSRU0zMDdweko1a29FSQ?oc=5",
-      "published": "2026-11-20T07:15:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Há 55 anos, jovens de Porto Alegre celebraram o primeiro Dia do Negro no Brasil; conheça história Folha de S.Paulo",
-      "summary": "Há 55 anos, jovens de Porto Alegre celebraram o primeiro Dia do Negro no Brasil; conheça história Folha de S.Paulo",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "shevchenko-acusa-mudryk-de-mentir-sobre-doping-na-ucr-n-b539d4df4a2a84",
-      "category": "Esportes",
-      "title": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia - TV Sim Brasil",
-      "snippet": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia TV Sim Brasil",
-      "source": "TV Sim Brasil",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUmVtelBSNFlEeVBfRi1ZVjI0elY3cV9Yeko1TE1qekdwUm5XaFlZVU8yR2RkdjFSTE00ZDJPSmg4QzRsbDJZMURZckpaNmR4dGpHZEo5ZXFScTdTUkNNVEx6dWowNVlaWWM1WFcyZDdOeUUtVEZ1TzVZaklhUEFsWWlZZE1ZQWhXaHlGdlZJS1pJa0JGaXFPaWU0eDAybWN3?oc=5",
-      "published": "2026-11-20T06:54:29+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia TV Sim Brasil",
-      "summary": "Shevchenko acusa Mudryk de mentir sobre doping na Ucrânia TV Sim Brasil",
       "summary_by": "descrição da fonte"
     }
   ],
