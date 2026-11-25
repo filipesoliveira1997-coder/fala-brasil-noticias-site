@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T02:32:31.334847+00:00",
+  "updated_at": "2026-11-25T14:27:04.773732+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,48 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "lula-define-escopo-do-novo-minist-rio-da-seguran-a-p-bl-cd05dca5c7cc3b",
+      "category": "Polícia",
+      "title": "Lula define escopo do novo Ministério da Segurança Pública - TV Sim Brasil",
+      "snippet": "Lula define escopo do novo Ministério da Segurança Pública TV Sim Brasil",
+      "source": "TV Sim Brasil",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM1JjX29VZUMwLU0zOTJGSXZiaFBhNnYyd0t4djF5TTd2Nk1TX2dINVYydHVMNUQ5OVZVaUI5bmIwUGx4VURqRmthc2IwY3Nab3JwSGM4RVo0X3U2UVdFcVMtUnpuVHBjLXZCeVlFa1JhWmcxdW1hbndyZFhUWFpHSGFCUHNDYU8wSVVnOF9BZUh4MG80NndSQXNlMmZUZ2hjbXNwcWlWVmlTQVlaaFNla0owRzI?oc=5",
+      "published": "2026-11-25T12:04:07+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Lula define escopo do novo Ministério da Segurança Pública TV Sim Brasil",
+      "summary": "Lula define escopo do novo Ministério da Segurança Pública TV Sim Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "araraquara-celebra-a-cultura-com-dan-a-m-sica-e-capoeir-ed7c069d9bb12f",
+      "category": "Entretenimento",
+      "title": "Araraquara celebra a cultura com dança, música e capoeira - Araraquara Agora",
+      "snippet": "Araraquara celebra a cultura com dança, música e capoeira Araraquara Agora",
+      "source": "Araraquara Agora",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPVmpTWENiWGVMaXpUSVFla1Joc0NTb0VvSkh4dU5TNWd2Y21WWjdiMi04M2V6YW5kV01QUmdZTlRNbFNETVY3a2lCTlhzZzZHdGJHSjBqdFFDbXZHWl9PbEoxTTJZblBkQUY1MnYxNjRsSWhWSHZPQlFuQ2ZlSncxT2NlN3VaUkxxWDUweTdJREN3SWVkbzlNNi00NEdSZlF6cEZ5SXQ2NXRUZW1EWkNtRVpLUUU?oc=5",
+      "published": "2026-11-25T11:52:05+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Araraquara celebra a cultura com dança, música e capoeira Araraquara Agora",
+      "summary": "Araraquara celebra a cultura com dança, música e capoeira Araraquara Agora",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "como-foram-os-ltimos-anos-de-belchior-no-rio-grande-do--def512e1807fc5",
+      "category": "Brasil",
+      "title": "Como foram os últimos anos de Belchior no Rio Grande do Sul: 'O Brasil inteiro procurando Belchior e ele na sala da minha casa' - BBC",
+      "snippet": "Como foram os últimos anos de Belchior no Rio Grande do Sul: 'O Brasil inteiro procurando Belchior e ele na sala da minha casa' BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1kbm56LUdJRXVZeDV3WFZtUENCZDRXdHhOWklHekIzS0VtU0FDcXVsNldobVVLUk8wVExaN2dvNFY4aDVsOUZJdFEyLWFIc0xCTHM0aWFhU0tNUFFxamZwajAza9IBaEFVX3lxTE94ak9VQ28yMDdBY0tPZ1RDdF92Vm16ZEd1bWt3YWZIYUlmWmNwOVB6NkMyTXQwVHBPRUQta1NRUk1LN2Y4eW1ZVktDMm5PTFFvWVdxTldYZXM1c3Boel9WQ0RMVzNfLTJy?oc=5",
+      "published": "2026-11-25T10:11:06+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Como foram os últimos anos de Belchior no Rio Grande do Sul: 'O Brasil inteiro procurando Belchior e ele na sala da minha casa' BBC",
+      "summary": "Como foram os últimos anos de Belchior no Rio Grande do Sul: 'O Brasil inteiro procurando Belchior e ele na sala da minha casa' BBC",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "manchester-city-trope-a-contra-o-napoli-na-champions-le-f72c49b2ff6acd",
       "category": "Esportes",
@@ -29,9 +71,9 @@
     {
       "id": "luciana-santos-assume-presid-ncia-da-confer-ncia-de-ci--a48451c47642a6",
       "category": "Tecnologia",
-      "title": "Luciana Santos assume presidência da Conferência de Ciência, Inovação e Tecnologias da Informação e das Comunicações da Cepal - Governo Federal",
-      "snippet": "Luciana Santos assume presidência da Conferência de Ciência, Inovação e Tecnologias da Informação e das Comunicações da Cepal Governo Federal",
-      "source": "Governo Federal",
+      "title": "Luciana Santos assume presidência da Conferência de Ciência, Inovação e Tecnologias da Informação e das Comunicações da Cepal - GOV.BR",
+      "snippet": "Luciana Santos assume presidência da Conferência de Ciência, Inovação e Tecnologias da Informação e das Comunicações da Cepal GOV.BR",
+      "source": "GOV.BR",
       "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOa3pXZ0VIaEpNVWpOQ3dLQi1ST0YwdWVCTmNLVTI5b1Vtc0RPeTZNVUpHclJmR3dvQzFsQTlKSjc0X3NOdEYtb3pXSzFwUnJlQXNIWWRldjJCSDdPU204cGRFVmhPbkRPYkpoMUVIaVgwZzFXYjNyRW14VjZGQXZYQmxDVkhPS3ZuRUFUT1lZazlfWDNFWEZzY3l2VHRhWHlySXZrODdsZUdDQWdLRmMxYlVLSUxQQkNoNlpvVk4yallrbGpWVkNTQnU4RWE4d3JPWDhXckFDcnR3Z2k1NVdBOERRMGxKa2Jpa2paSHFac0szMHpPa1R5Q0twX0xYcVpIdXp1V1Y2SEtYcFJVVlF4emc3eEpERmM?oc=5",
       "published": "2026-11-24T21:43:20+00:00",
       "image": "",
@@ -52,6 +94,20 @@
       "tone": "red",
       "dek": "Ministério cria protocolo policial com foco em raça e gênero Agência Brasil",
       "summary": "Ministério cria protocolo policial com foco em raça e gênero Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "entenda-o-pacote-fiscal-que-prev-ajuste-de-at-r-56-bilh-ad3b1a85bb90cb",
+      "category": "Brasil",
+      "title": "Entenda o pacote fiscal que prevê ajuste de até R$ 56 bilhões - Agência Brasil",
+      "snippet": "Entenda o pacote fiscal que prevê ajuste de até R$ 56 bilhões Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRUpVZkljeC14ekVqOFFCbWNvTXZBMEJYZjNuQzlqSmRrakctci1Yd3FUc3JwRVpQdEV0d3JqRXpMRUxmRE5VeTBXcl95TTJJNGNHZ0pCVFA4dEZHNDZvRGJ0OUttSkUxTDRhUUt1WnZHOGxXTU1PV2lnNUhZT1p4T0xQUEZKV09TWGw4eHhDaGxrUjhid3VzQ1VyR3BHS3U3QndkSHFMR1VWeXIyRlRvcFBtNzBuLUJPb3c?oc=5",
+      "published": "2026-11-24T20:54:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Entenda o pacote fiscal que prevê ajuste de até R$ 56 bilhões Agência Brasil",
+      "summary": "Entenda o pacote fiscal que prevê ajuste de até R$ 56 bilhões Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -195,6 +251,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "caso-kathlen-romeu-policiais-v-o-a-j-ri-pela-morte-da-j-213da4b4aca2d7",
+      "category": "Polícia",
+      "title": "Caso Kathlen Romeu: policiais vão a júri pela morte da jovem grávida - TV Brasil |",
+      "snippet": "Caso Kathlen Romeu: policiais vão a júri pela morte da jovem grávida TV Brasil |",
+      "source": "TV Brasil |",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU3pWWWJTZ001ajdfal9PUjY1WVFvckhHb0VfWHZFNHhEUktuUGNvQUlTTFlKejNLaWMtQ0VYNkpYU2xhaWNiYTVMSmc0bkM4YWtOQmxqcjZFWmZBRHc1ZFhxVExCR0MtaFcxMGgxZ1UzbENWUWdZaV9FM2VFekJMd0xMUEJyTS0yZGc5LU1yM1hyZHRSNDBldGZaUzlORnRJOF9rRnEzTVp4bHB5OXdiTnBPMXc5QVNjV3NubGFPb3Q?oc=5",
+      "published": "2026-11-24T16:00:00+00:00",
+      "image": "",
+      "tone": "red",
+      "dek": "Caso Kathlen Romeu: policiais vão a júri pela morte da jovem grávida TV Brasil |",
+      "summary": "Caso Kathlen Romeu: policiais vão a júri pela morte da jovem grávida TV Brasil |",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "arrecada-o-federal-atinge-r-294-bilh-es-e-bate-recorde--c8728cded218e3",
       "category": "Brasil",
       "title": "Arrecadação federal atinge R$ 294 bilhões e bate recorde para outubro - Agência Brasil",
@@ -220,6 +290,20 @@
       "tone": "",
       "dek": "Papa Francisco: diário afirma que ele teria visto o Diabo três vezes e as 'portas do inferno' BBC",
       "summary": "Papa Francisco: diário afirma que ele teria visto o Diabo três vezes e as 'portas do inferno' BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasil-e-reino-unido-trocam-experi-ncias-para-ampliar-o-80e25224b5c69c",
+      "category": "Brasil",
+      "title": "Brasil e Reino Unido trocam experiências para ampliar o acesso ao diagnóstico e ao tratamento do câncer - Governo Federal",
+      "snippet": "Brasil e Reino Unido trocam experiências para ampliar o acesso ao diagnóstico e ao tratamento do câncer Governo Federal",
+      "source": "Governo Federal",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPamJmNmdxZnY4NDdJZ1FEanVadkRKYUxobW5fYXp6Y2RwQjh4QXpZNzRMdlFhcGpxcl80RGlNdnB3X1VoVWhZeWhiblJDNUlRVjNidDZxOTh4a0hXS3kwbUxKMGJhYnNfSTg3ZXNYNkNTOE8xUDNmMFQzR3R6SWU2eXFpcU96aFlxQkg5Q3dmeHZpVHplWWx0cTNJRlM0SmE5Vm5rNW5oaU53My1meHhKSnhMMkJFUk9NN19mdG4tb3FEZFA3NDJsWDFXcXlhdDUyajB5Y2VNSnlBSjNyUkRXdTJ5VmJTdHZnOEF4anJlT0paaEduMmMzT3VB?oc=5",
+      "published": "2026-11-24T12:56:17+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasil e Reino Unido trocam experiências para ampliar o acesso ao diagnóstico e ao tratamento do câncer Governo Federal",
+      "summary": "Brasil e Reino Unido trocam experiências para ampliar o acesso ao diagnóstico e ao tratamento do câncer Governo Federal",
       "summary_by": "descrição da fonte"
     },
     {
@@ -766,90 +850,6 @@
       "tone": "teal",
       "dek": "Inter x Juventude pela semifinal do Gauchão Feminino; acompanhe GZH",
       "summary": "Inter x Juventude pela semifinal do Gauchão Feminino; acompanhe GZH",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "nova-plataforma-de-streaming-exibir-filmes-de-pa-ses-do-c377a910eb4ab1",
-      "category": "Brasil",
-      "title": "Nova plataforma de streaming exibirá filmes de países do Brics - Agência Brasil",
-      "snippet": "Nova plataforma de streaming exibirá filmes de países do Brics Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOWlV5VUNFNzhxdXdBRlZrRGI3cW9tOVg4bXFQN08tVkZiS1gyUDRzN0dsMmpuNUViRXFuTWtpT0JaVzd6eFVBNmROeGpuUTBqZ0syYUxKNm9oMXFwX3lpWkRnWnhGZXZDWlVsb0ZxVEJnUWlNT0FxVW9MdTNxdVluMFhsMm1TTG41RFRRLUNFdzQzMzFwQ2hxcWdDQ3Y2U3VRejM2M0xkRF9mQW9xbjZpVXJSSktQblZpMzk4?oc=5",
-      "published": "2026-11-22T20:05:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Nova plataforma de streaming exibirá filmes de países do Brics Agência Brasil",
-      "summary": "Nova plataforma de streaming exibirá filmes de países do Brics Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "dj-liv-nervo-diz-ter-sido-coagida-a-ter-um-filho-e-enga-3e1f2612a1def1",
-      "category": "Brasil",
-      "title": "DJ Liv Nervo diz ter sido coagida a ter um filho e enganada por um bilionário para que engravidasse - BBC",
-      "snippet": "DJ Liv Nervo diz ter sido coagida a ter um filho e enganada por um bilionário para que engravidasse BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8taWRSdmpZQVcyTXAybHNrZm5kNU0xLXB3UzM1am9fNHptV05uck8xeDR4N1cxSHN6X3VQM2Z1LXJvbTBNVi10ZUJqZFJVSGZ2OHVhOFYyVUNaVl95eE82Ui1uMNIBaEFVX3lxTE1zZG1wTkM1QmRuQ3hkb3BfQ2JOLXdabUpEZUVBbXhEUlZsSVB6WV8zdkdkM2ZMaldFVDlCb0RJcTF4UjBfeFNiTVgxclNYX0hoRXFJQVRHQ0paLTAxUkZGVU81VGZwUF9K?oc=5",
-      "published": "2026-11-22T19:00:28+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "DJ Liv Nervo diz ter sido coagida a ter um filho e enganada por um bilionário para que engravidasse BBC",
-      "summary": "DJ Liv Nervo diz ter sido coagida a ter um filho e enganada por um bilionário para que engravidasse BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "bolsonaro-segue-internado-na-uti-sem-previs-o-de-alta-a-2eda875a852a8c",
-      "category": "Brasil",
-      "title": "Bolsonaro segue internado na UTI sem previsão de alta - Agência Brasil",
-      "snippet": "Bolsonaro segue internado na UTI sem previsão de alta Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZ1hVTFpCWGZUVkNFTmhhRFZkWEdORmttbVBacl9PdndBWkRzLU5UM0Z4RmtUTE5PWWI2NFZHVnl4eDZqM0dlUWhyU21WMDFnSzdZNmVuZXFCbUV0cDk0Z2FBSzNwR2wwTHlORkx5dEUwUEFRM0VGWnVHTlgzb1hxT1VMeUQ4bkZmLW90MjBTdDgwVm8yRUxoQjU4SjJodGllREY5alN4QlBsd2trQTJJYQ?oc=5",
-      "published": "2026-11-22T17:55:00+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Bolsonaro segue internado na UTI sem previsão de alta Agência Brasil",
-      "summary": "Bolsonaro segue internado na UTI sem previsão de alta Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "futebol-feminino-s-o-paulo-campe-o-do-paulist-o-f-petro-302fb7347e399c",
-      "category": "Esportes",
-      "title": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17 - Agência Brasil",
-      "snippet": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17 Agência Brasil",
-      "source": "Agência Brasil",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOTjNFMTVhcmVlc1VTWVd2X25tQVZHekpQWVF6S1RXdnB5Sjg0UTg4LW81bXZ2NEE4cmpkT1l5Ym5QY2g2cVM2bFVhb0Q5WVR3YjdnN29KbWs4RERpcmJMcktoRU9SUHZSNElhV0lzMXRXdzFrYjJMRTJGcnBPUTBVUnlKS1lRdlFaaUNUMUNhSjNCZ1o1SWVzMm84d3hORWpmbmFXTWJodUx1b000aXlCUEJsOEt3U0JPSVgxaHMweDBaTmlr?oc=5",
-      "published": "2026-11-22T17:33:00+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17 Agência Brasil",
-      "summary": "Futebol feminino: São Paulo é campeão do Paulistão F Petrobras Sub-17 Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "intelectuais-no-reino-unido-est-o-levando-a-ci-ncia-do--bf62c2a5528f48",
-      "category": "Tecnologia",
-      "title": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. - Vietnam.vn",
-      "snippet": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. Vietnam.vn",
-      "source": "Vietnam.vn",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1FfZTRBU3RfaEhaT1BKWVlfQ3lob3M1V2k0SVlEV2xMRXlPY1VYcjAyS3k2eURmQV9jTVZCOUdJakxaME55T1FoQkZZLUV4VHBZcmpoY09USFlNa0dOOXVlZWpZZWJZS2FEaW9BYVdiLWp6aFk3M1BmWXIzWUNvTldsLTMtVDg0ZHpoMzh6S0J0dFk?oc=5",
-      "published": "2026-11-22T17:14:30+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. Vietnam.vn",
-      "summary": "Intelectuais no Reino Unido estão levando a ciência do laboratório para o mercado. Vietnam.vn",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "falta-de-ambi-o-delega-o-brasileira-critica-resultado-f-9bd50f76b5f41f",
-      "category": "Brasil",
-      "title": "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades - G1",
-      "snippet": "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb044SDVJdXl4Wlc0dTJYQUVBemdGYUlEMzFfZ2NvbmlNNGRlbFhuOW44djN6VzZEMFVLSHlTcEluclY1dmRnTy1RZkVUSW4wVHVqaHl6aFVfY2VDYldmbEpsSy1aVWMtZWpTbVRhUHEtZF9ZcEcxNmR0ZGN5Y1MzR0RYVUc3LXFEVWJiQmJaZ2lhTGvSAaIBQVVfeXFMTV9GUHl1eHZQVkhVbHRTWEFsRnBNTFduaWFFM1ZSZWVxRXZBY2NpNDlmMUcxVzdHR1l1OXg3TlJmOUtmaUtWTm9fclNwVkZhZFFNZTNYV3JhSlc1MUtJYkdhRFl1RUFHeEs0OElEWTNqbVVjQ2VRaUtfU2tKQmpEejVBT2xhUXBCa2dUak4wejRUS2RNTURLSjNvaTJwS0lqbEp3?oc=5",
-      "published": "2026-11-22T16:36:54+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades G1",
-      "summary": "Falta de 'ambição': Delegação brasileira critica resultado final da COP31; veja falas das autoridades G1",
       "summary_by": "descrição da fonte"
     }
   ],
