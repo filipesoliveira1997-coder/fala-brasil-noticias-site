@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T00:23:37.961586+00:00",
+  "updated_at": "2026-11-26T10:57:15.219580+00:00",
   "timezone": "UTC",
   "categories": [
     "Brasil",
@@ -12,6 +12,34 @@
     "Saúde e bem-estar"
   ],
   "articles": [
+    {
+      "id": "an-lise-eua-apertam-o-cerco-tarif-rio-ao-brasil-mas-a-p-912ac402075711",
+      "category": "Brasil",
+      "title": "Análise: EUA apertam o cerco tarifário ao Brasil, mas a pressão tende a não funcionar - Folha de S.Paulo",
+      "snippet": "Análise: EUA apertam o cerco tarifário ao Brasil, mas a pressão tende a não funcionar Folha de S.Paulo",
+      "source": "Folha de S.Paulo",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTldKQWFQR2RvNW14NGNDZmN2WUFrWkRHRE82Y0ZYMXRHZWRVendMUzJqQWRSU1UtZUdvRHl0eWw4VnVWWHhvUWZQdE5lakNwaDJWbWdNcXREVDlUNWNaZmg1WXU1RndDQ0hoeEE0N0JkNGhNMERFYVhOVkNZVVZra0hZMEJDd0lYbFdQQlFna3JHQVhFN2ZuZ1VCdXpyZnMzQ29XeDR0T2NzTktkdjctNGVvVlR3elMzcUpiZTBZeGw3UUJUZ1E?oc=5",
+      "published": "2026-11-26T02:00:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Análise: EUA apertam o cerco tarifário ao Brasil, mas a pressão tende a não funcionar Folha de S.Paulo",
+      "summary": "Análise: EUA apertam o cerco tarifário ao Brasil, mas a pressão tende a não funcionar Folha de S.Paulo",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "brasileir-o-atl-tico-mg-empata-no-fim-e-mant-m-corinthi-7e9e5ccc35fcf2",
+      "category": "Brasil",
+      "title": "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado - Agência Brasil",
+      "snippet": "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY2Ezdl81VzY0QzVJMU5pRzRBMjQwelhFZ3phcFJlNjJ6b3hDMUlLQURKUkFxUFY2RlE5NUE2LTdWSlhjYjJDbGtDLWh4eUdiMjJKS0dIcHZjSEhDUDh5WnF5ZGpNdlhFQ25kaklXZ0hZTldoWDRRV1dWWVptRFJ3MFlGQ0JPM01VdE5DTjZrS0pzcGJKN090YXFpSnQ0c2xBVnpHb2Y3akJlYVpJOEhoR09KVnhFWjBEeUViZWJXZF9nZDg?oc=5",
+      "published": "2026-11-26T01:38:00+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado Agência Brasil",
+      "summary": "Brasileirão: Atlético-MG empata no fim e mantém Corinthians ameaçado Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
     {
       "id": "amcham-participar-de-consulta-dos-eua-sobre-tarifas-ao--a18bcc5f3631ce",
       "category": "Brasil",
@@ -38,6 +66,34 @@
       "tone": "",
       "dek": "Brasil critica possível novo tarifaço dos EUA e diz que não cederá Agência Brasil",
       "summary": "Brasil critica possível novo tarifaço dos EUA e diz que não cederá Agência Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "por-que-o-brasil-vive-surto-de-mpox-o-que-se-sabe-e-o-q-f9ca9ac704ee08",
+      "category": "Brasil",
+      "title": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença - BBC",
+      "snippet": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença BBC",
+      "source": "BBC",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9jWmFHWWhvdWJoYndnenE5NUlrZ0EyTlMxN1pLbUc4RnFyMXg5azZLaTNKdDduM2tCc2s5OUhVb0Z0Tm5LSmdCaUlDX1l4WVlncWpmZE5LQU1rUlJuZ0FOLThWRdIBaEFVX3lxTE80NW1ubm1aTWc2NFNDU0xMOG94SGNISGczYkhrTGRSc0UyanozdkFpRzdlQ1NERG12MWdkT3NQd3Nma2E0MUZ3WHpBZm1mSGZfTVJ4eDdGX3NjT1RtbkVMekNUNjRZUkZp?oc=5",
+      "published": "2026-11-25T21:13:08+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença BBC",
+      "summary": "Por que o Brasil vive surto de mpox? O que se sabe — e o que não se sabe — sobre os novos casos da doença BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "governo-lan-a-campanha-copa-mais-brasileira-do-mundo-ag-9c6275482ff645",
+      "category": "Esportes",
+      "title": "Governo lança campanha Copa Mais Brasileira do Mundo - Agência Brasil",
+      "snippet": "Governo lança campanha Copa Mais Brasileira do Mundo Agência Brasil",
+      "source": "Agência Brasil",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTU1RRTNVMzhVcFlCNzdIYzZyeG9mRUJJYTVObEFRSzJjemQ2djhLRTZ1YkNFcEswcmtScmhNZlNBNjkxdmZXalhHS2Y2VFh1Qmw3U05RLUpDeXh3REpSM0ZsZF9Xei05VVFIaEd4RFpzWmRmY2hwRnpzNVI2S29IU3kyRVNSNnRuLUcza0Jic2QxVXhXZk1lOEhBQWxHLUJYUWZPakEtYTdReDBlUTNB?oc=5",
+      "published": "2026-11-25T19:38:00+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Governo lança campanha Copa Mais Brasileira do Mundo Agência Brasil",
+      "summary": "Governo lança campanha Copa Mais Brasileira do Mundo Agência Brasil",
       "summary_by": "descrição da fonte"
     },
     {
@@ -69,6 +125,20 @@
       "summary_by": "descrição da fonte"
     },
     {
+      "id": "palmeiras-piquerez-e-murilo-avan-am-e-devem-jogar-final-40611e147d4e92",
+      "category": "Esportes",
+      "title": "Palmeiras: Piquerez e Murilo avançam e devem jogar final da Liberta - CNN Brasil",
+      "snippet": "Palmeiras: Piquerez e Murilo avançam e devem jogar final da Liberta CNN Brasil",
+      "source": "CNN Brasil",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlVhdmU4VEpPLWRTZG9CTi1ObnhhUVdMMmxndFFicFdqWVhWYjBsZ2FtZ1Y0VFhkYi02ckFOVDZwc05KV21JdnhJODdoaGg1RkpCbzdSbmEzUEQ3aEdoekJJWDBSdkdrdkliNm5XcjRuaVFEYjc2Y1lZaHNWY191eGNoOUw0NVlwUW5raXVOTzQxY2RILWJXTURicVdUS1A0SjRxYUo1ZEk1Qm9WMFlXX1c0UTVfazg3eDZTdHprdHI?oc=5",
+      "published": "2026-11-25T17:37:11+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Palmeiras: Piquerez e Murilo avançam e devem jogar final da Liberta CNN Brasil",
+      "summary": "Palmeiras: Piquerez e Murilo avançam e devem jogar final da Liberta CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
       "id": "flamengo-bap-abre-o-jogo-sobre-futuro-de-leonardo-jardi-6420f69836d917",
       "category": "Esportes",
       "title": "Flamengo: Bap abre o jogo sobre futuro de Leonardo Jardim - CNN Brasil",
@@ -80,6 +150,20 @@
       "tone": "teal",
       "dek": "Flamengo: Bap abre o jogo sobre futuro de Leonardo Jardim CNN Brasil",
       "summary": "Flamengo: Bap abre o jogo sobre futuro de Leonardo Jardim CNN Brasil",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "ancelotti-precisa-de-tempo-diz-guardiola-em-visita-ao-b-dc9b57adb5ad27",
+      "category": "Esportes",
+      "title": "Ancelotti precisa de ‘tempo’, diz Guardiola em visita ao Brasil - Jovem Pan",
+      "snippet": "Ancelotti precisa de ‘tempo’, diz Guardiola em visita ao Brasil Jovem Pan",
+      "source": "Jovem Pan",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeVZYcTBPbXRMNmQzMUFONDZMNzBpeFNac1phb1lfeDF6R0tCVXlPT05Jd2loX2h2UzZHSXdUc2MxR1FUcDJObldHaXluM1o3WWFrbmttU2JtT2h4aEpFczdvMGtKa1M3bnltYkc2bWRNY3dqTEZiQmdwTWQxMkN4RVhMbzdJODBUcjRuWFJJZ2VFNjZjemc2aldVbDl3bXZfS20xLXBIanRaVUJZMUZlcS1mTjR3MVpRRktuejZrSkpfQQ?oc=5",
+      "published": "2026-11-25T17:18:56+00:00",
+      "image": "",
+      "tone": "teal",
+      "dek": "Ancelotti precisa de ‘tempo’, diz Guardiola em visita ao Brasil Jovem Pan",
+      "summary": "Ancelotti precisa de ‘tempo’, diz Guardiola em visita ao Brasil Jovem Pan",
       "summary_by": "descrição da fonte"
     },
     {
@@ -108,6 +192,20 @@
       "tone": "red",
       "dek": "Polícia Federal combate garimpo ilegal e crimes transfronteiriços no Amapá Agência Gov",
       "summary": "Polícia Federal combate garimpo ilegal e crimes transfronteiriços no Amapá Agência Gov",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "tarifa-o-de-trump-eua-prop-em-taxa-de-10-sobre-avi-es-b-8b0f3fb90ac316",
+      "category": "Brasil",
+      "title": "Tarifaço de Trump: EUA propõem taxa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar - G1",
+      "snippet": "Tarifaço de Trump: EUA propõem taxa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar G1",
+      "source": "G1",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNekRyY283NURvT09uU0F6MjVUa0tIMHdpVXBvcEhCc1FFaTZkODZnMl81Z1lCV3l5djRxZHhDVHJMV1Q0NUFaSU1WVFN4eHhLZWlGQkFwQXpQV29kMk0tejV5WFRxaDZUa0tjdnV4TTBMXy1wY05NSFZNU1Y1eFlRcGN1NkhPMW9YNDZ5RmRBSlhzWlVZVFhITnlVVnB2RWtib1JsZ3NxOXdjblBvSnpyNWN4c9IBwgFBVV95cUxNcElmc3U4Nm9wZ0ZYbTBYT1FVVnRRdzFfSVBzSXA2YjRQUGRDUGRhVU5Vd2N4OWNMQ21PRkliRUNLNkdpMzRBY3dmQzFYM2Q3YW16Z2FhN0pnMWdkSmJKbmtzVnZjRnpBMzZTeDRtZlZhX0tMMGJEOEQycElaaU9KejRqbmpKQlZmaERiQVdFY1BBc0pEODlWX3huTlpEX2lZYWpmUjRJTy1jcThIQUhxRDZsY0xLcDQ1QWVmTDM4a2FWQQ?oc=5",
+      "published": "2026-11-25T13:16:30+00:00",
+      "image": "",
+      "tone": "",
+      "dek": "Tarifaço de Trump: EUA propõem taxa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar G1",
+      "summary": "Tarifaço de Trump: EUA propõem taxa de 10% sobre aviões brasileiros e aumento de imposto sobre açúcar G1",
       "summary_by": "descrição da fonte"
     },
     {
@@ -192,6 +290,20 @@
       "tone": "",
       "dek": "Como foram os últimos anos de Belchior no Rio Grande do Sul: 'O Brasil inteiro procurando Belchior e ele na sala da minha casa' BBC",
       "summary": "Como foram os últimos anos de Belchior no Rio Grande do Sul: 'O Brasil inteiro procurando Belchior e ele na sala da minha casa' BBC",
+      "summary_by": "descrição da fonte"
+    },
+    {
+      "id": "hung-yen-organiza-um-festival-de-ci-ncia-tecnologia-e-i-597bb70186cc44",
+      "category": "Tecnologia",
+      "title": "Hung Yen organiza um festival de ciência, tecnologia e inovação, que deverá receber 30.000 visitantes. - Vietnam.vn",
+      "snippet": "Hung Yen organiza um festival de ciência, tecnologia e inovação, que deverá receber 30.000 visitantes. Vietnam.vn",
+      "source": "Vietnam.vn",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNUjB6akNUT01yMnRwZzVrWFZZdnBya0VjRm5VUDNIVnZXeS1QWlMtZVhsNWhOZktoWWVnY3hCUE1WSl9TVHpMdFpNeVVsWDJESlozX080aVhieV9JRTREMU9Sd1NBWW9sSlFSTUp1ZE5zOTFVcVI4Z21CTElST2lsbTg5WFhxeFFTSHBfMXFZOTlCbzhjVkN2ZFFDMGVlekRPZWU4ekszUVllc2hIZ05aaWo3SWlQTVowaF9lUA?oc=5",
+      "published": "2026-11-25T05:54:41+00:00",
+      "image": "",
+      "tone": "purple",
+      "dek": "Hung Yen organiza um festival de ciência, tecnologia e inovação, que deverá receber 30.000 visitantes. Vietnam.vn",
+      "summary": "Hung Yen organiza um festival de ciência, tecnologia e inovação, que deverá receber 30.000 visitantes. Vietnam.vn",
       "summary_by": "descrição da fonte"
     },
     {
@@ -738,118 +850,6 @@
       "tone": "",
       "dek": "Moraes determina citação de Flávio sobre calúnia contra Lula Agência Brasil",
       "summary": "Moraes determina citação de Flávio sobre calúnia contra Lula Agência Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "hip-tese-de-reimann-o-mais-famoso-problema-da-matem-tic-fb2ca99f984787",
-      "category": "Brasil",
-      "title": "Hipótese de Reimann: O mais famoso problema da Matemática que funcionário da Anthropic diz ter solucionado com ajuda da IA - BBC",
-      "snippet": "Hipótese de Reimann: O mais famoso problema da Matemática que funcionário da Anthropic diz ter solucionado com ajuda da IA BBC",
-      "source": "BBC",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE51N1Y4aFZLVi1RTTlsaU5vMU1ReF9maVd1YzUydTVTUF9DUFhJRDVILXlsbnFaMGFWemh2SDZvYzljX2tpN2NnenVIa25GOGhDejNLZ3FxM3ZuXzhGR0FiYUNCSdIBaEFVX3lxTE1UWXNmd3NHd0JZZzA3MmthVDJkeXdIeG01QVQwR3FOR3FiRFZaTnJWTkd3X1ZxYmlUZDlXb0FLRDlIUkU1bUE0ZGh6M3hrbXNnSk1WZW5WWmR0VWx4TGEwN2xMMHphZzlK?oc=5",
-      "published": "2026-11-23T18:06:05+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Hipótese de Reimann: O mais famoso problema da Matemática que funcionário da Anthropic diz ter solucionado com ajuda da IA BBC",
-      "summary": "Hipótese de Reimann: O mais famoso problema da Matemática que funcionário da Anthropic diz ter solucionado com ajuda da IA BBC",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "futuro-da-sa-de-reconhecido-em-duas-categorias-no-pr-mi-b4d255808a7cae",
-      "category": "Saúde e bem-estar",
-      "title": "Futuro da Saúde é reconhecido em duas categorias no Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-estar - Futuro da Saúde",
-      "snippet": "Futuro da Saúde é reconhecido em duas categorias no Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-estar Futuro da Saúde",
-      "source": "Futuro da Saúde",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5taUU2aUFHYU9JMnlxaXl2aENvV0lCWVEtU2FXdHk3OUxoY2lFcEwxNlVrTWktSDZudFpVX25OOTF2TlNQRkZvRjM5SDF5NFk1TTN4NElSRHpKUkNON0xYY29GMWo4LXVXdVBWdTNvcWFJeG9U?oc=5",
-      "published": "2026-11-23T17:26:31+00:00",
-      "image": "",
-      "tone": "red",
-      "dek": "Futuro da Saúde é reconhecido em duas categorias no Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-estar Futuro da Saúde",
-      "summary": "Futuro da Saúde é reconhecido em duas categorias no Prêmio Einstein +Admirados da Imprensa de Saúde, Ciência e Bem-estar Futuro da Saúde",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "terra-o-do-ltimo-show-dos-beatles-londres-pode-ter-m-si-9d93812e0f772a",
-      "category": "Entretenimento",
-      "title": "Terraço do último show dos Beatles Londres pode ter música ao vivo proibida - Rolling Stone Brasil",
-      "snippet": "Terraço do último show dos Beatles Londres pode ter música ao vivo proibida Rolling Stone Brasil",
-      "source": "Rolling Stone Brasil",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWG8wWTB0LWV2Tko1SUY0N243MlVDS25WSW03M2dzSm9rd3pyeHp3MGJPbHZEQmdFTTg2ZGs0SVV1YVp1UzBXN2c4M3JyM2hsS0wyalVmaFc5UEt5cG5rVVp6clZZVEZDVlFvZTFEOUxSU0JiWndYUmNHSTRhSlhtNUxYLTJSeG5lcDBGdEt4R0Q0SzRCeGh2X0JPTnFac3ZsTHc1SnNxRlI4T3QySnY5cEV3?oc=5",
-      "published": "2026-11-23T17:22:59+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Terraço do último show dos Beatles Londres pode ter música ao vivo proibida Rolling Stone Brasil",
-      "summary": "Terraço do último show dos Beatles Londres pode ter música ao vivo proibida Rolling Stone Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "final-da-copa-do-brasil-entre-gr-mio-e-palmeiras-tem-ho-1254ce6f29134f",
-      "category": "Esportes",
-      "title": "Final da Copa do Brasil entre Grêmio e Palmeiras tem horário confirmado - CNN Brasil",
-      "snippet": "Final da Copa do Brasil entre Grêmio e Palmeiras tem horário confirmado CNN Brasil",
-      "source": "CNN Brasil",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPR1AzcTRFOHF1S0hXaEJ4NWEzZGlYdDRDLWpCa2dQQXdCanlaNE1WR1Npb0piMGJzMVZ0Z0pTejMzNGt4SzEyVlRBVkhqSXNlSDVWUVVIV1lidG41ZFY3OU1jSnhOSE8tY0dWaC0ybDdRbGVSaWZZRl9BcWU2bzV4UFVGSTFXdHBtQTZfUjBWb2JlS25WSjV6UkEzTHNmb25SUVZxeHAyNmZHSVkxaFdISFg1MDZ1ZXFvLWNKblVrLXFLQ2VUbUdRODM4QlY0UQ?oc=5",
-      "published": "2026-11-23T17:19:40+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Final da Copa do Brasil entre Grêmio e Palmeiras tem horário confirmado CNN Brasil",
-      "summary": "Final da Copa do Brasil entre Grêmio e Palmeiras tem horário confirmado CNN Brasil",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "copa-do-brasil-valores-e-como-comprar-ingressos-para-gr-7ebf33bb6404ac",
-      "category": "Esportes",
-      "title": "Copa do Brasil: valores e como comprar ingressos para Grêmio x Palmeiras - Band",
-      "snippet": "Copa do Brasil: valores e como comprar ingressos para Grêmio x Palmeiras Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUHFXc29GZEdldy1RbklIbU9yMTA2bG5JMEY0V3pudXl2eEI5eTVZamVibmt5TDJCcXdFZHYxTkdBc2VmS0Fua1hSMzdGT04yUGtwRHdMTWlSbmV0UlJkcE13c3hDZGNRQm5zZ195MHdkS0o2MUlDTklqclNiYzhBSzVGSm1JYWV0QXFpcnBldkthdnNCTmZFM3FKeFFoWUhJT3VGX2lKYnhsVU10eC1oOWdvaVpOOGFmcmh2SkFHN2o3V0JSQ2c?oc=5",
-      "published": "2026-11-23T16:53:08+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Copa do Brasil: valores e como comprar ingressos para Grêmio x Palmeiras Band",
-      "summary": "Copa do Brasil: valores e como comprar ingressos para Grêmio x Palmeiras Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "viagem-pelo-espa-o-sat-lites-e-preven-o-de-desastres-es-52ad18d3806971",
-      "category": "Tecnologia",
-      "title": "Viagem pelo espaço, satélites e prevenção de desastres estão entre as atrações da SNCT 2026 - Governo Federal",
-      "snippet": "Viagem pelo espaço, satélites e prevenção de desastres estão entre as atrações da SNCT 2026 Governo Federal",
-      "source": "Governo Federal",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxON1VCN3dHeTVNaEFCWThWcVBjV0NKeU81RkdCUW5lWDZjNDRrbmhJRHNoaW9NTkRTaVVYSVd2QjZQb3lnYjczNnd5WVVyaDFtcnZaRlpKWFAtMHNYZ1hBOHAxNHZzR2hheHhjRlVEVlZpTlowRkxhUVV4dXQ4MUNKNFdIMWlLRGQ0MTM1WXVNZlJJbWpmVEhERnFaYlYzNmxlX0JMVEE1dUtEZVkyMndLTnl0cGhCRWZDa25rWG5qMGRaZUFSeFl0Z1p1MFYwZ1FMM0U3SnNMakxrWFYxXy1RY1FkM1UtbjlGSlE?oc=5",
-      "published": "2026-11-23T16:42:05+00:00",
-      "image": "",
-      "tone": "purple",
-      "dek": "Viagem pelo espaço, satélites e prevenção de desastres estão entre as atrações da SNCT 2026 GOV.BR",
-      "summary": "Viagem pelo espaço, satélites e prevenção de desastres estão entre as atrações da SNCT 2026 GOV.BR",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "gr-mio-x-palmeiras-cbf-define-data-e-hor-rio-da-final-d-550280934035fd",
-      "category": "Esportes",
-      "title": "Grêmio x Palmeiras: CBF define data e horário da final da Copa do Brasil - Band",
-      "snippet": "Grêmio x Palmeiras: CBF define data e horário da final da Copa do Brasil Band",
-      "source": "Band",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlQ3RXZPWnpmNHpXN1dEZWVFTkZSRzlRYkR1M2hELUkzMmVpazQ2bEpsNk1GZlFzcWVxRUhxRld6bmdSRTYxazQ5ajJyX2VkZzRWSE5hYS1iVjg1SGxINXJhNU5GeTJFWFhGZFlLYi1XY0JoQmNBU0FhUjFSZ2pBeWZqWUpoWUtxbHQ2QXVMLUUyYmxwZTg2eEpBMFlSZTlSTG42WmxlSHRRbEpZQ19LSmhyckNuRFJCVTFseVF0SUMzM3IyTWc?oc=5",
-      "published": "2026-11-23T16:32:38+00:00",
-      "image": "",
-      "tone": "teal",
-      "dek": "Grêmio x Palmeiras: CBF define data e horário da final da Copa do Brasil Band",
-      "summary": "Grêmio x Palmeiras: CBF define data e horário da final da Copa do Brasil Band",
-      "summary_by": "descrição da fonte"
-    },
-    {
-      "id": "metr-do-rio-passageiros-relatam-explos-o-e-fuma-a-na-ce-2b4b478e7be800",
-      "category": "Brasil",
-      "title": "Metrô do Rio: passageiros relatam explosão e fumaça na Central - G1",
-      "snippet": "Metrô do Rio: passageiros relatam explosão e fumaça na Central G1",
-      "source": "G1",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPeFh0aS1sdDd5aXVzczBON09ISzFQLWRmNXNpN2pVandzQjRlZUlGMVJPUnEweTMyWWg2Um1uNWVTaUo3NmVmN3NmWkxoTmxtNm9LcTFyRkpBdmluc2xPYWtDd2JiV1hCSUJSZ085WUxVbVpPcXVRcy1YbWVpcGs2ejlFd0o5Mk9JNWFZUEJaOVN4Zw?oc=5",
-      "published": "2026-11-23T14:48:49+00:00",
-      "image": "",
-      "tone": "",
-      "dek": "Metrô do Rio: passageiros relatam explosão e fumaça na Central G1",
-      "summary": "Metrô do Rio: passageiros relatam explosão e fumaça na Central G1",
       "summary_by": "descrição da fonte"
     }
   ],
